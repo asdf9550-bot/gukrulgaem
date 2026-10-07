@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Noto_Sans_KR } from "next/font/google";
 import Link from "next/link";
-import SubscribeBox from "@/components/SubscribeBox";
+// import SubscribeBox from "@/components/SubscribeBox";   // 주간 메일 보류 중
 import "./globals.css";
 import { lastUpdated } from "@/lib/data";
 import { kst } from "@/lib/format";
@@ -45,7 +45,8 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
         <main className="mx-auto max-w-5xl px-4 py-6">{children}</main>
         {modal}
         <footer className="mx-auto max-w-5xl px-4 py-8 text-xs muted space-y-2 border-t" style={{ borderColor: "var(--line)" }}>
-          <div className="mb-4"><SubscribeBox /></div>
+          {/* 주간 메일 구독은 보류(2026-10-08 사용자). 켜려면 아래 줄 주석을 풀고 RESEND 키를 넣을 것 */}
+          {/* <div className="mb-4"><SubscribeBox /></div> */}
           <p><b style={{ color: "var(--fg)" }}>국룰겜</b> · 한국 게이머를 위한 스팀 구매 가이드 · 마지막 갱신 {kst(updated, true)}</p>
           <p>
             <b>데이터 출처</b> — Steam 상점·리뷰·Web API(현재가·정가·장르·한국어 지원·리뷰·리뷰 인용·플레이 시간·접속자·판별 가격·스팀덱 호환) ·
