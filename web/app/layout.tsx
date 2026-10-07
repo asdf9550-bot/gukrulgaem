@@ -47,7 +47,7 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
           </p>
           <p>
             이 사이트는 Valve(Steam), IsThereAnyDeal, 에이치투인터렉티브(다이렉트 게임즈), Epic Games, Ubisoft, Electronic Arts, Microsoft, Blizzard와 아무 관련이 없는 개인 운영 사이트입니다.
-            각 게임·판매처·플랫폼의 이름과 그림은 해당 권리자의 것입니다. 문의: asdf9550@gmail.com
+            각 게임·판매처·플랫폼의 이름과 그림은 해당 권리자의 것입니다. 문의: asdfpil0001@gmail.com
           </p>
         </footer>
       </body>
