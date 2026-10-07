@@ -1,0 +1,274 @@
+{
+  "_설명": "판매처 목록. itad_shop = IsThereAnyDeal 판매처 번호(국가 KR). 키 리셀러(G2A·에네바·CDKeys 등)는 넣지 않는다. enabled=false 면 수집·표시 안 함.",
+  "_수수료": "krw_payment=false 인 곳은 외화 결제로 보고 rules.json 의 foreign_card_fee_pct 를 더해 '약 ○○원'으로 표시한다.",
+  "stores": [
+    {
+      "id": "steam",
+      "itad_shop": 61,
+      "name": "스팀",
+      "url": "https://store.steampowered.com",
+      "currency": "KRW",
+      "krw_payment": true,
+      "region_lock_default": "kr",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": true,
+        "note": "구매 14일·플레이 2시간 이내 환불 가능"
+      },
+      "official": true,
+      "enabled": true
+    },
+    {
+      "id": "epic",
+      "itad_shop": 16,
+      "name": "에픽게임즈 스토어",
+      "url": "https://store.epicgames.com/ko",
+      "currency": "KRW",
+      "krw_payment": true,
+      "region_lock_default": "kr",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": true,
+        "note": "구매 14일·플레이 2시간 이내"
+      },
+      "official": true,
+      "enabled": true
+    },
+    {
+      "id": "gog",
+      "itad_shop": 35,
+      "name": "GOG",
+      "url": "https://www.gog.com",
+      "currency": "USD",
+      "krw_payment": false,
+      "region_lock_default": "global",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": true,
+        "note": "구매 30일 이내(플레이 여부 무관)"
+      },
+      "official": true,
+      "enabled": false,
+      "_disabled_reason": "외화 결제 — 사용자 요청 2026-10-07: 원화 결제만"
+    },
+    {
+      "id": "humble",
+      "itad_shop": 37,
+      "name": "험블번들",
+      "url": "https://www.humblebundle.com/store",
+      "currency": "USD",
+      "krw_payment": false,
+      "region_lock_default": "unknown",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": false,
+        "note": "키 공개 전에만 환불 가능"
+      },
+      "official": true,
+      "enabled": false,
+      "_disabled_reason": "외화 결제 — 사용자 요청 2026-10-07: 원화 결제만"
+    },
+    {
+      "id": "fanatical",
+      "itad_shop": 6,
+      "name": "파나티컬",
+      "url": "https://www.fanatical.com",
+      "currency": "USD",
+      "krw_payment": false,
+      "region_lock_default": "unknown",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": false,
+        "note": "키 공개 전에만 환불 가능"
+      },
+      "official": true,
+      "enabled": false,
+      "_disabled_reason": "외화 결제 — 사용자 요청 2026-10-07: 원화 결제만"
+    },
+    {
+      "id": "gmg",
+      "itad_shop": 36,
+      "name": "그린맨게이밍",
+      "url": "https://www.greenmangaming.com",
+      "currency": "USD",
+      "krw_payment": false,
+      "region_lock_default": "unknown",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": false,
+        "note": "키 공개 전에만 환불 가능"
+      },
+      "official": true,
+      "enabled": false,
+      "_disabled_reason": "외화 결제 — 사용자 요청 2026-10-07: 원화 결제만"
+    },
+    {
+      "id": "ubisoft",
+      "itad_shop": 62,
+      "name": "유비소프트 스토어",
+      "url": "https://store.ubisoft.com",
+      "currency": "KRW",
+      "krw_payment": true,
+      "region_lock_default": "kr",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": true,
+        "note": "구매 14일·미실행 시"
+      },
+      "official": true,
+      "enabled": true
+    },
+    {
+      "id": "ea",
+      "itad_shop": 52,
+      "name": "EA 앱",
+      "url": "https://www.ea.com/ko-kr",
+      "currency": "KRW",
+      "krw_payment": true,
+      "region_lock_default": "kr",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": true,
+        "note": "구매 14일·플레이 24시간 이내"
+      },
+      "official": true,
+      "enabled": true
+    },
+    {
+      "id": "microsoft",
+      "itad_shop": 48,
+      "name": "마이크로소프트 스토어",
+      "url": "https://www.xbox.com/ko-KR",
+      "currency": "KRW",
+      "krw_payment": true,
+      "region_lock_default": "kr",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": true,
+        "note": "구매 14일 이내 심사"
+      },
+      "official": true,
+      "enabled": true
+    },
+    {
+      "id": "blizzard",
+      "itad_shop": 4,
+      "name": "배틀넷",
+      "url": "https://shop.battle.net/ko-kr",
+      "currency": "KRW",
+      "krw_payment": true,
+      "region_lock_default": "kr",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": true,
+        "note": "조건부 심사"
+      },
+      "official": true,
+      "enabled": true
+    },
+    {
+      "id": "gamesplanet",
+      "itad_shop": 26,
+      "name": "게임즈플래닛(UK)",
+      "url": "https://uk.gamesplanet.com",
+      "currency": "GBP",
+      "krw_payment": false,
+      "region_lock_default": "unknown",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": false,
+        "note": "키 공개 전에만"
+      },
+      "official": true,
+      "enabled": false,
+      "_disabled_reason": "영국·유럽 전용(한국 결제 불가) — 사용자 요청 2026-10-07: 한국에서 살 수 있는 곳만"
+    },
+    {
+      "id": "gamebillet",
+      "itad_shop": 20,
+      "name": "게임빌렛",
+      "url": "https://www.gamebillet.com",
+      "currency": "USD",
+      "krw_payment": false,
+      "region_lock_default": "unknown",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": false,
+        "note": "키 공개 전에만"
+      },
+      "official": true,
+      "enabled": false,
+      "_disabled_reason": "지역 제한 키 많음 — 사용자 요청 2026-10-07: 한국에서 살 수 있는 곳만"
+    },
+    {
+      "id": "gamersgate",
+      "itad_shop": 24,
+      "name": "게이머즈게이트",
+      "url": "https://www.gamersgate.com",
+      "currency": "USD",
+      "krw_payment": false,
+      "region_lock_default": "unknown",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": false,
+        "note": "키 공개 전에만"
+      },
+      "official": true,
+      "enabled": false,
+      "_disabled_reason": "지역 제한 키 많음 — 사용자 요청 2026-10-07: 한국에서 살 수 있는 곳만"
+    },
+    {
+      "id": "wingamestore",
+      "itad_shop": 64,
+      "name": "WinGameStore",
+      "url": "https://www.wingamestore.com",
+      "currency": "USD",
+      "krw_payment": false,
+      "region_lock_default": "unknown",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": false,
+        "note": "키 공개 전에만"
+      },
+      "official": true,
+      "enabled": false,
+      "_disabled_reason": "지역 제한 키 많음 — 사용자 요청 2026-10-07: 한국에서 살 수 있는 곳만"
+    },
+    {
+      "id": "indiegala",
+      "itad_shop": 42,
+      "name": "인디갈라 스토어",
+      "url": "https://www.indiegala.com/store",
+      "currency": "USD",
+      "krw_payment": false,
+      "region_lock_default": "unknown",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": false,
+        "note": "키 공개 전에만"
+      },
+      "official": true,
+      "enabled": false,
+      "_disabled_reason": "지역 제한 키 많음 — 사용자 요청 2026-10-07: 한국에서 살 수 있는 곳만"
+    },
+    {
+      "id": "directg",
+      "itad_shop": null,
+      "name": "다이렉트 게임즈",
+      "url": "https://directg.net",
+      "currency": "KRW",
+      "krw_payment": true,
+      "region_lock_default": "kr",
+      "korean_account_ok": true,
+      "refund": {
+        "possible": false,
+        "note": "키 수령 전 7일 이내만"
+      },
+      "official": true,
+      "source": "directg",
+      "enabled": true,
+      "_note": "B안: 사이트맵만, 하루 1회, 3초 간격, 이미지·설명 저장 안 함 (2026-10-07)"
+    }
+  ],
+  "_한국": "원화 결제 가능한 공식 판매처만 enabled=true (사용자 결정 2026-10-07). 외화 판매처를 다시 켜려면 enabled 를 true 로."
+}

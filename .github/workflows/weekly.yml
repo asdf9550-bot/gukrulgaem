@@ -1,0 +1,48 @@
+# 매주 화요일 03:00(한국 시간) 자동 수집 → data 폴더 갱신 → 저장소에 커밋.
+# 커밋이 올라가면 Vercel이 사이트를 다시 빌드한다.
+# 손으로 돌리려면 GitHub 저장소 → Actions → "주간 수집" → Run workflow.
+name: 주간 수집
+
+on:
+  schedule:
+    - cron: "0 18 * * 1"        # UTC 월요일 18:00 = 한국 화요일 03:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 테스트
+        run: python -m unittest discover -s collector/tests -t .
+
+      - name: 수집
+        env:
+          ITAD_API_KEY: ${{ secrets.ITAD_API_KEY }}
+          PYTHONIOENCODING: utf-8
+        run: python -u -m collector.run_weekly
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "weekly-bot"
+          git config user.email "weekly-bot@users.noreply.github.com"
+          git add data/*.json
+          if git diff --cached --quiet; then
+            echo "바뀐 데이터 없음"
+          else
+            git commit -m "data: 주간 수집 $(date -u +'%Y-%m-%d')"
+            git push
+          fi

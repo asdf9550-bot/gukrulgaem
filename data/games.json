@@ -1,0 +1,6271 @@
+[
+ {
+  "appid": 1091500,
+  "name": "Cyberpunk 2077",
+  "genres": [
+   "RPG"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/26b96fa9c8af43189cbecbbc329ade29d9c9cf3e/header_koreana.jpg?t=1784714077",
+  "release_date": "2020년 12월 9일",
+  "steam_url": "https://store.steampowered.com/app/1091500/",
+  "reviews_all": 984730,
+  "positive_all": 856208,
+  "reviews_ko": 25609,
+  "positive_ko": 20040,
+  "gap_pp": -8.7,
+  "updated_at": "2026-10-06T12:52:03+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/capsule_616x353.jpg",
+  "playtime_median_h_all": 24.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 59.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 34874,
+  "players_at": "2026-10-07T10:02:58+00:00",
+  "steam_rank": 2,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Cyberpunk 2077",
+    "price": 19800,
+    "regular": 66000,
+    "cut": 70,
+    "packageid": 367653
+   }
+  ]
+ },
+ {
+  "appid": 108600,
+  "name": "Project Zomboid",
+  "genres": [
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "앞서 해보기"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
+  "release_date": "2013년 11월 8일",
+  "steam_url": "https://store.steampowered.com/app/108600/",
+  "reviews_all": 486523,
+  "positive_all": 456109,
+  "reviews_ko": 12465,
+  "positive_ko": 10983,
+  "gap_pp": -5.6,
+  "updated_at": "2026-10-06T12:52:11+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/capsule_616x353.jpg",
+  "playtime_median_h_all": 53.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 54.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 6,
+  "current_players": 37168,
+  "players_at": "2026-10-07T10:03:01+00:00",
+  "steam_rank": 3,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Project Zomboid",
+    "price": 17750,
+    "regular": 26500,
+    "cut": 33,
+    "packageid": 34371
+   },
+   {
+    "name": "Project Zomboid 4-Pack",
+    "price": 51250,
+    "regular": 76500,
+    "cut": 33,
+    "packageid": 44163
+   }
+  ]
+ },
+ {
+  "appid": 960170,
+  "name": "DJMAX RESPECT V",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "스포츠"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960170/header.jpg?t=1772009068",
+  "release_date": "2020년 3월 11일",
+  "steam_url": "https://store.steampowered.com/app/960170/",
+  "reviews_all": 35001,
+  "positive_all": 31052,
+  "reviews_ko": 20601,
+  "positive_ko": 19005,
+  "gap_pp": 3.5,
+  "updated_at": "2026-10-06T12:52:18+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960170/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960170/capsule_616x353.jpg",
+  "playtime_median_h_all": 26.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 43.6,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 770,
+  "players_at": "2026-10-07T10:03:04+00:00",
+  "steam_rank": 4,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "DJMAX RESPECT V",
+    "price": 9960,
+    "regular": 49800,
+    "cut": 80,
+    "packageid": 434761
+   }
+  ]
+ },
+ {
+  "appid": 3489700,
+  "name": "스텔라 블레이드",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header_koreana.jpg?t=1776466244",
+  "release_date": "2025년 6월 11일",
+  "steam_url": "https://store.steampowered.com/app/3489700/",
+  "reviews_all": 95225,
+  "positive_all": 89208,
+  "reviews_ko": 7565,
+  "positive_ko": 7213,
+  "gap_pp": 1.7,
+  "updated_at": "2026-10-06T12:52:26+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 18.7,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 42.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 5,
+  "current_players": 3652,
+  "players_at": "2026-10-07T10:03:07+00:00",
+  "steam_rank": 5,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "스텔라 블레이드",
+    "price": 42080,
+    "regular": 62800,
+    "cut": 33,
+    "packageid": 1232422
+   },
+   {
+    "name": "스텔라 블레이드 컴플리트 에디션",
+    "price": 56150,
+    "regular": 83800,
+    "cut": 33,
+    "packageid": 1313353
+   }
+  ]
+ },
+ {
+  "appid": 1086940,
+  "name": "Baldur's Gate 3",
+  "genres": [
+   "어드벤처",
+   "RPG",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+  "release_date": "2023년 8월 3일",
+  "steam_url": "https://store.steampowered.com/app/1086940/",
+  "reviews_all": 860978,
+  "positive_all": 833288,
+  "reviews_ko": 16747,
+  "positive_ko": 16258,
+  "gap_pp": 0.3,
+  "updated_at": "2026-10-06T12:52:35+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/capsule_616x353.jpg",
+  "playtime_median_h_all": 94.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 109.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 28954,
+  "players_at": "2026-10-07T10:03:10+00:00",
+  "steam_rank": 10,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Baldur's Gate 3",
+    "price": 46200,
+    "regular": 66000,
+    "cut": 30,
+    "packageid": 907539
+   }
+  ]
+ },
+ {
+  "appid": 294100,
+  "name": "RimWorld",
+  "genres": [
+   "인디",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg?t=1782756789",
+  "release_date": "2018년 10월 17일",
+  "steam_url": "https://store.steampowered.com/app/294100/",
+  "reviews_all": 247499,
+  "positive_all": 242170,
+  "reviews_ko": 8452,
+  "positive_ko": 8289,
+  "gap_pp": 0.2,
+  "updated_at": "2026-10-06T12:52:43+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/capsule_616x353.jpg",
+  "playtime_median_h_all": 93.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 154.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 24435,
+  "players_at": "2026-10-07T10:03:13+00:00",
+  "steam_rank": 6,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "RimWorld",
+    "price": 30000,
+    "regular": 37500,
+    "cut": 20,
+    "packageid": 41602
+   },
+   {
+    "name": "RimWorld - Commercial License",
+    "price": 37500,
+    "regular": 37500,
+    "cut": 0,
+    "packageid": 361969
+   }
+  ]
+ },
+ {
+  "appid": 1623730,
+  "name": "팰월드",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
+  "release_date": "2026년 7월 9일",
+  "steam_url": "https://store.steampowered.com/app/1623730/",
+  "reviews_all": 491611,
+  "positive_all": 465006,
+  "reviews_ko": 24652,
+  "positive_ko": 23463,
+  "gap_pp": 0.6,
+  "updated_at": "2026-10-06T12:52:51+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/capsule_616x353.jpg",
+  "playtime_median_h_all": 55.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 97.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 40471,
+  "players_at": "2026-10-07T10:03:16+00:00",
+  "steam_rank": 11,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Palworld",
+    "price": 22400,
+    "regular": 32000,
+    "cut": 30,
+    "packageid": 576498
+   }
+  ]
+ },
+ {
+  "appid": 4001890,
+  "name": "낚시 방법",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+  "release_date": "2026년 8월 20일",
+  "steam_url": "https://store.steampowered.com/app/4001890/",
+  "reviews_all": 78152,
+  "positive_all": 74322,
+  "reviews_ko": 1405,
+  "positive_ko": 1347,
+  "gap_pp": 0.8,
+  "updated_at": "2026-10-06T12:52:59+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 6.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 6,
+  "playtime_median_h_ko": 6.6,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 28209,
+  "players_at": "2026-10-07T10:03:19+00:00",
+  "steam_rank": 14,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "낚시 방법",
+    "price": 5210,
+    "regular": 8400,
+    "cut": 38,
+    "packageid": 1404378
+   }
+  ]
+ },
+ {
+  "appid": 2246340,
+  "name": "Monster Hunter Wilds",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1787549555",
+  "release_date": "2025년 2월 27일",
+  "steam_url": "https://store.steampowered.com/app/2246340/",
+  "reviews_all": 332723,
+  "positive_all": 165062,
+  "reviews_ko": 18225,
+  "positive_ko": 10265,
+  "gap_pp": 6.7,
+  "updated_at": "2026-10-06T12:53:06+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/capsule_616x353.jpg",
+  "playtime_median_h_all": 52.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 75.2,
+  "playtime_n_ko": 99,
+  "under_2h_pct_ko": 1,
+  "current_players": 22969,
+  "players_at": "2026-10-07T10:03:22+00:00",
+  "steam_rank": 9,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Monster Hunter Wilds",
+    "price": 34350,
+    "regular": 45800,
+    "cut": 25,
+    "packageid": 805461
+   },
+   {
+    "name": "Monster Hunter Wilds Gold Edition",
+    "price": 91800,
+    "regular": 91800,
+    "cut": 0,
+    "packageid": 1723312
+   }
+  ]
+ },
+ {
+  "appid": 381210,
+  "name": "Dead by Daylight",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1787769494",
+  "release_date": "2016년 6월 14일",
+  "steam_url": "https://store.steampowered.com/app/381210/",
+  "reviews_all": 938138,
+  "positive_all": 734383,
+  "reviews_ko": 24265,
+  "positive_ko": 17725,
+  "gap_pp": -5.2,
+  "updated_at": "2026-10-06T12:53:14+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/capsule_616x353.jpg",
+  "playtime_median_h_all": 66.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 147.2,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 35984,
+  "players_at": "2026-10-07T10:03:25+00:00",
+  "steam_rank": 1,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Dead by Daylight",
+    "price": 8600,
+    "regular": 21500,
+    "cut": 60,
+    "packageid": 71374
+   },
+   {
+    "name": "Dead by Daylight - Commercial License",
+    "price": 21500,
+    "regular": 21500,
+    "cut": 0,
+    "packageid": 198307
+   },
+   {
+    "name": "Dead by Daylight - Gold Edition",
+    "price": 36750,
+    "regular": 73500,
+    "cut": 50,
+    "packageid": 1100714
+   }
+  ]
+ },
+ {
+  "appid": 2651280,
+  "name": "마블 스파이더맨 2",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
+  "release_date": "2025년 1월 30일",
+  "steam_url": "https://store.steampowered.com/app/2651280/",
+  "reviews_all": 48568,
+  "positive_all": 40564,
+  "reviews_ko": 1406,
+  "positive_ko": 1102,
+  "gap_pp": -5.1,
+  "updated_at": "2026-10-06T12:53:21+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 20.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 28.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 2715,
+  "players_at": "2026-10-07T10:03:28+00:00",
+  "steam_rank": 12,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "마블 스파이더맨 2",
+    "price": 42080,
+    "regular": 62800,
+    "cut": 33,
+    "packageid": 1219797
+   }
+  ]
+ },
+ {
+  "appid": 1174180,
+  "name": "Red Dead Redemption 2",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+  "release_date": "2019년 12월 5일",
+  "steam_url": "https://store.steampowered.com/app/1174180/",
+  "reviews_all": 925183,
+  "positive_all": 855894,
+  "reviews_ko": 19409,
+  "positive_ko": 17767,
+  "gap_pp": -1.0,
+  "updated_at": "2026-10-06T12:53:29+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg",
+  "playtime_median_h_all": 19.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 80.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 5,
+  "current_players": 26805,
+  "players_at": "2026-10-07T10:03:31+00:00",
+  "steam_rank": 13,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Red Dead Redemption 2",
+    "price": 18250,
+    "regular": 73000,
+    "cut": 75,
+    "packageid": 402134
+   },
+   {
+    "name": "Red Dead Redemption 2: Ultimate Edition",
+    "price": 24600,
+    "regular": 123000,
+    "cut": 80,
+    "packageid": 412454
+   }
+  ]
+ },
+ {
+  "appid": 553850,
+  "name": "HELLDIVERS 2",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/2a58d0a6c901e61cc6ad5a7cb488048a1e9f4809/header_koreana.jpg?t=1789585784",
+  "release_date": "2024년 2월 8일",
+  "steam_url": "https://store.steampowered.com/app/553850/",
+  "reviews_all": 1165734,
+  "positive_all": 881934,
+  "reviews_ko": 18737,
+  "positive_ko": 9776,
+  "gap_pp": -23.5,
+  "updated_at": "2026-10-06T12:53:36+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/capsule_616x353.jpg",
+  "playtime_median_h_all": 40.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 88.6,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 26527,
+  "players_at": "2026-10-07T10:03:34+00:00",
+  "steam_rank": 15,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "HELLDIVERS 2",
+    "price": 33600,
+    "regular": 44800,
+    "cut": 25,
+    "packageid": 137730
+   },
+   {
+    "name": "HELLDIVERS 2 - Commercial License",
+    "price": 44800,
+    "regular": 44800,
+    "cut": 0,
+    "packageid": 1018492
+   }
+  ]
+ },
+ {
+  "appid": 3932890,
+  "name": "Escape from Tarkov",
+  "genres": [
+   "액션",
+   "대규모 멀티플레이어",
+   "RPG",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/4dd12ea3b00a4f8b67bfd629f3b9abbf8d5cab05/header_alt_assets_2.jpg?t=1785782094",
+  "release_date": "2025년 11월 15일",
+  "steam_url": "https://store.steampowered.com/app/3932890/",
+  "reviews_all": 66510,
+  "positive_all": 32997,
+  "reviews_ko": 1925,
+  "positive_ko": 758,
+  "gap_pp": -10.2,
+  "updated_at": "2026-10-06T12:53:44+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 33.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 9,
+  "playtime_median_h_ko": 150.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 10,
+  "current_players": 27626,
+  "players_at": "2026-10-07T10:03:37+00:00",
+  "steam_rank": 7,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "multi",
+   "coop"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Escape from Tarkov - Standard Edition",
+    "price": 52120,
+    "regular": 69500,
+    "cut": 25,
+    "packageid": 1381724
+   }
+  ]
+ },
+ {
+  "appid": 814380,
+  "name": "Sekiro: Shadows Die Twice - GOTY Edition",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+  "release_date": "2019년 3월 21일",
+  "steam_url": "https://store.steampowered.com/app/814380/",
+  "reviews_all": 357019,
+  "positive_all": 340044,
+  "reviews_ko": 10966,
+  "positive_ko": 10424,
+  "gap_pp": -0.2,
+  "updated_at": "2026-10-06T12:53:51+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/capsule_616x353.jpg",
+  "playtime_median_h_all": 18.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 52.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 5976,
+  "players_at": "2026-10-07T10:03:40+00:00",
+  "steam_rank": 22,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Sekiro: Shadows Die Twice",
+    "price": 37500,
+    "regular": 75000,
+    "cut": 50,
+    "packageid": 350085
+   }
+  ]
+ },
+ {
+  "appid": 1868140,
+  "name": "데이브 더 다이버",
+  "genres": [
+   "어드벤처",
+   "캐주얼",
+   "RPG",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1789456375",
+  "release_date": "2023년 6월 28일",
+  "steam_url": "https://store.steampowered.com/app/1868140/",
+  "reviews_all": 163378,
+  "positive_all": 157615,
+  "reviews_ko": 12363,
+  "positive_ko": 11983,
+  "gap_pp": 0.5,
+  "updated_at": "2026-10-06T12:53:59+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/capsule_616x353.jpg",
+  "playtime_median_h_all": 24.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 35.2,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 9129,
+  "players_at": "2026-10-07T10:03:43+00:00",
+  "steam_rank": 18,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "DAVE THE DIVER",
+    "price": 12000,
+    "regular": 24000,
+    "cut": 50,
+    "packageid": 672152
+   }
+  ]
+ },
+ {
+  "appid": 3240220,
+  "name": "Grand Theft Auto V 인핸스드",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "레이싱"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_koreana.jpg?t=1781187782",
+  "release_date": "2025년 3월 4일",
+  "steam_url": "https://store.steampowered.com/app/3240220/",
+  "reviews_all": 229880,
+  "positive_all": 191271,
+  "reviews_ko": 4174,
+  "positive_ko": 3471,
+  "gap_pp": -0.0,
+  "updated_at": "2026-10-06T12:54:06+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 19.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 51.2,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 5,
+  "current_players": 42360,
+  "players_at": "2026-10-07T10:03:47+00:00",
+  "steam_rank": 16,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Grand Theft Auto V Enhanced",
+    "price": 18390,
+    "regular": 36790,
+    "cut": 50,
+    "packageid": 1148516
+   },
+   {
+    "name": "Grand Theft Auto V Enhanced & Great White Shark Card",
+    "price": 24200,
+    "regular": 55000,
+    "cut": 56,
+    "packageid": 1251933
+   }
+  ]
+ },
+ {
+  "appid": 1478500,
+  "name": "Big Walk",
+  "genres": [
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+  "release_date": "2026년 8월 4일",
+  "steam_url": "https://store.steampowered.com/app/1478500/",
+  "reviews_all": 41287,
+  "positive_all": 39649,
+  "reviews_ko": 700,
+  "positive_ko": 669,
+  "gap_pp": -0.5,
+  "updated_at": "2026-10-06T12:54:13+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/capsule_616x353.jpg",
+  "playtime_median_h_all": 13.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 12.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 4005,
+  "players_at": "2026-10-07T10:03:50+00:00",
+  "steam_rank": 29,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Big Walk",
+    "price": 17440,
+    "regular": 21800,
+    "cut": 20,
+    "packageid": 520931
+   }
+  ]
+ },
+ {
+  "appid": 1142710,
+  "name": "토탈워: 워해머 3",
+  "genres": [
+   "액션",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1790321531",
+  "release_date": "2022년 2월 16일",
+  "steam_url": "https://store.steampowered.com/app/1142710/",
+  "reviews_all": 150012,
+  "positive_all": 108123,
+  "reviews_ko": 3792,
+  "positive_ko": 2699,
+  "gap_pp": -0.9,
+  "updated_at": "2026-10-06T12:54:21+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_616x353.jpg",
+  "playtime_median_h_all": 74.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 7,
+  "playtime_median_h_ko": 248.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 39647,
+  "players_at": "2026-10-07T10:03:52+00:00",
+  "steam_rank": 23,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "토탈워: 워해머 3",
+    "price": 9000,
+    "regular": 60000,
+    "cut": 85,
+    "packageid": 634179
+   }
+  ]
+ },
+ {
+  "appid": 1144200,
+  "name": "Ready or Not",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1790846188",
+  "release_date": "2023년 12월 13일",
+  "steam_url": "https://store.steampowered.com/app/1144200/",
+  "reviews_all": 348747,
+  "positive_all": 275187,
+  "reviews_ko": 8728,
+  "positive_ko": 7441,
+  "gap_pp": 6.3,
+  "updated_at": "2026-10-06T12:54:30+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/capsule_616x353.jpg",
+  "playtime_median_h_all": 12.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 22.2,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 5837,
+  "players_at": "2026-10-07T10:03:55+00:00",
+  "steam_rank": 41,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Ready Or Not",
+    "price": 26500,
+    "regular": 53000,
+    "cut": 50,
+    "packageid": 389471
+   },
+   {
+    "name": "Ready or Not: Digital Deluxe Edition",
+    "price": 36750,
+    "regular": 73500,
+    "cut": 50,
+    "packageid": 1559731
+   }
+  ]
+ },
+ {
+  "appid": 2483190,
+  "name": "Forza Horizon 6",
+  "genres": [
+   "레이싱",
+   "시뮬레이션",
+   "스포츠"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/a3f1465050b6103274991a29b7462d3f28918b5d/header_alt_assets_4.jpg?t=1790866995",
+  "release_date": "2026년 5월 18일",
+  "steam_url": "https://store.steampowered.com/app/2483190/",
+  "reviews_all": 100889,
+  "positive_all": 81607,
+  "reviews_ko": 1529,
+  "positive_ko": 1162,
+  "gap_pp": -4.9,
+  "updated_at": "2026-10-06T12:54:37+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 42.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 106.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 12231,
+  "players_at": "2026-10-07T10:03:58+00:00",
+  "steam_rank": 8,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Forza Horizon 6",
+    "price": 63840,
+    "regular": 79800,
+    "cut": 20,
+    "packageid": 950527
+   },
+   {
+    "name": "Forza Horizon 6 Deluxe Edition",
+    "price": 92160,
+    "regular": 115200,
+    "cut": 20,
+    "packageid": 1463376
+   },
+   {
+    "name": "Forza Horizon 6 Premium Edition",
+    "price": 112800,
+    "regular": 141000,
+    "cut": 20,
+    "packageid": 1463380
+   }
+  ]
+ },
+ {
+  "appid": 1446780,
+  "name": "MONSTER HUNTER RISE",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg?t=1768870444",
+  "release_date": "2022년 1월 12일",
+  "steam_url": "https://store.steampowered.com/app/1446780/",
+  "reviews_all": 127274,
+  "positive_all": 106301,
+  "reviews_ko": 6301,
+  "positive_ko": 5582,
+  "gap_pp": 5.1,
+  "updated_at": "2026-10-06T12:54:45+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_616x353.jpg",
+  "playtime_median_h_all": 14.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 9,
+  "playtime_median_h_ko": 97.3,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 14362,
+  "players_at": "2026-10-07T10:04:01+00:00",
+  "steam_rank": 17,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "MONSTER HUNTER RISE",
+    "price": 4980,
+    "regular": 49800,
+    "cut": 90,
+    "packageid": 626191
+   },
+   {
+    "name": "MONSTER HUNTER RISE + SUNBREAK 세트",
+    "price": 11970,
+    "regular": 74800,
+    "cut": 84,
+    "packageid": 692569
+   },
+   {
+    "name": "MONSTER HUNTER RISE + SUNBREAK 더블 디럭스 세트",
+    "price": 21700,
+    "regular": 86800,
+    "cut": 75,
+    "packageid": 692570
+   },
+   {
+    "name": "Monster Hunter Rise - DLC Collection",
+    "price": 24290,
+    "regular": 36800,
+    "cut": 34,
+    "packageid": 1194319
+   },
+   {
+    "name": "MHR:SB - DLC Collection",
+    "price": 37350,
+    "regular": 49800,
+    "cut": 25,
+    "packageid": 1194320
+   },
+   {
+    "name": "Monster Hunter Rise + Sunbreak DLC Collection",
+    "price": 49370,
+    "regular": 74800,
+    "cut": 34,
+    "packageid": 1194321
+   }
+  ]
+ },
+ {
+  "appid": 648800,
+  "name": "Raft",
+  "genres": [
+   "어드벤처",
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+  "release_date": "2022년 6월 20일",
+  "steam_url": "https://store.steampowered.com/app/648800/",
+  "reviews_all": 379448,
+  "positive_all": 352833,
+  "reviews_ko": 10747,
+  "positive_ko": 9742,
+  "gap_pp": -2.3,
+  "updated_at": "2026-10-06T12:54:53+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/capsule_616x353.jpg",
+  "playtime_median_h_all": 17.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 29.2,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 8,
+  "current_players": 8190,
+  "players_at": "2026-10-07T10:04:04+00:00",
+  "steam_rank": 26,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Raft",
+    "price": 14070,
+    "regular": 21000,
+    "cut": 33,
+    "packageid": 182468
+   }
+  ]
+ },
+ {
+  "appid": 1817070,
+  "name": "Marvel’s Spider-Man Remastered",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "캐주얼"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+  "release_date": "2022년 8월 12일",
+  "steam_url": "https://store.steampowered.com/app/1817070/",
+  "reviews_all": 144916,
+  "positive_all": 139144,
+  "reviews_ko": 4581,
+  "positive_ko": 4363,
+  "gap_pp": -0.8,
+  "updated_at": "2026-10-06T12:55:01+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/capsule_616x353.jpg",
+  "playtime_median_h_all": 15.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 23.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 3652,
+  "players_at": "2026-10-07T10:04:07+00:00",
+  "steam_rank": 20,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Marvel’s Spider-Man Remastered",
+    "price": 25120,
+    "regular": 62800,
+    "cut": 60,
+    "packageid": 653391
+   },
+   {
+    "name": "Marvel’s Spider-Man Remastered - Commercial License",
+    "price": 58800,
+    "regular": 58800,
+    "cut": 0,
+    "packageid": 759233
+   }
+  ]
+ },
+ {
+  "appid": 413150,
+  "name": "Stardew Valley",
+  "genres": [
+   "인디",
+   "RPG",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
+  "release_date": "2016년 2월 26일",
+  "steam_url": "https://store.steampowered.com/app/413150/",
+  "reviews_all": 1043087,
+  "positive_all": 1027235,
+  "reviews_ko": 36020,
+  "positive_ko": 35331,
+  "gap_pp": -0.4,
+  "updated_at": "2026-10-06T12:55:09+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg",
+  "playtime_median_h_all": 29.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 138.4,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 54173,
+  "players_at": "2026-10-07T10:04:10+00:00",
+  "steam_rank": 36,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Stardew Valley",
+    "price": 11200,
+    "regular": 16000,
+    "cut": 30,
+    "packageid": 82712
+   },
+   {
+    "name": "Stardew Valley",
+    "price": 16000,
+    "regular": 16000,
+    "cut": 0,
+    "packageid": 1729063
+   }
+  ]
+ },
+ {
+  "appid": 1477590,
+  "name": "EZ2ON REBOOT : R",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "스포츠"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/086013aa26296d382101d15acd8ec2208212ab6c/header.jpg?t=1781689101",
+  "release_date": "2022년 4월 14일",
+  "steam_url": "https://store.steampowered.com/app/1477590/",
+  "reviews_all": 6304,
+  "positive_all": 5737,
+  "reviews_ko": 5137,
+  "positive_ko": 4681,
+  "gap_pp": 0.1,
+  "updated_at": "2026-10-06T12:57:03+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/capsule_616x353.jpg",
+  "playtime_median_h_all": 34.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 8,
+  "playtime_median_h_ko": 45.4,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 126,
+  "players_at": "2026-10-07T10:04:13+00:00",
+  "steam_rank": 27,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "EZ2ON REBOOT : R",
+    "price": 22400,
+    "regular": 44800,
+    "cut": 50,
+    "packageid": 700920
+   }
+  ]
+ },
+ {
+  "appid": 2215430,
+  "name": "Ghost of Tsushima 디렉터스 컷",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+  "release_date": "2024년 5월 16일",
+  "steam_url": "https://store.steampowered.com/app/2215430/",
+  "reviews_all": 97376,
+  "positive_all": 91494,
+  "reviews_ko": 2621,
+  "positive_ko": 2430,
+  "gap_pp": -1.2,
+  "updated_at": "2026-10-06T12:57:11+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_616x353.jpg",
+  "playtime_median_h_all": 24.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 53.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 2796,
+  "players_at": "2026-10-07T10:04:16+00:00",
+  "steam_rank": 31,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Ghost of Tsushima 디렉터스 컷",
+    "price": 37680,
+    "regular": 62800,
+    "cut": 40,
+    "packageid": 1436422
+   }
+  ]
+ },
+ {
+  "appid": 990080,
+  "name": "호그와트 레거시",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
+  "release_date": "2023년 2월 10일",
+  "steam_url": "https://store.steampowered.com/app/990080/",
+  "reviews_all": 374961,
+  "positive_all": 336460,
+  "reviews_ko": 6748,
+  "positive_ko": 5682,
+  "gap_pp": -5.5,
+  "updated_at": "2026-10-06T12:57:19+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/capsule_616x353.jpg",
+  "playtime_median_h_all": 13.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 6,
+  "playtime_median_h_ko": 34.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 7,
+  "current_players": 7677,
+  "players_at": "2026-10-07T10:04:19+00:00",
+  "steam_rank": 25,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "호그와트 레거시",
+    "price": 7980,
+    "regular": 79800,
+    "cut": 90,
+    "packageid": 822363
+   },
+   {
+    "name": "호그와트 레거시: 디지털 디럭스 에디션",
+    "price": 8680,
+    "regular": 86800,
+    "cut": 90,
+    "packageid": 822364
+   }
+  ]
+ },
+ {
+  "appid": 3438810,
+  "name": "프린세스 메이커 : 예언의 아이들",
+  "genres": [
+   "시뮬레이션"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438810/4f76129c1633a2e352ca33892c0742d455dc9e22/header_koreana.jpg?t=1790761177",
+  "release_date": "2026년 9월 30일",
+  "steam_url": "https://store.steampowered.com/app/3438810/",
+  "reviews_all": 1277,
+  "positive_all": 1017,
+  "reviews_ko": 862,
+  "positive_ko": 742,
+  "gap_pp": 6.4,
+  "updated_at": "2026-10-06T12:57:27+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438810/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 15.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 19.0,
+  "playtime_n_ko": 99,
+  "under_2h_pct_ko": 6,
+  "current_players": 471,
+  "players_at": "2026-10-07T10:04:22+00:00",
+  "steam_rank": 37,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "프린세스 메이커 : 예언의 아이들",
+    "price": 31200,
+    "regular": 39000,
+    "cut": 20,
+    "packageid": 1215570
+   }
+  ]
+ },
+ {
+  "appid": 2183900,
+  "name": "Warhammer 40,000: Space Marine 2",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/0725a80b89ba198f406081ad66a7c42e3db46cb4/header_alt_assets_14_koreana.jpg?t=1790874369",
+  "release_date": "2024년 9월 9일",
+  "steam_url": "https://store.steampowered.com/app/2183900/",
+  "reviews_all": 228583,
+  "positive_all": 192043,
+  "reviews_ko": 3560,
+  "positive_ko": 2802,
+  "gap_pp": -5.3,
+  "updated_at": "2026-10-06T12:57:35+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/capsule_616x353.jpg",
+  "playtime_median_h_all": 15.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 41.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 6555,
+  "players_at": "2026-10-07T10:04:25+00:00",
+  "steam_rank": 24,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Warhammer 40,000: Space Marine 2 - Standard Edition",
+    "price": 17450,
+    "regular": 69800,
+    "cut": 75,
+    "packageid": 997630
+   },
+   {
+    "name": "Warhammer 40,000: Space Marine 2",
+    "price": 26200,
+    "regular": 104800,
+    "cut": 75,
+    "packageid": 997629
+   },
+   {
+    "name": "Warhammer 40,000: Space Marine 2",
+    "price": 65250,
+    "regular": 145000,
+    "cut": 55,
+    "packageid": 1380594
+   },
+   {
+    "name": "Warhammer 40,000: Space Marine 2",
+    "price": 181000,
+    "regular": 181000,
+    "cut": 0,
+    "packageid": 1733641
+   }
+  ]
+ },
+ {
+  "appid": 292030,
+  "name": "The Witcher 3: Wild Hunt — Remastered",
+  "genres": [
+   "RPG"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/5cf38861682344b72d11de878d8ed3822c6d84fd/header_alt_assets_1_koreana.jpg?t=1790845156",
+  "release_date": "2015년 5월 18일",
+  "steam_url": "https://store.steampowered.com/app/292030/",
+  "reviews_all": 901317,
+  "positive_all": 868906,
+  "reviews_ko": 17130,
+  "positive_ko": 16112,
+  "gap_pp": -2.3,
+  "updated_at": "2026-10-06T12:57:43+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/capsule_616x353.jpg",
+  "playtime_median_h_all": 50.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 53.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 9,
+  "current_players": 60267,
+  "players_at": "2026-10-07T10:04:28+00:00",
+  "steam_rank": 19,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "The Witcher 3: Wild Hunt — Remastered",
+    "price": 27450,
+    "regular": 54900,
+    "cut": 50,
+    "packageid": 68476
+   }
+  ]
+ },
+ {
+  "appid": 3764200,
+  "name": "BIOHAZARD requiem",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/46a28870620bab1c2bc4de903bdcbcf4e423c58b/header_koreana.jpg?t=1779840172",
+  "release_date": "2026년 2월 26일",
+  "steam_url": "https://store.steampowered.com/app/3764200/",
+  "reviews_all": 186452,
+  "positive_all": 178856,
+  "reviews_ko": 3011,
+  "positive_ko": 2913,
+  "gap_pp": 0.8,
+  "updated_at": "2026-10-06T12:57:51+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 15.7,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 23.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 3499,
+  "players_at": "2026-10-07T10:04:31+00:00",
+  "steam_rank": 45,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "BIOHAZARD requiem",
+    "price": 55860,
+    "regular": 79800,
+    "cut": 30,
+    "packageid": 1324561
+   },
+   {
+    "name": "BIOHAZARD requiem 디럭스 에디션",
+    "price": 64260,
+    "regular": 91800,
+    "cut": 30,
+    "packageid": 1424518
+   }
+  ]
+ },
+ {
+  "appid": 1304930,
+  "name": "The Outlast Trials",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
+  "release_date": "2024년 3월 5일",
+  "steam_url": "https://store.steampowered.com/app/1304930/",
+  "reviews_all": 115832,
+  "positive_all": 106836,
+  "reviews_ko": 887,
+  "positive_ko": 787,
+  "gap_pp": -3.5,
+  "updated_at": "2026-10-06T12:57:59+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/capsule_616x353.jpg",
+  "playtime_median_h_all": 7.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 8,
+  "playtime_median_h_ko": 16.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 11,
+  "current_players": 42191,
+  "players_at": "2026-10-07T10:04:34+00:00",
+  "steam_rank": 35,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "The Outlast Trials",
+    "price": 4200,
+    "regular": 42000,
+    "cut": 90,
+    "packageid": 984895
+   },
+   {
+    "name": "The Outlast Trials - Reagent Starter Pack Edition",
+    "price": 5300,
+    "regular": 53000,
+    "cut": 90,
+    "packageid": 1003243
+   }
+  ]
+ },
+ {
+  "appid": 261550,
+  "name": "Mount & Blade 2: Bannerlord",
+  "genres": [
+   "액션",
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg?t=1764252300",
+  "release_date": "2022년 10월 25일",
+  "steam_url": "https://store.steampowered.com/app/261550/",
+  "reviews_all": 298820,
+  "positive_all": 262009,
+  "reviews_ko": 4967,
+  "positive_ko": 4116,
+  "gap_pp": -4.8,
+  "updated_at": "2026-10-06T12:58:06+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/capsule_616x353.jpg",
+  "playtime_median_h_all": 47.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 172.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 24948,
+  "players_at": "2026-10-07T10:04:37+00:00",
+  "steam_rank": 44,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Mount & Blade 2: Bannerlord",
+    "price": 30000,
+    "regular": 60000,
+    "cut": 50,
+    "packageid": 805352
+   },
+   {
+    "name": "Mount & Blade 2: Bannerlord Digital Deluxe",
+    "price": 36000,
+    "regular": 72000,
+    "cut": 50,
+    "packageid": 805633
+   }
+  ]
+ },
+ {
+  "appid": 899770,
+  "name": "라스트 에포크",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899770/4fb3ded2be17991473ada5a8d74f3980b1d76bd9/header_alt_assets_2_koreana.jpg?t=1791260952",
+  "release_date": "2024년 2월 21일",
+  "steam_url": "https://store.steampowered.com/app/899770/",
+  "reviews_all": 118883,
+  "positive_all": 90827,
+  "reviews_ko": 3025,
+  "positive_ko": 2271,
+  "gap_pp": -1.3,
+  "updated_at": "2026-10-06T12:58:15+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899770/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899770/capsule_616x353.jpg",
+  "playtime_median_h_all": 155.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 125.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 18606,
+  "players_at": "2026-10-07T10:04:40+00:00",
+  "steam_rank": 38,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Last Epoch",
+    "price": 26250,
+    "regular": 37500,
+    "cut": 30,
+    "packageid": 287953
+   },
+   {
+    "name": "Last Epoch Deluxe Edition",
+    "price": 37800,
+    "regular": 54000,
+    "cut": 30,
+    "packageid": 993960
+   },
+   {
+    "name": "Last Epoch Ultimate Edition",
+    "price": 48650,
+    "regular": 69500,
+    "cut": 30,
+    "packageid": 993959
+   },
+   {
+    "name": "Last Epoch DELUXE Edition Upgrade",
+    "price": 16500,
+    "regular": 16500,
+    "cut": 0,
+    "packageid": 993961
+   },
+   {
+    "name": "Last Epoch Ultimate Edition Upgrade",
+    "price": 32000,
+    "regular": 32000,
+    "cut": 0,
+    "packageid": 993962
+   }
+  ]
+ },
+ {
+  "appid": 1621690,
+  "name": "Core Keeper",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/7d5c8ce81ceaa635b40d5103239b5f8851260604/header_alt_assets_3.jpg?t=1791194425",
+  "release_date": "2024년 8월 27일",
+  "steam_url": "https://store.steampowered.com/app/1621690/",
+  "reviews_all": 66963,
+  "positive_all": 62237,
+  "reviews_ko": 5489,
+  "positive_ko": 5244,
+  "gap_pp": 2.6,
+  "updated_at": "2026-10-06T12:58:23+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/capsule_616x353.jpg",
+  "playtime_median_h_all": 34.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 68.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 4738,
+  "players_at": "2026-10-07T10:04:44+00:00",
+  "steam_rank": 32,
+  "platforms": [
+   "windows",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Core Keeper",
+    "price": 12900,
+    "regular": 21500,
+    "cut": 40,
+    "packageid": 575770
+   }
+  ]
+ },
+ {
+  "appid": 3357650,
+  "name": "PRAGMATA",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1789603448",
+  "release_date": "2026년 4월 16일",
+  "steam_url": "https://store.steampowered.com/app/3357650/",
+  "reviews_all": 54226,
+  "positive_all": 52336,
+  "reviews_ko": 2995,
+  "positive_ko": 2896,
+  "gap_pp": 0.2,
+  "updated_at": "2026-10-06T12:58:30+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 16.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 17.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 1013,
+  "players_at": "2026-10-07T10:04:46+00:00",
+  "steam_rank": 28,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "PRAGMATA",
+    "price": 55840,
+    "regular": 69800,
+    "cut": 20,
+    "packageid": 1188354
+   },
+   {
+    "name": "PRAGMATA Deluxe Edition",
+    "price": 63840,
+    "regular": 79800,
+    "cut": 20,
+    "packageid": 1480252
+   }
+  ]
+ },
+ {
+  "appid": 262060,
+  "name": "Darkest Dungeon",
+  "genres": [
+   "인디",
+   "RPG",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/58cc9af814f8767242167a3f8ad013c1ac471074/header.jpg?t=1789168187",
+  "release_date": "2016년 1월 19일",
+  "steam_url": "https://store.steampowered.com/app/262060/",
+  "reviews_all": 162961,
+  "positive_all": 149359,
+  "reviews_ko": 9365,
+  "positive_ko": 8066,
+  "gap_pp": -5.5,
+  "updated_at": "2026-10-06T12:58:38+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/capsule_616x353.jpg",
+  "playtime_median_h_all": 30.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 100.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 4807,
+  "players_at": "2026-10-07T10:04:49+00:00",
+  "steam_rank": 50,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Darkest Dungeon",
+    "price": 4050,
+    "regular": 27000,
+    "cut": 85,
+    "packageid": 33877
+   }
+  ]
+ },
+ {
+  "appid": 394360,
+  "name": "Hearts of Iron 4",
+  "genres": [
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1790873967",
+  "release_date": "2016년 6월 6일",
+  "steam_url": "https://store.steampowered.com/app/394360/",
+  "reviews_all": 361660,
+  "positive_all": 324877,
+  "reviews_ko": 7602,
+  "positive_ko": 6712,
+  "gap_pp": -1.5,
+  "updated_at": "2026-10-06T12:58:47+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/capsule_616x353.jpg",
+  "playtime_median_h_all": 107.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 304.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 30814,
+  "players_at": "2026-10-07T10:04:52+00:00",
+  "steam_rank": 33,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Hearts of Iron 4",
+    "price": 16500,
+    "regular": 55000,
+    "cut": 70,
+    "packageid": 808474
+   },
+   {
+    "name": "Hearts of Iron 4: General Edition",
+    "price": 19800,
+    "regular": 66000,
+    "cut": 70,
+    "packageid": 1429184
+   }
+  ]
+ },
+ {
+  "appid": 1158310,
+  "name": "Crusader Kings 3",
+  "genres": [
+   "RPG",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/c218ce511565fb3db082fc2ab438f9d5beadc6bc/header_alt_assets_13_koreana.jpg?t=1790873953",
+  "release_date": "2020년 9월 1일",
+  "steam_url": "https://store.steampowered.com/app/1158310/",
+  "reviews_all": 142396,
+  "positive_all": 128793,
+  "reviews_ko": 3740,
+  "positive_ko": 3480,
+  "gap_pp": 2.6,
+  "updated_at": "2026-10-06T12:58:55+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/capsule_616x353.jpg",
+  "playtime_median_h_all": 123.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 260.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 17795,
+  "players_at": "2026-10-07T10:04:55+00:00",
+  "steam_rank": 34,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Crusader Kings 3",
+    "price": 16500,
+    "regular": 55000,
+    "cut": 70,
+    "packageid": 452686
+   },
+   {
+    "name": "Crusader Kings 3: Starter Edition",
+    "price": 36000,
+    "regular": 72000,
+    "cut": 50,
+    "packageid": 1025501
+   }
+  ]
+ },
+ {
+  "appid": 2406770,
+  "name": "Bodycam",
+  "genres": [
+   "액션",
+   "인디",
+   "대규모 멀티플레이어",
+   "시뮬레이션",
+   "전략",
+   "앞서 해보기"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/8d2765de57931435f802fa6757ad6920aea8646a/header_alt_assets_0.jpg?t=1791014741",
+  "release_date": "2024년 6월 7일",
+  "steam_url": "https://store.steampowered.com/app/2406770/",
+  "reviews_all": 68826,
+  "positive_all": 55523,
+  "reviews_ko": 733,
+  "positive_ko": 500,
+  "gap_pp": -12.5,
+  "updated_at": "2026-10-06T12:59:03+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/capsule_616x353.jpg",
+  "playtime_median_h_all": 7.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 18,
+  "playtime_median_h_ko": 11.2,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 20,
+  "current_players": 2717,
+  "players_at": "2026-10-07T10:04:58+00:00",
+  "steam_rank": 42,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "multi"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Bodycam",
+    "price": 30000,
+    "regular": 37500,
+    "cut": 20,
+    "packageid": 866042
+   }
+  ]
+ },
+ {
+  "appid": 3892270,
+  "name": "Gamble With Your Friends",
+  "genres": [
+   "어드벤처",
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1791186560",
+  "release_date": "2026년 5월 1일",
+  "steam_url": "https://store.steampowered.com/app/3892270/",
+  "reviews_all": 24316,
+  "positive_all": 21804,
+  "reviews_ko": 354,
+  "positive_ko": 331,
+  "gap_pp": 3.8,
+  "updated_at": "2026-10-06T12:59:11+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 4.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 15,
+  "playtime_median_h_ko": 5.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 17,
+  "current_players": 5925,
+  "players_at": "2026-10-07T10:05:01+00:00",
+  "steam_rank": 57,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Gamble With Your Friends",
+    "price": 5520,
+    "regular": 8900,
+    "cut": 38,
+    "packageid": 1368172
+   }
+  ]
+ },
+ {
+  "appid": 1771300,
+  "name": "Kingdom Come: Deliverance 2",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+  "release_date": "2025년 2월 4일",
+  "steam_url": "https://store.steampowered.com/app/1771300/",
+  "reviews_all": 197622,
+  "positive_all": 185549,
+  "reviews_ko": 4283,
+  "positive_ko": 4007,
+  "gap_pp": -0.3,
+  "updated_at": "2026-10-06T12:59:19+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/capsule_616x353.jpg",
+  "playtime_median_h_all": 60.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 8,
+  "playtime_median_h_ko": 98.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 13305,
+  "players_at": "2026-10-07T10:05:04+00:00",
+  "steam_rank": 30,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Kingdom Come: Deliverance 2",
+    "price": 24320,
+    "regular": 60800,
+    "cut": 60,
+    "packageid": 635513
+   },
+   {
+    "name": "Kingdom Come: Deliverance 2 Royal Edition",
+    "price": 32440,
+    "regular": 81100,
+    "cut": 60,
+    "packageid": 1109733
+   }
+  ]
+ },
+ {
+  "appid": 2344520,
+  "name": "디아블로 4",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "캐주얼",
+   "대규모 멀티플레이어",
+   "RPG"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/80f21a42e378b93e8fbb68ee43103be8ab84891b/header.jpg?t=1789491624",
+  "release_date": "2023년 10월 17일",
+  "steam_url": "https://store.steampowered.com/app/2344520/",
+  "reviews_all": 79551,
+  "positive_all": 51859,
+  "reviews_ko": 1722,
+  "positive_ko": 1181,
+  "gap_pp": 3.4,
+  "updated_at": "2026-10-06T12:59:27+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/capsule_616x353.jpg",
+  "playtime_median_h_all": 44.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 80.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 5,
+  "current_players": 17505,
+  "players_at": "2026-10-07T10:05:07+00:00",
+  "steam_rank": 46,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "디아블로 4: 증오의 시대 컬렉션",
+    "price": 58420,
+    "regular": 77900,
+    "cut": 25,
+    "packageid": 1390267
+   },
+   {
+    "name": "디아블로 4 - 일반판",
+    "price": 62400,
+    "regular": 62400,
+    "cut": 0,
+    "packageid": 1068249
+   }
+  ]
+ },
+ {
+  "appid": 4108000,
+  "name": "Machine Party",
+  "genres": [
+   "액션",
+   "인디"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1790860377",
+  "release_date": "2026년 7월 30일",
+  "steam_url": "https://store.steampowered.com/app/4108000/",
+  "reviews_all": 5556,
+  "positive_all": 4812,
+  "reviews_ko": 177,
+  "positive_ko": 160,
+  "gap_pp": 3.8,
+  "updated_at": "2026-10-06T12:59:35+00:00",
+  "hero_image": null,
+  "capsule_image": null,
+  "playtime_median_h_all": 2.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 49,
+  "playtime_median_h_ko": 1.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 72,
+  "current_players": 928,
+  "players_at": "2026-10-07T10:05:10+00:00",
+  "steam_rank": 56,
+  "platforms": [
+   "windows",
+   "linux"
+  ],
+  "play_modes": [
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Machine Party",
+    "price": 7040,
+    "regular": 8800,
+    "cut": 20,
+    "packageid": 1439483
+   }
+  ]
+ },
+ {
+  "appid": 2161700,
+  "name": "페르소나3 리로드",
+  "genres": [
+   "어드벤처",
+   "RPG",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
+  "release_date": "2024년 2월 1일",
+  "steam_url": "https://store.steampowered.com/app/2161700/",
+  "reviews_all": 65176,
+  "positive_all": 61481,
+  "reviews_ko": 2129,
+  "positive_ko": 1991,
+  "gap_pp": -0.8,
+  "updated_at": "2026-10-06T12:59:43+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/capsule_616x353.jpg",
+  "playtime_median_h_all": 40.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 65.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 5792,
+  "players_at": "2026-10-07T10:05:13+00:00",
+  "steam_rank": 52,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "페르소나3 리로드",
+    "price": 20940,
+    "regular": 69800,
+    "cut": 70,
+    "packageid": 914635
+   },
+   {
+    "name": "페르소나3 리로드 디지털 디럭스 에디션",
+    "price": 23940,
+    "regular": 79800,
+    "cut": 70,
+    "packageid": 914636
+   },
+   {
+    "name": "페르소나3 리로드 디지털 프리미엄 에디션",
+    "price": 29940,
+    "regular": 99800,
+    "cut": 70,
+    "packageid": 914637
+   },
+   {
+    "name": "페르소나3 리로드 DLC 팩",
+    "price": 15900,
+    "regular": 31800,
+    "cut": 50,
+    "packageid": 981711
+   }
+  ]
+ },
+ {
+  "appid": 2384580,
+  "name": "진・삼국무쌍: ORIGINS",
+  "genres": [
+   "액션",
+   "RPG",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384580/header_koreana.jpg?t=1790733210",
+  "release_date": "2025년 1월 16일",
+  "steam_url": "https://store.steampowered.com/app/2384580/",
+  "reviews_all": 30404,
+  "positive_all": 28343,
+  "reviews_ko": 1556,
+  "positive_ko": 1437,
+  "gap_pp": -0.9,
+  "updated_at": "2026-10-06T12:59:51+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384580/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384580/capsule_616x353.jpg",
+  "playtime_median_h_all": 43.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 68.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 1955,
+  "players_at": "2026-10-07T10:05:16+00:00",
+  "steam_rank": 48,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "진・삼국무쌍: ORIGINS",
+    "price": 55860,
+    "regular": 79800,
+    "cut": 30,
+    "packageid": 1175491
+   },
+   {
+    "name": "진・삼국무쌍: ORIGINS Digital Deluxe",
+    "price": 70770,
+    "regular": 101100,
+    "cut": 30,
+    "packageid": 1175493
+   }
+  ]
+ },
+ {
+  "appid": 374320,
+  "name": "DARK SOULS 3",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+  "release_date": "2016년 4월 11일",
+  "steam_url": "https://store.steampowered.com/app/374320/",
+  "reviews_all": 441325,
+  "positive_all": 416318,
+  "reviews_ko": 18258,
+  "positive_ko": 17151,
+  "gap_pp": -0.4,
+  "updated_at": "2026-10-06T12:59:59+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/capsule_616x353.jpg",
+  "playtime_median_h_all": 32.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 6,
+  "playtime_median_h_ko": 47.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 7,
+  "current_players": 5259,
+  "players_at": "2026-10-07T10:05:20+00:00",
+  "steam_rank": 40,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "DARK SOULS 3",
+    "price": 24900,
+    "regular": 49800,
+    "cut": 50,
+    "packageid": 69024
+   },
+   {
+    "name": "DARK SOULS 3 Deluxe Edition",
+    "price": 35500,
+    "regular": 71000,
+    "cut": 50,
+    "packageid": 94174
+   }
+  ]
+ },
+ {
+  "appid": 1057090,
+  "name": "Ori and the Will of the Wisps",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+  "release_date": "2020년 3월 10일",
+  "steam_url": "https://store.steampowered.com/app/1057090/",
+  "reviews_all": 149538,
+  "positive_all": 144194,
+  "reviews_ko": 5042,
+  "positive_ko": 4907,
+  "gap_pp": 0.9,
+  "updated_at": "2026-10-06T13:00:07+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_616x353.jpg",
+  "playtime_median_h_all": 12.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 17.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 5,
+  "current_players": 17719,
+  "players_at": "2026-10-07T10:05:22+00:00",
+  "steam_rank": 51,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Ori and the Will of the Wisps",
+    "price": 2990,
+    "regular": 29900,
+    "cut": 90,
+    "packageid": 353051
+   }
+  ]
+ },
+ {
+  "appid": 3768760,
+  "name": "007 퍼스트 라이트",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791285093",
+  "release_date": "2026년 5월 26일",
+  "steam_url": "https://store.steampowered.com/app/3768760/",
+  "reviews_all": 47795,
+  "positive_all": 43573,
+  "reviews_ko": 619,
+  "positive_ko": 527,
+  "gap_pp": -6.0,
+  "updated_at": "2026-10-06T13:00:19+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 16.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 18.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 2219,
+  "players_at": "2026-10-07T10:05:26+00:00",
+  "steam_rank": 43,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "007 퍼스트 라이트",
+    "price": 55300,
+    "regular": 79000,
+    "cut": 30,
+    "packageid": 1488462
+   },
+   {
+    "name": "007 퍼스트 라이트 - 디럭스 에디션",
+    "price": 62300,
+    "regular": 89000,
+    "cut": 30,
+    "packageid": 1383445
+   }
+  ]
+ },
+ {
+  "appid": 1778820,
+  "name": "철권 8",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/c7b0b80639fc8c7d386922f414f293ca849e8e81/header.jpg?t=1787180720",
+  "release_date": "2024년 1월 25일",
+  "steam_url": "https://store.steampowered.com/app/1778820/",
+  "reviews_all": 72943,
+  "positive_all": 41394,
+  "reviews_ko": 10446,
+  "positive_ko": 3945,
+  "gap_pp": -19.0,
+  "updated_at": "2026-10-06T13:02:05+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/capsule_616x353.jpg",
+  "playtime_median_h_all": 44.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 175.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 3967,
+  "players_at": "2026-10-07T10:05:29+00:00",
+  "steam_rank": 39,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "철권 8",
+    "price": 29880,
+    "regular": 49800,
+    "cut": 40,
+    "packageid": 912716
+   },
+   {
+    "name": "철권 8 어드밴스드 에디션",
+    "price": 32890,
+    "regular": 59800,
+    "cut": 45,
+    "packageid": 1262248
+   },
+   {
+    "name": "철권 8 시즌 2 디럭스 에디션",
+    "price": 74850,
+    "regular": 99800,
+    "cut": 25,
+    "packageid": 1262249
+   },
+   {
+    "name": "철권 8 시즌 2 얼티밋 에디션",
+    "price": 76860,
+    "regular": 109800,
+    "cut": 30,
+    "packageid": 1262250
+   }
+  ]
+ },
+ {
+  "appid": 1256670,
+  "name": "Library Of Ruina",
+  "genres": [
+   "인디",
+   "RPG",
+   "전략"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/header.jpg?t=1670980516",
+  "release_date": "2021년 8월 10일",
+  "steam_url": "https://store.steampowered.com/app/1256670/",
+  "reviews_all": 45513,
+  "positive_all": 42999,
+  "reviews_ko": 7375,
+  "positive_ko": 6664,
+  "gap_pp": -4.1,
+  "updated_at": "2026-10-06T13:02:13+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/capsule_616x353.jpg",
+  "playtime_median_h_all": 19.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 6,
+  "playtime_median_h_ko": 62.4,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 2621,
+  "players_at": "2026-10-07T10:05:32+00:00",
+  "steam_rank": 54,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Library Of Ruina",
+    "price": 10540,
+    "regular": 31000,
+    "cut": 66,
+    "packageid": 436437
+   }
+  ]
+ },
+ {
+  "appid": 892970,
+  "name": "Valheim",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1790220314",
+  "release_date": "2026년 9월 9일",
+  "steam_url": "https://store.steampowered.com/app/892970/",
+  "reviews_all": 557968,
+  "positive_all": 522319,
+  "reviews_ko": 7983,
+  "positive_ko": 7352,
+  "gap_pp": -1.5,
+  "updated_at": "2026-10-06T13:02:21+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/capsule_616x353.jpg",
+  "playtime_median_h_all": 141.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 0,
+  "playtime_median_h_ko": 120.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 58862,
+  "players_at": "2026-10-07T10:05:34+00:00",
+  "steam_rank": 67,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Valheim",
+    "price": 28800,
+    "regular": 32000,
+    "cut": 10,
+    "packageid": 285032
+   }
+  ]
+ },
+ {
+  "appid": 3527290,
+  "name": "PEAK",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1790591892",
+  "release_date": "2025년 6월 16일",
+  "steam_url": "https://store.steampowered.com/app/3527290/",
+  "reviews_all": 377886,
+  "positive_all": 356887,
+  "reviews_ko": 5536,
+  "positive_ko": 5203,
+  "gap_pp": -0.5,
+  "updated_at": "2026-10-06T13:02:29+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 16.7,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 16.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 8,
+  "current_players": 8460,
+  "players_at": "2026-10-07T10:05:37+00:00",
+  "steam_rank": 55,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "PEAK",
+    "price": 5210,
+    "regular": 8400,
+    "cut": 38,
+    "packageid": 1245027
+   }
+  ]
+ },
+ {
+  "appid": 2475460,
+  "name": "SOS OPS!",
+  "genres": [],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/a0a7b4a2b2526ae76cab0f0ba6e87e63d962c1a7/header.jpg?t=1791094099",
+  "release_date": "2023년 11월 30일",
+  "steam_url": "https://store.steampowered.com/app/2475460/",
+  "reviews_all": 5816,
+  "positive_all": 4737,
+  "reviews_ko": 48,
+  "positive_ko": 35,
+  "gap_pp": null,
+  "updated_at": "2026-10-06T13:02:36+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/capsule_616x353.jpg",
+  "playtime_median_h_all": 3.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 42,
+  "playtime_median_h_ko": 3.0,
+  "playtime_n_ko": 48,
+  "under_2h_pct_ko": 44,
+  "current_players": 1650,
+  "players_at": "2026-10-07T10:05:40+00:00",
+  "steam_rank": 21,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "SOS OPS!",
+    "price": 800,
+    "regular": 8000,
+    "cut": 90,
+    "packageid": 890941
+   }
+  ]
+ },
+ {
+  "appid": 1326470,
+  "name": "Sons Of The Forest",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+  "release_date": "2024년 2월 22일",
+  "steam_url": "https://store.steampowered.com/app/1326470/",
+  "reviews_all": 321895,
+  "positive_all": 284827,
+  "reviews_ko": 3823,
+  "positive_ko": 2848,
+  "gap_pp": -14.0,
+  "updated_at": "2026-10-06T13:02:44+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/capsule_616x353.jpg",
+  "playtime_median_h_all": 15.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 22.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 5,
+  "current_players": 10925,
+  "players_at": "2026-10-07T10:05:43+00:00",
+  "steam_rank": 47,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Sons Of The Forest",
+    "price": 9280,
+    "regular": 32000,
+    "cut": 71,
+    "packageid": 463209
+   }
+  ]
+ },
+ {
+  "appid": 3167020,
+  "name": "Escape from Duckov",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/header.jpg?t=1788419722",
+  "release_date": "2025년 10월 16일",
+  "steam_url": "https://store.steampowered.com/app/3167020/",
+  "reviews_all": 104678,
+  "positive_all": 88454,
+  "reviews_ko": 5176,
+  "positive_ko": 5038,
+  "gap_pp": 12.8,
+  "updated_at": "2026-10-06T13:02:52+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 31.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 71.3,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 4020,
+  "players_at": "2026-10-07T10:05:46+00:00",
+  "steam_rank": 66,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Escape from Duckov",
+    "price": 11550,
+    "regular": 16500,
+    "cut": 30,
+    "packageid": 1123810
+   }
+  ]
+ },
+ {
+  "appid": 1808500,
+  "name": "ARC Raiders",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/b1379225bf8d50a4b4ad26aad2c637278222a20c/header_alt_assets_7.jpg?t=1791231034",
+  "release_date": "2025년 10월 30일",
+  "steam_url": "https://store.steampowered.com/app/1808500/",
+  "reviews_all": 418376,
+  "positive_all": 341876,
+  "reviews_ko": 4184,
+  "positive_ko": 3284,
+  "gap_pp": -3.2,
+  "updated_at": "2026-10-06T13:03:00+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/capsule_616x353.jpg",
+  "playtime_median_h_all": 38.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 209.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 16785,
+  "players_at": "2026-10-07T10:05:49+00:00",
+  "steam_rank": 64,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Arc Raiders",
+    "price": 30450,
+    "regular": 60900,
+    "cut": 50,
+    "packageid": 1399488
+   },
+   {
+    "name": "Arc Raiders - Deluxe Edition",
+    "price": 45450,
+    "regular": 90900,
+    "cut": 50,
+    "packageid": 1360210
+   }
+  ]
+ },
+ {
+  "appid": 227300,
+  "name": "Euro Truck Simulator 2",
+  "genres": [
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1790001194",
+  "release_date": "2012년 10월 12일",
+  "steam_url": "https://store.steampowered.com/app/227300/",
+  "reviews_all": 947249,
+  "positive_all": 923032,
+  "reviews_ko": 12010,
+  "positive_ko": 11586,
+  "gap_pp": -1.0,
+  "updated_at": "2026-10-06T13:03:07+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/capsule_616x353.jpg",
+  "playtime_median_h_all": 21.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 0,
+  "playtime_median_h_ko": 54.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 22195,
+  "players_at": "2026-10-07T10:05:52+00:00",
+  "steam_rank": 61,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Euro Truck Simulator 2",
+    "price": 6200,
+    "regular": 24800,
+    "cut": 75,
+    "packageid": 19007
+   }
+  ]
+ },
+ {
+  "appid": 2879840,
+  "name": "방 탈출 시뮬레이터2",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "캐주얼",
+   "인디",
+   "대규모 멀티플레이어",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879840/debbf74e765c74bce83f27619d85ead21d393e47/header_alt_assets_3.jpg?t=1790013058",
+  "release_date": "2025년 10월 27일",
+  "steam_url": "https://store.steampowered.com/app/2879840/",
+  "reviews_all": 4867,
+  "positive_all": 4476,
+  "reviews_ko": 513,
+  "positive_ko": 460,
+  "gap_pp": -2.3,
+  "updated_at": "2026-10-06T13:03:15+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879840/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 18.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 13.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 657,
+  "players_at": "2026-10-07T10:05:56+00:00",
+  "steam_rank": 70,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Escape Simulator 2",
+    "price": 13930,
+    "regular": 19900,
+    "cut": 30,
+    "packageid": 1026873
+   }
+  ]
+ },
+ {
+  "appid": 286160,
+  "name": "Tabletop Simulator",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "none",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg?t=1772387518",
+  "release_date": "2015년 6월 5일",
+  "steam_url": "https://store.steampowered.com/app/286160/",
+  "reviews_all": 74686,
+  "positive_all": 71656,
+  "reviews_ko": 2623,
+  "positive_ko": 2498,
+  "gap_pp": -0.7,
+  "updated_at": "2026-10-06T13:03:23+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/capsule_616x353.jpg",
+  "playtime_median_h_all": 20.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 8,
+  "playtime_median_h_ko": 26.6,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 10,
+  "current_players": 3110,
+  "players_at": "2026-10-07T10:05:58+00:00",
+  "steam_rank": 76,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Tabletop Simulator",
+    "price": 10750,
+    "regular": 21500,
+    "cut": 50,
+    "packageid": 39685
+   },
+   {
+    "name": "Tabletop Simulator - Commercial License",
+    "price": 21000,
+    "regular": 21000,
+    "cut": 0,
+    "packageid": 485983
+   },
+   {
+    "name": "Tabletop Simulator 4-pack",
+    "price": 31500,
+    "regular": 63000,
+    "cut": 50,
+    "packageid": 42325
+   }
+  ]
+ },
+ {
+  "appid": 1817190,
+  "name": "Marvel’s Spider-Man: Miles Morales",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1787838710",
+  "release_date": "2022년 11월 18일",
+  "steam_url": "https://store.steampowered.com/app/1817190/",
+  "reviews_all": 57046,
+  "positive_all": 53230,
+  "reviews_ko": 1418,
+  "positive_ko": 1302,
+  "gap_pp": -1.5,
+  "updated_at": "2026-10-06T13:03:31+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/capsule_616x353.jpg",
+  "playtime_median_h_all": 15.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 13.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 871,
+  "players_at": "2026-10-07T10:06:01+00:00",
+  "steam_rank": 58,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "price": 21120,
+    "regular": 52800,
+    "cut": 60,
+    "packageid": 653430
+   },
+   {
+    "name": "Marvel's Spider-Man: Miles Morales - Commercial License",
+    "price": 44800,
+    "regular": 44800,
+    "cut": 0,
+    "packageid": 797966
+   }
+  ]
+ },
+ {
+  "appid": 2050650,
+  "name": "BIOHAZARD RE:4",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header_koreana.jpg?t=1772502922",
+  "release_date": "2023년 3월 23일",
+  "steam_url": "https://store.steampowered.com/app/2050650/",
+  "reviews_all": 281487,
+  "positive_all": 274088,
+  "reviews_ko": 5044,
+  "positive_ko": 4941,
+  "gap_pp": 0.6,
+  "updated_at": "2026-10-06T13:03:39+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg",
+  "playtime_median_h_all": 18.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 25.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 10032,
+  "players_at": "2026-10-07T10:06:05+00:00",
+  "steam_rank": 62,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "BIOHAZARD RE:4",
+    "price": 12450,
+    "regular": 49800,
+    "cut": 75,
+    "packageid": 794618
+   },
+   {
+    "name": "BIOHAZARD RE:4 Gold Edition",
+    "price": 18540,
+    "regular": 61800,
+    "cut": 70,
+    "packageid": 994065
+   },
+   {
+    "name": "BIOHAZARD Remake Trilogy",
+    "price": 33520,
+    "regular": 79800,
+    "cut": 58,
+    "packageid": 1142889
+   }
+  ]
+ },
+ {
+  "appid": 3595270,
+  "name": "콜 오브 듀티: 모던 워페어 3 2023",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/7d0f21912a075c33bbb5ea558100e187ceb234ac/header.jpg?t=1778886604",
+  "release_date": "2023년 11월 10일",
+  "steam_url": "https://store.steampowered.com/app/3595270/",
+  "reviews_all": 23659,
+  "positive_all": 11275,
+  "reviews_ko": 373,
+  "positive_ko": 130,
+  "gap_pp": -12.8,
+  "updated_at": "2026-10-06T13:03:47+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 8.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 15,
+  "playtime_median_h_ko": 11.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 7,
+  "current_players": 5568,
+  "players_at": "2026-10-07T10:06:07+00:00",
+  "steam_rank": 60,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "콜 오브 듀티: 모던 워페어 3 2023",
+    "price": 21120,
+    "regular": 84500,
+    "cut": 75,
+    "packageid": 965388
+   }
+  ]
+ },
+ {
+  "appid": 3280350,
+  "name": "DEATH STRANDING 2: ON THE BEACH",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1774022345",
+  "release_date": "2026년 3월 19일",
+  "steam_url": "https://store.steampowered.com/app/3280350/",
+  "reviews_all": 27951,
+  "positive_all": 26590,
+  "reviews_ko": 687,
+  "positive_ko": 642,
+  "gap_pp": -1.7,
+  "updated_at": "2026-10-06T13:03:55+00:00",
+  "hero_image": null,
+  "capsule_image": null,
+  "playtime_median_h_all": 49.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 64.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 1738,
+  "players_at": "2026-10-07T10:06:10+00:00",
+  "steam_rank": 84,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "DEATH STRANDING 2: ON THE BEACH",
+    "price": 63840,
+    "regular": 79800,
+    "cut": 20,
+    "packageid": 1454700
+   },
+   {
+    "name": "DEATH STRANDING 2: ON THE BEACH - Digital Deluxe Edition",
+    "price": 71840,
+    "regular": 89800,
+    "cut": 20,
+    "packageid": 1451834
+   }
+  ]
+ },
+ {
+  "appid": 2001120,
+  "name": "Split Fiction",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
+  "release_date": "2025년 3월 6일",
+  "steam_url": "https://store.steampowered.com/app/2001120/",
+  "reviews_all": 127915,
+  "positive_all": 123946,
+  "reviews_ko": 2970,
+  "positive_ko": 2911,
+  "gap_pp": 1.1,
+  "updated_at": "2026-10-06T13:04:04+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 15.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 13.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 5669,
+  "players_at": "2026-10-07T10:06:13+00:00",
+  "steam_rank": 63,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Split Fiction",
+    "price": 36400,
+    "regular": 56000,
+    "cut": 35,
+    "packageid": 722525
+   }
+  ]
+ },
+ {
+  "appid": 289070,
+  "name": "Sid Meier’s Civilization 6",
+  "genres": [
+   "전략"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg?t=1784651829",
+  "release_date": "2016년 10월 20일",
+  "steam_url": "https://store.steampowered.com/app/289070/",
+  "reviews_all": 379979,
+  "positive_all": 327426,
+  "reviews_ko": 12493,
+  "positive_ko": 11194,
+  "gap_pp": 3.4,
+  "updated_at": "2026-10-06T13:04:12+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/capsule_616x353.jpg",
+  "playtime_median_h_all": 48.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 114.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 28155,
+  "players_at": "2026-10-07T10:06:16+00:00",
+  "steam_rank": 49,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Sid Meier's Civilization 6",
+    "price": 6500,
+    "regular": 65000,
+    "cut": 90,
+    "packageid": 123215
+   }
+  ]
+ },
+ {
+  "appid": 2399830,
+  "name": "ARK: Survival Ascended",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "대규모 멀티플레이어",
+   "RPG",
+   "앞서 해보기"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1779293241",
+  "release_date": "2023년 10월 25일",
+  "steam_url": "https://store.steampowered.com/app/2399830/",
+  "reviews_all": 118914,
+  "positive_all": 71216,
+  "reviews_ko": 1011,
+  "positive_ko": 523,
+  "gap_pp": -8.2,
+  "updated_at": "2026-10-06T13:04:20+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/capsule_616x353.jpg",
+  "playtime_median_h_all": 18.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 9,
+  "playtime_median_h_ko": 52.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 12,
+  "current_players": 15136,
+  "players_at": "2026-10-07T10:06:19+00:00",
+  "steam_rank": 65,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "ARK: Survival Ascended",
+    "price": 15250,
+    "regular": 61000,
+    "cut": 75,
+    "packageid": 863377
+   }
+  ]
+ },
+ {
+  "appid": 949230,
+  "name": "Cities: Skylines 2",
+  "genres": [
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1790873944",
+  "release_date": "2023년 10월 24일",
+  "steam_url": "https://store.steampowered.com/app/949230/",
+  "reviews_all": 92305,
+  "positive_all": 51681,
+  "reviews_ko": 1977,
+  "positive_ko": 1125,
+  "gap_pp": 0.9,
+  "updated_at": "2026-10-06T13:04:28+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/capsule_616x353.jpg",
+  "playtime_median_h_all": 58.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 7,
+  "playtime_median_h_ko": 81.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 8741,
+  "players_at": "2026-10-07T10:06:22+00:00",
+  "steam_rank": 85,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Cities: Skylines 2",
+    "price": 38500,
+    "regular": 55000,
+    "cut": 30,
+    "packageid": 885642
+   },
+   {
+    "name": "Cities: Skylines 2 - Starter Editon",
+    "price": 57600,
+    "regular": 72000,
+    "cut": 20,
+    "packageid": 1614365
+   }
+  ]
+ },
+ {
+  "appid": 1903340,
+  "name": "클레르 옵스퀴르: 33 원정대",
+  "genres": [
+   "액션",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1782830877",
+  "release_date": "2025년 4월 24일",
+  "steam_url": "https://store.steampowered.com/app/1903340/",
+  "reviews_all": 280246,
+  "positive_all": 266861,
+  "reviews_ko": 6043,
+  "positive_ko": 5741,
+  "gap_pp": -0.2,
+  "updated_at": "2026-10-06T13:04:36+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/capsule_616x353.jpg",
+  "playtime_median_h_all": 34.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 43.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 3339,
+  "players_at": "2026-10-07T10:06:25+00:00",
+  "steam_rank": 73,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "클레르 옵스퀴르: 33 원정대",
+    "price": 43840,
+    "regular": 54800,
+    "cut": 20,
+    "packageid": 685434
+   },
+   {
+    "name": "클레르 옵스퀴르: 33 원정대 디럭스 에디션",
+    "price": 52560,
+    "regular": 65700,
+    "cut": 20,
+    "packageid": 1218615
+   }
+  ]
+ },
+ {
+  "appid": 1888930,
+  "name": "The Last of Us Part I",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg?t=1750959031",
+  "release_date": "2023년 3월 28일",
+  "steam_url": "https://store.steampowered.com/app/1888930/",
+  "reviews_all": 110847,
+  "positive_all": 93832,
+  "reviews_ko": 2144,
+  "positive_ko": 1689,
+  "gap_pp": -5.9,
+  "updated_at": "2026-10-06T13:04:44+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/capsule_616x353.jpg",
+  "playtime_median_h_all": 17.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 18.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 2272,
+  "players_at": "2026-10-07T10:06:28+00:00",
+  "steam_rank": 59,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "The Last of Us Part I",
+    "price": 31400,
+    "regular": 62800,
+    "cut": 50,
+    "packageid": 829080
+   },
+   {
+    "name": "The Last of Us Part I - Commercial License",
+    "price": 58800,
+    "regular": 58800,
+    "cut": 0,
+    "packageid": 854482
+   }
+  ]
+ },
+ {
+  "appid": 489830,
+  "name": "The Elder Scrolls V: Skyrim Special Edition",
+  "genres": [
+   "RPG"
+  ],
+  "korean_support": "none",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+  "release_date": "2016년 10월 27일",
+  "steam_url": "https://store.steampowered.com/app/489830/",
+  "reviews_all": 379514,
+  "positive_all": 349887,
+  "reviews_ko": 5541,
+  "positive_ko": 4830,
+  "gap_pp": -5.0,
+  "updated_at": "2026-10-06T13:04:52+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_616x353.jpg",
+  "playtime_median_h_all": 10.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 10,
+  "playtime_median_h_ko": 158.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 20321,
+  "players_at": "2026-10-07T10:06:31+00:00",
+  "steam_rank": 72,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "price": 4500,
+    "regular": 45000,
+    "cut": 90,
+    "packageid": 110687
+   },
+   {
+    "name": "The Elder Scrolls V: Skyrim Anniversary Edition",
+    "price": 18480,
+    "regular": 56000,
+    "cut": 67,
+    "packageid": 626153
+   }
+  ]
+ },
+ {
+  "appid": 1551360,
+  "name": "Forza Horizon 5",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "레이싱",
+   "시뮬레이션",
+   "스포츠"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
+  "release_date": "2021년 11월 8일",
+  "steam_url": "https://store.steampowered.com/app/1551360/",
+  "reviews_all": 282698,
+  "positive_all": 252140,
+  "reviews_ko": 5424,
+  "positive_ko": 4782,
+  "gap_pp": -1.0,
+  "updated_at": "2026-10-06T13:05:00+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_616x353.jpg",
+  "playtime_median_h_all": 9.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 40.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 8899,
+  "players_at": "2026-10-07T10:06:34+00:00",
+  "steam_rank": 77,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Forza Horizon 5 스탠다드 에디션",
+    "price": 23960,
+    "regular": 59900,
+    "cut": 60,
+    "packageid": 547831
+   },
+   {
+    "name": "Forza Horizon 5 디럭스 에디션",
+    "price": 31960,
+    "regular": 79900,
+    "cut": 60,
+    "packageid": 596608
+   },
+   {
+    "name": "Forza Horizon 5 프리미엄 에디션",
+    "price": 39960,
+    "regular": 99900,
+    "cut": 60,
+    "packageid": 596609
+   }
+  ]
+ },
+ {
+  "appid": 4570720,
+  "name": "드래곤소드 : 어웨이크닝",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1788398112",
+  "release_date": "2026년 7월 22일",
+  "steam_url": "https://store.steampowered.com/app/4570720/",
+  "reviews_all": 13190,
+  "positive_all": 11572,
+  "reviews_ko": 1706,
+  "positive_ko": 1567,
+  "gap_pp": 4.1,
+  "updated_at": "2026-10-06T13:05:08+00:00",
+  "hero_image": null,
+  "capsule_image": null,
+  "playtime_median_h_all": 18.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 10,
+  "playtime_median_h_ko": 46.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 7,
+  "current_players": 966,
+  "players_at": "2026-10-07T10:06:37+00:00",
+  "steam_rank": 69,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "드래곤소드 : 어웨이크닝",
+    "price": 29700,
+    "regular": 33000,
+    "cut": 10,
+    "packageid": 1593365
+   }
+  ]
+ },
+ {
+  "appid": 2322010,
+  "name": "갓 오브 워 라그나로크",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
+  "release_date": "2024년 9월 19일",
+  "steam_url": "https://store.steampowered.com/app/2322010/",
+  "reviews_all": 50700,
+  "positive_all": 45088,
+  "reviews_ko": 1041,
+  "positive_ko": 846,
+  "gap_pp": -7.7,
+  "updated_at": "2026-10-06T13:05:16+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/capsule_616x353.jpg",
+  "playtime_median_h_all": 31.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 50.4,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 1589,
+  "players_at": "2026-10-07T10:07:26+00:00",
+  "steam_rank": 68,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "갓 오브 워 라그나로크",
+    "price": 42080,
+    "regular": 62800,
+    "cut": 33,
+    "packageid": 1070850
+   }
+  ]
+ },
+ {
+  "appid": 582010,
+  "name": "Monster Hunter: World",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1773328926",
+  "release_date": "2018년 8월 8일",
+  "steam_url": "https://store.steampowered.com/app/582010/",
+  "reviews_all": 518693,
+  "positive_all": 460641,
+  "reviews_ko": 34454,
+  "positive_ko": 30193,
+  "gap_pp": -1.2,
+  "updated_at": "2026-10-06T13:07:07+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/capsule_616x353.jpg",
+  "playtime_median_h_all": 54.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 0,
+  "playtime_median_h_ko": 133.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 16381,
+  "players_at": "2026-10-07T10:07:29+00:00",
+  "steam_rank": 74,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Monster Hunter: World",
+    "price": 9570,
+    "regular": 36800,
+    "cut": 74,
+    "packageid": 281619
+   },
+   {
+    "name": "Monster Hunter: World - DLC Collection",
+    "price": 12450,
+    "regular": 49800,
+    "cut": 75,
+    "packageid": 1194316
+   },
+   {
+    "name": "MHW:I - DLC Collection",
+    "price": 37350,
+    "regular": 49800,
+    "cut": 25,
+    "packageid": 1194317
+   },
+   {
+    "name": "Monster Hunter World + Iceborne DLC Collection",
+    "price": 43260,
+    "regular": 61800,
+    "cut": 30,
+    "packageid": 1194318
+   }
+  ]
+ },
+ {
+  "appid": 1426210,
+  "name": "It Takes Two",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_koreana.jpg?t=1777395376",
+  "release_date": "2021년 3월 25일",
+  "steam_url": "https://store.steampowered.com/app/1426210/",
+  "reviews_all": 271433,
+  "positive_all": 259054,
+  "reviews_ko": 8506,
+  "positive_ko": 8234,
+  "gap_pp": 1.4,
+  "updated_at": "2026-10-06T13:07:15+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_616x353.jpg",
+  "playtime_median_h_all": 12.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 12.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 9540,
+  "players_at": "2026-10-07T10:07:32+00:00",
+  "steam_rank": 87,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "It Takes Two",
+    "price": 13200,
+    "regular": 44000,
+    "cut": 70,
+    "packageid": 500812
+   }
+  ]
+ },
+ {
+  "appid": 1364780,
+  "name": "Street Fighter 6",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1789611360",
+  "release_date": "2023년 6월 1일",
+  "steam_url": "https://store.steampowered.com/app/1364780/",
+  "reviews_all": 80452,
+  "positive_all": 65941,
+  "reviews_ko": 2107,
+  "positive_ko": 1727,
+  "gap_pp": 0.0,
+  "updated_at": "2026-10-06T13:07:23+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/capsule_616x353.jpg",
+  "playtime_median_h_all": 16.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 76.6,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 7,
+  "current_players": 21434,
+  "players_at": "2026-10-07T10:07:35+00:00",
+  "steam_rank": 71,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Street Fighter 6",
+    "price": 17920,
+    "regular": 44800,
+    "cut": 60,
+    "packageid": 820656
+   },
+   {
+    "name": "Street Fighter 6",
+    "price": 44800,
+    "regular": 44800,
+    "cut": 0,
+    "packageid": 1535191
+   },
+   {
+    "name": "Street Fighter 6 Years 1-2 Fighters Edition",
+    "price": 45370,
+    "regular": 69800,
+    "cut": 35,
+    "packageid": 1313468
+   }
+  ]
+ },
+ {
+  "appid": 2444750,
+  "name": "Shape of Dreams",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/cb79c21477092b71ba4f8558bbcead5f6b234837/header_alt_assets_5.jpg?t=1790918045",
+  "release_date": "2025년 9월 10일",
+  "steam_url": "https://store.steampowered.com/app/2444750/",
+  "reviews_all": 21152,
+  "positive_all": 19032,
+  "reviews_ko": 2218,
+  "positive_ko": 2078,
+  "gap_pp": 3.7,
+  "updated_at": "2026-10-06T13:07:30+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/capsule_616x353.jpg",
+  "playtime_median_h_all": 24.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 39.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 3247,
+  "players_at": "2026-10-07T10:07:38+00:00",
+  "steam_rank": 81,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Shape of Dreams",
+    "price": 18900,
+    "regular": 27000,
+    "cut": 30,
+    "packageid": 879838
+   }
+  ]
+ },
+ {
+  "appid": 568220,
+  "name": "Lobotomy Corporation | Monster Management Simulation",
+  "genres": [
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/header.jpg?t=1636694188",
+  "release_date": "2018년 4월 9일",
+  "steam_url": "https://store.steampowered.com/app/568220/",
+  "reviews_all": 57608,
+  "positive_all": 54298,
+  "reviews_ko": 9763,
+  "positive_ko": 8780,
+  "gap_pp": -4.3,
+  "updated_at": "2026-10-06T13:07:38+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/capsule_616x353.jpg",
+  "playtime_median_h_all": 16.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 63.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 3239,
+  "players_at": "2026-10-07T10:07:41+00:00",
+  "steam_rank": 75,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Lobotomy Corporation | Monster Management Simulation",
+    "price": 8840,
+    "regular": 26000,
+    "cut": 66,
+    "packageid": 143748
+   }
+  ]
+ },
+ {
+  "appid": 1687950,
+  "name": "페르소나 5 더 로열",
+  "genres": [
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header_koreana.jpg?t=1783356822",
+  "release_date": "2022년 10월 20일",
+  "steam_url": "https://store.steampowered.com/app/1687950/",
+  "reviews_all": 141354,
+  "positive_all": 136196,
+  "reviews_ko": 3432,
+  "positive_ko": 3275,
+  "gap_pp": -0.9,
+  "updated_at": "2026-10-06T13:07:46+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_616x353.jpg",
+  "playtime_median_h_all": 61.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 100.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 8183,
+  "players_at": "2026-10-07T10:07:44+00:00",
+  "steam_rank": 79,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Persona 5 Royal",
+    "price": 20940,
+    "regular": 69800,
+    "cut": 70,
+    "packageid": 601219
+   }
+  ]
+ },
+ {
+  "appid": 2399420,
+  "name": "Le Mans Ultimate",
+  "genres": [
+   "레이싱",
+   "시뮬레이션",
+   "스포츠"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399420/f510badbf573eecdf529ae735a49331f4b9919be/header.jpg?t=1790071212",
+  "release_date": "2025년 7월 22일",
+  "steam_url": "https://store.steampowered.com/app/2399420/",
+  "reviews_all": 20587,
+  "positive_all": 16208,
+  "reviews_ko": 267,
+  "positive_ko": 228,
+  "gap_pp": 6.7,
+  "updated_at": "2026-10-06T13:07:54+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399420/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399420/capsule_616x353.jpg",
+  "playtime_median_h_all": 31.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 7,
+  "playtime_median_h_ko": 50.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 5,
+  "current_players": 2194,
+  "players_at": "2026-10-07T10:07:47+00:00",
+  "steam_rank": 80,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Le Mans Ultimate",
+    "price": 30250,
+    "regular": 55000,
+    "cut": 45,
+    "packageid": 863237
+   }
+  ]
+ },
+ {
+  "appid": 252490,
+  "name": "Rust",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "대규모 멀티플레이어",
+   "RPG"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+  "release_date": "2018년 2월 8일",
+  "steam_url": "https://store.steampowered.com/app/252490/",
+  "reviews_all": 1405119,
+  "positive_all": 1218098,
+  "reviews_ko": 9382,
+  "positive_ko": 7235,
+  "gap_pp": -9.6,
+  "updated_at": "2026-10-06T13:08:03+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/capsule_616x353.jpg",
+  "playtime_median_h_all": 85.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 328.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 5,
+  "current_players": 67080,
+  "players_at": "2026-10-07T10:07:50+00:00",
+  "steam_rank": 88,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "multi",
+   "coop"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Rust",
+    "price": 21000,
+    "regular": 42000,
+    "cut": 50,
+    "packageid": 244390
+   }
+  ]
+ },
+ {
+  "appid": 270880,
+  "name": "American Truck Simulator",
+  "genres": [
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/2cfd6711c21677e7611985d2bacc3a3bcfac2660/header_alt_assets_8.jpg?t=1790759835",
+  "release_date": "2016년 2월 2일",
+  "steam_url": "https://store.steampowered.com/app/270880/",
+  "reviews_all": 197477,
+  "positive_all": 191395,
+  "reviews_ko": 1448,
+  "positive_ko": 1393,
+  "gap_pp": -0.7,
+  "updated_at": "2026-10-06T13:08:11+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/capsule_616x353.jpg",
+  "playtime_median_h_all": 26.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 49.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 6389,
+  "players_at": "2026-10-07T10:07:53+00:00",
+  "steam_rank": 78,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "American Truck Simulator",
+    "price": 6200,
+    "regular": 24800,
+    "cut": 75,
+    "packageid": 36006
+   }
+  ]
+ },
+ {
+  "appid": 1984270,
+  "name": "디지몬 스토리 타임 스트레인저",
+  "genres": [
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/c48b5fb089cba616eb0c8c7b1db067456b28a54e/header_koreana.jpg?t=1790325181",
+  "release_date": "2025년 10월 2일",
+  "steam_url": "https://store.steampowered.com/app/1984270/",
+  "reviews_all": 22780,
+  "positive_all": 20368,
+  "reviews_ko": 1708,
+  "positive_ko": 1418,
+  "gap_pp": -6.4,
+  "updated_at": "2026-10-06T13:08:18+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 47.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 55.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 954,
+  "players_at": "2026-10-07T10:07:56+00:00",
+  "steam_rank": 101,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "디지몬 스토리 타임 스트레인저",
+    "price": 39790,
+    "regular": 69800,
+    "cut": 43,
+    "packageid": 1325197
+   },
+   {
+    "name": "디지몬 스토리 타임 스트레인저 디럭스 에디션",
+    "price": 59880,
+    "regular": 99800,
+    "cut": 40,
+    "packageid": 1325198
+   },
+   {
+    "name": "디지몬 스토리 타임 스트레인저 얼티밋 에디션",
+    "price": 81120,
+    "regular": 124800,
+    "cut": 35,
+    "packageid": 1325199
+   }
+  ]
+ },
+ {
+  "appid": 1627720,
+  "name": "P의 거짓",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
+  "release_date": "2023년 9월 18일",
+  "steam_url": "https://store.steampowered.com/app/1627720/",
+  "reviews_all": 83567,
+  "positive_all": 76554,
+  "reviews_ko": 5724,
+  "positive_ko": 5295,
+  "gap_pp": 0.9,
+  "updated_at": "2026-10-06T13:08:26+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/capsule_616x353.jpg",
+  "playtime_median_h_all": 37.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 46.2,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 1437,
+  "players_at": "2026-10-07T10:07:59+00:00",
+  "steam_rank": 53,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Lies of P",
+    "price": 32400,
+    "regular": 64800,
+    "cut": 50,
+    "packageid": 877649
+   }
+  ]
+ },
+ {
+  "appid": 594650,
+  "name": "Hunt: Showdown 1896",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/13dc964af3396e26adfe7f9a4b1f194b453c8578/header_alt_assets_29.jpg?t=1790938742",
+  "release_date": "2019년 8월 27일",
+  "steam_url": "https://store.steampowered.com/app/594650/",
+  "reviews_all": 279643,
+  "positive_all": 206097,
+  "reviews_ko": 2048,
+  "positive_ko": 1538,
+  "gap_pp": 1.4,
+  "updated_at": "2026-10-06T13:08:34+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/capsule_616x353.jpg",
+  "playtime_median_h_all": 161.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 184.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 13991,
+  "players_at": "2026-10-07T10:08:02+00:00",
+  "steam_rank": 157,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Hunt: Showdown 1896",
+    "price": 14680,
+    "regular": 36700,
+    "cut": 60,
+    "packageid": 155279
+   },
+   {
+    "name": "Hunt: Showdown 1896 - Starter Edition",
+    "price": 19560,
+    "regular": 48900,
+    "cut": 60,
+    "packageid": 1340886
+   },
+   {
+    "name": "Hunt: Showdown - Commercial License",
+    "price": 49000,
+    "regular": 49000,
+    "cut": 0,
+    "packageid": 306512
+   }
+  ]
+ },
+ {
+  "appid": 3159330,
+  "name": "어쌔신 크리드 섀도우스",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header_koreana.jpg?t=1789746114",
+  "release_date": "2025년 3월 19일",
+  "steam_url": "https://store.steampowered.com/app/3159330/",
+  "reviews_all": 40402,
+  "positive_all": 30174,
+  "reviews_ko": 1352,
+  "positive_ko": 1014,
+  "gap_pp": 0.3,
+  "updated_at": "2026-10-06T13:08:42+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 26.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 9,
+  "playtime_median_h_ko": 54.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 2950,
+  "players_at": "2026-10-07T10:08:05+00:00",
+  "steam_rank": 110,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "어쌔신 크리드 섀도우스",
+    "price": 31600,
+    "regular": 79000,
+    "cut": 60,
+    "packageid": 1121268
+   },
+   {
+    "name": "어쌔신 크리드 섀도우스 디지털 디럭스 에디션",
+    "price": 39600,
+    "regular": 99000,
+    "cut": 60,
+    "packageid": 1190004
+   },
+   {
+    "name": "어쌔신 크리드 섀도우스 프리미엄 에디션",
+    "price": 56250,
+    "regular": 125000,
+    "cut": 55,
+    "packageid": 1380904
+   }
+  ]
+ },
+ {
+  "appid": 3008130,
+  "name": "Dying Light: The Beast",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/header.jpg?t=1789646537",
+  "release_date": "2025년 9월 18일",
+  "steam_url": "https://store.steampowered.com/app/3008130/",
+  "reviews_all": 72850,
+  "positive_all": 62880,
+  "reviews_ko": 1021,
+  "positive_ko": 785,
+  "gap_pp": -9.4,
+  "updated_at": "2026-10-06T13:08:50+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 22.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 40.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 2532,
+  "players_at": "2026-10-07T10:08:08+00:00",
+  "steam_rank": 152,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Dying Light: The Beast",
+    "price": 32900,
+    "regular": 65800,
+    "cut": 50,
+    "packageid": 1070051
+   },
+   {
+    "name": "Dying Light: The Beast Deluxe Edition",
+    "price": 38350,
+    "regular": 76700,
+    "cut": 50,
+    "packageid": 1305353
+   },
+   {
+    "name": "Dying Light: The Beast RL Definitive Edition",
+    "price": 49350,
+    "regular": 98700,
+    "cut": 50,
+    "packageid": 1574857
+   }
+  ]
+ },
+ {
+  "appid": 728880,
+  "name": "Overcooked! 2",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "인디"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/9305414f49b2f7aee7f7198dc507d6b66383fdd6/header.jpg?t=1789548883",
+  "release_date": "2018년 8월 7일",
+  "steam_url": "https://store.steampowered.com/app/728880/",
+  "reviews_all": 84800,
+  "positive_all": 76660,
+  "reviews_ko": 4868,
+  "positive_ko": 4624,
+  "gap_pp": 4.6,
+  "updated_at": "2026-10-06T13:08:58+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/capsule_616x353.jpg",
+  "playtime_median_h_all": 8.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 6,
+  "playtime_median_h_ko": 9.4,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 11,
+  "current_players": 4652,
+  "players_at": "2026-10-07T10:08:11+00:00",
+  "steam_rank": 83,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Overcooked! 2",
+    "price": 6500,
+    "regular": 26000,
+    "cut": 75,
+    "packageid": 279940
+   },
+   {
+    "name": "Overcooked! 2 - Gourmet Edition",
+    "price": 12670,
+    "regular": 50670,
+    "cut": 75,
+    "packageid": 1066582
+   }
+  ]
+ },
+ {
+  "appid": 1593500,
+  "name": "God of War",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+  "release_date": "2022년 1월 14일",
+  "steam_url": "https://store.steampowered.com/app/1593500/",
+  "reviews_all": 185539,
+  "positive_all": 177983,
+  "reviews_ko": 4021,
+  "positive_ko": 3802,
+  "gap_pp": -1.4,
+  "updated_at": "2026-10-06T13:09:06+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/capsule_616x353.jpg",
+  "playtime_median_h_all": 20.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 36.3,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 1731,
+  "players_at": "2026-10-07T10:08:14+00:00",
+  "steam_rank": 103,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "God of War",
+    "price": 21120,
+    "regular": 52800,
+    "cut": 60,
+    "packageid": 564166
+   },
+   {
+    "name": "God of War - Commercial License",
+    "price": 45800,
+    "regular": 45800,
+    "cut": 0,
+    "packageid": 678445
+   }
+  ]
+ },
+ {
+  "appid": 3812600,
+  "name": "ReStory: Chill Electronics Repairs",
+  "genres": [
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c6b42e4ff45667bddcffc9710ed4c4184b6d6950/header_alt_assets_3_koreana.jpg?t=1790169325",
+  "release_date": "2026년 8월 6일",
+  "steam_url": "https://store.steampowered.com/app/3812600/",
+  "reviews_all": 11337,
+  "positive_all": 10796,
+  "reviews_ko": 295,
+  "positive_ko": 276,
+  "gap_pp": -1.7,
+  "updated_at": "2026-10-06T13:09:14+00:00",
+  "hero_image": null,
+  "capsule_image": null,
+  "playtime_median_h_all": 10.9,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 15.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 1685,
+  "players_at": "2026-10-07T10:08:17+00:00",
+  "steam_rank": 139,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "ReStory",
+    "price": 15920,
+    "regular": 19900,
+    "cut": 20,
+    "packageid": 1341041
+   }
+  ]
+ },
+ {
+  "appid": 219990,
+  "name": "Grim Dawn",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219990/header.jpg?t=1785095531",
+  "release_date": "2016년 2월 25일",
+  "steam_url": "https://store.steampowered.com/app/219990/",
+  "reviews_all": 110139,
+  "positive_all": 102898,
+  "reviews_ko": 1756,
+  "positive_ko": 1615,
+  "gap_pp": -1.5,
+  "updated_at": "2026-10-06T13:09:27+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219990/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219990/capsule_616x353.jpg",
+  "playtime_median_h_all": 34.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 91.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 5,
+  "current_players": 4242,
+  "players_at": "2026-10-07T10:08:20+00:00",
+  "steam_rank": 94,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Grim Dawn",
+    "price": 3970,
+    "regular": 26500,
+    "cut": 85,
+    "packageid": 32132
+   }
+  ]
+ },
+ {
+  "appid": 251570,
+  "name": "7 Days to Die",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1788209289",
+  "release_date": "2024년 7월 25일",
+  "steam_url": "https://store.steampowered.com/app/251570/",
+  "reviews_all": 401820,
+  "positive_all": 349502,
+  "reviews_ko": 3873,
+  "positive_ko": 3339,
+  "gap_pp": -0.8,
+  "updated_at": "2026-10-06T13:09:34+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/capsule_616x353.jpg",
+  "playtime_median_h_all": 110.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 127.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 18399,
+  "players_at": "2026-10-07T10:08:23+00:00",
+  "steam_rank": 113,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "7 Days to Die",
+    "price": 25850,
+    "regular": 47000,
+    "cut": 45,
+    "packageid": 30741
+   }
+  ]
+ },
+ {
+  "appid": 1046480,
+  "name": "아이돌마스터 스탈릿 시즌",
+  "genres": [
+   "액션",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046480/header_koreana.jpg?t=1704409921",
+  "release_date": "2021년 10월 13일",
+  "steam_url": "https://store.steampowered.com/app/1046480/",
+  "reviews_all": 4726,
+  "positive_all": 4420,
+  "reviews_ko": 1742,
+  "positive_ko": 1639,
+  "gap_pp": 0.6,
+  "updated_at": "2026-10-06T13:09:42+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046480/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046480/capsule_616x353.jpg",
+  "playtime_median_h_all": 52.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 7,
+  "playtime_median_h_ko": 39.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 7,
+  "current_players": 49,
+  "players_at": "2026-10-07T10:08:26+00:00",
+  "steam_rank": 169,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "아이돌마스터 스탈릿 시즌",
+    "price": 19440,
+    "regular": 64800,
+    "cut": 70,
+    "packageid": 348854
+   },
+   {
+    "name": "아이돌마스터 스탈릿 시즌 디지털 디럭스 에디션",
+    "price": 27840,
+    "regular": 92800,
+    "cut": 70,
+    "packageid": 543020
+   }
+  ]
+ },
+ {
+  "appid": 3059520,
+  "name": "F1 25",
+  "genres": [
+   "레이싱",
+   "스포츠"
+  ],
+  "korean_support": "none",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059520/76dc8ac45f1bd6dec26e04434ca1c8814e7bb330/header.jpg?t=1786646076",
+  "release_date": "2025년 5월 30일",
+  "steam_url": "https://store.steampowered.com/app/3059520/",
+  "reviews_all": 30574,
+  "positive_all": 26586,
+  "reviews_ko": 1038,
+  "positive_ko": 961,
+  "gap_pp": 5.6,
+  "updated_at": "2026-10-06T13:09:50+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059520/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 29.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 42.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 4253,
+  "players_at": "2026-10-07T10:08:29+00:00",
+  "steam_rank": 90,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "F1 25: 2026 Season Edition",
+    "price": 39200,
+    "regular": 56000,
+    "cut": 30,
+    "packageid": 1453566
+   }
+  ]
+ },
+ {
+  "appid": 1285190,
+  "name": "보더랜드 4",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/edc5c69b131148491b79b7f90eda102f525779f3/header_alt_assets_4_koreana.jpg?t=1789422727",
+  "release_date": "2025년 9월 11일",
+  "steam_url": "https://store.steampowered.com/app/1285190/",
+  "reviews_all": 86847,
+  "positive_all": 49989,
+  "reviews_ko": 1411,
+  "positive_ko": 817,
+  "gap_pp": 0.3,
+  "updated_at": "2026-10-06T13:09:58+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/capsule_616x353.jpg",
+  "playtime_median_h_all": 32.7,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 6,
+  "playtime_median_h_ko": 56.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 4107,
+  "players_at": "2026-10-07T10:08:32+00:00",
+  "steam_rank": 112,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "보더랜드 4",
+    "price": 42400,
+    "regular": 84800,
+    "cut": 50,
+    "packageid": 447947
+   },
+   {
+    "name": "보더랜드 4 디럭스 에디션",
+    "price": 59900,
+    "regular": 119800,
+    "cut": 50,
+    "packageid": 1278740
+   },
+   {
+    "name": "보더랜드 4 슈퍼디럭스 에디션",
+    "price": 77450,
+    "regular": 154900,
+    "cut": 50,
+    "packageid": 1278742
+   }
+  ]
+ },
+ {
+  "appid": 2456740,
+  "name": "인조이",
+  "genres": [
+   "어드벤처",
+   "캐주얼",
+   "시뮬레이션",
+   "앞서 해보기"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/89acee5c3d965af802002617d6c130e5e03bd240/header.jpg?t=1777449358",
+  "release_date": "2025년 3월 27일",
+  "steam_url": "https://store.steampowered.com/app/2456740/",
+  "reviews_all": 33279,
+  "positive_all": 25764,
+  "reviews_ko": 1635,
+  "positive_ko": 1185,
+  "gap_pp": -4.9,
+  "updated_at": "2026-10-06T13:10:06+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/capsule_616x353.jpg",
+  "playtime_median_h_all": 21.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 6,
+  "playtime_median_h_ko": 37.4,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 1807,
+  "players_at": "2026-10-07T10:08:35+00:00",
+  "steam_rank": 96,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "inZOI",
+    "price": 35840,
+    "regular": 44800,
+    "cut": 20,
+    "packageid": 884183
+   }
+  ]
+ },
+ {
+  "appid": 699130,
+  "name": "World War Z",
+  "genres": [
+   "액션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/b35277055fbb7e07c26c5e31e4398684c6461d53/header.jpg?t=1791201515",
+  "release_date": "2021년 9월 21일",
+  "steam_url": "https://store.steampowered.com/app/699130/",
+  "reviews_all": 32956,
+  "positive_all": 27165,
+  "reviews_ko": 1216,
+  "positive_ko": 981,
+  "gap_pp": -1.8,
+  "updated_at": "2026-10-06T13:10:14+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/capsule_616x353.jpg",
+  "playtime_median_h_all": 13.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 9,
+  "playtime_median_h_ko": 32.3,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 984,
+  "players_at": "2026-10-07T10:08:38+00:00",
+  "steam_rank": 131,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "World War Z",
+    "price": 8700,
+    "regular": 34800,
+    "cut": 75,
+    "packageid": 804566
+   },
+   {
+    "name": "World War Z: Aftermath",
+    "price": 18500,
+    "regular": 50000,
+    "cut": 63,
+    "packageid": 201132
+   }
+  ]
+ },
+ {
+  "appid": 3241660,
+  "name": "R.E.P.O.",
+  "genres": [
+   "액션",
+   "앞서 해보기"
+  ],
+  "korean_support": "none",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1778158882",
+  "release_date": "2025년 2월 26일",
+  "steam_url": "https://store.steampowered.com/app/3241660/",
+  "reviews_all": 427491,
+  "positive_all": 410368,
+  "reviews_ko": 5052,
+  "positive_ko": 4850,
+  "gap_pp": 0.0,
+  "updated_at": "2026-10-06T13:10:21+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 16.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 29.2,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 7576,
+  "players_at": "2026-10-07T10:08:41+00:00",
+  "steam_rank": 92,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "R.E.P.O.",
+    "price": 6950,
+    "regular": 10700,
+    "cut": 35,
+    "packageid": 1148979
+   }
+  ]
+ },
+ {
+  "appid": 1659040,
+  "name": "HITMAN World of Assassination",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "none",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/c62446d5c95f583a296d7f1b99045a61e2f81dea/header.jpg?t=1790674941",
+  "release_date": "2022년 1월 20일",
+  "steam_url": "https://store.steampowered.com/app/1659040/",
+  "reviews_all": 69954,
+  "positive_all": 61097,
+  "reviews_ko": 665,
+  "positive_ko": 590,
+  "gap_pp": 1.4,
+  "updated_at": "2026-10-06T13:12:07+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/capsule_616x353.jpg",
+  "playtime_median_h_all": 12.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 34.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 5,
+  "current_players": 3471,
+  "players_at": "2026-10-07T10:08:44+00:00",
+  "steam_rank": 127,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "HITMAN World of Assassination Part One",
+    "price": 3200,
+    "regular": 32000,
+    "cut": 90,
+    "packageid": 963307
+   },
+   {
+    "name": "HITMAN World of Assassination",
+    "price": 29400,
+    "regular": 73500,
+    "cut": 60,
+    "packageid": 672746
+   },
+   {
+    "name": "HITMAN World of Assassination Deluxe Edition",
+    "price": 47250,
+    "regular": 105000,
+    "cut": 55,
+    "packageid": 963308
+   }
+  ]
+ },
+ {
+  "appid": 1295660,
+  "name": "시드 마이어의 문명 7",
+  "genres": [
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg?t=1789481137",
+  "release_date": "2025년 2월 10일",
+  "steam_url": "https://store.steampowered.com/app/1295660/",
+  "reviews_all": 62506,
+  "positive_all": 29635,
+  "reviews_ko": 1273,
+  "positive_ko": 504,
+  "gap_pp": -7.8,
+  "updated_at": "2026-10-06T13:12:15+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/capsule_616x353.jpg",
+  "playtime_median_h_all": 26.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 9,
+  "playtime_median_h_ko": 10.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 31,
+  "current_players": 6381,
+  "players_at": "2026-10-07T10:08:47+00:00",
+  "steam_rank": 82,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "시드 마이어의 문명 7",
+    "price": 41500,
+    "regular": 83000,
+    "cut": 50,
+    "packageid": 1098283
+   },
+   {
+    "name": "시드 마이어의 문명 7 디럭스 에디션",
+    "price": 59450,
+    "regular": 118900,
+    "cut": 50,
+    "packageid": 1098273
+   }
+  ]
+ },
+ {
+  "appid": 322330,
+  "name": "Don't Starve Together",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/51e5f44e4e38ce02a985687df4fdc8feb678219b/header.jpg?t=1790287771",
+  "release_date": "2016년 4월 21일",
+  "steam_url": "https://store.steampowered.com/app/322330/",
+  "reviews_all": 544116,
+  "positive_all": 516357,
+  "reviews_ko": 13074,
+  "positive_ko": 12205,
+  "gap_pp": -1.5,
+  "updated_at": "2026-10-06T13:12:24+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/capsule_616x353.jpg",
+  "playtime_median_h_all": 22.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 10,
+  "playtime_median_h_ko": 70.3,
+  "playtime_n_ko": 99,
+  "under_2h_pct_ko": 1,
+  "current_players": 32893,
+  "players_at": "2026-10-07T10:08:50+00:00",
+  "steam_rank": 99,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Don't Starve Together",
+    "price": 5270,
+    "regular": 15500,
+    "cut": 66,
+    "packageid": 68179
+   },
+   {
+    "name": "Don't Starve Together",
+    "price": 15500,
+    "regular": 15500,
+    "cut": 0,
+    "packageid": 198306
+   }
+  ]
+ },
+ {
+  "appid": 3101040,
+  "name": "Magical Girl Witch Trials (魔法少女ノ魔女裁判)",
+  "genres": [
+   "어드벤처",
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "none",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/header.jpg?t=1789891545",
+  "release_date": "2025년 7월 18일",
+  "steam_url": "https://store.steampowered.com/app/3101040/",
+  "reviews_all": 34808,
+  "positive_all": 33592,
+  "reviews_ko": 2793,
+  "positive_ko": 2728,
+  "gap_pp": 1.2,
+  "updated_at": "2026-10-06T13:12:31+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 18.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 23.6,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 1021,
+  "players_at": "2026-10-07T10:08:53+00:00",
+  "steam_rank": 100,
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "魔法少女ノ魔女裁判 (Steam)",
+    "price": 25600,
+    "regular": 32000,
+    "cut": 20,
+    "packageid": 1101478
+   }
+  ]
+ },
+ {
+  "appid": 526870,
+  "name": "Satisfactory",
+  "genres": [
+   "어드벤처",
+   "인디",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1791192059",
+  "release_date": "2024년 9월 10일",
+  "steam_url": "https://store.steampowered.com/app/526870/",
+  "reviews_all": 280632,
+  "positive_all": 272955,
+  "reviews_ko": 4033,
+  "positive_ko": 3905,
+  "gap_pp": -0.4,
+  "updated_at": "2026-10-06T13:12:39+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/capsule_616x353.jpg",
+  "playtime_median_h_all": 39.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 108.2,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 11396,
+  "players_at": "2026-10-07T10:08:56+00:00",
+  "steam_rank": 86,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Satisfactory",
+    "price": 29400,
+    "regular": 42000,
+    "cut": 30,
+    "packageid": 1138280
+   }
+  ]
+ },
+ {
+  "appid": 2221490,
+  "name": "Tom Clancy’s The Division 2",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/751a2dc7345a318d05204e4b0d4cd0b5a58a0fe3/header_alt_assets_11.jpg?t=1790341038",
+  "release_date": "2023년 1월 12일",
+  "steam_url": "https://store.steampowered.com/app/2221490/",
+  "reviews_all": 36935,
+  "positive_all": 28975,
+  "reviews_ko": 1358,
+  "positive_ko": 916,
+  "gap_pp": -11.0,
+  "updated_at": "2026-10-06T13:12:47+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/capsule_616x353.jpg",
+  "playtime_median_h_all": 18.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 9,
+  "playtime_median_h_ko": 88.3,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 7,
+  "current_players": 5679,
+  "players_at": "2026-10-07T10:08:59+00:00",
+  "steam_rank": 150,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Tom Clancy's The Division 2 - Standard Edition",
+    "price": 3400,
+    "regular": 34000,
+    "cut": 90,
+    "packageid": 796567
+   },
+   {
+    "name": "Tom Clancy's The Division 2 - Elite Edition",
+    "price": 69000,
+    "regular": 69000,
+    "cut": 0,
+    "packageid": 1793617
+   },
+   {
+    "name": "Tom Clancy's The Division 2 - Legendary Edition",
+    "price": 79000,
+    "regular": 79000,
+    "cut": 0,
+    "packageid": 1793620
+   }
+  ]
+ },
+ {
+  "appid": 4560660,
+  "name": "Eslabong",
+  "genres": [
+   "액션",
+   "인디",
+   "시뮬레이션",
+   "전략",
+   "앞서 해보기"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/2f57705341159c9893b7626b1b9c55fa0562d4ed/header.jpg?t=1790625897",
+  "release_date": "2026년 8월 24일",
+  "steam_url": "https://store.steampowered.com/app/4560660/",
+  "reviews_all": 1425,
+  "positive_all": 1357,
+  "reviews_ko": 219,
+  "positive_ko": 205,
+  "gap_pp": -1.6,
+  "updated_at": "2026-10-06T13:12:55+00:00",
+  "hero_image": null,
+  "capsule_image": null,
+  "playtime_median_h_all": 17.8,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 9,
+  "playtime_median_h_ko": 38.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 1190,
+  "players_at": "2026-10-07T10:09:02+00:00",
+  "steam_rank": 122,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "Eslabong",
+    "price": 12800,
+    "regular": 16000,
+    "cut": 20,
+    "packageid": 1590049
+   }
+  ]
+ },
+ {
+  "appid": 3844970,
+  "name": "노움 강도단",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/44a9cd63490b7749e00eca15dd39b6ecbbec65ca/header_koreana.jpg?t=1787427131",
+  "release_date": "2026년 6월 10일",
+  "steam_url": "https://store.steampowered.com/app/3844970/",
+  "reviews_all": 5822,
+  "positive_all": 4872,
+  "reviews_ko": 95,
+  "positive_ko": 75,
+  "gap_pp": null,
+  "updated_at": "2026-10-06T13:13:02+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 6.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 16,
+  "playtime_median_h_ko": 4.5,
+  "playtime_n_ko": 95,
+  "under_2h_pct_ko": 32,
+  "current_players": 278,
+  "players_at": "2026-10-07T10:09:05+00:00",
+  "steam_rank": 115,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Burglin' Gnomes",
+    "price": 7350,
+    "regular": 10500,
+    "cut": 30,
+    "packageid": 1352033
+   }
+  ]
+ },
+ {
+  "appid": 2161440,
+  "name": "风帆纪元 Sailing Era",
+  "genres": [
+   "어드벤처",
+   "RPG",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "none",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161440/header.jpg?t=1727606618",
+  "release_date": "2023년 1월 11일",
+  "steam_url": "https://store.steampowered.com/app/2161440/",
+  "reviews_all": 5105,
+  "positive_all": 4016,
+  "reviews_ko": 237,
+  "positive_ko": 215,
+  "gap_pp": 12.0,
+  "updated_at": "2026-10-06T13:13:10+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161440/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161440/capsule_616x353.jpg",
+  "playtime_median_h_all": 74.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 82.4,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 307,
+  "players_at": "2026-10-07T10:09:08+00:00",
+  "steam_rank": 135,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "风帆纪元 Sailing Era",
+    "price": 12150,
+    "regular": 27000,
+    "cut": 55,
+    "packageid": 773315
+   }
+  ]
+ },
+ {
+  "appid": 962130,
+  "name": "Grounded",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg?t=1768264530",
+  "release_date": "2022년 9월 27일",
+  "steam_url": "https://store.steampowered.com/app/962130/",
+  "reviews_all": 96073,
+  "positive_all": 86224,
+  "reviews_ko": 2291,
+  "positive_ko": 2002,
+  "gap_pp": -2.4,
+  "updated_at": "2026-10-06T13:13:17+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/capsule_616x353.jpg",
+  "playtime_median_h_all": 36.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 68.3,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 1994,
+  "players_at": "2026-10-07T10:09:11+00:00",
+  "steam_rank": 104,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Grounded",
+    "price": 19950,
+    "regular": 39900,
+    "cut": 50,
+    "packageid": 314717
+   }
+  ]
+ },
+ {
+  "appid": 3731020,
+  "name": "하숙생이 전부 미녀입니다만? 시즌2",
+  "genres": [
+   "어드벤처",
+   "RPG",
+   "시뮬레이션",
+   "무료 플레이"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731020/9f2495c9a12b123a76ce2f99ae9f48269904ce2c/header_koreana.jpg?t=1787101538",
+  "release_date": "2025년 11월 18일",
+  "steam_url": "https://store.steampowered.com/app/3731020/",
+  "reviews_all": 2548,
+  "positive_all": 2456,
+  "reviews_ko": 189,
+  "positive_ko": 186,
+  "gap_pp": 2.0,
+  "updated_at": "2026-10-06T13:13:25+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731020/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 15.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 11.1,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 7,
+  "current_players": 172,
+  "players_at": "2026-10-07T10:09:14+00:00",
+  "steam_rank": 132,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Five Hearts Under One Roof 2",
+    "price": 18670,
+    "regular": 24900,
+    "cut": 25,
+    "packageid": 1313377
+   }
+  ]
+ },
+ {
+  "appid": 4380490,
+  "name": "냥냥 우체국",
+  "genres": [
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/cfde145bd55c0f57e8da76ce43932bcf0f2faa88/header_koreana.jpg?t=1790596384",
+  "release_date": "2026년 7월 9일",
+  "steam_url": "https://store.steampowered.com/app/4380490/",
+  "reviews_all": 7778,
+  "positive_all": 7180,
+  "reviews_ko": 389,
+  "positive_ko": 356,
+  "gap_pp": -0.8,
+  "updated_at": "2026-10-06T13:13:33+00:00",
+  "hero_image": null,
+  "capsule_image": null,
+  "playtime_median_h_all": 11.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 10.3,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 714,
+  "players_at": "2026-10-07T10:09:17+00:00",
+  "steam_rank": 136,
+  "editions": [
+   {
+    "name": "냥냥 우체국",
+    "price": 8800,
+    "regular": 11000,
+    "cut": 20,
+    "packageid": 1705690
+   }
+  ],
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full"
+ },
+ {
+  "appid": 2102040,
+  "name": "마이 리틀 퍼피",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "캐주얼",
+   "인디"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102040/7f61f236504471719dd53589f61b74589c9c7c53/header.jpg?t=1770862634",
+  "release_date": "2025년 11월 6일",
+  "steam_url": "https://store.steampowered.com/app/2102040/",
+  "reviews_all": 5058,
+  "positive_all": 4935,
+  "reviews_ko": 660,
+  "positive_ko": 640,
+  "gap_pp": -0.6,
+  "updated_at": "2026-10-06T13:13:41+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102040/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102040/capsule_616x353.jpg",
+  "playtime_median_h_all": 5.5,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 1,
+  "playtime_median_h_ko": 5.3,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 23,
+  "players_at": "2026-10-07T10:09:20+00:00",
+  "steam_rank": 130,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "마이 리틀 퍼피",
+    "price": 17400,
+    "regular": 29000,
+    "cut": 40,
+    "packageid": 751340
+   }
+  ]
+ },
+ {
+  "appid": 2531310,
+  "name": "The Last of Us Part 2 Remastered",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
+  "release_date": "2025년 4월 3일",
+  "steam_url": "https://store.steampowered.com/app/2531310/",
+  "reviews_all": 56899,
+  "positive_all": 51684,
+  "reviews_ko": 646,
+  "positive_ko": 460,
+  "gap_pp": -19.6,
+  "updated_at": "2026-10-06T13:13:48+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 23.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 27.9,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 2638,
+  "players_at": "2026-10-07T10:09:23+00:00",
+  "steam_rank": 91,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "The Last of Us Part 2 Remastered",
+    "price": 35380,
+    "regular": 52800,
+    "cut": 33,
+    "packageid": 1219787
+   }
+  ]
+ },
+ {
+  "appid": 1259420,
+  "name": "Days Gone",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
+  "release_date": "2021년 5월 17일",
+  "steam_url": "https://store.steampowered.com/app/1259420/",
+  "reviews_all": 117526,
+  "positive_all": 108972,
+  "reviews_ko": 3113,
+  "positive_ko": 2769,
+  "gap_pp": -3.8,
+  "updated_at": "2026-10-06T13:13:56+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/capsule_616x353.jpg",
+  "playtime_median_h_all": 28.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 50.4,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 6,
+  "current_players": 1351,
+  "players_at": "2026-10-07T10:09:26+00:00",
+  "steam_rank": 121,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "Days Gone",
+    "price": 17920,
+    "regular": 44800,
+    "cut": 60,
+    "packageid": 437418
+   },
+   {
+    "name": "Days Gone - Commercial License",
+    "price": 58800,
+    "regular": 58800,
+    "cut": 0,
+    "packageid": 614862
+   }
+  ]
+ },
+ {
+  "appid": 4704690,
+  "name": "MECCHA CHAMELEON",
+  "genres": [
+   "캐주얼"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1789464996",
+  "release_date": "2026년 6월 9일",
+  "steam_url": "https://store.steampowered.com/app/4704690/",
+  "reviews_all": 90428,
+  "positive_all": 79171,
+  "reviews_ko": 2030,
+  "positive_ko": 1866,
+  "gap_pp": 4.4,
+  "updated_at": "2026-10-06T13:14:04+00:00",
+  "hero_image": null,
+  "capsule_image": null,
+  "playtime_median_h_all": 6.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 11,
+  "playtime_median_h_ko": 7.2,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 10,
+  "current_players": 1965,
+  "players_at": "2026-10-07T10:09:29+00:00",
+  "steam_rank": 106,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "multi"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "MECCHA CHAMELEON",
+    "price": 4580,
+    "regular": 6550,
+    "cut": 30,
+    "packageid": 1637192
+   }
+  ]
+ },
+ {
+  "appid": 1604030,
+  "name": "V Rising",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "대규모 멀티플레이어"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/be49834ab147ad22ba17005fb847c93917d18b97/header.jpg?t=1787038382",
+  "release_date": "2024년 5월 8일",
+  "steam_url": "https://store.steampowered.com/app/1604030/",
+  "reviews_all": 137528,
+  "positive_all": 122330,
+  "reviews_ko": 3141,
+  "positive_ko": 2802,
+  "gap_pp": 0.3,
+  "updated_at": "2026-10-06T13:14:12+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/capsule_616x353.jpg",
+  "playtime_median_h_all": 31.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 55.7,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 2,
+  "current_players": 2563,
+  "players_at": "2026-10-07T10:09:32+00:00",
+  "steam_rank": 97,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "editions": [
+   {
+    "name": "V Rising",
+    "price": 15520,
+    "regular": 34500,
+    "cut": 55,
+    "packageid": 568520
+   },
+   {
+    "name": "V Rising - Commercial License",
+    "price": 20500,
+    "regular": 20500,
+    "cut": 0,
+    "packageid": 943863
+   }
+  ]
+ },
+ {
+  "appid": 457140,
+  "name": "Oxygen Not Included",
+  "genres": [
+   "인디",
+   "시뮬레이션"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg?t=1790785089",
+  "release_date": "2019년 7월 30일",
+  "steam_url": "https://store.steampowered.com/app/457140/",
+  "reviews_all": 144239,
+  "positive_all": 139505,
+  "reviews_ko": 4871,
+  "positive_ko": 4657,
+  "gap_pp": -1.1,
+  "updated_at": "2026-10-06T13:14:20+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/capsule_616x353.jpg",
+  "playtime_median_h_all": 36.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 4,
+  "playtime_median_h_ko": 199.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 0,
+  "current_players": 9230,
+  "players_at": "2026-10-07T10:09:35+00:00",
+  "steam_rank": 145,
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Oxygen Not Included",
+    "price": 7800,
+    "regular": 26000,
+    "cut": 70,
+    "packageid": 99174
+   },
+   {
+    "name": "Oxygen Not Included - Commercial License",
+    "price": 26000,
+    "regular": 26000,
+    "cut": 0,
+    "packageid": 1014915
+   }
+  ]
+ },
+ {
+  "appid": 625960,
+  "name": "Stoneshard",
+  "genres": [
+   "어드벤처",
+   "인디",
+   "RPG",
+   "전략",
+   "앞서 해보기"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/25aa7037cf8dd1df245fa189b69b03eaed5fd135/header.jpg?t=1790180600",
+  "release_date": "2020년 2월 6일",
+  "steam_url": "https://store.steampowered.com/app/625960/",
+  "reviews_all": 35802,
+  "positive_all": 26737,
+  "reviews_ko": 1125,
+  "positive_ko": 848,
+  "gap_pp": 0.7,
+  "updated_at": "2026-10-06T13:14:28+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/library_hero.jpg",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/capsule_616x353.jpg",
+  "playtime_median_h_all": 66.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 0,
+  "playtime_median_h_ko": 103.8,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 4,
+  "current_players": 1439,
+  "players_at": "2026-10-07T10:09:38+00:00",
+  "steam_rank": 161,
+  "platforms": [
+   "windows",
+   "linux"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "editions": [
+   {
+    "name": "Stoneshard",
+    "price": 16800,
+    "regular": 24000,
+    "cut": 30,
+    "packageid": 169009
+   }
+  ]
+ },
+ {
+  "appid": 2129530,
+  "name": "REANIMAL",
+  "genres": [
+   "어드벤처"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/4cdda917a0155258a2e7909d7869f35d8f980f96/header.jpg?t=1791191985",
+  "release_date": "2026년 2월 13일",
+  "steam_url": "https://store.steampowered.com/app/2129530/",
+  "reviews_all": 25899,
+  "positive_all": 19493,
+  "reviews_ko": 488,
+  "positive_ko": 357,
+  "gap_pp": -2.1,
+  "updated_at": "2026-10-06T13:14:36+00:00",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/library_hero.jpg",
+  "capsule_image": null,
+  "playtime_median_h_all": 6.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 5,
+  "playtime_median_h_ko": 5.5,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 1,
+  "current_players": 392,
+  "players_at": "2026-10-07T10:09:41+00:00",
+  "steam_rank": 137,
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "full",
+  "editions": [
+   {
+    "name": "REANIMAL",
+    "price": 31500,
+    "regular": 42000,
+    "cut": 25,
+    "packageid": 761741
+   },
+   {
+    "name": "REANIMAL Digital Deluxe Edition",
+    "price": 47250,
+    "regular": 63000,
+    "cut": 25,
+    "packageid": 1451263
+   }
+  ]
+ }
+]

@@ -1,0 +1,19 @@
+{
+  "_설명": "판정 기준값. 여기 숫자만 바꾸면 수집·판정·화면에 모두 반영된다.",
+  "history_months": 24,
+  "min_sales_for_verdict": 2,
+  "good_price_cheaper_pct": 5,
+  "wait_pricier_pct": 5,
+  "trap_pricier_pct": 20,
+  "korea_warning_gap_pp": 10,
+  "korea_warning_min_reviews": 100,
+  "collect_min_reviews": 1000,
+  "collect_target": 500,
+  "_성인_설명": "스팀 내용 표시 번호: 1 일부 노출, 2 잦은 폭력, 3 성인 전용 성적 내용, 4 잦은 노출·성적 내용, 5 일반 성인. 아래 번호가 하나라도 있으면 뺀다.",
+  "exclude_content_descriptors": [3, 4],
+  "directg_request_interval_sec": 3.0,
+  "foreign_card_fee_pct": 2.0,
+  "_수수료_설명": "외화 결제 판매처의 실제 결제 추정 = 원화 환산가 × (1 + 수수료%). 카드사 해외 결제 수수료 합산 추정치.",
+  "steam_request_interval_sec": 1.5,
+  "steam_retry": 3
+}

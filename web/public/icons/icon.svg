@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ef4444"/>
+      <stop offset="1" stop-color="#b91c1c"/>
+    </linearGradient>
+    <filter id="s" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#000" flood-opacity=".4"/>
+    </filter>
+  </defs>
+  <rect width="1024" height="1024" rx="225" fill="url(#g)"/>
+  <ellipse cx="512" cy="-150" rx="720" ry="600" fill="#fff" opacity=".12"/>
+  <text x="512" y="700" text-anchor="middle" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-weight="700" font-size="640" fill="#fff" filter="url(#s)">국</text>
+  <circle cx="809" cy="215" r="72" fill="#fff" opacity=".9"/>
+  <circle cx="809" cy="215" r="30" fill="#b91c1c"/>
+</svg>

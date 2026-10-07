@@ -1,0 +1,8 @@
+.env
+web/.env.local
+__pycache__/
+*.pyc
+web/node_modules/
+web/.next/
+web/out/
+.vercel

@@ -1,0 +1,832 @@
+{
+ "fetched_date": "2026-10-07",
+ "products": {
+  "275d0530-d0ca-4bba-a145-f3eb4241e193": {
+   "product_id": "275d0530-d0ca-4bba-a145-f3eb4241e193",
+   "url": "https://directg.net/game/game_view.html?product_id=275d0530-d0ca-4bba-a145-f3eb4241e193",
+   "title": "데몬즈 나이트 피버",
+   "base": [
+    {
+     "name": "데몬즈 나이트 피버",
+     "price": 44800,
+     "regular": 49800,
+     "cut": 10,
+     "sku": "960f0f56-c194-4009-bb22-71a770b5f3c6"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 3502620,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:48+00:00"
+  },
+  "a08a2022-ce33-402c-9c46-4bb812eac5c8": {
+   "product_id": "a08a2022-ce33-402c-9c46-4bb812eac5c8",
+   "url": "https://directg.net/game/game_view.html?product_id=a08a2022-ce33-402c-9c46-4bb812eac5c8",
+   "title": "캐슬바니아: 벨몬트의 저주",
+   "base": [
+    {
+     "name": "캐슬바니아: 벨몬트의 저주",
+     "price": 32800,
+     "regular": 35000,
+     "cut": 6,
+     "sku": "02dcaa8a-3bd4-4da4-b769-dc335f1424d5"
+    }
+   ],
+   "editions": [
+    {
+     "name": "캐슬바니아: 벨몬트의 저주 미드나이트 에디션",
+     "price": 43800,
+     "regular": 46000,
+     "cut": 5,
+     "sku": "4d8ce28c-a460-4461-b505-03b523e2c5e5"
+    }
+   ],
+   "appid_hint": 4231820,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:42+00:00"
+  },
+  "a8bb26da-6b75-4817-844c-009aaed5d476": {
+   "product_id": "a8bb26da-6b75-4817-844c-009aaed5d476",
+   "url": "https://directg.net/game/game_view.html?product_id=a8bb26da-6b75-4817-844c-009aaed5d476",
+   "title": "선생님, 진도 나갈까요?",
+   "base": [],
+   "editions": [],
+   "appid_hint": 4736650,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": true,
+    "exclusive": false
+   },
+   "platform": "other",
+   "fetched_at": "2026-10-07T10:49:17+00:00"
+  },
+  "3c1f2958-7690-4ddd-b973-bf72cc663f00": {
+   "product_id": "3c1f2958-7690-4ddd-b973-bf72cc663f00",
+   "url": "https://directg.net/game/game_view.html?product_id=3c1f2958-7690-4ddd-b973-bf72cc663f00",
+   "title": "컨트롤：레조넌트",
+   "base": [
+    {
+     "name": "컨트롤：레조넌트",
+     "price": 64800,
+     "regular": 64800,
+     "cut": 0,
+     "sku": "cb2e4dca-72f2-4c22-9ca0-6585f0b0ada6"
+    }
+   ],
+   "editions": [
+    {
+     "name": "컨트롤：레조넌트 디지털 디럭스 에디션",
+     "price": 75800,
+     "regular": 75800,
+     "cut": 0,
+     "sku": "a6fc1b71-c06f-487d-8baf-2b6f94d8e452"
+    }
+   ],
+   "appid_hint": 3669870,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:49:21+00:00"
+  },
+  "140f1ad5-6219-4a0f-9d22-d4f8bc7868e2": {
+   "product_id": "140f1ad5-6219-4a0f-9d22-d4f8bc7868e2",
+   "url": "https://directg.net/game/game_view.html?product_id=140f1ad5-6219-4a0f-9d22-d4f8bc7868e2",
+   "title": "팬텀 블레이드 제로",
+   "base": [
+    {
+     "name": "팬텀 블레이드 제로",
+     "price": 67000,
+     "regular": 69800,
+     "cut": 4,
+     "sku": "0cfa09d2-2891-46b5-9909-542fea0033e2"
+    }
+   ],
+   "editions": [
+    {
+     "name": "팬텀 블레이드 제로 디지털 디럭스 에디션",
+     "price": 77000,
+     "regular": 79800,
+     "cut": 4,
+     "sku": "01e1ccf5-84f4-424d-82df-61b34266fe83"
+    }
+   ],
+   "appid_hint": 4115450,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:51+00:00"
+  },
+  "18552a8c-7114-4d87-865d-32e178c0f8ff": {
+   "product_id": "18552a8c-7114-4d87-865d-32e178c0f8ff",
+   "url": "https://directg.net/game/game_view.html?product_id=18552a8c-7114-4d87-865d-32e178c0f8ff",
+   "title": "스튜피드 네버 다이즈",
+   "base": [
+    {
+     "name": "스튜피드 네버 다이즈",
+     "price": 49800,
+     "regular": 54800,
+     "cut": 9,
+     "sku": "350c771a-4f5f-42cb-a5dc-4a528c56edb3"
+    }
+   ],
+   "editions": [
+    {
+     "name": "스튜피드 네버 다이즈: 글로리어스 이디엇 에디션",
+     "price": 62800,
+     "regular": 69800,
+     "cut": 10,
+     "sku": "aec0ff41-63b9-41e0-bfc1-0380ca07f880"
+    }
+   ],
+   "appid_hint": 3486530,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:45+00:00"
+  },
+  "a4527694-f06c-4311-93f7-4417a14c3128": {
+   "product_id": "a4527694-f06c-4311-93f7-4417a14c3128",
+   "url": "https://directg.net/game/game_view.html?product_id=a4527694-f06c-4311-93f7-4417a14c3128",
+   "title": "드래곤즈 도그마 2",
+   "base": [
+    {
+     "name": "드래곤즈 도그마 2",
+     "price": 41800,
+     "regular": 45800,
+     "cut": 9,
+     "sku": "999eeb57-8ab0-405f-baa1-0236ed454fd5"
+    }
+   ],
+   "editions": [
+    {
+     "name": "드래곤즈 도그마 2: 다크 어리즌",
+     "price": 51120,
+     "regular": 56800,
+     "cut": 10,
+     "sku": "98d08764-2716-4f8d-9658-0727ba3da2e9"
+    }
+   ],
+   "appid_hint": 2054970,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:08+00:00"
+  },
+  "c12a16f8-ce46-4c75-954a-28a5a6f59fcc": {
+   "product_id": "c12a16f8-ce46-4c75-954a-28a5a6f59fcc",
+   "url": "https://directg.net/game/game_view.html?product_id=c12a16f8-ce46-4c75-954a-28a5a6f59fcc",
+   "title": "스타워즈: 은하계 레이서™",
+   "base": [
+    {
+     "name": "스타워즈: 은하계 레이서™",
+     "price": 57800,
+     "regular": 64500,
+     "cut": 10,
+     "sku": "9f0b43a0-a9bd-4a1d-b741-c925d5f4d1f7"
+    }
+   ],
+   "editions": [
+    {
+     "name": "스타워즈: 은하계 레이서™ 디럭스 에디션",
+     "price": 76800,
+     "regular": 86000,
+     "cut": 11,
+     "sku": "d0ee02c6-1834-4e0b-af82-07bcba2da73c"
+    }
+   ],
+   "appid_hint": 4078430,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:14+00:00"
+  },
+  "86e649b6-bd98-4e8d-b147-ca5c65fb2298": {
+   "product_id": "86e649b6-bd98-4e8d-b147-ca5c65fb2298",
+   "url": "https://directg.net/game/game_view.html?product_id=86e649b6-bd98-4e8d-b147-ca5c65fb2298",
+   "title": "듀얼센스 무선 컨트롤러 미드나이트 블랙",
+   "base": [],
+   "editions": [],
+   "appid_hint": null,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": false,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:49:35+00:00"
+  },
+  "f20b8f08-9ac8-403f-a101-1f4244391d80": {
+   "product_id": "f20b8f08-9ac8-403f-a101-1f4244391d80",
+   "url": "https://directg.net/game/game_view.html?product_id=f20b8f08-9ac8-403f-a101-1f4244391d80",
+   "title": "듀얼센스 무선 컨트롤러 화이트",
+   "base": [],
+   "editions": [],
+   "appid_hint": null,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": false,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "other",
+   "fetched_at": "2026-10-07T10:49:39+00:00"
+  },
+  "c4c5e959-7130-4828-82de-8e0a2a7ce5a1": {
+   "product_id": "c4c5e959-7130-4828-82de-8e0a2a7ce5a1",
+   "url": "https://directg.net/game/game_view.html?product_id=c4c5e959-7130-4828-82de-8e0a2a7ce5a1",
+   "title": "에브리씽 이즈 크랩: 동물 진화 로그라이트",
+   "base": [
+    {
+     "name": "에브리씽 이즈 크랩: 동물 진화 로그라이트",
+     "price": 7700,
+     "regular": 11000,
+     "cut": 30,
+     "sku": "cd128917-a247-42c6-91a5-c9be00ab601c"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 3526710,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:49:41+00:00"
+  },
+  "e43a0ac1-5c8d-4557-b812-029b04f901f4": {
+   "product_id": "e43a0ac1-5c8d-4557-b812-029b04f901f4",
+   "url": "https://directg.net/game/game_view.html?product_id=e43a0ac1-5c8d-4557-b812-029b04f901f4",
+   "title": "케언",
+   "base": [
+    {
+     "name": "케언",
+     "price": 22000,
+     "regular": 32000,
+     "cut": 31,
+     "sku": "247cddbb-28cc-41a0-b488-4b1bd811cfa2"
+    }
+   ],
+   "editions": [
+    {
+     "name": "케언 디럭스 에디션",
+     "price": 27800,
+     "regular": 40050,
+     "cut": 31,
+     "sku": "bb971001-4273-4b26-94c5-18825a259c00"
+    }
+   ],
+   "appid_hint": null,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:49:44+00:00"
+  },
+  "4ae550de-86b9-4326-a5be-ecccbebe8d47": {
+   "product_id": "4ae550de-86b9-4326-a5be-ecccbebe8d47",
+   "url": "https://directg.net/game/game_view.html?product_id=4ae550de-86b9-4326-a5be-ecccbebe8d47",
+   "title": "시드 마이어의 문명 7",
+   "base": [
+    {
+     "name": "시드 마이어의 문명 7",
+     "price": 77000,
+     "regular": 83000,
+     "cut": 7,
+     "sku": "82fa3cf6-dccd-4681-b3d7-460c3da13f53"
+    }
+   ],
+   "editions": [
+    {
+     "name": "시드 마이어의 문명 7 디럭스 에디션",
+     "price": 110000,
+     "regular": 118900,
+     "cut": 7,
+     "sku": "11873300-11fa-4b3f-8e08-123da5ddb757"
+    },
+    {
+     "name": "시드 마이어의 문명 7 개척자 에디션",
+     "price": 132000,
+     "regular": 142900,
+     "cut": 8,
+     "sku": "a753d872-cfdd-4486-bc09-daf69cf52dfb"
+    }
+   ],
+   "appid_hint": 1295660,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": true,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:49:47+00:00"
+  },
+  "ce9081e7-2821-4e98-8639-64698a109b82": {
+   "product_id": "ce9081e7-2821-4e98-8639-64698a109b82",
+   "url": "https://directg.net/game/game_view.html?product_id=ce9081e7-2821-4e98-8639-64698a109b82",
+   "title": "크루세이더 킹즈 3",
+   "base": [
+    {
+     "name": "크루세이더 킹즈 3",
+     "price": 49800,
+     "regular": 55000,
+     "cut": 9,
+     "sku": "53309198-bf92-414d-87e6-61a86b1a7929"
+    }
+   ],
+   "editions": [
+    {
+     "name": "크루세이더 킹즈 3 스타터 에디션",
+     "price": 65800,
+     "regular": 72000,
+     "cut": 9,
+     "sku": "d61ee014-0c06-4926-8a5d-0dd783ad9ba1"
+    }
+   ],
+   "appid_hint": 1158310,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:49:50+00:00"
+  },
+  "30116fa7-1dc5-406c-8ce1-5767c60264a2": {
+   "product_id": "30116fa7-1dc5-406c-8ce1-5767c60264a2",
+   "url": "https://directg.net/game/game_view.html?product_id=30116fa7-1dc5-406c-8ce1-5767c60264a2",
+   "title": "프로야구 스피리츠 2026",
+   "base": [
+    {
+     "name": "프로야구 스피리츠 2026",
+     "price": 39800,
+     "regular": 70000,
+     "cut": 43,
+     "sku": "c9f10d9e-1f99-4eb8-b88d-1a0b495971f7"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 4128400,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:49:54+00:00"
+  },
+  "cd3500c1-2db8-4915-972b-9be4b92c28ec": {
+   "product_id": "cd3500c1-2db8-4915-972b-9be4b92c28ec",
+   "url": "https://directg.net/game/game_view.html?product_id=cd3500c1-2db8-4915-972b-9be4b92c28ec",
+   "title": "토탈 워: 워해머 3",
+   "base": [
+    {
+     "name": "토탈 워: 워해머 3",
+     "price": 7900,
+     "regular": 60000,
+     "cut": 87,
+     "sku": "7a45eeca-2692-4e52-8f19-41825d2e3608"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 1142710,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:49:57+00:00"
+  },
+  "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200": {
+   "product_id": "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200",
+   "url": "https://directg.net/game/game_view.html?product_id=c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200",
+   "title": "스텔라 블레이드",
+   "base": [
+    {
+     "name": "스텔라 블레이드",
+     "price": 39800,
+     "regular": 62800,
+     "cut": 37,
+     "sku": "cdc95ab7-e01c-4c02-bc34-a2e4c52cc5a4"
+    }
+   ],
+   "editions": [
+    {
+     "name": "스텔라 블레이드 컴플리트 에디션",
+     "price": 52800,
+     "regular": 83800,
+     "cut": 37,
+     "sku": "3d476213-1b2c-4822-b0ae-8fad1e1b2d70"
+    }
+   ],
+   "appid_hint": 3489700,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": true,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:49:59+00:00"
+  },
+  "2139b954-cece-48b7-9356-803c130833a4": {
+   "product_id": "2139b954-cece-48b7-9356-803c130833a4",
+   "url": "https://directg.net/game/game_view.html?product_id=2139b954-cece-48b7-9356-803c130833a4",
+   "title": "드래곤소드 : 어웨이크닝",
+   "base": [
+    {
+     "name": "드래곤소드 : 어웨이크닝",
+     "price": 33000,
+     "regular": 33000,
+     "cut": 0,
+     "sku": "0b5cd97f-e3be-44b7-a370-0826a40ecb87"
+    }
+   ],
+   "editions": [
+    {
+     "name": "드래곤소드 : 어웨이크닝 - 디럭스 에디션",
+     "price": 49500,
+     "regular": 49500,
+     "cut": 0,
+     "sku": "81965567-1f1a-41aa-9d31-76775c3394e2"
+    }
+   ],
+   "appid_hint": 4570720,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": true,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:03+00:00"
+  },
+  "a647bff7-44e6-49fe-86ed-8f59d936ee4e": {
+   "product_id": "a647bff7-44e6-49fe-86ed-8f59d936ee4e",
+   "url": "https://directg.net/game/game_view.html?product_id=a647bff7-44e6-49fe-86ed-8f59d936ee4e",
+   "title": "마블 스파이더맨 2",
+   "base": [
+    {
+     "name": "마블 스파이더맨 2",
+     "price": 39000,
+     "regular": 62800,
+     "cut": 38,
+     "sku": null
+    }
+   ],
+   "editions": [
+    {
+     "name": "마블 스파이더맨 2 - 디지털 디럭스 에디션",
+     "price": 46000,
+     "regular": 73800,
+     "cut": 38,
+     "sku": "820fc68d-99ca-4765-9698-ea01e86ef55f"
+    }
+   ],
+   "appid_hint": 2651280,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:05+00:00"
+  },
+  "9f033b20-41af-437f-a672-14e8061f4efb": {
+   "product_id": "9f033b20-41af-437f-a672-14e8061f4efb",
+   "url": "https://directg.net/game/game_view.html?product_id=9f033b20-41af-437f-a672-14e8061f4efb",
+   "title": "프래그마타",
+   "base": [
+    {
+     "name": "프래그마타",
+     "price": 48600,
+     "regular": 69800,
+     "cut": 30,
+     "sku": "e4d65632-f1b8-4c41-942e-268fd775d773"
+    }
+   ],
+   "editions": [
+    {
+     "name": "프래그마타 디럭스 에디션",
+     "price": 55500,
+     "regular": 79800,
+     "cut": 30,
+     "sku": "3a16c062-609d-4ceb-9b78-e6b4cf0bd513"
+    }
+   ],
+   "appid_hint": 3357650,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": true,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:11+00:00"
+  },
+  "a95163c3-2aab-4b69-923a-ad8fb27afb67": {
+   "product_id": "a95163c3-2aab-4b69-923a-ad8fb27afb67",
+   "url": "https://directg.net/game/game_view.html?product_id=a95163c3-2aab-4b69-923a-ad8fb27afb67",
+   "title": "툼 레이더 IV-VI 리마스터",
+   "base": [],
+   "editions": [],
+   "appid_hint": null,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": false,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "other",
+   "fetched_at": "2026-10-07T10:50:17+00:00"
+  },
+  "5dd43f61-df2d-4599-b4ab-850470f0f2f0": {
+   "product_id": "5dd43f61-df2d-4599-b4ab-850470f0f2f0",
+   "url": "https://directg.net/game/game_view.html?product_id=5dd43f61-df2d-4599-b4ab-850470f0f2f0",
+   "title": "스텁스 더 좀비 인 레벨 위드아웃 어 펄스",
+   "base": [
+    {
+     "name": "스텁스 더 좀비 인 레벨 위드아웃 어 펄스",
+     "price": 19800,
+     "regular": 21500,
+     "cut": 8,
+     "sku": "4701c816-ae62-4d81-a207-e39eb1c467a4"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 7800,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": false,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:21+00:00"
+  },
+  "c5b394d7-9470-4b24-99b3-71a2da926ebe": {
+   "product_id": "c5b394d7-9470-4b24-99b3-71a2da926ebe",
+   "url": "https://directg.net/game/game_view.html?product_id=c5b394d7-9470-4b24-99b3-71a2da926ebe",
+   "title": "노스: 오스 오브 블러드",
+   "base": [
+    {
+     "name": "노스: 오스 오브 블러드",
+     "price": 31800,
+     "regular": 34500,
+     "cut": 8,
+     "sku": "8eacb5b6-223f-4a95-a131-39659faff70c"
+    }
+   ],
+   "editions": [
+    {
+     "name": "노스: 오스 오브 블러드 스페셜 에디션",
+     "price": 40800,
+     "regular": 44300,
+     "cut": 8,
+     "sku": "bd6021dd-5a80-4c3e-9878-f244384f3736"
+    }
+   ],
+   "appid_hint": 3054690,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:23+00:00"
+  },
+  "0df8f788-ee0a-4c22-a65e-b47877d963d9": {
+   "product_id": "0df8f788-ee0a-4c22-a65e-b47877d963d9",
+   "url": "https://directg.net/game/game_view.html?product_id=0df8f788-ee0a-4c22-a65e-b47877d963d9",
+   "title": "데이어스 엑스: 맨카인드 디바이디드",
+   "base": [
+    {
+     "name": "데이어스 엑스: 맨카인드 디바이디드",
+     "price": 30800,
+     "regular": 32990,
+     "cut": 7,
+     "sku": "f5dd5c21-3113-4a09-bcd4-efdce10e066c"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 337000,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": false,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:26+00:00"
+  },
+  "ee33f242-8144-453c-adb0-9a8f0b0c934e": {
+   "product_id": "ee33f242-8144-453c-adb0-9a8f0b0c934e",
+   "url": "https://directg.net/game/game_view.html?product_id=ee33f242-8144-453c-adb0-9a8f0b0c934e",
+   "title": "월드 워 Z",
+   "base": [
+    {
+     "name": "월드 워 Z",
+     "price": 31800,
+     "regular": 34800,
+     "cut": 9,
+     "sku": null
+    }
+   ],
+   "editions": [
+    {
+     "name": "월드 워 Z: 애프터매스",
+     "price": 45800,
+     "regular": 50000,
+     "cut": 8,
+     "sku": null
+    },
+    {
+     "name": "월드 워 Z: 애프터매스 디럭스 에디션",
+     "price": 56800,
+     "regular": 61600,
+     "cut": 8,
+     "sku": null
+    }
+   ],
+   "appid_hint": 699130,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:32+00:00"
+  },
+  "16e4bcb5-13e7-451f-a0d4-76b3038103c4": {
+   "product_id": "16e4bcb5-13e7-451f-a0d4-76b3038103c4",
+   "url": "https://directg.net/game/game_view.html?product_id=16e4bcb5-13e7-451f-a0d4-76b3038103c4",
+   "title": "툼 레이더 I-III 리마스터 스타링 라라 크로프트",
+   "base": [
+    {
+     "name": "툼 레이더 I-III 리마스터 스타링 라라 크로프트",
+     "price": 29800,
+     "regular": 32000,
+     "cut": 7,
+     "sku": "067e6d7c-663b-4960-951a-34a11c3f3fab"
+    }
+   ],
+   "editions": [],
+   "appid_hint": null,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": false,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:36+00:00"
+  },
+  "df53db3f-d6d5-4859-9fe4-7ea407c5c2c1": {
+   "product_id": "df53db3f-d6d5-4859-9fe4-7ea407c5c2c1",
+   "url": "https://directg.net/game/game_view.html?product_id=df53db3f-d6d5-4859-9fe4-7ea407c5c2c1",
+   "title": "스타워즈: 배틀프론트 클래식 컬렉션",
+   "base": [
+    {
+     "name": "스타워즈: 배틀프론트 클래식 컬렉션",
+     "price": 33800,
+     "regular": 36700,
+     "cut": 8,
+     "sku": "0565f668-382d-49ac-bcfa-223896be0e8f"
+    }
+   ],
+   "editions": [],
+   "appid_hint": null,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": false,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:39+00:00"
+  },
+  "88cb335c-ac46-42b3-81a2-5a0df38ea61b": {
+   "product_id": "88cb335c-ac46-42b3-81a2-5a0df38ea61b",
+   "url": "https://directg.net/game/game_view.html?product_id=88cb335c-ac46-42b3-81a2-5a0df38ea61b",
+   "title": "스트레인저 댄 헤븐",
+   "base": [
+    {
+     "name": "스트레인저 댄 헤븐",
+     "price": 71800,
+     "regular": 79800,
+     "cut": 10,
+     "sku": "6d70d576-0258-4f06-9b94-933c6ae30325"
+    }
+   ],
+   "editions": [
+    {
+     "name": "스트레인저 댄 헤븐 디럭스 에디션",
+     "price": 89800,
+     "regular": 99800,
+     "cut": 10,
+     "sku": "cdc3b5c1-7329-4f9b-8c1a-3317adb046a5"
+    }
+   ],
+   "appid_hint": 4260840,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:53+00:00"
+  },
+  "f72e96bd-1691-46b4-bef4-c70172c6635d": {
+   "product_id": "f72e96bd-1691-46b4-bef4-c70172c6635d",
+   "url": "https://directg.net/game/game_view.html?product_id=f72e96bd-1691-46b4-bef4-c70172c6635d",
+   "title": "페르소나4 리바이벌",
+   "base": [
+    {
+     "name": "페르소나4 리바이벌",
+     "price": 71800,
+     "regular": 79800,
+     "cut": 10,
+     "sku": "99c6425f-e259-42fb-8fd9-b26d831de61d"
+    }
+   ],
+   "editions": [
+    {
+     "name": "페르소나4 리바이벌: 디지털 디럭스 에디션",
+     "price": 84800,
+     "regular": 94800,
+     "cut": 11,
+     "sku": "99587317-8edc-416d-8fd3-3f2f510989f7"
+    },
+    {
+     "name": "페르소나4 리바이벌: 디지털 프리미엄 에디션",
+     "price": 97800,
+     "regular": 109800,
+     "cut": 11,
+     "sku": "bb2d7d09-98e4-400a-a977-12c4f5e4456e"
+    }
+   ],
+   "appid_hint": 2963950,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-07T10:50:57+00:00"
+  }
+ },
+ "last_run": {
+  "at": "2026-10-07T10:50:57+00:00",
+  "ok": 36,
+  "fail": 0,
+  "limit": 150
+ }
+}

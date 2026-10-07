@@ -1,0 +1,9 @@
+{
+  "_설명": "스팀 시즌 세일 일정. 스팀이 공식 발표하면 날짜를 고치고 confirmed 를 true 로. 날짜는 한국 시간 기준 대략.",
+  "seasons": [
+    { "name": "가을 세일", "start": "2026-11-24", "end": "2026-12-01", "confirmed": false },
+    { "name": "겨울 세일", "start": "2026-12-17", "end": "2027-01-05", "confirmed": false },
+    { "name": "봄 세일", "start": "2027-03-11", "end": "2027-03-18", "confirmed": false },
+    { "name": "여름 세일", "start": "2027-06-24", "end": "2027-07-08", "confirmed": false }
+  ]
+}

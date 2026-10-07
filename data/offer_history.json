@@ -1,0 +1,4746 @@
+[
+ {
+  "appid": 108600,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 17750,
+  "price_original": 17750,
+  "currency": "KRW"
+ },
+ {
+  "appid": 108600,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 108600,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1144200,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27030,
+  "price_original": 26500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1144200,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 26500,
+  "price_original": 26500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1144200,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29317,
+  "price_original": 28742,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1144200,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 31802,
+  "price_original": 31178,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1144200,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1144200,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34138,
+  "price_original": 33469,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1144200,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37893,
+  "price_original": 37150,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1144200,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 51200,
+  "price_original": 51200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1144200,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62900,
+  "price_original": 62900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1144200,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 68259,
+  "price_original": 66921,
+  "currency": "KRW"
+ },
+ {
+  "appid": 892970,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 28800,
+  "price_original": 28800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 892970,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32000,
+  "price_original": 32000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 892970,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32640,
+  "price_original": 32000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 892970,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36854,
+  "price_original": 36131,
+  "currency": "KRW"
+ },
+ {
+  "appid": 892970,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 39448,
+  "price_original": 38675,
+  "currency": "KRW"
+ },
+ {
+  "appid": 892970,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40294,
+  "price_original": 39504,
+  "currency": "KRW"
+ },
+ {
+  "appid": 892970,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 6018,
+  "price_original": 5900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 6500,
+  "price_original": 6500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 6630,
+  "price_original": 6500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8193,
+  "price_original": 8032,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20468,
+  "price_original": 20067,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34000,
+  "price_original": 34000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 66300,
+  "price_original": 65000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 65000,
+  "price_original": 65000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 67986,
+  "price_original": 66653,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 289070,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 413150,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 11200,
+  "price_original": 11200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 413150,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20468,
+  "price_original": 20067,
+  "currency": "KRW"
+ },
+ {
+  "appid": 699130,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8700,
+  "price_original": 8700,
+  "currency": "KRW"
+ },
+ {
+  "appid": 699130,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 12276,
+  "price_original": 12035,
+  "currency": "KRW"
+ },
+ {
+  "appid": 699130,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32000,
+  "price_original": 32000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 699130,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 35728,
+  "price_original": 35027,
+  "currency": "KRW"
+ },
+ {
+  "appid": 582010,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 9570,
+  "price_original": 9570,
+  "currency": "KRW"
+ },
+ {
+  "appid": 582010,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10637,
+  "price_original": 10428,
+  "currency": "KRW"
+ },
+ {
+  "appid": 582010,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 33918,
+  "price_original": 33253,
+  "currency": "KRW"
+ },
+ {
+  "appid": 582010,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37536,
+  "price_original": 36800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 582010,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 381210,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8772,
+  "price_original": 8600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 381210,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8600,
+  "price_original": 8600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 381210,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 9790,
+  "price_original": 9598,
+  "currency": "KRW"
+ },
+ {
+  "appid": 381210,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10910,
+  "price_original": 10696,
+  "currency": "KRW"
+ },
+ {
+  "appid": 381210,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21500,
+  "price_original": 21500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 381210,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21500,
+  "price_original": 21500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 270880,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 6200,
+  "price_original": 6200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 270880,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 219990,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 3970,
+  "price_original": 3970,
+  "currency": "KRW"
+ },
+ {
+  "appid": 219990,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 489830,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 4500,
+  "price_original": 4500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 489830,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 11100,
+  "price_original": 11100,
+  "currency": "KRW"
+ },
+ {
+  "appid": 489830,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45866,
+  "price_original": 44967,
+  "currency": "KRW"
+ },
+ {
+  "appid": 489830,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 44990,
+  "price_original": 44990,
+  "currency": "KRW"
+ },
+ {
+  "appid": 489830,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45900,
+  "price_original": 45000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 489830,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54605,
+  "price_original": 53534,
+  "currency": "KRW"
+ },
+ {
+  "appid": 489830,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54605,
+  "price_original": 53534,
+  "currency": "KRW"
+ },
+ {
+  "appid": 489830,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 56849,
+  "price_original": 55734,
+  "currency": "KRW"
+ },
+ {
+  "appid": 252490,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21000,
+  "price_original": 21000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 252490,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42840,
+  "price_original": 42000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 568220,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8840,
+  "price_original": 8840,
+  "currency": "KRW"
+ },
+ {
+  "appid": 394360,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 12248,
+  "price_original": 12008,
+  "currency": "KRW"
+ },
+ {
+  "appid": 394360,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 12616,
+  "price_original": 12369,
+  "currency": "KRW"
+ },
+ {
+  "appid": 394360,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 14587,
+  "price_original": 14301,
+  "currency": "KRW"
+ },
+ {
+  "appid": 394360,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 16500,
+  "price_original": 16500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 394360,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 68265,
+  "price_original": 66926,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 2895,
+  "price_original": 2838,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 6500,
+  "price_original": 6500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 7305,
+  "price_original": 7162,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 7496,
+  "price_original": 7349,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 7400,
+  "price_original": 7400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8142,
+  "price_original": 7982,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8520,
+  "price_original": 8353,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8520,
+  "price_original": 8353,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8862,
+  "price_original": 8688,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 26000,
+  "price_original": 26000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 728880,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 26613,
+  "price_original": 26091,
+  "currency": "KRW"
+ },
+ {
+  "appid": 292030,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54605,
+  "price_original": 53534,
+  "currency": "KRW"
+ },
+ {
+  "appid": 292030,
+  "store_id": "blizzard",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54900,
+  "price_original": 54900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 294100,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30000,
+  "price_original": 30000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 294100,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 38219,
+  "price_original": 37470,
+  "currency": "KRW"
+ },
+ {
+  "appid": 294100,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 38219,
+  "price_original": 37470,
+  "currency": "KRW"
+ },
+ {
+  "appid": 294100,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37500,
+  "price_original": 37500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 294100,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 47778,
+  "price_original": 46841,
+  "currency": "KRW"
+ },
+ {
+  "appid": 262060,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 3774,
+  "price_original": 3700,
+  "currency": "KRW"
+ },
+ {
+  "appid": 262060,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 4131,
+  "price_original": 4050,
+  "currency": "KRW"
+ },
+ {
+  "appid": 262060,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 4050,
+  "price_original": 4050,
+  "currency": "KRW"
+ },
+ {
+  "appid": 262060,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 4178,
+  "price_original": 4096,
+  "currency": "KRW"
+ },
+ {
+  "appid": 262060,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 4205,
+  "price_original": 4123,
+  "currency": "KRW"
+ },
+ {
+  "appid": 262060,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 4261,
+  "price_original": 4177,
+  "currency": "KRW"
+ },
+ {
+  "appid": 262060,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 5107,
+  "price_original": 5007,
+  "currency": "KRW"
+ },
+ {
+  "appid": 262060,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 5120,
+  "price_original": 5020,
+  "currency": "KRW"
+ },
+ {
+  "appid": 262060,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 25000,
+  "price_original": 25000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 262060,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 648800,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 14070,
+  "price_original": 14070,
+  "currency": "KRW"
+ },
+ {
+  "appid": 286160,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10750,
+  "price_original": 10750,
+  "currency": "KRW"
+ },
+ {
+  "appid": 374320,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 24900,
+  "price_original": 24900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 374320,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36390,
+  "price_original": 35676,
+  "currency": "KRW"
+ },
+ {
+  "appid": 374320,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 374320,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 41848,
+  "price_original": 41027,
+  "currency": "KRW"
+ },
+ {
+  "appid": 227300,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 6200,
+  "price_original": 6200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 227300,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 899770,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 26250,
+  "price_original": 26250,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1091500,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 19800,
+  "price_original": 19800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1091500,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 66000,
+  "price_original": 66000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1091500,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1091500,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 251570,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 25850,
+  "price_original": 25850,
+  "currency": "KRW"
+ },
+ {
+  "appid": 251570,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29180,
+  "price_original": 28608,
+  "currency": "KRW"
+ },
+ {
+  "appid": 251570,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 47940,
+  "price_original": 47000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 251570,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 55900,
+  "price_original": 55900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 251570,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 61433,
+  "price_original": 60228,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29699,
+  "price_original": 29117,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30000,
+  "price_original": 30000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30600,
+  "price_original": 30000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30600,
+  "price_original": 30000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 38796,
+  "price_original": 38035,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 59990,
+  "price_original": 59990,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62797,
+  "price_original": 61566,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62900,
+  "price_original": 62900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 261550,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 68259,
+  "price_original": 66921,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1158310,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 16500,
+  "price_original": 16500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1158310,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 19444,
+  "price_original": 19063,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1158310,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20482,
+  "price_original": 20080,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1158310,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21645,
+  "price_original": 21221,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1158310,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62900,
+  "price_original": 62900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1174180,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 18250,
+  "price_original": 18250,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1174180,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1174180,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 73000,
+  "price_original": 73000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1174180,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 74460,
+  "price_original": 73000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1174180,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 74460,
+  "price_original": 73000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1174180,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1174180,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 102884,
+  "price_original": 100867,
+  "currency": "KRW"
+ },
+ {
+  "appid": 960170,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 9960,
+  "price_original": 9960,
+  "currency": "KRW"
+ },
+ {
+  "appid": 960170,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10200,
+  "price_original": 10000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 960170,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 53600,
+  "price_original": 52549,
+  "currency": "KRW"
+ },
+ {
+  "appid": 960170,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 56584,
+  "price_original": 55475,
+  "currency": "KRW"
+ },
+ {
+  "appid": 960170,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 68259,
+  "price_original": 66921,
+  "currency": "KRW"
+ },
+ {
+  "appid": 960170,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 68259,
+  "price_original": 66921,
+  "currency": "KRW"
+ },
+ {
+  "appid": 960170,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 68259,
+  "price_original": 66921,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1057090,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 2990,
+  "price_original": 2990,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1057090,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29900,
+  "price_original": 29900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1256670,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10540,
+  "price_original": 10540,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1304930,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 4200,
+  "price_original": 4200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1304930,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54605,
+  "price_original": 53534,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21542,
+  "price_original": 21120,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21120,
+  "price_original": 21120,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21624,
+  "price_original": 21200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 24510,
+  "price_original": 24029,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 24906,
+  "price_original": 24418,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 25247,
+  "price_original": 24752,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27062,
+  "price_original": 26531,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1593500,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 52800,
+  "price_original": 52800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1426210,
+  "store_id": "ea",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 13200,
+  "price_original": 13200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1426210,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 13200,
+  "price_original": 13200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1426210,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 44000,
+  "price_original": 44000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1687950,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20940,
+  "price_original": 20940,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1687950,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 22080,
+  "price_original": 21647,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1687950,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 69800,
+  "price_original": 69800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1687950,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817190,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21542,
+  "price_original": 21120,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817190,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21120,
+  "price_original": 21120,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817190,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21624,
+  "price_original": 21200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817190,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 24510,
+  "price_original": 24029,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817190,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 24906,
+  "price_original": 24418,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817190,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 25111,
+  "price_original": 24619,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817190,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27062,
+  "price_original": 26531,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817190,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817190,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817190,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 52800,
+  "price_original": 52800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1477590,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 22400,
+  "price_original": 22400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1142710,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 9000,
+  "price_original": 9000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1142710,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 9000,
+  "price_original": 9000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1142710,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 11019,
+  "price_original": 10803,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1142710,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 60000,
+  "price_original": 60000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1142710,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1046480,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 19440,
+  "price_original": 19440,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1446780,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 4980,
+  "price_original": 4980,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1446780,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 5448,
+  "price_original": 5341,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1446780,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 5448,
+  "price_original": 5341,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1446780,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45251,
+  "price_original": 44364,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1446780,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 44800,
+  "price_original": 44800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1446780,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 50796,
+  "price_original": 49800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1627720,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 33048,
+  "price_original": 32400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1627720,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32400,
+  "price_original": 32400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1627720,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1627720,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 61500,
+  "price_original": 61500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1627720,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 64800,
+  "price_original": 64800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1627720,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1623730,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 22400,
+  "price_original": 22400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1623730,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 28661,
+  "price_original": 28099,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1623730,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 28661,
+  "price_original": 28099,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1623730,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37900,
+  "price_original": 37900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10710,
+  "price_original": 10500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 12890,
+  "price_original": 12637,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 12917,
+  "price_original": 12664,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 13158,
+  "price_original": 12900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 12900,
+  "price_original": 12900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 14040,
+  "price_original": 14040,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 14461,
+  "price_original": 14177,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 15544,
+  "price_original": 15239,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 16372,
+  "price_original": 16051,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20400,
+  "price_original": 20400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1621690,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1551360,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 23960,
+  "price_original": 23960,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1551360,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 23960,
+  "price_original": 23960,
+  "currency": "KRW"
+ },
+ {
+  "appid": 814380,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37500,
+  "price_original": 37500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817070,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 25622,
+  "price_original": 25120,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817070,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 25120,
+  "price_original": 25120,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817070,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 25704,
+  "price_original": 25200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817070,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29480,
+  "price_original": 28902,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817070,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29890,
+  "price_original": 29304,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817070,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30300,
+  "price_original": 29706,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817070,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32757,
+  "price_original": 32115,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817070,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32757,
+  "price_original": 32115,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817070,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 33777,
+  "price_original": 33115,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1817070,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62800,
+  "price_original": 62800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 990080,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 7032,
+  "price_original": 6894,
+  "currency": "KRW"
+ },
+ {
+  "appid": 990080,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 7344,
+  "price_original": 7200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 990080,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8140,
+  "price_original": 7980,
+  "currency": "KRW"
+ },
+ {
+  "appid": 990080,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 7980,
+  "price_original": 7980,
+  "currency": "KRW"
+ },
+ {
+  "appid": 990080,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8179,
+  "price_original": 8019,
+  "currency": "KRW"
+ },
+ {
+  "appid": 990080,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8756,
+  "price_original": 8584,
+  "currency": "KRW"
+ },
+ {
+  "appid": 990080,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79800,
+  "price_original": 79800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 990080,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 96600,
+  "price_original": 96600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1326470,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 9280,
+  "price_original": 9280,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10213,
+  "price_original": 10013,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10228,
+  "price_original": 10027,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10364,
+  "price_original": 10161,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 12240,
+  "price_original": 12000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 12000,
+  "price_original": 12000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 13641,
+  "price_original": 13374,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 13811,
+  "price_original": 13540,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 23900,
+  "price_original": 23900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 24480,
+  "price_original": 24000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 24000,
+  "price_original": 24000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1868140,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1364780,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 17920,
+  "price_original": 17920,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1364780,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21834,
+  "price_original": 21406,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1364780,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21834,
+  "price_original": 21406,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1364780,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45251,
+  "price_original": 44364,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1364780,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45696,
+  "price_original": 44800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2344520,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62400,
+  "price_original": 62400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2344520,
+  "store_id": "blizzard",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62400,
+  "price_original": 62400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1888930,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32028,
+  "price_original": 31400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1888930,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32028,
+  "price_original": 31400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1888930,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 31400,
+  "price_original": 31400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1888930,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36813,
+  "price_original": 36091,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1888930,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37264,
+  "price_original": 36533,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1888930,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37537,
+  "price_original": 36801,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1888930,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1888930,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1888930,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42118,
+  "price_original": 41292,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1888930,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62800,
+  "price_original": 62800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 949230,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 38500,
+  "price_original": 38500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 949230,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 56584,
+  "price_original": 55475,
+  "currency": "KRW"
+ },
+ {
+  "appid": 949230,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 59384,
+  "price_original": 58220,
+  "currency": "KRW"
+ },
+ {
+  "appid": 949230,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62900,
+  "price_original": 62900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 949230,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 72014,
+  "price_original": 70602,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2322010,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42918,
+  "price_original": 42076,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2322010,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42080,
+  "price_original": 42080,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2322010,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42942,
+  "price_original": 42100,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2322010,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 49089,
+  "price_original": 48126,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2322010,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 49963,
+  "price_original": 48983,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2322010,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54878,
+  "price_original": 53802,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2322010,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54878,
+  "price_original": 53802,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2322010,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 55947,
+  "price_original": 54850,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2322010,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62800,
+  "price_original": 62800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2183900,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 17450,
+  "price_original": 17450,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2183900,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20413,
+  "price_original": 20013,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2183900,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20468,
+  "price_original": 20067,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2183900,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 69800,
+  "price_original": 69800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2183900,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79900,
+  "price_original": 79900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2183900,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 89345,
+  "price_original": 87593,
+  "currency": "KRW"
+ },
+ {
+  "appid": 553850,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34272,
+  "price_original": 33600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 553850,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34272,
+  "price_original": 33600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 553850,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 33600,
+  "price_original": 33600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 553850,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36840,
+  "price_original": 36118,
+  "currency": "KRW"
+ },
+ {
+  "appid": 553850,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37400,
+  "price_original": 36667,
+  "currency": "KRW"
+ },
+ {
+  "appid": 553850,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37400,
+  "price_original": 36667,
+  "currency": "KRW"
+ },
+ {
+  "appid": 553850,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1808500,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30450,
+  "price_original": 30450,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1808500,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30450,
+  "price_original": 30450,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1808500,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 46139,
+  "price_original": 45234,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1808500,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 53240,
+  "price_original": 52196,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1808500,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54605,
+  "price_original": 53534,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1808500,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 56849,
+  "price_original": 55734,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1808500,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62118,
+  "price_original": 60900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1808500,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 60900,
+  "price_original": 60900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1778820,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29454,
+  "price_original": 28876,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1778820,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29880,
+  "price_original": 29880,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1778820,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 39482,
+  "price_original": 38708,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1778820,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 49143,
+  "price_original": 48179,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2399420,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 15361,
+  "price_original": 15060,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2399420,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30855,
+  "price_original": 30250,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2399420,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30250,
+  "price_original": 30250,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2399420,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 51874,
+  "price_original": 50857,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2406770,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30000,
+  "price_original": 30000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3932890,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 51123,
+  "price_original": 50121,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3932890,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 52120,
+  "price_original": 52120,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2161700,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20940,
+  "price_original": 20940,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2161700,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 24524,
+  "price_original": 24043,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2161700,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 69800,
+  "price_original": 69800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2161700,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2050650,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 12450,
+  "price_original": 12450,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2050650,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 13641,
+  "price_original": 13374,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2050650,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45251,
+  "price_original": 44364,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2050650,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 50796,
+  "price_original": 49800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2050650,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54605,
+  "price_original": 53534,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2475460,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 800,
+  "price_original": 800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2475460,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8160,
+  "price_original": 8000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2399830,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 15250,
+  "price_original": 15250,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2399830,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 61728,
+  "price_original": 61728,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2651280,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42080,
+  "price_original": 42080,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2651280,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 49375,
+  "price_original": 48407,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2651280,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 49963,
+  "price_original": 48983,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2651280,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54878,
+  "price_original": 53802,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2651280,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62800,
+  "price_original": 62800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1478500,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 17440,
+  "price_original": 17440,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2246340,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34350,
+  "price_original": 34350,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2246340,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2246340,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 46716,
+  "price_original": 45800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2246340,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54605,
+  "price_original": 53534,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2246340,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 56849,
+  "price_original": 55734,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2246340,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79252,
+  "price_original": 77698,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1086940,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 46200,
+  "price_original": 46200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1086940,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 58900,
+  "price_original": 58900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1086940,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3595270,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21120,
+  "price_original": 21120,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3595270,
+  "store_id": "blizzard",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 84500,
+  "price_original": 84500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3595270,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 97900,
+  "price_original": 97900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2215430,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 38434,
+  "price_original": 37680,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2215430,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37680,
+  "price_original": 37680,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2215430,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 38454,
+  "price_original": 37700,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2215430,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 44214,
+  "price_original": 43347,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2215430,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45046,
+  "price_original": 44163,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2215430,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 49143,
+  "price_original": 48179,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2215430,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 49143,
+  "price_original": 48179,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2215430,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 50458,
+  "price_original": 49469,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2215430,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62800,
+  "price_original": 62800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1771300,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 24320,
+  "price_original": 24320,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1771300,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32621,
+  "price_original": 31981,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1771300,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32757,
+  "price_original": 32115,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1771300,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36089,
+  "price_original": 35381,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1771300,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 60800,
+  "price_original": 60800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1771300,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 77800,
+  "price_original": 77800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1771300,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1771300,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1771300,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 82239,
+  "price_original": 80626,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3159330,
+  "store_id": "ubisoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 31600,
+  "price_original": 31600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3159330,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 31600,
+  "price_original": 31600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3159330,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 31600,
+  "price_original": 31600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3159330,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 80580,
+  "price_original": 79000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3159330,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79000,
+  "price_original": 79000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3159330,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 97468,
+  "price_original": 95557,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2384580,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 55860,
+  "price_original": 55860,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2384580,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 58141,
+  "price_original": 57001,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2384580,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 66894,
+  "price_original": 65582,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2384580,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 72158,
+  "price_original": 70743,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 43840,
+  "price_original": 43840,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 46767,
+  "price_original": 45850,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 46808,
+  "price_original": 45890,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 48460,
+  "price_original": 47510,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 51874,
+  "price_original": 50857,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54821,
+  "price_original": 53746,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54800,
+  "price_original": 54800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 55896,
+  "price_original": 54800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 57554,
+  "price_original": 56425,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62900,
+  "price_original": 62900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 68259,
+  "price_original": 66921,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1903340,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 68259,
+  "price_original": 66921,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2444750,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 19278,
+  "price_original": 18900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2444750,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 18900,
+  "price_original": 18900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2444750,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21151,
+  "price_original": 20736,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2444750,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 30709,
+  "price_original": 30107,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2444750,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 31400,
+  "price_original": 31400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2444750,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34103,
+  "price_original": 33434,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2444750,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2444750,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2456740,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 35840,
+  "price_original": 35840,
+  "currency": "KRW"
+ },
+ {
+  "appid": 594650,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 14692,
+  "price_original": 14404,
+  "currency": "KRW"
+ },
+ {
+  "appid": 594650,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 14733,
+  "price_original": 14444,
+  "currency": "KRW"
+ },
+ {
+  "appid": 594650,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 14680,
+  "price_original": 14680,
+  "currency": "KRW"
+ },
+ {
+  "appid": 594650,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 16235,
+  "price_original": 15917,
+  "currency": "KRW"
+ },
+ {
+  "appid": 594650,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 18035,
+  "price_original": 17681,
+  "currency": "KRW"
+ },
+ {
+  "appid": 594650,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37900,
+  "price_original": 37900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 594650,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1285190,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 38964,
+  "price_original": 38200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1285190,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42400,
+  "price_original": 42400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1285190,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79252,
+  "price_original": 77698,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1285190,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81805,
+  "price_original": 80201,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1285190,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 84800,
+  "price_original": 84800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1285190,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 86496,
+  "price_original": 84800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1285190,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 95569,
+  "price_original": 93695,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1285190,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 95569,
+  "price_original": 93695,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3489700,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42918,
+  "price_original": 42076,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3489700,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42080,
+  "price_original": 42080,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3489700,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42942,
+  "price_original": 42100,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3489700,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 49334,
+  "price_original": 48367,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3489700,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 49963,
+  "price_original": 48983,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3489700,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54878,
+  "price_original": 53802,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3489700,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 62800,
+  "price_original": 62800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2879840,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 13930,
+  "price_original": 13930,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3167020,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 11550,
+  "price_original": 11550,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3167020,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 11550,
+  "price_original": 11550,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2001120,
+  "store_id": "ea",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36400,
+  "price_original": 36400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2001120,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36400,
+  "price_original": 36400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2001120,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 56000,
+  "price_original": 56000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3241660,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 6950,
+  "price_original": 6950,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1984270,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 39790,
+  "price_original": 39790,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1984270,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79252,
+  "price_original": 77698,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1984270,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 93858,
+  "price_original": 92018,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1984270,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 95569,
+  "price_original": 93695,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3527290,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 5210,
+  "price_original": 5210,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3527290,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 5339,
+  "price_original": 5234,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3527290,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 6246,
+  "price_original": 6124,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3527290,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10910,
+  "price_original": 10696,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3240220,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 18390,
+  "price_original": 18390,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3240220,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34382,
+  "price_original": 33708,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3240220,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36790,
+  "price_original": 36790,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3240220,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36790,
+  "price_original": 36790,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3240220,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37526,
+  "price_original": 36790,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3240220,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37536,
+  "price_original": 36800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3240220,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3240220,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 48707,
+  "price_original": 47752,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3059520,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 66000,
+  "price_original": 66000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3059520,
+  "store_id": "ea",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 66000,
+  "price_original": 66000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3438810,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 31200,
+  "price_original": 31200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 55300,
+  "price_original": 55300,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 61600,
+  "price_original": 61600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 71200,
+  "price_original": 71200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79252,
+  "price_original": 77698,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79000,
+  "price_original": 79000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79000,
+  "price_original": 79000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 80580,
+  "price_original": 79000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 97468,
+  "price_original": 95557,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 113717,
+  "price_original": 111487,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3357650,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 55840,
+  "price_original": 55840,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3357650,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 65529,
+  "price_original": 64244,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3357650,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 67918,
+  "price_original": 66586,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3764200,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 55860,
+  "price_original": 55860,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3764200,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 66894,
+  "price_original": 65582,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3764200,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79252,
+  "price_original": 77698,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3764200,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79800,
+  "price_original": 79800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3892270,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 5520,
+  "price_original": 5520,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4001890,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 5210,
+  "price_original": 5210,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2483190,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 63840,
+  "price_original": 63840,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2483190,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 63840,
+  "price_original": 63840,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2483190,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 97468,
+  "price_original": 95557,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3812600,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 15920,
+  "price_original": 15920,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3812600,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20298,
+  "price_original": 19900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3812600,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21834,
+  "price_original": 21406,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3812600,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 23145,
+  "price_original": 22691,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3812600,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3812600,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3812600,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27295,
+  "price_original": 26760,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3812600,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27403,
+  "price_original": 26866,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3280350,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 65117,
+  "price_original": 63840,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3280350,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 63840,
+  "price_original": 63840,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3280350,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 65178,
+  "price_original": 63900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3280350,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 68751,
+  "price_original": 67403,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3280350,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 69762,
+  "price_original": 68394,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3280350,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 76452,
+  "price_original": 74953,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3280350,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 76452,
+  "price_original": 74953,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3280350,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79800,
+  "price_original": 79800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3008130,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 32900,
+  "price_original": 32900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3008130,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3008130,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 65800,
+  "price_original": 65800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3008130,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3008130,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81914,
+  "price_original": 80308,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4108000,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 7040,
+  "price_original": 7040,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4108000,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10910,
+  "price_original": 10696,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4108000,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 10910,
+  "price_original": 10696,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4570720,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29700,
+  "price_original": 29700,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4570720,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 37673,
+  "price_original": 36934,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4570720,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4570720,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4570720,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42226,
+  "price_original": 41398,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2221490,
+  "store_id": "ubisoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 3300,
+  "price_original": 3300,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2221490,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 3400,
+  "price_original": 3400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2221490,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 3400,
+  "price_original": 3400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2221490,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34680,
+  "price_original": 34000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2221490,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34000,
+  "price_original": 34000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2221490,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40601,
+  "price_original": 39805,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2221490,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40950,
+  "price_original": 40147,
+  "currency": "KRW"
+ },
+ {
+  "appid": 526870,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 27642,
+  "price_original": 27100,
+  "currency": "KRW"
+ },
+ {
+  "appid": 526870,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29400,
+  "price_original": 29400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 526870,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36717,
+  "price_original": 35997,
+  "currency": "KRW"
+ },
+ {
+  "appid": 526870,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 38219,
+  "price_original": 37470,
+  "currency": "KRW"
+ },
+ {
+  "appid": 526870,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 38219,
+  "price_original": 37470,
+  "currency": "KRW"
+ },
+ {
+  "appid": 526870,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40331,
+  "price_original": 39540,
+  "currency": "KRW"
+ },
+ {
+  "appid": 526870,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42000,
+  "price_original": 42000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 322330,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 5270,
+  "price_original": 5270,
+  "currency": "KRW"
+ },
+ {
+  "appid": 322330,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 15006,
+  "price_original": 14712,
+  "currency": "KRW"
+ },
+ {
+  "appid": 322330,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 17854,
+  "price_original": 17504,
+  "currency": "KRW"
+ },
+ {
+  "appid": 322330,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20468,
+  "price_original": 20067,
+  "currency": "KRW"
+ },
+ {
+  "appid": 322330,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20549,
+  "price_original": 20146,
+  "currency": "KRW"
+ },
+ {
+  "appid": 457140,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 7800,
+  "price_original": 7800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 625960,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 16800,
+  "price_original": 16800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 625960,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 34123,
+  "price_original": 33454,
+  "currency": "KRW"
+ },
+ {
+  "appid": 962130,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 19950,
+  "price_original": 19950,
+  "currency": "KRW"
+ },
+ {
+  "appid": 962130,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 39900,
+  "price_original": 39900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 18278,
+  "price_original": 17920,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 17920,
+  "price_original": 17920,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 18360,
+  "price_original": 18000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 19649,
+  "price_original": 19264,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 19922,
+  "price_original": 19531,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20468,
+  "price_original": 20067,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21834,
+  "price_original": 21406,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21834,
+  "price_original": 21406,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21834,
+  "price_original": 21406,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 23758,
+  "price_original": 23292,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1259420,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 44800,
+  "price_original": 44800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1604030,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 15520,
+  "price_original": 15520,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1604030,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 21834,
+  "price_original": 21406,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1604030,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 23896,
+  "price_original": 23427,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1604030,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 24011,
+  "price_original": 23540,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1604030,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 35775,
+  "price_original": 35074,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1604030,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 41087,
+  "price_original": 40281,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1604030,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 47778,
+  "price_original": 46841,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 29400,
+  "price_original": 29400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 71600,
+  "price_original": 71600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 74970,
+  "price_original": 73500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 79252,
+  "price_original": 77698,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 85874,
+  "price_original": 84190,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 87900,
+  "price_original": 87900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 95050,
+  "price_original": 93186,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 95569,
+  "price_original": 93695,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 95569,
+  "price_original": 93695,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 95569,
+  "price_original": 93695,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1659040,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 95946,
+  "price_original": 94065,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2531310,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36084,
+  "price_original": 35376,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2531310,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 35380,
+  "price_original": 35380,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2531310,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 36108,
+  "price_original": 35400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2531310,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 40896,
+  "price_original": 40094,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2531310,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 41633,
+  "price_original": 40817,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2531310,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45115,
+  "price_original": 44230,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2531310,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45730,
+  "price_original": 44833,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2531310,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45730,
+  "price_original": 44833,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2531310,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 52800,
+  "price_original": 52800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1295660,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 38148,
+  "price_original": 37400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1295660,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 41500,
+  "price_original": 41500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1295660,
+  "store_id": "gamersgate",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42330,
+  "price_original": 41500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1295660,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 47791,
+  "price_original": 46854,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1295660,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 81805,
+  "price_original": 80201,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1295660,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 83000,
+  "price_original": 83000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1295660,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 95569,
+  "price_original": 93695,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1295660,
+  "store_id": "indiegala",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 95569,
+  "price_original": 93695,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2129530,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 31500,
+  "price_original": 31500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2129530,
+  "store_id": "gmg",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42840,
+  "price_original": 42000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2129530,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 42000,
+  "price_original": 42000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2129530,
+  "store_id": "gamebillet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 44637,
+  "price_original": 43762,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2129530,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 45400,
+  "price_original": 45400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2129530,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54605,
+  "price_original": 53534,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2129530,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54605,
+  "price_original": 53534,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2129530,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 54605,
+  "price_original": 53534,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2129530,
+  "store_id": "gamesplanet",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 63168,
+  "price_original": 61929,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2102040,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 17400,
+  "price_original": 17400,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3731020,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 18670,
+  "price_original": 18670,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3731020,
+  "store_id": "gog",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 25111,
+  "price_original": 24619,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3731020,
+  "store_id": "epic",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 25600,
+  "price_original": 25600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3844970,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 7350,
+  "price_original": 7350,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3101040,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 25600,
+  "price_original": 25600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4560660,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 12800,
+  "price_original": 12800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4704690,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 4580,
+  "price_original": 4580,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4380490,
+  "store_id": "steam",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 8800,
+  "price_original": 8800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4380490,
+  "store_id": "fanatical",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 16782,
+  "price_original": 16453,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4380490,
+  "store_id": "humble",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20468,
+  "price_original": 20067,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4380490,
+  "store_id": "wingamestore",
+  "at": "2026-10-07T10:35:37+00:00",
+  "price_krw": 20468,
+  "price_original": 20067,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:41:49+00:00",
+  "price_krw": 61600,
+  "price_original": 61600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "epic",
+  "at": "2026-10-07T10:41:49+00:00",
+  "price_krw": 71200,
+  "price_original": 71200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:41:49+00:00",
+  "price_krw": 79000,
+  "price_original": 79000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "epic",
+  "at": "2026-10-07T10:41:49+00:00",
+  "price_krw": 79000,
+  "price_original": 79000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:42:56+00:00",
+  "price_krw": 61600,
+  "price_original": 61600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "epic",
+  "at": "2026-10-07T10:42:56+00:00",
+  "price_krw": 71200,
+  "price_original": 71200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "microsoft",
+  "at": "2026-10-07T10:42:56+00:00",
+  "price_krw": 79000,
+  "price_original": 79000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "epic",
+  "at": "2026-10-07T10:42:56+00:00",
+  "price_krw": 79000,
+  "price_original": 79000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1295660,
+  "store_id": "directg",
+  "at": "2026-10-07T10:49:47+00:00",
+  "price_krw": 77000,
+  "price_original": 77000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1158310,
+  "store_id": "directg",
+  "at": "2026-10-07T10:49:50+00:00",
+  "price_krw": 49800,
+  "price_original": 49800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1142710,
+  "store_id": "directg",
+  "at": "2026-10-07T10:49:57+00:00",
+  "price_krw": 7900,
+  "price_original": 7900,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3489700,
+  "store_id": "directg",
+  "at": "2026-10-07T10:49:59+00:00",
+  "price_krw": 39800,
+  "price_original": 39800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4570720,
+  "store_id": "directg",
+  "at": "2026-10-07T10:50:03+00:00",
+  "price_krw": 33000,
+  "price_original": 33000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2651280,
+  "store_id": "directg",
+  "at": "2026-10-07T10:50:05+00:00",
+  "price_krw": 39000,
+  "price_original": 39000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3357650,
+  "store_id": "directg",
+  "at": "2026-10-07T10:50:11+00:00",
+  "price_krw": 48600,
+  "price_original": 48600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 699130,
+  "store_id": "directg",
+  "at": "2026-10-07T10:50:32+00:00",
+  "price_krw": 31800,
+  "price_original": 31800,
+  "currency": "KRW"
+ }
+]
