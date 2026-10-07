@@ -30,9 +30,25 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
         </header>
         <main className="mx-auto max-w-5xl px-4 py-6">{children}</main>
         {modal}
-        <footer className="mx-auto max-w-5xl px-4 py-8 text-xs muted space-y-1 border-t" style={{ borderColor: "var(--line)" }}>
-          <p>결제 전에는 판매처에서 실제 가격을 확인하세요. 가격과 평가는 수집 시점 기준입니다. 판매처 키는 스팀과 달리 환불이 안 될 수 있어요.</p>
-          <p>가격 기록·판매처 가격: <a href="https://isthereanydeal.com" className="underline">IsThereAnyDeal</a> · 현재가·리뷰·접속자: Steam · 마지막 갱신 {kst(updated, true)}</p>
+        <footer className="mx-auto max-w-5xl px-4 py-8 text-xs muted space-y-2 border-t" style={{ borderColor: "var(--line)" }}>
+          <p><b style={{ color: "var(--fg)" }}>국룰겜</b> · 한국 게이머를 위한 스팀 구매 가이드 · 마지막 갱신 {kst(updated, true)}</p>
+          <p>
+            <b>데이터 출처</b> — Steam 상점·리뷰·Web API(현재가·정가·장르·한국어 지원·리뷰·플레이 시간·접속자·판별 가격) ·
+            <a href="https://isthereanydeal.com" className="underline ml-1">IsThereAnyDeal</a>(한국 기준 가격 이력·역대 최저가·공식 판매처 가격) ·
+            <a href="https://directg.net" className="underline ml-1">다이렉트 게임즈</a>(원화 판매가). 시즌 세일 일정은 예년 기준 예상치입니다.
+          </p>
+          <p>
+            <b>판정 방식</b> — 바닥가·좋은 가격·보통·기다림·함정 할인과 한국 주의, 시간당 가격, 후회 지수는 모두 <Link href="/about" className="underline">판정 기준</Link>에 공개한 계산식으로 자동 산출됩니다.
+            같은 데이터면 같은 결과가 나오며 사람의 추천이나 광고가 끼어들지 않습니다.
+          </p>
+          <p>
+            <b>주의</b> — 가격과 평가는 수집 시점 기준이며 결제 전 판매처에서 실제 가격·지역 제한·환불 조건을 확인하세요. 판매처 키는 스팀과 달리 환불이 안 될 수 있습니다.
+            판매처 이동 링크 중 일부는 IsThereAnyDeal의 추적(제휴) 링크입니다.
+          </p>
+          <p>
+            이 사이트는 Valve(Steam), IsThereAnyDeal, 에이치투인터렉티브(다이렉트 게임즈), Epic Games, Ubisoft, Electronic Arts, Microsoft, Blizzard와 아무 관련이 없는 개인 운영 사이트입니다.
+            각 게임·판매처·플랫폼의 이름과 그림은 해당 권리자의 것입니다. 문의: asdf9550@gmail.com
+          </p>
         </footer>
       </body>
     </html>
