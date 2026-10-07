@@ -20,7 +20,7 @@ export default function GameCard({ deal, note }: { deal: Deal; note?: string }) 
       )}
       <div className="min-w-0 flex-1 flex flex-col justify-center gap-1">
         {/* 1줄: 이름(길면 …) + 판정 */}
-        <div className="flex items-center gap-2 min-w-0">
+        <div className="flex flex-wrap md:flex-nowrap items-center gap-x-2 gap-y-1 min-w-0">
           {g.steam_rank != null && g.steam_rank <= 100 && (
             <span className="shrink-0 rounded-md px-1.5 py-0.5 text-xs font-extrabold" style={{ background: g.steam_rank <= 10 ? "#ef4444" : "var(--line)", color: g.steam_rank <= 10 ? "#fff" : "var(--muted)" }}>#{g.steam_rank}</span>
           )}
@@ -31,7 +31,7 @@ export default function GameCard({ deal, note }: { deal: Deal; note?: string }) 
           </span>
         </div>
         {/* 2줄: 가격 */}
-        <div className="flex items-baseline gap-x-2 text-sm whitespace-nowrap overflow-hidden">
+        <div className="flex flex-wrap md:flex-nowrap items-baseline gap-x-2 text-sm md:whitespace-nowrap md:overflow-hidden">
           <span className="text-lg font-extrabold">{won(p.current_price)}</span>
           {p.discount_pct ? <span className="font-bold" style={{ color: "#16a34a" }}>-{p.discount_pct}%</span> : null}
           <span className="muted line-through">{won(p.regular_price)}</span>
