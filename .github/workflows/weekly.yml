@@ -3,9 +3,11 @@
 # 손으로 돌리려면 GitHub 저장소 → Actions → "주간 수집" → Run workflow.
 name: 주간 수집
 
+# 2026-10-07: 자동 수집은 사용자 PC의 예약 작업(Gukrulgem-Daily-0440, 자동수집_올리기.ps1)이 매일 04:40에 함.
+# 이 워크플로는 손으로 돌릴 때만(Actions → Run workflow). 켜려면 아래 schedule 주석을 풀고 Secret ITAD_API_KEY 를 넣을 것.
 on:
-  schedule:
-    - cron: "0 18 * * 1"        # UTC 월요일 18:00 = 한국 화요일 03:00
+  # schedule:
+  #   - cron: "0 18 * * 1"        # UTC 월요일 18:00 = 한국 화요일 03:00
   workflow_dispatch:
 
 permissions:
