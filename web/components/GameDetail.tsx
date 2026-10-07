@@ -8,6 +8,8 @@ import { game, offersFor, reviewHistory, seasons, storesList, videos } from "@/l
 import StoreCompare from "@/components/StoreCompare";
 import EditionCompare from "@/components/EditionCompare";
 import KoreanReviews from "@/components/KoreanReviews";
+import WhyDisliked from "@/components/WhyDisliked";
+import { reviewSummaryFor } from "@/lib/data";
 import WishButton from "@/components/WishButton";
 
 const DECK: Record<string, { label: string; tone: "good" | "warn" | "bad" | "plain" }> = {
@@ -200,6 +202,8 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
         </div>
         <ReviewGap all={allPct} ko={koPct} reviewsAll={g.reviews_all} reviewsKo={g.reviews_ko} gap={g.gap_pp} />
       </section>
+
+      <WhyDisliked s={reviewSummaryFor(g.appid)} gapPp={g.gap_pp} />
 
       <KoreanReviews game={g} />
 

@@ -151,6 +151,13 @@ def main(argv=None) -> int:
         except Exception as error:
             errors.append({"appid": None, "error": f"판매처 가격 실패: {str(error)[:160]}"})
             print(f"판매처 가격 실패: {error}", file=sys.stderr)
+        # 한국어 부정 리뷰 요약(Claude Haiku, 게임당 주 1회 캐시). 키 없으면 건너뜀.
+        try:
+            from . import review_summary
+            print(f"리뷰 요약: {review_summary.summarize(games, rules)}")
+        except Exception as error:
+            errors.append({"appid": None, "error": f"리뷰 요약 실패: {str(error)[:160]}"})
+            print(f"리뷰 요약 실패: {error}", file=sys.stderr)
         # 다이렉트 게임즈(B안: 사이트맵, 하루 1회, 3초 간격). 실패해도 마지막 캐시로 이어 간다.
         try:
             from . import directg
