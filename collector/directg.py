@@ -23,7 +23,7 @@ from urllib.request import Request, urlopen
 from .common import ROOT, display_title, load_rules, now_iso
 
 SITEMAP = "https://directg.net/sitemap_game.php"
-UA = "gukrulgem-bot/0.1 (+asdf9550@gmail.com; Korean price comparison; 1 visit/day)"
+UA = "gukrulgem-bot/0.1 (+asdfpil0001@gmail.com; Korean price comparison; 1 visit/day)"
 STORE_ID = "directg"
 STORE_NAME = "다이렉트 게임즈"
 DATA = ROOT / "data"
