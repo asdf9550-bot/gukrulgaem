@@ -77,11 +77,20 @@ def korean_top_reviews(appid: int, count: int = 3, rules: dict | None = None) ->
 def korean_reviews_by_type(appid: int, kind: str = "negative", count: int = 20, rules: dict | None = None) -> list[str]:
     """한국어 리뷰 본문(kind = negative/positive, '도움이 됨' 많은 순). AI 요약 재료."""
     rules = rules or load_rules()
-    data = get_json(APPREVIEWS.format(appid=appid),
-                    {"json": 1, "language": "koreana", "review_type": kind, "filter": "all",
-                     "purchase_type": "all", "num_per_page": min(count, 100), "cursor": "*"},
-                    host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"])
-    return [_clean(r.get("review", "")) for r in (data or {}).get("reviews") or [] if r.get("review")]
+    out: list[str] = []
+    # '도움이 됨' 순은 최근 글만 조금 주므로 부족하면 '최근순'도 받아 합친다(비추천은 특히 적음)
+    for flt in ("all", "recent"):
+        data = get_json(APPREVIEWS.format(appid=appid),
+                        {"json": 1, "language": "koreana", "review_type": kind, "filter": flt,
+                         "purchase_type": "all", "num_per_page": min(count, 100), "cursor": "*"},
+                        host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"])
+        for r in (data or {}).get("reviews") or []:
+            text = _clean(r.get("review", ""))
+            if text and text not in out:
+                out.append(text)
+        if len(out) >= count:
+            break
+    return out[:count]
 
 
 def korean_negative_reviews(appid: int, count: int = 20, rules: dict | None = None) -> list[str]:
