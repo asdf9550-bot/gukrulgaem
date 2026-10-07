@@ -4,9 +4,16 @@ import PriceChart from "@/components/PriceChart";
 import ReviewGap from "@/components/ReviewGap";
 import SaleCountdown from "@/components/SaleCountdown";
 import VerdictBadge from "@/components/VerdictBadge";
-import { game, offersFor, seasons, storesList, videos } from "@/lib/data";
+import { game, offersFor, reviewHistory, seasons, storesList, videos } from "@/lib/data";
 import StoreCompare from "@/components/StoreCompare";
 import EditionCompare from "@/components/EditionCompare";
+import KoreanReviews from "@/components/KoreanReviews";
+import WishButton from "@/components/WishButton";
+
+const DECK: Record<string, { label: string; tone: "good" | "warn" | "bad" | "plain" }> = {
+  verified: { label: "스팀덱 확인됨", tone: "good" }, playable: { label: "스팀덱 플레이 가능", tone: "warn" },
+  unsupported: { label: "스팀덱 지원 안 함", tone: "bad" }, unknown: { label: "", tone: "plain" },
+};
 import { kst, pct, SUPPORT, VERDICT, won } from "@/lib/format";
 import { daysUntil, hours, nextSeason, pricePerHour, regretIndex, saleStats } from "@/lib/stats";
 
@@ -41,6 +48,17 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
   const regretStyle = { low: { background: "#dcfce7", color: "#15803d" }, mid: { background: "#fef3c7", color: "#b45309" }, high: { background: "#fee2e2", color: "#b91c1c" } }[regret.level];
   const koRatio = g.playtime_median_h_all && g.playtime_median_h_ko && (g.playtime_n_ko ?? 0) >= 20
     ? g.playtime_median_h_ko / g.playtime_median_h_all : null;
+  // 리뷰 추세: 기록이 2개 이상이면 첫 기록(최대 26회 전) 대비 긍정률·접속자 변화
+  const trend = reviewHistory().filter((r) => r.appid === g.appid).sort((a, b) => a.at.localeCompare(b.at));
+  const first = trend[0], last = trend[trend.length - 1];
+  const trendText = first && last && first.at !== last.at ? (() => {
+    const p0 = first.reviews_all ? first.positive_all / first.reviews_all * 100 : null;
+    const p1 = last.reviews_all ? last.positive_all / last.reviews_all * 100 : null;
+    const d = p0 != null && p1 != null ? Math.round((p1 - p0) * 10) / 10 : null;
+    const nr = last.reviews_all - first.reviews_all;
+    return `${kst(first.at)} 이후 리뷰 +${nr.toLocaleString("ko-KR")}개` + (d != null ? `, 긍정률 ${d > 0 ? "+" : ""}${d}%p` : "");
+  })() : null;
+  const deck = DECK[g.deck ?? "unknown"];
 
   const statRows: { k: string; v: React.ReactNode; sub?: string }[] = [
     { k: "통상 할인", v: stats.usualCut != null ? `${stats.usualCut}%` : "-", sub: "세일 때 보통 이만큼" },
@@ -78,6 +96,7 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
           <div className="flex flex-wrap items-center gap-3">
             <VerdictBadge verdict={p.verdict} size={compact ? "md" : "lg"} stamp />
             <span className="muted">{v.short}</span>
+            <WishButton appid={g.appid} size="lg" />
           </div>
           {p.sale_end_at && <SaleCountdown endAt={p.sale_end_at} endText={kst(p.sale_end_at, true)} />}
           <div className="flex flex-wrap gap-2 fade-up" style={{ animationDelay: "400ms" }}>
@@ -93,6 +112,7 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
             {(g.play_modes ?? []).length > 0 && <Chip>{(g.play_modes ?? []).map((m) => ({ single: "싱글", multi: "멀티", coop: "협동" })[m]).join(" · ")}</Chip>}
             {(g.platforms ?? []).length > 0 && <Chip>{(g.platforms ?? []).map((o) => ({ windows: "Win", mac: "Mac", linux: "Linux" })[o]).join(" · ")}</Chip>}
             {g.controller === "full" && <Chip>패드 지원</Chip>}
+            {deck.label && <Chip tone={deck.tone}>{deck.label}</Chip>}
           </div>
         </div>
       </section>
@@ -174,9 +194,14 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
       </section>
 
       <section className="card p-5 space-y-3">
-        <h2 className="text-lg font-bold">한국 게이머 평가 vs 전체 평가</h2>
+        <div className="flex flex-wrap items-baseline justify-between gap-2">
+          <h2 className="text-lg font-bold">한국 게이머 평가 vs 전체 평가</h2>
+          {trendText && <span className="text-xs muted">추세: {trendText}</span>}
+        </div>
         <ReviewGap all={allPct} ko={koPct} reviewsAll={g.reviews_all} reviewsKo={g.reviews_ko} gap={g.gap_pp} />
       </section>
+
+      <KoreanReviews game={g} />
 
       {related.length > 0 && (
         <section className="card p-5 space-y-3">

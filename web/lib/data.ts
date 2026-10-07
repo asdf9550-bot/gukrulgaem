@@ -32,6 +32,8 @@ export interface Game {
   controller?: "full" | "partial" | "none";
   steam_rank?: number | null;          // 스팀 '특별 할인 · 판매 순' 검색 순위
   editions?: { name: string; price: number; regular: number; cut: number; packageid: number | null }[];   // 스팀 판별 가격
+  deck?: "verified" | "playable" | "unsupported" | "unknown";   // 스팀덱 호환
+  korean_reviews?: { text: string; votes_up: number; hours: number; recommended: boolean; url: string | null }[];   // 한국어 추천 리뷰 인용
   // 지금 접속자 — 스팀 공식 Web API
   current_players?: number | null;
   players_at?: string;
@@ -174,6 +176,10 @@ export function seasons(): Season[] {
   if (!fs.existsSync(file)) return [];
   return (JSON.parse(fs.readFileSync(file, "utf-8")) as { seasons: Season[] }).seasons;
 }
+
+export interface ReviewPoint { appid: number; at: string; reviews_all: number; positive_all: number; reviews_ko: number; positive_ko: number; current_players: number | null }
+export const reviewHistory = (): ReviewPoint[] => read<ReviewPoint>("review_history");
+export const pricesPrev = (): Price[] => read<Price>("prices_prev");
 
 export const offers = (): Offer[] => read<Offer>("offers");
 export const storesList = (): Store[] => read<Store>("stores");

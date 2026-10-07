@@ -13,7 +13,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-from . import itad, steam_players, steam_reviews, steam_store, stores, verdict
+from . import itad, steam_deck, steam_players, steam_reviews, steam_store, stores, verdict
 from .common import ROOT, load_rules, now_iso
 
 DATA = ROOT / "data"
@@ -44,6 +44,8 @@ def collect_one(appid: int, rules: dict, steam_rank: int | None = None) -> tuple
             "release_date": store["release_date"], "steam_url": store["steam_url"],
             "platforms": store.get("platforms", []), "play_modes": store.get("play_modes", []), "controller": store.get("controller", "none"),
             "steam_rank": steam_rank, "editions": store.get("editions", []),
+            "deck": steam_deck.deck_status(appid, rules),
+            "korean_reviews": steam_reviews.korean_top_reviews(appid, 3, rules) if reviews["reviews_ko"] >= 20 else [],
             **reviews, **steam_players.current_players(appid), "updated_at": now_iso()}
     price = {"appid": appid, "itad_id": record.get("itad_id"),
              "regular_price": store["regular_price"], "current_price": store["current_price"],
@@ -56,10 +58,30 @@ def collect_one(appid: int, rules: dict, steam_rank: int | None = None) -> tuple
     return game, price, points, None
 
 
+def _append_review_history(games: list[dict]) -> None:
+    """리뷰 수·긍정률·접속자를 실행마다 기록(게임당 최근 26개) → 화면의 '추세'."""
+    path = DATA / "review_history.json"
+    rows = json.loads(path.read_text(encoding="utf-8")) if path.is_file() else []
+    at = now_iso()
+    for g in games:
+        rows.append({"appid": g["appid"], "at": at, "reviews_all": g["reviews_all"], "positive_all": g["positive_all"],
+                     "reviews_ko": g["reviews_ko"], "positive_ko": g["positive_ko"], "current_players": g.get("current_players")})
+    keep: dict[int, list[dict]] = {}
+    for r in rows:
+        keep.setdefault(r["appid"], []).append(r)
+    rows = [r for lst in keep.values() for r in lst[-26:]]
+    path.write_text(json.dumps(rows, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def save(games: list[dict], prices: list[dict], history: list[dict], run: dict) -> None:
     DATA.mkdir(exist_ok=True)
+    # 어제 가격을 보관 → 홈 "오늘 바뀐 것"(새로 바닥가, 새 할인)
+    prev = DATA / "prices.json"
+    if prev.is_file():
+        (DATA / "prices_prev.json").write_text(prev.read_text(encoding="utf-8"), encoding="utf-8")
     for name, rows in (("games", games), ("prices", prices), ("price_history", history)):
         (DATA / f"{name}.json").write_text(json.dumps(rows, ensure_ascii=False, indent=1), encoding="utf-8")
+    _append_review_history(games)
     runs_path = DATA / "runs.json"
     runs = json.loads(runs_path.read_text(encoding="utf-8")) if runs_path.is_file() else []
     runs = ([run] + runs)[:52]

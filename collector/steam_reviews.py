@@ -46,6 +46,34 @@ def review_stats(appid: int, rules: dict | None = None) -> dict:
             "playtime_median_h_ko": pk["median_hours"], "playtime_n_ko": pk["n"], "under_2h_pct_ko": pk["under_2h_pct"]}
 
 
+BAD_WORDS = ("씨발", "시발", "씹", "좆", "병신", "지랄", "새끼", "ㅅㅂ", "ㅂㅅ", "개같", "꺼져")
+
+
+def _clean(text: str) -> str:
+    return " ".join((text or "").replace("[h1]", "").replace("[/h1]", "").split())
+
+
+def korean_top_reviews(appid: int, count: int = 3, rules: dict | None = None) -> list[dict]:
+    """한국어 리뷰 중 '도움이 됨' 많은 순 상위 몇 개(인용용). 욕설·너무 짧은 글은 뺀다.
+    [{'text'(≤200자), 'votes_up', 'hours', 'recommended', 'url'}]. 출처 표기와 원문 링크를 화면에 반드시 둘 것."""
+    rules = rules or load_rules()
+    data = get_json(APPREVIEWS.format(appid=appid),
+                    {"json": 1, "language": "koreana", "filter": "all", "purchase_type": "all", "num_per_page": 10, "cursor": "*"},
+                    host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"]) or {}
+    out = []
+    for r in data.get("reviews") or []:
+        text = _clean(r.get("review") or "")
+        if len(text) < 30 or any(w in text for w in BAD_WORDS):
+            continue
+        author = r.get("author") or {}
+        out.append({"text": text[:200] + ("…" if len(text) > 200 else ""), "votes_up": int(r.get("votes_up") or 0),
+                    "hours": round((author.get("playtime_forever") or 0) / 60, 1), "recommended": bool(r.get("voted_up")),
+                    "url": f"https://steamcommunity.com/profiles/{author.get('steamid')}/recommended/{appid}/" if author.get("steamid") else None})
+        if len(out) >= count:
+            break
+    return out
+
+
 def korean_negative_reviews(appid: int, count: int = 20, rules: dict | None = None) -> list[str]:
     """한국어 부정 리뷰 본문(최근순). 3단계 'AI 이유 요약' 재료. 지금은 수집만 하고 요약하지 않는다."""
     rules = rules or load_rules()

@@ -34,6 +34,8 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
             <Link href="/" className="font-extrabold text-lg flex items-baseline gap-1.5">국룰겜<span className="text-xs font-normal muted hidden sm:inline">스팀 구매 가이드</span></Link>
             <Link href="/" className="muted hover:underline">이번 주 할인</Link>
             <Link href="/rank" className="muted hover:underline">순위</Link>
+            <Link href="/calendar" className="muted hover:underline">달력</Link>
+            <Link href="/wish" className="muted hover:underline">♡ 찜</Link>
             <Link href="/about" className="muted hover:underline">판정 기준</Link>
             <Link href="/video" className="muted hover:underline">영상</Link>
           </nav>
@@ -43,7 +45,7 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
         <footer className="mx-auto max-w-5xl px-4 py-8 text-xs muted space-y-2 border-t" style={{ borderColor: "var(--line)" }}>
           <p><b style={{ color: "var(--fg)" }}>국룰겜</b> · 한국 게이머를 위한 스팀 구매 가이드 · 마지막 갱신 {kst(updated, true)}</p>
           <p>
-            <b>데이터 출처</b> — Steam 상점·리뷰·Web API(현재가·정가·장르·한국어 지원·리뷰·플레이 시간·접속자·판별 가격) ·
+            <b>데이터 출처</b> — Steam 상점·리뷰·Web API(현재가·정가·장르·한국어 지원·리뷰·리뷰 인용·플레이 시간·접속자·판별 가격·스팀덱 호환) ·
             <a href="https://isthereanydeal.com" className="underline ml-1">IsThereAnyDeal</a>(한국 기준 가격 이력·역대 최저가·공식 판매처 가격) ·
             <a href="https://directg.net" className="underline ml-1">다이렉트 게임즈</a>(원화 판매가). 시즌 세일 일정은 예년 기준 예상치입니다.
           </p>

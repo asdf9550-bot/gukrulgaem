@@ -2,14 +2,17 @@ import Link from "next/link";
 import Image from "next/image";
 import DealList from "@/components/DealList";
 import VerdictBadge from "@/components/VerdictBadge";
-import { deals, lastUpdated } from "@/lib/data";
+import TodayChanges from "@/components/TodayChanges";
+import { deals, lastUpdated, pricesPrev } from "@/lib/data";
 import { kst, won } from "@/lib/format";
 import { pickReason, weeklyPicks } from "@/lib/pick";
+import { todayChanges } from "@/lib/changes";
 
 export default function Home() {
   const rows = deals();
   const floor = rows.filter((d) => d.price.verdict === "floor").length;
   const picks = weeklyPicks(rows);
+  const changes = todayChanges(rows, pricesPrev());
   return (
     <div className="space-y-6">
       <div>
@@ -48,6 +51,8 @@ export default function Home() {
           </div>
         </section>
       )}
+
+      <TodayChanges c={changes} />
 
       <DealList deals={rows} />
     </div>

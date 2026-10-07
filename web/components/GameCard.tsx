@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import VerdictBadge from "@/components/VerdictBadge";
+import WishButton from "@/components/WishButton";
 import type { Deal } from "@/lib/data";
 import { pct, SUPPORT, TAG, won } from "@/lib/format";
 import { pricePerHour } from "@/lib/stats";
@@ -28,6 +29,7 @@ export default function GameCard({ deal, note }: { deal: Deal; note?: string }) 
           <span className="shrink-0 flex items-center gap-1">
             <VerdictBadge verdict={p.verdict} />
             {p.tags.includes("korea_warning") && <span className="inline-flex items-center rounded-full px-3 py-1 text-sm font-bold leading-none" style={{ background: "#fee2e2", color: "#b91c1c" }}>{TAG.korea_warning}</span>}
+            <WishButton appid={g.appid} />
           </span>
         </div>
         {/* 2줄: 가격 */}
