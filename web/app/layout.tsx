@@ -10,8 +10,17 @@ const notoSansKr = Noto_Sans_KR({ subsets: ["latin"], weight: ["400", "700", "90
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  applicationName: "국룰겜",
   title: { default: "국룰겜 — 스팀 구매 가이드", template: "%s | 국룰겜" },
   description: "국룰겜: 한국 스팀 가격 기록과 한국 게이머 평가로 '지금 사도 되는 게임인지' 판정하는 스팀 구매 가이드.",
+  openGraph: { siteName: "국룰겜", locale: "ko_KR", type: "website", url: SITE_URL },
+  alternates: { canonical: "/" },
+};
+
+// 구글이 검색 결과에 보여줄 사이트 이름(WebSite 구조화 데이터). 홈에서 읽는다.
+const siteLd = {
+  "@context": "https://schema.org", "@type": "WebSite", name: "국룰겜", alternateName: ["국룰겜 스팀 구매 가이드", "gukrulgaem"], url: SITE_URL + "/",
+  inLanguage: "ko-KR", description: "한국 스팀 가격 기록과 한국 게이머 평가로 지금 사도 되는 게임인지 판정하는 스팀 구매 가이드",
 };
 
 export default function RootLayout({ children, modal }: { children: React.ReactNode; modal: React.ReactNode }) {
@@ -19,6 +28,7 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
   return (
     <html lang="ko">
       <body className={`min-h-screen antialiased ${notoSansKr.className}`}>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(siteLd) }} />
         <header className="border-b" style={{ borderColor: "var(--line)" }}>
           <nav className="mx-auto max-w-5xl px-4 h-14 flex items-center gap-4 sm:gap-5 text-sm whitespace-nowrap overflow-x-auto">
             <Link href="/" className="font-extrabold text-lg flex items-baseline gap-1.5">국룰겜<span className="text-xs font-normal muted hidden sm:inline">스팀 구매 가이드</span></Link>
