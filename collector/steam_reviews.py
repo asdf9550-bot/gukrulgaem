@@ -74,11 +74,15 @@ def korean_top_reviews(appid: int, count: int = 3, rules: dict | None = None) ->
     return out
 
 
-def korean_negative_reviews(appid: int, count: int = 20, rules: dict | None = None) -> list[str]:
-    """한국어 부정 리뷰 본문(최근순). 3단계 'AI 이유 요약' 재료. 지금은 수집만 하고 요약하지 않는다."""
+def korean_reviews_by_type(appid: int, kind: str = "negative", count: int = 20, rules: dict | None = None) -> list[str]:
+    """한국어 리뷰 본문(kind = negative/positive, '도움이 됨' 많은 순). AI 요약 재료."""
     rules = rules or load_rules()
     data = get_json(APPREVIEWS.format(appid=appid),
-                    {"json": 1, "language": "koreana", "review_type": "negative", "filter": "recent",
-                     "purchase_type": "all", "num_per_page": min(count, 100)},
+                    {"json": 1, "language": "koreana", "review_type": kind, "filter": "all",
+                     "purchase_type": "all", "num_per_page": min(count, 100), "cursor": "*"},
                     host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"])
-    return [r.get("review", "").strip() for r in (data or {}).get("reviews") or [] if r.get("review")]
+    return [_clean(r.get("review", "")) for r in (data or {}).get("reviews") or [] if r.get("review")]
+
+
+def korean_negative_reviews(appid: int, count: int = 20, rules: dict | None = None) -> list[str]:
+    return korean_reviews_by_type(appid, "negative", count, rules)

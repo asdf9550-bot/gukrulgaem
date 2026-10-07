@@ -181,7 +181,11 @@ export interface ReviewPoint { appid: number; at: string; reviews_all: number; p
 export const reviewHistory = (): ReviewPoint[] => read<ReviewPoint>("review_history");
 export const pricesPrev = (): Price[] => read<Price>("prices_prev");
 
-export interface ReviewSummary { appid: number; week: string; reasons: string[]; summary: string; sample: number; created_at: string }
+export interface ReviewSummary {
+  appid: number; week: string; created_at: string;
+  reasons?: string[]; summary?: string; sample?: number;              // 싫어한 이유(비추천 리뷰)
+  likes?: string[]; likes_summary?: string; likes_sample?: number;    // 좋아한 이유(추천 리뷰)
+}
 export const reviewSummaries = (): ReviewSummary[] => read<ReviewSummary>("review_summaries");
 /** 한 게임의 가장 최근 요약 */
 export function reviewSummaryFor(appid: number): ReviewSummary | null {
