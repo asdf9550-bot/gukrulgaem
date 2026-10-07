@@ -168,10 +168,16 @@ def main(argv=None) -> int:
         except Exception as error:
             errors.append({"appid": None, "error": f"다이렉트 게임즈 실패: {str(error)[:160]}"})
             print(f"다이렉트 게임즈 실패: {error}", file=sys.stderr)
+    # 텔레그램 알림(구독자 있을 때만, 키 없으면 건너뜀). 저장 뒤에 보내야 새 가격 기준이라 save 다음으로 미룬다.
     run = {"week": datetime.now(timezone.utc).strftime("%G-W%V"), "started_at": started, "finished_at": now_iso(),
            "game_count": len(games), "skipped": skipped, "errors": errors, "offers": offers_summary}
     if not args.no_save:
         save(games, prices, history, run)
+        try:
+            from . import telegram_alerts
+            print(f"텔레그램: {telegram_alerts.send_alerts()}")
+        except Exception as error:
+            print(f"텔레그램 실패: {error}", file=sys.stderr)
     if args.table:
         print(); print(table(games, prices))
     print(f"\n완료: 게임 {len(games)}개, 건너뜀 {len(skipped)}개, 오류 {len(errors)}개")

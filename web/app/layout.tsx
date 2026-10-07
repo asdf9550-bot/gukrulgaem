@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Noto_Sans_KR } from "next/font/google";
 import Link from "next/link";
+import SubscribeBox from "@/components/SubscribeBox";
 import "./globals.css";
 import { lastUpdated } from "@/lib/data";
 import { kst } from "@/lib/format";
@@ -36,6 +37,7 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
             <Link href="/rank" className="muted hover:underline">순위</Link>
             <Link href="/calendar" className="muted hover:underline">달력</Link>
             <Link href="/wish" className="muted hover:underline">♡ 찜</Link>
+            <Link href="/me" className="muted hover:underline">내 위시리스트</Link>
             <Link href="/about" className="muted hover:underline">판정 기준</Link>
             <Link href="/video" className="muted hover:underline">영상</Link>
           </nav>
@@ -43,6 +45,7 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
         <main className="mx-auto max-w-5xl px-4 py-6">{children}</main>
         {modal}
         <footer className="mx-auto max-w-5xl px-4 py-8 text-xs muted space-y-2 border-t" style={{ borderColor: "var(--line)" }}>
+          <div className="mb-4"><SubscribeBox /></div>
           <p><b style={{ color: "var(--fg)" }}>국룰겜</b> · 한국 게이머를 위한 스팀 구매 가이드 · 마지막 갱신 {kst(updated, true)}</p>
           <p>
             <b>데이터 출처</b> — Steam 상점·리뷰·Web API(현재가·정가·장르·한국어 지원·리뷰·리뷰 인용·플레이 시간·접속자·판별 가격·스팀덱 호환) ·
