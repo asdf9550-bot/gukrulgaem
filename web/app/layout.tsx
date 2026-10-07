@@ -5,7 +5,7 @@ import "./globals.css";
 import { lastUpdated } from "@/lib/data";
 import { kst } from "@/lib/format";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://gukrulgaem.vercel.app";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://gukrulgaem.com";
 const notoSansKr = Noto_Sans_KR({ subsets: ["latin"], weight: ["400", "700", "900"], display: "swap" });
 
 export const metadata: Metadata = {

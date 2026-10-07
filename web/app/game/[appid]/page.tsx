@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
   };
 }
 
-const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://gukrulgaem.vercel.app";
+const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://gukrulgaem.com";
 
 /** 검색 엔진용 상품 정보(JSON-LD): 구글 검색 결과에 가격·평점이 같이 뜨게 */
 function productLd(appid: number) {

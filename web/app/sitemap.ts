@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { games, lastUpdated } from "@/lib/data";
 
 // 검색 엔진용 사이트맵: 고정 페이지 + 게임 상세 전부
-const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://gukrulgaem.vercel.app";
+const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://gukrulgaem.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const updated = lastUpdated() ? new Date(lastUpdated()!) : new Date();
