@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Noto_Sans_KR } from "next/font/google";
 import Link from "next/link";
 // import SubscribeBox from "@/components/SubscribeBox";   // 주간 메일 보류 중
+import Analytics from "@/components/Analytics";
 import "./globals.css";
 import { lastUpdated } from "@/lib/data";
 import { kst } from "@/lib/format";
@@ -30,6 +31,7 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
     <html lang="ko">
       <body className={`min-h-screen antialiased ${notoSansKr.className}`}>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(siteLd) }} />
+        <Analytics />
         <header className="border-b" style={{ borderColor: "var(--line)" }}>
           <nav className="mx-auto max-w-5xl px-4 h-14 flex items-center gap-4 sm:gap-5 text-sm whitespace-nowrap overflow-x-auto">
             <Link href="/" className="font-extrabold text-lg flex items-baseline gap-1.5">국룰겜<span className="text-xs font-normal muted hidden sm:inline">스팀 구매 가이드</span></Link>

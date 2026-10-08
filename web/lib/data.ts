@@ -127,7 +127,8 @@ export const games = (): Game[] => read<Game>("games");
 export const prices = (): Price[] => read<Price>("prices");
 export const history = (): HistoryPoint[] => read<HistoryPoint>("price_history");
 export const runs = (): Run[] => read<Run>("runs");
-export const videos = (): Video[] => read<Video>("videos");
+// 영상 프로그램이 올린 영상만. 유튜브 영상 번호는 11글자라서 시험용 줄("testVideo" 등)은 걸러낸다.
+export const videos = (): Video[] => read<Video>("videos").filter((v) => /^[A-Za-z0-9_-]{11}$/.test(String(v.video_id ?? "")));
 
 export function game(appid: number): { game: Game; price: Price; history: HistoryPoint[] } | null {
   const g = games().find((x) => x.appid === appid);
