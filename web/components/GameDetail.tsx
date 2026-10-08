@@ -7,6 +7,7 @@ import VerdictBadge from "@/components/VerdictBadge";
 import { game, offersFor, reviewHistory, seasons, storesList, videos } from "@/lib/data";
 import StoreCompare from "@/components/StoreCompare";
 import EditionCompare from "@/components/EditionCompare";
+import MediaStrip from "@/components/MediaStrip";
 import KoreanReviews from "@/components/KoreanReviews";
 import WhyDisliked from "@/components/WhyDisliked";
 import { reviewSummaryFor } from "@/lib/data";
@@ -125,6 +126,17 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
 
       {/* 판 비교(디럭스 등) */}
       <EditionCompare game={g} offers={offersFor(g.appid)} />
+
+      {/* 사진·예고편(2026-10-09 사용자 "사진이 너무 부족해"): 스팀 상점 스크린샷 6장 + 첫 예고편 */}
+      <MediaStrip game={g} />
+
+      {/* 어떤 게임인지 한 줄(스팀 상점 소개) */}
+      {g.short_description && (
+        <section className="card p-4 sm:p-5">
+          <h2 className="text-lg font-bold mb-1">어떤 게임인가</h2>
+          <p className="text-sm leading-relaxed">{g.short_description}</p>
+        </section>
+      )}
 
       {/* 시간당 가격 · 플레이 시간 · 후회 지수 */}
       <section className="grid grid-cols-1 sm:grid-cols-3 gap-3">

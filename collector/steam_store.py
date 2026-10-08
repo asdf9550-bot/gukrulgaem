@@ -65,6 +65,13 @@ def appdetails(appid: int, rules: dict | None = None) -> dict | None:
     # 메타크리틱 점수(스팀 상점이 제공하는 게임만, 2026-10-08) — 영상·카드의 "메타 74" 표시용
     meta = d.get("metacritic") or {}
     row["metacritic"] = int(meta["score"]) if isinstance(meta.get("score"), (int, float)) else None
+    # 사진·영상(2026-10-09 사용자 "사이트에 사진이 너무 부족해"): 상점 스크린샷 6장 + 첫 예고편(mp4) + 한 줄 소개
+    row["screenshots"] = [{"thumb": s.get("path_thumbnail"), "full": s.get("path_full")}
+                          for s in (d.get("screenshots") or [])[:6] if s.get("path_full")]
+    # 스팀 예고편은 2026년부터 HLS(m3u8)·DASH만 준다(mp4 없음) — 화면에서는 hls.js 로 재생
+    movie = next((m for m in (d.get("movies") or []) if m.get("hls_h264")), None)
+    row["trailer"] = {"hls": movie["hls_h264"], "poster": movie.get("thumbnail"), "name": movie.get("name")} if movie else None
+    row["short_description"] = re.sub(r"<[^>]+>", "", d.get("short_description") or "").strip() or None
     row["required_age"] = int(str(d.get("required_age") or 0).strip("+") or 0)
     row["content_descriptors"] = [int(x) for x in ((d.get("content_descriptors") or {}).get("ids") or [])]
     return row

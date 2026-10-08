@@ -44,6 +44,7 @@ def collect_one(appid: int, rules: dict, steam_rank: int | None = None) -> tuple
             "release_date": store["release_date"], "steam_url": store["steam_url"],
             "platforms": store.get("platforms", []), "play_modes": store.get("play_modes", []), "controller": store.get("controller", "none"),
             "steam_rank": steam_rank, "editions": store.get("editions", []),
+            "screenshots": store.get("screenshots", []), "trailer": store.get("trailer"), "short_description": store.get("short_description"),   # 사진·예고편(2026-10-09)
             "deck": steam_deck.deck_status(appid, rules),
             "korean_reviews": steam_reviews.korean_top_reviews(appid, 3, rules) if reviews["reviews_ko"] >= 20 else [],
             **reviews, **steam_players.current_players(appid), "updated_at": now_iso()}
