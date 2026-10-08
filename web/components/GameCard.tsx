@@ -21,7 +21,8 @@ export default function GameCard({ deal, note }: { deal: Deal; note?: string }) 
       )}
       <div className="min-w-0 flex-1 flex flex-col justify-center gap-1">
         {/* 1줄: 이름(길면 …) + 판정 */}
-        <div className="flex flex-wrap md:flex-nowrap items-center gap-x-2 gap-y-1 min-w-0">
+        {/* 태블릿(2열)에서 이름이 "De…"처럼 잘리던 것(2026-10-08) → 판정·찜은 줄을 바꿔 내려가고 이름은 한 줄을 다 씀 */}
+        <div className="flex flex-wrap items-center gap-x-2 gap-y-1 min-w-0">
           {g.steam_rank != null && g.steam_rank <= 100 && (
             <span className="shrink-0 rounded-md px-1.5 py-0.5 text-xs font-extrabold" style={{ background: g.steam_rank <= 10 ? "#ef4444" : "var(--line)", color: g.steam_rank <= 10 ? "#fff" : "var(--muted)" }}>#{g.steam_rank}</span>
           )}
