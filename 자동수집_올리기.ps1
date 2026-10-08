@@ -12,6 +12,7 @@ function Say($m) { $line = (Get-Date -Format "HH:mm:ss") + " " + $m; $line | Out
 
 Say "=== 시작 (Test=$Test) ==="
 $env:PYTHONIOENCODING = "utf-8"
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8   # 파이썬 한글 출력이 기록 파일에서 깨지지 않게
 $env:GCM_INTERACTIVE = "never"
 $env:GIT_TERMINAL_PROMPT = "0"
 Set-Location $root
