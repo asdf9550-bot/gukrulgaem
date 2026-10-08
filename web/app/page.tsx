@@ -3,10 +3,19 @@ import Image from "next/image";
 import DealList from "@/components/DealList";
 import VerdictBadge from "@/components/VerdictBadge";
 import TodayChanges from "@/components/TodayChanges";
+import type { Metadata } from "next";
 import { deals, lastUpdated, pricesPrev } from "@/lib/data";
-import { kst, won } from "@/lib/format";
+import { kstTime, won } from "@/lib/format";
 import { pickReason, weeklyPicks } from "@/lib/pick";
 import { todayChanges } from "@/lib/changes";
+
+// 구글 검색 결과에 나올 설명 — 그날 숫자로 자동 작성(2026-10-08 사용자: "지금살까처럼 우리만의 내용으로")
+export function generateMetadata(): Metadata {
+  const rows = deals();
+  const n = (v: string) => rows.filter((d) => d.price.verdict === v).length;
+  const description = `이번 주 스팀 할인 ${rows.length}개를 한국 원화 가격 기록과 한국 게이머 평가로 판정했습니다. 바닥가 ${n("floor")}개, 좋은 가격 ${n("good")}개, 함정 할인 ${n("trap")}개. 역대 최저가·평소 세일가·한국 리뷰 긍정률로 지금 사도 되는 게임인지 바로 확인하세요.`;
+  return { description, openGraph: { description } };
+}
 
 export default function Home() {
   const rows = deals();
@@ -22,15 +31,15 @@ export default function Home() {
           <h1 className="text-2xl sm:text-3xl font-extrabold">이번 주 스팀 할인, 지금 사도 될까?</h1>
           <p className="muted mt-1">
             한국 스팀 가격 기록과 한국 게이머 평가로 판정합니다. 할인 중 {rows.length}개 중 {floor}개가 역대 최저가예요.
-            <span className="text-xs"> · {kst(lastUpdated(), true)} 갱신</span>
+            <span className="text-xs"> · 매일 새벽 갱신 (마지막 {kstTime(lastUpdated())})</span>
           </p>
         </div>
       </div>
 
       {picks.length > 0 && (
         <section className="space-y-2">
-          <div className="flex items-baseline justify-between">
-            <h2 className="text-lg font-extrabold"><span style={{ color: "#ef4444" }}>이번 주 국룰</span> {picks.length}</h2>
+          <div className="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-0.5">
+            <h2 className="text-lg font-extrabold whitespace-nowrap"><span style={{ color: "#ef4444" }}>이번 주 국룰</span> {picks.length}</h2>
             <span className="text-xs muted">역대 최저·평가 85%↑·리뷰 5천↑·한국 주의 없음 · 판매 순</span>
           </div>
           <div className="flex gap-3 overflow-x-auto pb-2 -mx-4 px-4 snap-x">
@@ -56,9 +65,10 @@ export default function Home() {
         </section>
       )}
 
-      <TodayChanges c={changes} />
-
       <DealList deals={rows} />
+
+      {/* 2026-10-08 사용자: "오늘 바뀐 것"은 맨 아래로 */}
+      <TodayChanges c={changes} />
     </div>
   );
 }

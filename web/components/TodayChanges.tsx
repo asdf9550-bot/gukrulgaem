@@ -12,7 +12,8 @@ function Box({ title, tone, rows, note, noteWidth = "w-24" }: { title: string; t
         {rows.length > 8 && <span className="text-[11px] muted font-normal">스크롤 ↓</span>}
       </div>
       {/* 전체 목록을 상자 안에서 스크롤. 이름은 왼쪽(길면 …), 숫자는 오른쪽 고정 폭으로 줄 맞춤 */}
-      <ul className="space-y-1 text-sm overflow-y-auto pr-1" style={{ maxHeight: "16rem" }}>
+      {/* 폰에서는 상자를 낮게(약 6줄) 해서 목록까지 빨리 내려가게 (2026-10-08 모바일 개선) */}
+      <ul className="space-y-1 text-sm overflow-y-auto pr-1 max-h-40 sm:max-h-64">
         {rows.map((d) => (
           <li key={d.game.appid} className="flex items-center gap-2">
             <Link href={`/game/${d.game.appid}`} scroll={false} className="flex-1 min-w-0 truncate hover:underline">{d.game.name}</Link>

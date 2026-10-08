@@ -115,6 +115,7 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
             {(g.platforms ?? []).length > 0 && <Chip>{(g.platforms ?? []).map((o) => ({ windows: "Win", mac: "Mac", linux: "Linux" })[o]).join(" · ")}</Chip>}
             {g.controller === "full" && <Chip>패드 지원</Chip>}
             {deck.label && <Chip tone={deck.tone}>{deck.label}</Chip>}
+            {g.metacritic != null && <Chip tone={g.metacritic >= 75 ? "good" : g.metacritic >= 50 ? "warn" : "bad"}>메타크리틱 {g.metacritic}</Chip>}
           </div>
         </div>
       </section>

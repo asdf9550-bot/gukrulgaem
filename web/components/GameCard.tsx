@@ -48,6 +48,7 @@ export default function GameCard({ deal, note }: { deal: Deal; note?: string }) 
             : null}
           {SUPPORT[g.korean_support]} · 전체 {all ?? "-"}% / 한국 {ko ?? "-"}%
           {g.gap_pp != null && <> ({g.gap_pp > 0 ? "+" : ""}{g.gap_pp}%p)</>}
+          {g.metacritic != null && <> · <span className="font-bold" style={{ color: g.metacritic >= 75 ? "#16a34a" : g.metacritic >= 50 ? "#ca8a04" : "#dc2626" }}>메타 {g.metacritic}</span></>}
           {note && <> · <span style={{ color: "var(--fg)" }}>{note}</span></>}
         </div>
       </div>

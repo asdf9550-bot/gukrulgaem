@@ -33,6 +33,7 @@ export interface Game {
   steam_rank?: number | null;          // 스팀 '특별 할인 · 판매 순' 검색 순위
   editions?: { name: string; price: number; regular: number; cut: number; packageid: number | null }[];   // 스팀 판별 가격
   deck?: "verified" | "playable" | "unsupported" | "unknown";   // 스팀덱 호환
+  metacritic?: number | null;                                   // 메타크리틱 점수(스팀 상점 제공분만, 2026-10-08)
   korean_reviews?: { text: string; votes_up: number; hours: number; recommended: boolean; url: string | null }[];   // 한국어 추천 리뷰 인용
   // 지금 접속자 — 스팀 공식 Web API
   current_players?: number | null;

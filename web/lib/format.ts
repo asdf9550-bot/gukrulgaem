@@ -4,6 +4,14 @@ export const won = (v: number | null | undefined) => (v == null ? "-" : `${v.toL
 
 export const pct = (positive: number, total: number) => (total ? Math.round((positive / total) * 100) : null);
 
+// 시각만("오전 7:08") — 날짜를 화면에 쓰면 구글 검색 결과에 "2일 전 —" 같은 날짜 머리말이 붙어서(2026-10-08 사용자) 갱신 표시는 시각만 쓴다.
+export function kstTime(iso: string | number | null | undefined): string {
+  if (iso == null || iso === "") return "-";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return String(iso);
+  return new Intl.DateTimeFormat("ko-KR", { timeZone: "Asia/Seoul", hour: "numeric", minute: "2-digit" }).format(d);
+}
+
 export function kst(iso: string | number | null | undefined, withTime = false): string {
   if (iso == null || iso === "") return "-";
   const d = new Date(iso);
