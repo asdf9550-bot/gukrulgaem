@@ -33,15 +33,16 @@ export default function GameCard({ deal, note }: { deal: Deal; note?: string }) 
           </span>
         </div>
         {/* 2줄: 가격 */}
-        <div className="flex flex-wrap md:flex-nowrap items-baseline gap-x-2 text-sm md:whitespace-nowrap md:overflow-hidden">
-          <span className="text-lg font-extrabold">{won(p.current_price)}</span>
-          {p.discount_pct ? <span className="font-bold" style={{ color: "#16a34a" }}>-{p.discount_pct}%</span> : null}
-          <span className="muted line-through">{won(p.regular_price)}</span>
-          {perHour != null && <span className="font-bold truncate" style={{ color: "#ef4444" }}>· {perHour.toLocaleString("ko-KR")}원/시간</span>}
-          <span className="muted truncate">· 역대 최저 {won(p.historical_low)}</span>
+        {/* 좁은 화면에서 "50원/시간 · 역대 최저"가 …로 잘리던 것(2026-10-08) → 항목 단위로 다음 줄로 넘김 */}
+        <div className="flex flex-wrap items-baseline gap-x-2 gap-y-0.5 text-sm">
+          <span className="text-lg font-extrabold whitespace-nowrap">{won(p.current_price)}</span>
+          {p.discount_pct ? <span className="font-bold whitespace-nowrap" style={{ color: "#16a34a" }}>-{p.discount_pct}%</span> : null}
+          <span className="muted line-through whitespace-nowrap">{won(p.regular_price)}</span>
+          {perHour != null && <span className="font-bold whitespace-nowrap" style={{ color: "#ef4444" }}>· {perHour.toLocaleString("ko-KR")}원/시간</span>}
+          <span className="muted whitespace-nowrap">· 역대 최저 {won(p.historical_low)}</span>
         </div>
         {/* 3줄: 한국어·평가 */}
-        <div className="text-xs muted truncate">
+        <div className="text-xs muted">
           {cheaper_than_steam && cheapest
             ? <span className="font-bold" style={{ color: "#16a34a" }}>최저 {cheapest.store_name} {cheapest.is_estimate ? "약 " : ""}{won(cheapest.price_krw)} · </span>
             : null}
