@@ -15,12 +15,16 @@ export default function Home() {
   const changes = todayChanges(rows, pricesPrev());
   return (
     <div className="space-y-6">
-      <div>
-        <h1 className="text-2xl sm:text-3xl font-extrabold">이번 주 스팀 할인, 지금 사도 될까?</h1>
-        <p className="muted mt-1">
-          한국 스팀 가격 기록과 한국 게이머 평가로 판정합니다. 할인 중 {rows.length}개 중 {floor}개가 역대 최저가예요.
-          <span className="text-xs"> · {kst(lastUpdated(), true)} 갱신</span>
-        </p>
+      {/* 2026-10-08: 호랑이 로고를 제목 왼쪽에 크게(사용자 요청) */}
+      <div className="flex items-center gap-4">
+        <Image src="/brand/logo-512.png" alt="국룰겜" width={96} height={96} priority className="shrink-0 w-20 h-20 sm:w-24 sm:h-24 rounded-2xl" />
+        <div className="min-w-0">
+          <h1 className="text-2xl sm:text-3xl font-extrabold">이번 주 스팀 할인, 지금 사도 될까?</h1>
+          <p className="muted mt-1">
+            한국 스팀 가격 기록과 한국 게이머 평가로 판정합니다. 할인 중 {rows.length}개 중 {floor}개가 역대 최저가예요.
+            <span className="text-xs"> · {kst(lastUpdated(), true)} 갱신</span>
+          </p>
+        </div>
       </div>
 
       {picks.length > 0 && (
