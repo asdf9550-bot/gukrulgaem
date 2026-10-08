@@ -40,7 +40,7 @@ export default function CalendarPage() {
         {Array.from(groups.entries()).map(([day, list]) => (
           <section key={day} className="card p-4">
             <h2 className="font-extrabold mb-2">{dayLabel(day)} <span className="muted font-normal text-sm">{list.length}건</span></h2>
-            <ul className="grid gap-x-6 gap-y-1 sm:grid-cols-2 text-sm">
+            <ul className="grid grid-cols-1 gap-x-6 gap-y-1 sm:grid-cols-2 text-sm">
               {list.slice(0, 40).map((i, idx) => (
                 <li key={idx} className="flex items-center gap-2 min-w-0">
                   <span className="shrink-0 w-2 h-2 rounded-full" style={{ background: i.color }} />

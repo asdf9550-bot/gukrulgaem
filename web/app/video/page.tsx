@@ -20,7 +20,7 @@ export default function VideoPage() {
           <p className="text-sm mt-1">첫 영상이 올라오면 여기에 나타납니다.</p>
         </div>
       )}
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {rows.map((v) => (
           <div key={v.video_id} className="card overflow-hidden">
             <a href={`https://www.youtube.com/watch?v=${v.video_id}`} target="_blank" rel="noopener noreferrer" className="block relative aspect-video">

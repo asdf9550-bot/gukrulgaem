@@ -45,7 +45,7 @@ export default function MyWishlist() {
         <section className="space-y-3">
           <p className="text-sm">위시리스트 {total}개 중 <b>지금 할인 중 {rows.length}개</b>{buy.length > 0 && <> · <span style={{ color: "#16a34a" }} className="font-bold">지금 사도 좋은 것 {buy.length}개</span></>}</p>
           {rows.length === 0 && <p className="card p-6 muted">이번 주 할인 목록에 있는 위시리스트 게임이 없어요.</p>}
-          <ul className="grid gap-3 md:grid-cols-2">
+          <ul className="grid grid-cols-1 gap-3 md:grid-cols-2">
             {rows.map((r) => (
               <li key={r.appid} className="card p-3 flex items-center justify-between gap-3">
                 <div className="min-w-0">

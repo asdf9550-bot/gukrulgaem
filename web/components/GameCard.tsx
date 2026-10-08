@@ -26,7 +26,8 @@ export default function GameCard({ deal, note }: { deal: Deal; note?: string }) 
           {g.steam_rank != null && g.steam_rank <= 100 && (
             <span className="shrink-0 rounded-md px-1.5 py-0.5 text-xs font-extrabold" style={{ background: g.steam_rank <= 10 ? "#ef4444" : "var(--line)", color: g.steam_rank <= 10 ? "#fff" : "var(--muted)" }}>#{g.steam_rank}</span>
           )}
-          <span className="font-bold truncate">{g.name}</span>
+          {/* 폰에서는 긴 이름이 …로 잘리는 대신 줄바꿈(2026-10-08) */}
+          <span className="font-bold min-w-0 break-words sm:truncate">{g.name}</span>
           <span className="shrink-0 flex items-center gap-1">
             <VerdictBadge verdict={p.verdict} />
             {p.tags.includes("korea_warning") && <span className="inline-flex items-center rounded-full px-3 py-1 text-sm font-bold leading-none" style={{ background: "#fee2e2", color: "#b91c1c" }}>{TAG.korea_warning}</span>}

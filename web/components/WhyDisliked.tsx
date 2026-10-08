@@ -31,7 +31,7 @@ export default function WhyDisliked({ s, gapPp }: { s: ReviewSummary | null; gap
         <h2 className="text-lg font-bold">한국 게이머는 왜 좋아하고, 왜 싫어했나</h2>
         <span className="text-xs muted">AI 요약 · {kst(s.created_at)}</span>
       </div>
-      <div className="grid gap-5 md:grid-cols-2">
+      <div className="grid grid-cols-1 gap-5 md:grid-cols-2">
         {s.likes?.length ? <Column title="좋아한 이유 5줄" tone="#15803d" bg="#dcfce7" reasons={s.likes} summary={s.likes_summary} sample={s.likes_sample} kind="추천" /> : null}
         {s.reasons?.length ? <Column title="싫어한 이유 5줄" tone="#b91c1c" bg="#fee2e2" reasons={s.reasons} summary={s.summary} sample={s.sample} kind="비추천" /> : null}
       </div>

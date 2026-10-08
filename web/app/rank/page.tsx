@@ -15,7 +15,7 @@ function Section({ title, intro, rows, note }: { title: string; intro: string; r
       </div>
       {rows.length === 0
         ? <p className="muted text-sm py-4">이번 주에는 해당하는 게임이 없습니다.</p>
-        : <div className="grid gap-3 md:grid-cols-2 items-stretch">{rows.map((d, i) => (
+        : <div className="grid grid-cols-1 gap-3 md:grid-cols-2 items-stretch">{rows.map((d, i) => (
             <div key={d.game.appid} className="fade-up h-full" style={{ animationDelay: `${i * 60}ms` }}><GameCard deal={d} note={`${i + 1}위 · ${note(d)}`} /></div>
           ))}</div>}
     </section>

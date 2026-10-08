@@ -211,7 +211,7 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
       {related.length > 0 && (
         <section className="card p-5 space-y-3">
           <h2 className="text-lg font-bold">이 게임이 나온 영상</h2>
-          <ul className="grid gap-3 sm:grid-cols-2">
+          <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2">
             {related.map((x) => (
               <li key={x.video_id}>
                 <a href={`https://www.youtube.com/watch?v=${x.video_id}`} target="_blank" rel="noopener noreferrer" className="flex gap-3 items-center hover:underline">

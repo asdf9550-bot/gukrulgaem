@@ -118,7 +118,8 @@ export default function DealList({ deals }: { deals: Deal[] }) {
         </label>
       </div>
       <p className="text-sm muted">{shown.length}개 게임{shown.length > visible.length ? ` 중 ${visible.length}개 표시` : ""}</p>
-      <div className="grid gap-3 md:grid-cols-2 items-stretch">
+      {/* grid-cols-1 = minmax(0,1fr): 이게 없으면 칸이 긴 게임 이름의 폭(min-content)만큼 커져 폰 화면이 옆으로 늘어남(2026-10-08 사용자 "1번 게임 줄에 맞춰") */}
+      <div className="grid grid-cols-1 gap-3 md:grid-cols-2 items-stretch">
         {visible.map((d, i) => (
           <div key={d.game.appid} className="fade-up h-full" style={{ animationDelay: `${Math.min(i % PAGE, 12) * 60}ms` }}><GameCard deal={d} /></div>
         ))}

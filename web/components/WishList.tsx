@@ -43,7 +43,7 @@ export default function WishList({ deals }: { deals: Deal[] }) {
           {missing > 0 && <span className="muted"> · 할인이 끝나 목록에서 빠진 것 {missing}개</span>}
         </p>
       )}
-      <div className="grid gap-3 md:grid-cols-2 items-stretch">
+      <div className="grid grid-cols-1 gap-3 md:grid-cols-2 items-stretch">
         {mine.map((d) => (
           <div key={d.game.appid} className="relative h-full">
             <GameCard deal={d} />
