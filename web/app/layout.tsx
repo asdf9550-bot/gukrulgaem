@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Noto_Sans_KR } from "next/font/google";
 import Link from "next/link";
 import SubscribeBox from "@/components/SubscribeBox";   // 주간 메일(2026-10-08 다시 켬) — Vercel에 RESEND_API_KEY 가 있을 때만 보임
@@ -9,6 +9,9 @@ import { kstTime } from "@/lib/format";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://gukrulgaem.com";
 const notoSansKr = Noto_Sans_KR({ subsets: ["latin"], weight: ["400", "700", "900"], display: "swap" });
+
+// 기종마다 화면 폭에 맞춰 자동으로 맞춰지도록(2026-10-08 모바일): 확대/축소는 사용자가 할 수 있게 두고, 노치 영역까지 씀
+export const viewport: Viewport = { width: "device-width", initialScale: 1, viewportFit: "cover", themeColor: "#0f1115" };
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
