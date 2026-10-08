@@ -62,7 +62,8 @@ export default function DealList({ deals }: { deals: Deal[] }) {
   const visible = shown.slice(0, limit);
 
   const toggleVerdict = (v: Verdict) => setVerdicts((s) => { const n = new Set(s); n.has(v) ? n.delete(v) : n.add(v); return n; });
-  const sel = "rounded-lg px-2 py-1.5 text-sm" as const;
+  // 폰에서는 두 칸 격자로 꽉 채움(사용자 2026-10-08 밤 "게임 위 필터 오른쪽까지 정리") — 넓은 화면은 예전처럼 내용 폭대로 흐름
+  const sel = "rounded-lg px-2 py-1.5 text-sm w-full sm:w-auto min-w-0" as const;
   const selStyle = { background: "var(--card)", border: "1px solid var(--line)", color: "var(--fg)" };
 
   return (
@@ -80,9 +81,9 @@ export default function DealList({ deals }: { deals: Deal[] }) {
         })}
       </div>
       {/* 검색·필터·정렬 */}
-      <div className="flex flex-wrap gap-2">
+      <div className="grid grid-cols-2 gap-2 sm:flex sm:flex-wrap">
         <input type="search" value={query} onChange={(e) => { setQuery(e.target.value); setLimit(PAGE); }} placeholder="게임 이름 검색 (한글·영어)"
-          className={`${sel} w-full sm:w-56`} style={selStyle} />
+          className={`${sel} col-span-2 sm:w-56`} style={selStyle} />
         <select className={sel} style={selStyle} value={sort} onChange={(e) => setSort(e.target.value as Sort)}>
           {SORTS.map((s) => <option key={s.key} value={s.key}>{s.label}</option>)}
         </select>
@@ -111,7 +112,7 @@ export default function DealList({ deals }: { deals: Deal[] }) {
           <option value="mac">Mac</option>
           <option value="linux">Linux</option>
         </select>
-        <label className={`${sel} flex items-center gap-2 cursor-pointer`} style={selStyle}>
+        <label className={`${sel} col-span-2 flex items-center gap-2 cursor-pointer`} style={selStyle}>
           <input type="checkbox" checked={cheaper} onChange={(e) => { setCheaper(e.target.checked); setLimit(PAGE); }} />
           스팀보다 싼 곳 있음 ({cheaperCount})
         </label>
