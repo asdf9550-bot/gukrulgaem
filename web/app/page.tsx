@@ -45,19 +45,20 @@ export default function Home() {
           <div className="flex gap-3 overflow-x-auto pb-2 -mx-4 px-4 snap-x">
             {picks.map((d, i) => (
               <Link key={d.game.appid} href={`/game/${d.game.appid}`} scroll={false}
-                className="card shrink-0 w-56 sm:w-60 overflow-hidden snap-start fade-up" style={{ animationDelay: `${i * 70}ms` }}>
+                className="card shrink-0 w-[46vw] max-w-[180px] sm:max-w-none sm:w-60 overflow-hidden snap-start fade-up" style={{ animationDelay: `${i * 70}ms` }}>
                 <div className="relative aspect-[460/215]">
                   {(d.game.capsule_image ?? d.game.header_image) && <Image src={d.game.capsule_image ?? d.game.header_image!} alt="" fill sizes="240px" className="object-cover" />}
                   <span className="absolute left-2 top-2 rounded-md px-2 py-0.5 text-xs font-extrabold text-white" style={{ background: "#ef4444" }}>국룰 {i + 1}</span>
                 </div>
-                <div className="p-3 space-y-1">
-                  <div className="font-bold truncate">{d.game.name}</div>
-                  <div className="flex items-baseline gap-2">
-                    <span className="text-lg font-extrabold">{won(d.price.current_price)}</span>
-                    <span className="text-sm font-bold" style={{ color: "#16a34a" }}>-{d.price.discount_pct}%</span>
+                {/* 폰에서는 카드를 화면의 46%로 줄여 두 장 넘게 보이게(사용자 2026-10-09 "국룰 1·2 크기 줄여 여러 개") */}
+                <div className="p-2 sm:p-3 space-y-0.5 sm:space-y-1">
+                  <div className="font-bold text-sm sm:text-base truncate">{d.game.name}</div>
+                  <div className="flex flex-wrap items-baseline gap-x-1.5 gap-y-0.5">
+                    <span className="text-base sm:text-lg font-extrabold">{won(d.price.current_price)}</span>
+                    <span className="text-xs sm:text-sm font-bold" style={{ color: "#16a34a" }}>-{d.price.discount_pct}%</span>
                     <VerdictBadge verdict={d.price.verdict} />
                   </div>
-                  <div className="text-xs muted truncate">{pickReason(d)}</div>
+                  <div className="text-xs muted truncate hidden sm:block">{pickReason(d)}</div>
                 </div>
               </Link>
             ))}
