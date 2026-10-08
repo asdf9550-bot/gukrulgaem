@@ -34,7 +34,12 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
         <Analytics />
         <header className="border-b" style={{ borderColor: "var(--line)" }}>
           <nav className="mx-auto max-w-5xl px-4 h-14 flex items-center gap-4 sm:gap-5 text-sm whitespace-nowrap overflow-x-auto">
-            <Link href="/" className="font-extrabold text-lg flex items-baseline gap-1.5">국룰겜<span className="text-xs font-normal muted hidden sm:inline">스팀 구매 가이드</span></Link>
+            {/* 2026-10-08 로고(호랑이) — public/brand, 탭 아이콘(app/icon.png·apple-icon.png)도 같은 그림 */}
+            <Link href="/" className="font-extrabold text-lg flex items-center gap-2">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/brand/logo-192.png" alt="" width={32} height={32} className="rounded-lg" />
+              <span className="flex items-baseline gap-1.5">국룰겜<span className="text-xs font-normal muted hidden sm:inline">스팀 구매 가이드</span></span>
+            </Link>
             <Link href="/" className="muted hover:underline">이번 주 할인</Link>
             <Link href="/rank" className="muted hover:underline">순위</Link>
             <Link href="/calendar" className="muted hover:underline">달력</Link>

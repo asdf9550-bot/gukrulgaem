@@ -25,6 +25,23 @@ async function fetchOnce(weight: number, chars: string): Promise<ArrayBuffer> {
   return r.arrayBuffer();
 }
 
+// 공유 그림에 넣을 로고(호랑이). 빌드 때 public/brand/logo-512.png 를 읽어 data URL 로 만든다(없으면 "").
+let logoCache: string | null = null;
+export function logoDataUrl(): string {
+  if (logoCache !== null) return logoCache;
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const fs = require("fs") as typeof import("fs");
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const path = require("path") as typeof import("path");
+    const file = path.join(process.cwd(), "public", "brand", "logo-512.png");
+    logoCache = fs.existsSync(file) ? `data:image/png;base64,${fs.readFileSync(file).toString("base64")}` : "";
+  } catch {
+    logoCache = "";
+  }
+  return logoCache;
+}
+
 export function fontFor(_text: string, weight: 700 | 900 = 700): Promise<ArrayBuffer> {
   if (!cache.has(weight)) {
     const chars = allChars();

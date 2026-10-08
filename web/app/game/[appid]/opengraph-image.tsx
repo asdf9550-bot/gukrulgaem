@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 import { game, games } from "@/lib/data";
 import { VERDICT } from "@/lib/format";
-import { fontFor } from "@/lib/og";
+import { fontFor, logoDataUrl } from "@/lib/og";
 
 // 게임 링크를 카톡·유튜브·디시에 붙이면 뜨는 미리보기 그림(1200×630). 빌드 때 게임마다 한 장씩 만든다.
 export const size = { width: 1200, height: 630 };
@@ -26,6 +26,7 @@ export default async function Image({ params }: { params: Promise<{ appid: strin
     `역대 최저 전체 긍정 한국 긍정 ${allPct ?? ""}${koPct ?? ""} 지금 가격 정가`].join("");
   const [bold, black] = await Promise.all([fontFor(text, 700), fontFor(text, 900)]);
   const image = g?.header_image ?? null;
+  const logo = logoDataUrl();
 
   return new ImageResponse(
     (
@@ -34,7 +35,8 @@ export default async function Image({ params }: { params: Promise<{ appid: strin
         <div style={{ position: "absolute", inset: 0, background: "linear-gradient(90deg, rgba(15,17,21,0.98) 0%, rgba(15,17,21,0.9) 55%, rgba(15,17,21,0.5) 100%)" }} />
         <div style={{ position: "relative", display: "flex", flexDirection: "column", justifyContent: "space-between", padding: "56px 64px", width: 1200, height: 630 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
-            <div style={{ display: "flex", alignItems: "center", justifyContent: "center", width: 56, height: 56, borderRadius: 14, background: "#ef4444", color: "#fff", fontSize: 34, fontWeight: 900 }}>국</div>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            {logo ? <img src={logo} width={64} height={64} style={{ borderRadius: 16 }} alt="" /> : <div style={{ display: "flex", alignItems: "center", justifyContent: "center", width: 56, height: 56, borderRadius: 14, background: "#ef4444", color: "#fff", fontSize: 34, fontWeight: 900 }}>국</div>}
             <div style={{ fontSize: 30, fontWeight: 700, color: "#9aa3b2" }}>국룰겜 · 스팀 구매 가이드</div>
           </div>
           <div style={{ display: "flex", flexDirection: "column", gap: 18 }}>
