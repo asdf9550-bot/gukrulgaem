@@ -48,7 +48,7 @@ export default function StoreCompare({ offers, price, stores }: { offers: Offer[
               const top = i === 0;
               return (
                 <tr key={o.store_id} style={top ? { background: "color-mix(in srgb, #22c55e 12%, transparent)" } : undefined} className="border-t" >
-                  <td className="px-2 py-2 font-bold whitespace-nowrap" style={{ borderColor: "var(--line)" }}>
+                  <td className="px-2 py-2 font-bold sm:whitespace-nowrap" style={{ borderColor: "var(--line)" }}>
                     {top && <span className="mr-1" style={{ color: "#16a34a" }}>★</span>}{o.store_name}
                     {o.drm.length > 0 && <span className="muted font-normal text-xs"> · {o.drm.map((d) => DRM[d] ?? d).join("/")}</span>}
                     {o.editions && o.editions.length > 0 && (
