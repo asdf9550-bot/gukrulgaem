@@ -62,6 +62,9 @@ def appdetails(appid: int, rules: dict | None = None) -> dict | None:
     row["editions"] = editions(d)
     row["capsule_image"] = d.get("capsule_image")          # 616×353
     row["hero_image"] = hero_image_url(appid)              # 3840×1240, 없으면 None
+    # 메타크리틱 점수(스팀 상점이 제공하는 게임만, 2026-10-08) — 영상·카드의 "메타 74" 표시용
+    meta = d.get("metacritic") or {}
+    row["metacritic"] = int(meta["score"]) if isinstance(meta.get("score"), (int, float)) else None
     row["required_age"] = int(str(d.get("required_age") or 0).strip("+") or 0)
     row["content_descriptors"] = [int(x) for x in ((d.get("content_descriptors") or {}).get("ids") or [])]
     return row
