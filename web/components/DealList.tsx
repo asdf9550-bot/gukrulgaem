@@ -16,7 +16,7 @@ const PRICE_BANDS = [
   { key: "u30", label: "1~3만원", min: 10000, max: 30000 }, { key: "o30", label: "3만원 넘음", min: 30000, max: Infinity },
 ];
 const VERDICT_ORDER: Verdict[] = ["floor", "good", "normal", "wait", "trap", "none"];
-const PAGE = 60;
+const PAGE = 30;   // 처음 30개, "더 보기"마다 30개(사용자 2026-10-09)
 
 export default function DealList({ deals }: { deals: Deal[] }) {
   const [sort, setSort] = useState<Sort>("rank");

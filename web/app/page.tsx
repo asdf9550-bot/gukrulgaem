@@ -28,7 +28,8 @@ export default function Home() {
       <div className="flex items-center gap-4">
         <Image src="/brand/logo-512.png" alt="국룰겜" width={96} height={96} priority className="shrink-0 w-20 h-20 sm:w-24 sm:h-24 rounded-2xl" />
         <div className="min-w-0">
-          <h1 className="text-2xl sm:text-3xl font-extrabold">이번 주 스팀 할인, 지금 사도 될까?</h1>
+          {/* 두 줄 고정(사용자 2026-10-09): "이번 주 스팀 할인" / "지금 사도 될까?" — 폰에서 "지/금"으로 끊기지 않게 */}
+          <h1 className="text-2xl sm:text-3xl font-extrabold leading-tight"><span className="block whitespace-nowrap">이번 주 스팀 할인,</span><span className="block whitespace-nowrap">지금 사도 될까?</span></h1>
           <p className="muted mt-1">
             한국 스팀 가격 기록과 한국 게이머 평가로 판정합니다. 할인 중 {rows.length}개 중 {floor}개가 역대 최저가예요.
             <span className="text-xs"> · 매일 새벽 갱신 (마지막 {kstTime(lastUpdated())})</span>
