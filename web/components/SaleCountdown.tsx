@@ -15,7 +15,7 @@ export default function SaleCountdown({ endAt, endText }: { endAt: string | null
     else { const d = Math.ceil(left / 86_400_000); badge = `D-${d}`; if (d > 3) color = "#f59e0b"; }
   }
   return (
-    <span className="inline-flex items-center gap-2 text-sm">
+    <span className="inline-flex flex-wrap items-center gap-2 text-sm">{/* 폰에서 날짜가 길면 줄바꿈(2026-10-08) */}
       {badge && <b className="rounded-md px-2 py-0.5 text-white" style={{ background: color }}>{badge}</b>}
       <span className="muted">세일 종료 {endText}</span>
     </span>

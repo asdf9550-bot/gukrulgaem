@@ -39,7 +39,8 @@ export default function StoreCompare({ offers, price, stores }: { offers: Offer[
       <div className="overflow-x-auto -mx-1">
         <table className="w-full text-sm">
           <thead className="muted text-xs">
-            <tr className="text-left"><th className="px-2 py-1 font-normal">판매처</th><th className="px-2 py-1 font-normal text-right">실제 결제</th><th className="px-2 py-1 font-normal">할인</th><th className="px-2 py-1 font-normal">참고</th><th className="px-2 py-1" /></tr>
+            {/* 폰(640px 미만)에서는 할인·참고 칸을 숨기고 참고 표시는 판매처 이름 아래에 둠 → 표가 옆으로 안 밀림(2026-10-08 모바일) */}
+            <tr className="text-left"><th className="px-2 py-1 font-normal">판매처</th><th className="px-2 py-1 font-normal text-right">실제 결제</th><th className="px-2 py-1 font-normal hidden sm:table-cell">할인</th><th className="px-2 py-1 font-normal hidden sm:table-cell">참고</th><th className="px-2 py-1" /></tr>
           </thead>
           <tbody>
             {offers.map((o, i) => {
@@ -53,13 +54,20 @@ export default function StoreCompare({ offers, price, stores }: { offers: Offer[
                     {o.editions && o.editions.length > 0 && (
                       <div className="muted font-normal text-[11px] mt-0.5">{o.editions.slice(0, 2).map((e) => `${e.name.replace(/^.*?(디럭스|얼티밋|골드|프리미엄|컬렉션|완전판|업그레이드|시즌 패스)/, "$1")} ${e.price?.toLocaleString("ko-KR") ?? "-"}원`).join(" · ")}</div>
                     )}
+                    <div className="flex flex-wrap gap-1 mt-1 font-normal whitespace-normal sm:hidden">
+                      {o.discount_pct > 0 && <span className="font-bold text-xs" style={{ color: "#ef4444" }}>-{o.discount_pct}%</span>}
+                      {s?.krw_payment ? <Badge tone="good">원화 결제</Badge> : <Badge tone="warn">외화 결제</Badge>}
+                      {o.region_lock === "kr" && <Badge tone="plain">한국 지역</Badge>}
+                      {o.korean_only_here && <Badge tone="good">여기만 한국어</Badge>}
+                      {s && !s.refund.possible && <Badge tone="bad">환불 불가</Badge>}
+                    </div>
                   </td>
                   <td className="px-2 py-2 text-right whitespace-nowrap">
                     <span className={`font-extrabold ${top ? "text-lg" : ""}`}>{o.is_estimate ? "약 " : ""}{won(o.price_krw)}</span>
                     {o.is_estimate && <div className="text-[11px] muted">환산 {won(o.price_original)} + 수수료</div>}
                   </td>
-                  <td className="px-2 py-2 whitespace-nowrap">{o.discount_pct > 0 ? <span className="font-bold" style={{ color: "#ef4444" }}>-{o.discount_pct}%</span> : <span className="muted">정가</span>}</td>
-                  <td className="px-2 py-2">
+                  <td className="px-2 py-2 whitespace-nowrap hidden sm:table-cell">{o.discount_pct > 0 ? <span className="font-bold" style={{ color: "#ef4444" }}>-{o.discount_pct}%</span> : <span className="muted">정가</span>}</td>
+                  <td className="px-2 py-2 hidden sm:table-cell">
                     <div className="flex flex-wrap gap-1">
                       {s?.krw_payment ? <Badge tone="good">원화 결제</Badge> : <Badge tone="warn">외화 결제</Badge>}
                       {o.region_lock === "kr" && <Badge tone="plain">한국 지역</Badge>}
@@ -71,7 +79,7 @@ export default function StoreCompare({ offers, price, stores }: { offers: Offer[
                   <td className="px-2 py-2 text-right whitespace-nowrap">
                     {o.product_url && (
                       <a href={o.product_url} target="_blank" rel="noopener noreferrer nofollow" className="rounded-lg px-3 py-1.5 text-xs font-bold text-white" style={{ background: top ? "#16a34a" : "#374151" }}>
-                        이동{o.affiliate ? " · 제휴 링크" : ""}
+                        이동{o.affiliate ? <span className="hidden sm:inline"> · 제휴 링크</span> : ""}
                       </a>
                     )}
                   </td>
