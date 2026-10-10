@@ -4,7 +4,6 @@ import VerdictBadge from "@/components/VerdictBadge";
 import WishButton from "@/components/WishButton";
 import type { Deal } from "@/lib/data";
 import { pct, SUPPORT, TAG, won } from "@/lib/format";
-import { hours, pricePerHour } from "@/lib/stats";
 
 // 목록·순위에서 쓰는 게임 카드 한 장. 줄 수를 고정해 좌우 카드 높이가 같게 한다.
 // position(2026-10-11, 사용자 "최고 인기 게임 순서대로"): 목록에서의 차례(1, 2, 3…). 없으면 스팀 판매 순위 번호를 그대로 보인다.
@@ -12,7 +11,6 @@ export default function GameCard({ deal, note, position }: { deal: Deal; note?: 
   const { game: g, price: p, cheapest, cheaper_than_steam } = deal;
   const all = pct(g.positive_all, g.reviews_all);
   const ko = pct(g.positive_ko, g.reviews_ko);
-  const perHour = pricePerHour(p.current_price, g.playtime_median_h_all, g.playtime_n_all);
   const badge = position ?? (g.steam_rank != null && g.steam_rank <= 100 ? g.steam_rank : null);
   return (
     <Link href={`/game/${g.appid}`} scroll={false} className="card flex h-full gap-3 p-3 hover:shadow-md transition-shadow">
@@ -43,9 +41,7 @@ export default function GameCard({ deal, note, position }: { deal: Deal; note?: 
           <span className="text-lg font-extrabold whitespace-nowrap">{won(p.current_price)}</span>
           {p.discount_pct ? <span className="font-bold whitespace-nowrap" style={{ color: "#16a34a" }}>-{p.discount_pct}%</span> : null}
           <span className="muted line-through whitespace-nowrap">{won(p.regular_price)}</span>
-          {/* 2026-10-11 (사용자 "시간당 얼마인지 앞에 근거"): 어떤 플레이 시간으로 나눈 값인지 먼저 보인다 */}
-          {perHour != null && <span className="whitespace-nowrap" title="스팀 리뷰어들의 플레이 시간 중앙값으로 지금 가격을 나눈 값">
-            <span className="muted">· {hours(g.playtime_median_h_all)} 플레이 기준</span> <span className="font-bold" style={{ color: "#ef4444" }}>{perHour.toLocaleString("ko-KR")}원/시간</span></span>}
+          {/* 2026-10-11 (사용자): "원/시간"은 목록 카드에서 빼고 게임 페이지 안(근거와 함께)에서만 보인다 */}
           <span className="muted whitespace-nowrap">· 역대 최저 {won(p.historical_low)}</span>
         </div>
         {/* 3줄: 한국어·평가 */}
