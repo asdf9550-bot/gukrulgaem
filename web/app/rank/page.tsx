@@ -43,8 +43,6 @@ export default function RankPage() {
   return (
     <div className="space-y-10">
       <h1 className="text-2xl sm:text-3xl font-extrabold">테마 순위</h1>
-      <Section title="한국인만 싫어한 게임" intro={`한국어 리뷰 긍정률이 전체보다 ${minGap}%p 이상 낮은 게임, 격차 큰 순 (한국어 리뷰 ${r.korea_warning_min_reviews}개 이상만)`}
-        rows={disliked} note={(d) => `전체보다 ${Math.abs(d.game.gap_pp!)}%p 낮음`} />
       <Section title="한국어 지원 바닥가" intro="한국어로 할 수 있으면서 지금이 역대 최저가인 게임, 할인율 순"
         rows={koreanFloor} note={(d) => `${d.price.discount_pct}% 할인`} />
       <Section title="역대 최저가 갱신" intro="최근에 역대 최저가를 새로 찍은 순서"
@@ -55,6 +53,9 @@ export default function RankPage() {
         rows={koreansPlay} note={(d) => `한국 ${hours(d.game.playtime_median_h_ko)} vs 전체 ${hours(d.game.playtime_median_h_all)}`} />
       <Section title="지금 가장 많이 하는 할인 게임" intro="수집 시점 스팀 접속자 수 순 (멀티 게임 고를 때)"
         rows={busy} note={(d) => `${d.game.current_players!.toLocaleString("ko-KR")}명 접속`} />
+      {/* 2026-10-11 (사용자): 부정적인 목록은 맨 아래로 */}
+      <Section title="한국인만 싫어한 게임" intro={`한국어 리뷰 긍정률이 전체보다 ${minGap}%p 이상 낮은 게임, 격차 큰 순 (한국어 리뷰 ${r.korea_warning_min_reviews}개 이상만)`}
+        rows={disliked} note={(d) => `전체보다 ${Math.abs(d.game.gap_pp!)}%p 낮음`} />
     </div>
   );
 }
