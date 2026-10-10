@@ -1,5 +1,5 @@
 {
- "fetched_date": "2026-10-08",
+ "fetched_date": "2026-10-10",
  "products": {
   "275d0530-d0ca-4bba-a145-f3eb4241e193": {
    "product_id": "275d0530-d0ca-4bba-a145-f3eb4241e193",
@@ -23,7 +23,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:51:14+00:00"
+   "fetched_at": "2026-10-10T03:39:10+00:00"
   },
   "a08a2022-ce33-402c-9c46-4bb812eac5c8": {
    "product_id": "a08a2022-ce33-402c-9c46-4bb812eac5c8",
@@ -55,7 +55,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:51:08+00:00"
+   "fetched_at": "2026-10-10T03:39:04+00:00"
   },
   "a8bb26da-6b75-4817-844c-009aaed5d476": {
    "product_id": "a8bb26da-6b75-4817-844c-009aaed5d476",
@@ -71,7 +71,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-10-08T21:49:47+00:00"
+   "fetched_at": "2026-10-10T03:37:37+00:00"
   },
   "3c1f2958-7690-4ddd-b973-bf72cc663f00": {
    "product_id": "3c1f2958-7690-4ddd-b973-bf72cc663f00",
@@ -135,7 +135,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:51:17+00:00"
+   "fetched_at": "2026-10-10T03:39:13+00:00"
   },
   "18552a8c-7114-4d87-865d-32e178c0f8ff": {
    "product_id": "18552a8c-7114-4d87-865d-32e178c0f8ff",
@@ -167,7 +167,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:51:11+00:00"
+   "fetched_at": "2026-10-10T03:39:07+00:00"
   },
   "a4527694-f06c-4311-93f7-4417a14c3128": {
    "product_id": "a4527694-f06c-4311-93f7-4417a14c3128",
@@ -199,7 +199,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:35+00:00"
+   "fetched_at": "2026-10-10T03:38:33+00:00"
   },
   "c12a16f8-ce46-4c75-954a-28a5a6f59fcc": {
    "product_id": "c12a16f8-ce46-4c75-954a-28a5a6f59fcc",
@@ -231,7 +231,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:41+00:00"
+   "fetched_at": "2026-10-10T03:38:38+00:00"
   },
   "86e649b6-bd98-4e8d-b147-ca5c65fb2298": {
    "product_id": "86e649b6-bd98-4e8d-b147-ca5c65fb2298",
@@ -247,7 +247,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:02+00:00"
+   "fetched_at": "2026-10-10T03:38:07+00:00"
   },
   "f20b8f08-9ac8-403f-a101-1f4244391d80": {
    "product_id": "f20b8f08-9ac8-403f-a101-1f4244391d80",
@@ -287,7 +287,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:08+00:00"
+   "fetched_at": "2026-10-10T03:37:59+00:00"
   },
   "e43a0ac1-5c8d-4557-b812-029b04f901f4": {
    "product_id": "e43a0ac1-5c8d-4557-b812-029b04f901f4",
@@ -319,7 +319,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:11+00:00"
+   "fetched_at": "2026-10-10T03:38:01+00:00"
   },
   "4ae550de-86b9-4326-a5be-ecccbebe8d47": {
    "product_id": "4ae550de-86b9-4326-a5be-ecccbebe8d47",
@@ -358,7 +358,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:14+00:00"
+   "fetched_at": "2026-10-10T03:38:12+00:00"
   },
   "ce9081e7-2821-4e98-8639-64698a109b82": {
    "product_id": "ce9081e7-2821-4e98-8639-64698a109b82",
@@ -367,18 +367,18 @@
    "base": [
     {
      "name": "크루세이더 킹즈 3",
-     "price": 49800,
+     "price": 14800,
      "regular": 55000,
-     "cut": 9,
+     "cut": 73,
      "sku": "53309198-bf92-414d-87e6-61a86b1a7929"
     }
    ],
    "editions": [
     {
      "name": "크루세이더 킹즈 3 스타터 에디션",
-     "price": 65800,
+     "price": 31800,
      "regular": 72000,
-     "cut": 9,
+     "cut": 56,
      "sku": "d61ee014-0c06-4926-8a5d-0dd783ad9ba1"
     }
    ],
@@ -390,7 +390,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:17+00:00"
+   "fetched_at": "2026-10-10T03:38:14+00:00"
   },
   "30116fa7-1dc5-406c-8ce1-5767c60264a2": {
    "product_id": "30116fa7-1dc5-406c-8ce1-5767c60264a2",
@@ -414,7 +414,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:20+00:00"
+   "fetched_at": "2026-10-10T03:38:16+00:00"
   },
   "cd3500c1-2db8-4915-972b-9be4b92c28ec": {
    "product_id": "cd3500c1-2db8-4915-972b-9be4b92c28ec",
@@ -438,7 +438,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:23+00:00"
+   "fetched_at": "2026-10-10T03:38:19+00:00"
   },
   "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200": {
    "product_id": "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200",
@@ -470,7 +470,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:26+00:00"
+   "fetched_at": "2026-10-10T03:38:23+00:00"
   },
   "2139b954-cece-48b7-9356-803c130833a4": {
    "product_id": "2139b954-cece-48b7-9356-803c130833a4",
@@ -502,7 +502,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:29+00:00"
+   "fetched_at": "2026-10-10T03:38:25+00:00"
   },
   "a647bff7-44e6-49fe-86ed-8f59d936ee4e": {
    "product_id": "a647bff7-44e6-49fe-86ed-8f59d936ee4e",
@@ -534,7 +534,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:32+00:00"
+   "fetched_at": "2026-10-10T03:38:29+00:00"
   },
   "9f033b20-41af-437f-a672-14e8061f4efb": {
    "product_id": "9f033b20-41af-437f-a672-14e8061f4efb",
@@ -543,18 +543,18 @@
    "base": [
     {
      "name": "프래그마타",
-     "price": 48600,
+     "price": 62820,
      "regular": 69800,
-     "cut": 30,
+     "cut": 10,
      "sku": "e4d65632-f1b8-4c41-942e-268fd775d773"
     }
    ],
    "editions": [
     {
      "name": "프래그마타 디럭스 에디션",
-     "price": 55500,
+     "price": 71820,
      "regular": 79800,
-     "cut": 30,
+     "cut": 10,
      "sku": "3a16c062-609d-4ceb-9b78-e6b4cf0bd513"
     }
    ],
@@ -566,7 +566,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:38+00:00"
+   "fetched_at": "2026-10-10T03:38:35+00:00"
   },
   "a95163c3-2aab-4b69-923a-ad8fb27afb67": {
    "product_id": "a95163c3-2aab-4b69-923a-ad8fb27afb67",
@@ -582,7 +582,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-10-08T21:50:47+00:00"
+   "fetched_at": "2026-10-10T03:38:44+00:00"
   },
   "5dd43f61-df2d-4599-b4ab-850470f0f2f0": {
    "product_id": "5dd43f61-df2d-4599-b4ab-850470f0f2f0",
@@ -606,7 +606,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:51+00:00"
+   "fetched_at": "2026-10-10T03:38:47+00:00"
   },
   "c5b394d7-9470-4b24-99b3-71a2da926ebe": {
    "product_id": "c5b394d7-9470-4b24-99b3-71a2da926ebe",
@@ -638,7 +638,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:54+00:00"
+   "fetched_at": "2026-10-10T03:38:49+00:00"
   },
   "0df8f788-ee0a-4c22-a65e-b47877d963d9": {
    "product_id": "0df8f788-ee0a-4c22-a65e-b47877d963d9",
@@ -662,7 +662,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:56+00:00"
+   "fetched_at": "2026-10-10T03:38:52+00:00"
   },
   "ee33f242-8144-453c-adb0-9a8f0b0c934e": {
    "product_id": "ee33f242-8144-453c-adb0-9a8f0b0c934e",
@@ -701,7 +701,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:51:02+00:00"
+   "fetched_at": "2026-10-10T03:38:58+00:00"
   },
   "16e4bcb5-13e7-451f-a0d4-76b3038103c4": {
    "product_id": "16e4bcb5-13e7-451f-a0d4-76b3038103c4",
@@ -725,7 +725,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:51:05+00:00"
+   "fetched_at": "2026-10-10T03:39:02+00:00"
   },
   "df53db3f-d6d5-4859-9fe4-7ea407c5c2c1": {
    "product_id": "df53db3f-d6d5-4859-9fe4-7ea407c5c2c1",
@@ -781,7 +781,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:51:20+00:00"
+   "fetched_at": "2026-10-10T03:39:16+00:00"
   },
   "f72e96bd-1691-46b4-bef4-c70172c6635d": {
    "product_id": "f72e96bd-1691-46b4-bef4-c70172c6635d",
@@ -820,7 +820,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:51:23+00:00"
+   "fetched_at": "2026-10-10T03:39:20+00:00"
   },
   "2458af03-e862-4c13-86d1-b7539a5e1b33": {
    "product_id": "2458af03-e862-4c13-86d1-b7539a5e1b33",
@@ -852,12 +852,83 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-08T21:50:44+00:00"
+   "fetched_at": "2026-10-10T03:38:40+00:00"
+  },
+  "a0ef10ae-97fa-4db3-a703-89ac6e30773e": {
+   "product_id": "a0ef10ae-97fa-4db3-a703-89ac6e30773e",
+   "url": "https://directg.net/game/game_view.html?product_id=a0ef10ae-97fa-4db3-a703-89ac6e30773e",
+   "title": "서든 스트라이크 5",
+   "base": [
+    {
+     "name": "서든 스트라이크 5",
+     "price": 43800,
+     "regular": 59000,
+     "cut": 26,
+     "sku": "834fc461-3bfe-4510-8968-81bbee016696"
+    }
+   ],
+   "editions": [
+    {
+     "name": "서든 스트라이크 5 - 디럭스 에디션",
+     "price": 52800,
+     "regular": 70800,
+     "cut": 25,
+     "sku": "98efeefd-cf75-4b3a-88a1-acdaed0e912c"
+    }
+   ],
+   "appid_hint": 2808550,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-10T03:37:52+00:00"
+  },
+  "f1b9236d-1736-47e9-bfe8-7218c84ea985": {
+   "product_id": "f1b9236d-1736-47e9-bfe8-7218c84ea985",
+   "url": "https://directg.net/game/game_view.html?product_id=f1b9236d-1736-47e9-bfe8-7218c84ea985",
+   "title": "렘넌트 2",
+   "base": [
+    {
+     "name": "렘넌트 2",
+     "price": 9900,
+     "regular": 53000,
+     "cut": 81,
+     "sku": "59edb9a0-f851-4255-b988-f5597580bdd9"
+    }
+   ],
+   "editions": [
+    {
+     "name": "렘넌트 2 디럭스 에디션",
+     "price": 11800,
+     "regular": 63600,
+     "cut": 81,
+     "sku": "36600e18-d3da-4238-a452-e6134469f1b0"
+    },
+    {
+     "name": "렘넌트 2 얼티메이트 에디션",
+     "price": 13800,
+     "regular": 74200,
+     "cut": 81,
+     "sku": "7d8f3012-5dd3-49c8-99d9-5c4cfdad160a"
+    }
+   ],
+   "appid_hint": 1282100,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-10T03:37:55+00:00"
   }
  },
  "last_run": {
-  "at": "2026-10-08T21:51:23+00:00",
-  "ok": 35,
+  "at": "2026-10-10T03:39:20+00:00",
+  "ok": 37,
   "fail": 0,
   "limit": null
  }
