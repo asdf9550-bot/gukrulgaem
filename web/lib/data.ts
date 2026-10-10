@@ -111,6 +111,7 @@ export interface Video {
   kind: "shorts" | "long";
   published_at: string;
   appids: number[];
+  hidden?: boolean;      // 관리자가 지운 영상(2026-10-11): 줄은 남기되 어디에도 보이지 않음
 }
 
 function dataDir(): string {
@@ -132,7 +133,18 @@ export const prices = (): Price[] => read<Price>("prices");
 export const history = (): HistoryPoint[] => read<HistoryPoint>("price_history");
 export const runs = (): Run[] => read<Run>("runs");
 // 영상 프로그램이 올린 영상만. 유튜브 영상 번호는 11글자라서 시험용 줄("testVideo" 등)은 걸러낸다.
-export const videos = (): Video[] => read<Video>("videos").filter((v) => /^[A-Za-z0-9_-]{11}$/.test(String(v.video_id ?? "")));
+// 2026-10-11 (사용자): 사이트에는 롱폼만, 관리자가 지운 영상은 제외. 쇼츠는 영상 프로그램 기록용으로만 남는다.
+export const videos = (): Video[] => read<Video>("videos")
+  .filter((v) => /^[A-Za-z0-9_-]{11}$/.test(String(v.video_id ?? "")) && v.kind === "long" && !v.hidden);
+
+/** 유튜브에서 공개 상태인지(oEmbed가 200이면 공개·일부공개, 비공개·삭제는 401/404). 실패하면 보수적으로 "모름"(false). */
+export async function isPublicOnYouTube(videoId: string): Promise<boolean> {
+  try {
+    const r = await fetch(`https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D${videoId}&format=json`,
+      { next: { revalidate: 1800 } });
+    return r.ok;
+  } catch { return false; }
+}
 
 export function game(appid: number): { game: Game; price: Price; history: HistoryPoint[] } | null {
   const g = games().find((x) => x.appid === appid);

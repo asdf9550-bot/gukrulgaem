@@ -120,8 +120,9 @@ export default function DealList({ deals }: { deals: Deal[] }) {
       <p className="text-sm muted">{shown.length}개 게임{shown.length > visible.length ? ` 중 ${visible.length}개 표시` : ""}</p>
       {/* grid-cols-1 = minmax(0,1fr): 이게 없으면 칸이 긴 게임 이름의 폭(min-content)만큼 커져 폰 화면이 옆으로 늘어남(2026-10-08 사용자 "1번 게임 줄에 맞춰") */}
       <div className="grid grid-cols-1 gap-3 md:grid-cols-2 items-stretch">
+        {/* 2026-10-11: 정렬이 "스팀 판매 순위"일 때 번호는 1, 2, 3… 차례(빠진 번호 없이), 스팀 순위는 마우스를 올리면 보임 */}
         {visible.map((d, i) => (
-          <div key={d.game.appid} className="fade-up h-full" style={{ animationDelay: `${Math.min(i % PAGE, 12) * 60}ms` }}><GameCard deal={d} /></div>
+          <div key={d.game.appid} className="fade-up h-full" style={{ animationDelay: `${Math.min(i % PAGE, 12) * 60}ms` }}><GameCard deal={d} position={sort === "rank" ? i + 1 : undefined} /></div>
         ))}
       </div>
       {shown.length === 0 && <p className="muted py-8 text-center">조건에 맞는 게임이 없습니다.</p>}

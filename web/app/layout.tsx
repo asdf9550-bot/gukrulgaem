@@ -20,6 +20,9 @@ export const metadata: Metadata = {
   description: "국룰겜: 한국 스팀 가격 기록과 한국 게이머 평가로 '지금 사도 되는 게임인지' 판정하는 스팀 구매 가이드.",
   openGraph: { siteName: "국룰겜", locale: "ko_KR", type: "website", url: SITE_URL },
   alternates: { canonical: "/" },
+  // 2026-10-11 (사용자 "구글 검색 아이콘을 호랑이로"): 구글 파비콘 수집기가 읽는 고정 주소(해시 없는 /favicon.ico, 48px 포함)를 먼저 둔다.
+  // 구글은 홈을 다시 긁을 때 아이콘을 갱신하므로 반영까지 며칠~몇 주 걸릴 수 있다(Search Console 색인 요청으로 앞당김).
+  icons: { icon: [{ url: "/favicon.ico", sizes: "48x48" }, { url: "/icon.png", sizes: "512x512", type: "image/png" }], shortcut: "/favicon.ico", apple: "/apple-icon.png" },
 };
 
 // 구글이 검색 결과에 보여줄 사이트 이름(WebSite 구조화 데이터). 홈에서 읽는다.
@@ -44,7 +47,7 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
             <Link href="/rank" className="muted hover:underline">순위</Link>
             <Link href="/calendar" className="muted hover:underline">달력</Link>
             <Link href="/wish" className="muted hover:underline">♡ 찜</Link>
-            <Link href="/me" className="muted hover:underline">내 위시리스트</Link>
+            <Link href="/me" className="muted hover:underline">메일 알림</Link>
             <Link href="/about" className="muted hover:underline">판정 기준</Link>
             <Link href="/video" className="muted hover:underline">영상</Link>
           </nav>

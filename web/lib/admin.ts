@@ -101,6 +101,23 @@ export async function removeLink(productId: string): Promise<void> {
   await writeJson(LINKS_REL, items.filter((x) => x.product_id !== productId), sha, p, `admin: unlink directg ${productId}`);
 }
 
+// ---- 영상 목록 관리 (data/videos.json, 2026-10-11 사용자 "지울 수 있게") ----
+export interface VideoRow { video_id: string; title: string; kind: "shorts" | "long"; published_at: string; appids: number[]; hidden?: boolean }
+const VIDEOS_REL = "data/videos.json";
+
+export async function readVideos(): Promise<VideoRow[]> {
+  return (await readJson<VideoRow>(VIDEOS_REL)).items;
+}
+
+/** 지우기 = hidden 표시(영상 프로그램이 같은 영상을 다시 기록해도 지운 상태가 유지되도록 줄은 남긴다). restore 로 되돌림. */
+export async function hideVideo(videoId: string, hidden = true): Promise<void> {
+  const { items, sha, path: p } = await readJson<VideoRow>(VIDEOS_REL);
+  const it = items.find((x) => x.video_id === videoId);
+  if (!it) throw new Error("영상을 찾을 수 없음");
+  it.hidden = hidden;
+  await writeJson(VIDEOS_REL, items, sha, p, `admin: ${hidden ? "hide" : "restore"} video ${videoId}`);
+}
+
 export async function readQueue(): Promise<QueueItem[]> {
   if (adminMode() === "github") return (await githubGet()).items;
   const p = localPath();

@@ -14,6 +14,7 @@ export default function AdminPage() {
   const [newUrl, setNewUrl] = useState("");
   const [newAppid, setNewAppid] = useState("");
   const [gameFilter, setGameFilter] = useState("");
+  const [vids, setVids] = useState<{ video_id: string; title: string; kind: string; published_at: string; hidden?: boolean }[]>([]);
 
   useEffect(() => { try { const s = sessionStorage.getItem("adminpw"); if (s) { setPw(s); load(s); } } catch {} }, []);
 
@@ -27,6 +28,19 @@ export default function AdminPage() {
     const r2 = await fetch("/api/admin/links", { headers: { "x-admin-password": p }, cache: "no-store" });
     const j2 = await r2.json();
     if (r2.ok) { setLinks(j2.links); setGameList(j2.games); }
+    const r3 = await fetch("/api/admin/videos", { headers: { "x-admin-password": p }, cache: "no-store" });
+    const j3 = await r3.json();
+    if (r3.ok) setVids(j3.videos);
+  }
+
+  // 영상 지우기/되돌리기 (2026-10-11): 사이트의 영상 페이지·게임 페이지에서 사라진다. 유튜브 영상 자체는 그대로.
+  async function hideVideo(videoId: string, hidden: boolean) {
+    setMsg("저장 중…");
+    const r = await fetch("/api/admin/videos", { method: "POST", headers: { "x-admin-password": pw, "content-type": "application/json" }, body: JSON.stringify({ video_id: videoId, hidden }) });
+    const j = await r.json();
+    if (!r.ok) { setMsg(j.error ?? "오류"); return; }
+    setVids((prev) => prev.map((v) => (v.video_id === videoId ? { ...v, hidden } : v)));
+    setMsg(hidden ? "지웠어요. 다음 빌드(최대 30분) 뒤 사이트에서 사라져요." : "되돌렸어요.");
   }
 
   async function addLink() {
@@ -98,6 +112,23 @@ export default function AdminPage() {
                 ))}
               </ul>
             )}
+          </section>
+          <section className="card p-4 space-y-3">
+            <h2 className="font-bold">영상 목록 (사이트에 보이는 것 관리)</h2>
+            <p className="text-xs muted">사이트에는 롱폼 중 유튜브에서 공개된 영상만 보입니다. 여기서 지우면 공개돼 있어도 안 보이고, 되돌리기로 다시 보이게 할 수 있어요.</p>
+            {vids.length === 0 && <p className="text-sm muted">기록된 영상이 없어요.</p>}
+            <ul className="text-sm space-y-1">
+              {vids.map((v) => (
+                <li key={v.video_id} className="flex justify-between gap-2 items-baseline" style={{ opacity: v.hidden ? 0.5 : 1 }}>
+                  <span className="min-w-0 truncate">
+                    <span className="rounded px-1.5 py-0.5 text-xs font-bold text-white mr-1" style={{ background: v.kind === "shorts" ? "#dc2626" : "#1d4ed8" }}>{v.kind === "shorts" ? "쇼츠" : "롱폼"}</span>
+                    <a href={`https://www.youtube.com/watch?v=${v.video_id}`} target="_blank" rel="noopener noreferrer" className="hover:underline">{v.title}</a>
+                    <span className="muted"> · {v.published_at.slice(0, 10)}{v.hidden ? " · 지움" : ""}</span>
+                  </span>
+                  <button onClick={() => hideVideo(v.video_id, !v.hidden)} className="text-xs underline muted whitespace-nowrap">{v.hidden ? "되돌리기" : "지우기"}</button>
+                </li>
+              ))}
+            </ul>
           </section>
           {pending.length === 0 && <p className="card p-6 text-center muted">확인할 항목이 없어요.</p>}
           <ul className="space-y-3">
