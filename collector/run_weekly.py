@@ -132,7 +132,8 @@ def main(argv=None) -> int:
         if args.limit and len(games) >= args.limit:
             break
         try:
-            game, price, points, why = collect_one(appid, rules, steam_rank=None if args.appids else index)
+            # steam_rank = 스팀 '최고 인기 게임' 차트에서의 자리 (2026-10-11), 차트 순위가 없으면 목록 차례
+            game, price, points, why = collect_one(appid, rules, steam_rank=None if args.appids else steam_store.RANKS.get(appid, index))
         except Exception as error:          # 한 게임 실패가 전체를 멈추지 않게
             errors.append({"appid": appid, "error": str(error)[:200]})
             print(f"[{index}/{len(appids)}] {appid} 실패: {error}", file=sys.stderr)

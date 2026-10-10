@@ -131,25 +131,51 @@ def adult_reason(row: dict, rules: dict) -> str | None:
 SEARCH = "https://store.steampowered.com/search/results/"
 
 
+RANKS: dict[int, int] = {}      # appid → 스팀 '최고 인기 게임' 차트 순위 (search_specials 가 채움)
+MAX_CHART_ROWS = 1500
+
+
 def search_specials(limit: int = 120, rules: dict | None = None) -> list[int]:
-    """스팀 검색 '특별 할인 · 판매 순'에서 할인 중인 게임(DLC·묶음 제외) 앱 번호를 limit 개까지."""
+    """스팀 '최고 인기 게임' 차트(= 판매 순 검색, 게임만, 한국) 순서대로 걸어가며 할인 중인 게임 앱 번호를 limit 개까지.
+    2026-10-11 (사용자: 스팀 차트와 순위가 안 맞음): '특별 할인' 필터를 붙이면 스팀이 다른 순서를 주므로 필터 없이 차트를
+    읽고 할인 중인 것만 남긴다. RANKS 에는 차트에서의 자리(할인 게임 중 몇 번째가 아니라)를 둔다."""
     rules = rules or load_rules()
     found: list[int] = []
+    RANKS.clear()
+    # 1) 차트 그대로(DLC·묶음 포함)의 자리 — 사용자가 스팀 차트 화면에서 보는 번호와 같게
+    position: dict[int, int] = {}
     start = 0
-    while len(found) < limit:
-        data = get_json(SEARCH, {"specials": 1, "filter": "topsellers", "category1": 998, "cc": "KR", "l": "koreana",
-                                 "infinite": 1, "json": 1, "start": start, "count": 50},
+    while start < MAX_CHART_ROWS:
+        data = get_json(SEARCH, {"filter": "topsellers", "cc": "KR", "l": "koreana", "infinite": 1, "json": 1, "start": start, "count": 50},
                         host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"])
-        html = (data or {}).get("results_html") or ""
-        ids = [int(m) for m in re.findall(r'data-ds-appid="(\d+)"', html)]
+        ids = [int(m) for m in re.findall(r'data-ds-appid="(\d+)', (data or {}).get("results_html") or "")]
         if not ids:
             break
-        for appid in ids:
-            if appid not in found:
-                found.append(appid)
+        for index, appid in enumerate(ids):
+            position.setdefault(appid, start + index + 1)
         start += 50
         if start >= int((data or {}).get("total_count") or 0):
             break
+    # 2) 게임만(DLC·묶음 제외), 같은 순서로 걸으며 할인 중인 것만
+    start = 0
+    while len(found) < limit and start < MAX_CHART_ROWS:
+        data = get_json(SEARCH, {"filter": "topsellers", "category1": 998, "cc": "KR", "l": "koreana",
+                                 "infinite": 1, "json": 1, "start": start, "count": 50},
+                        host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"])
+        html = (data or {}).get("results_html") or ""
+        blocks = list(re.finditer(r'<a href="[^"]*"[^>]*data-ds-appid="(\d+)[^"]*"[\s\S]*?</a>', html))
+        if not blocks:
+            break
+        for index, block in enumerate(blocks):
+            appid = int(block.group(1))
+            discount = re.search(r'data-discount="(\d+)"', block.group(0))
+            if discount and int(discount.group(1)) > 0 and appid not in found:
+                found.append(appid)
+                RANKS[appid] = position.get(appid, MAX_CHART_ROWS + len(found))
+        start += 50
+        if start >= int((data or {}).get("total_count") or 0):
+            break
+    found.sort(key=lambda a: RANKS.get(a, 10**6))
     return found[:limit]
 
 
