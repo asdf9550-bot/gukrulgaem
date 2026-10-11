@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import GameDetail from "@/components/GameDetail";
 import { game, games } from "@/lib/data";
-import { SUPPORT, VERDICT, won } from "@/lib/format";
+import { SUPPORT, won } from "@/lib/format";
+import { KIND, kindOf } from "@/lib/kind";
 
 type Params = { params: Promise<{ appid: string }> };
 
@@ -15,8 +16,9 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const row = game(Number(appid));
   if (!row) return { title: "게임을 찾을 수 없음" };
   const { game: g, price: p } = row;
-  const title = `${g.name} ${p.discount_pct ? `${p.discount_pct}% 할인` : ""} — ${p.verdict_label}`;
-  const description = `${g.name} 한국 스팀 가격 ${won(p.current_price)} (정가 ${won(p.regular_price)}, 역대 최저 ${won(p.historical_low)}). ${VERDICT[p.verdict].short}. ${SUPPORT[g.korean_support]}.`;
+  const k = KIND[kindOf(p, g)];   // 2026-10-11: 제목·설명도 세분화된 표시(최저가 갱신·첫 할인 등)와 맞춤
+  const title = `${g.name} ${p.discount_pct ? `${p.discount_pct}% 할인` : ""} — ${k.label}`;
+  const description = `${g.name} 한국 스팀 가격 ${won(p.current_price)} (정가 ${won(p.regular_price)}, 역대 최저 ${won(p.historical_low)}). ${k.short}. ${SUPPORT[g.korean_support]}.`;
   return {
     title, description,
     openGraph: { title, description, images: g.header_image ? [g.header_image] : [], locale: "ko_KR", type: "article" },
