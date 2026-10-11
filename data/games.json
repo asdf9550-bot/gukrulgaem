@@ -29911,5 +29911,297 @@
   "current_players": 176,
   "players_at": "2026-10-11T01:34:36+00:00",
   "updated_at": "2026-10-11T01:34:36+00:00"
+ },
+ {
+  "appid": 2254990,
+  "name": "Permafrost",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG",
+   "시뮬레이션",
+   "앞서 해보기"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/693eff202c061aaecba330b44d76485a672bea97/header.jpg?t=1791608052",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/024db5584cd87b23dd37229e049378f2d4828bdb/capsule_231x87.jpg?t=1791608052",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/library_hero.jpg",
+  "release_date": "2026년 10월 9일",
+  "steam_url": "https://store.steampowered.com/app/2254990/",
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "steam_rank": 19,
+  "editions": [
+   {
+    "name": "Permafrost",
+    "price": 19200,
+    "regular": 24000,
+    "cut": 20,
+    "packageid": 809014
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/dd279ef7ad03b14027c0d89ba91841f079ea3de4/ss_dd279ef7ad03b14027c0d89ba91841f079ea3de4.600x338.jpg?t=1791608052",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/dd279ef7ad03b14027c0d89ba91841f079ea3de4/ss_dd279ef7ad03b14027c0d89ba91841f079ea3de4.1920x1080.jpg?t=1791608052"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/386e38bf8ddc44c32976e72d9a3851931538a13c/ss_386e38bf8ddc44c32976e72d9a3851931538a13c.600x338.jpg?t=1791608052",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/386e38bf8ddc44c32976e72d9a3851931538a13c/ss_386e38bf8ddc44c32976e72d9a3851931538a13c.1920x1080.jpg?t=1791608052"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/d23ff5e310d31d37bf1abe3ff5e07c2de069f491/ss_d23ff5e310d31d37bf1abe3ff5e07c2de069f491.600x338.jpg?t=1791608052",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/d23ff5e310d31d37bf1abe3ff5e07c2de069f491/ss_d23ff5e310d31d37bf1abe3ff5e07c2de069f491.1920x1080.jpg?t=1791608052"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/ee9b319daa4fd4a8886c590809798d1fbe8165e7/ss_ee9b319daa4fd4a8886c590809798d1fbe8165e7.600x338.jpg?t=1791608052",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/ee9b319daa4fd4a8886c590809798d1fbe8165e7/ss_ee9b319daa4fd4a8886c590809798d1fbe8165e7.1920x1080.jpg?t=1791608052"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/0f03de9a1c48b09b403cbe5913205d72d35ae9fb/ss_0f03de9a1c48b09b403cbe5913205d72d35ae9fb.600x338.jpg?t=1791608052",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/0f03de9a1c48b09b403cbe5913205d72d35ae9fb/ss_0f03de9a1c48b09b403cbe5913205d72d35ae9fb.1920x1080.jpg?t=1791608052"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/b926493536b5e7020ad5073e714599b165f7f597/ss_b926493536b5e7020ad5073e714599b165f7f597.600x338.jpg?t=1791608052",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/b926493536b5e7020ad5073e714599b165f7f597/ss_b926493536b5e7020ad5073e714599b165f7f597.1920x1080.jpg?t=1791608052"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/2254990/311727199/76e8f8aa7f7fa40132a577003e3260d35da7945d/1790929583/hls_264_master.m3u8?t=1791187518",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257443663/fcc74cc61c7ee028c1a01221ff663c0b53bdeff3/movie_600x337.jpg?t=1791187518",
+   "name": "Permafrost - Early Access Launch Trailer EN"
+  },
+  "short_description": "Permafrost는 얼어붙은 포스트 아포칼립스 세계를 배경으로 한, 스토리 위주의 서바이벌 샌드박스 게임입니다. 방대한 세계관이 살아 숨 쉬는 오픈 월드를 혼자서, 혹은 최대 4명의 플레이어와 함께 탐험하세요. 탐험하고, 자원을 찾고, 도구를 만들고, 추위를 견딜 피난처 네트워크를 만드세요.",
+  "deck": "unknown",
+  "korean_reviews": [
+   {
+    "text": "후기 [h2]1. 출발은 좋았다[/h2] [list] [*]얼어붙은 세계. 총이 있음. 고군분투하면서 살아남아야 함. 좋아하는 요소가 모여 있어서 시작부터 기대가 컸다. [*]들어가자마자 모션 블러, 대가리 흔들기, 필름 그레인을 끄고 DLSS와 프레임 생성을 켰다. 이제 생존할 준비 완료. 할 건 해야지 [*]집부터 지을까 고민하며 시작 동굴을 나갔는데,…",
+    "votes_up": 11,
+    "hours": 2.4,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198283215410/recommended/2254990/"
+   },
+   {
+    "text": "뭔가 잘만들었는데 뭔가 부족한게 존나 많음 버그인지 사운드도 안들리고 아이템 정렬도 없고 용광로에 잔뜩 구워놓고 딴짓하면 이제 그거 다 하나씩 주워야됨ㅋㅋㅋ 맵에 마크하는건 하나하면 중복으론 안되고 이런 편의성같은거는 떨어지는데 그래픽은 꽤 좋아서 러스트는 무섭지만 비슷한 느낌의 생존겜을 원하는 사람이라면 일~~~~단 기다렸다가 상황보고 하시면될듯",
+    "votes_up": 9,
+    "hours": 5.8,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198329228923/recommended/2254990/"
+   },
+   {
+    "text": "오브젝트를 클릭만 하면 게임이 멈추는 현상이 계속 반복되어서 진행할 수가 없다.",
+    "votes_up": 2,
+    "hours": 20.9,
+    "recommended": false,
+    "url": "https://steamcommunity.com/profiles/76561198043173036/recommended/2254990/"
+   }
+  ],
+  "reviews_all": 706,
+  "positive_all": 526,
+  "reviews_ko": 44,
+  "positive_ko": 28,
+  "gap_pp": null,
+  "playtime_median_h_all": 7.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 18,
+  "playtime_median_h_ko": 5.8,
+  "playtime_n_ko": 39,
+  "under_2h_pct_ko": 23,
+  "current_players": 5185,
+  "players_at": "2026-10-11T09:31:27+00:00",
+  "updated_at": "2026-10-11T09:31:27+00:00"
+ },
+ {
+  "appid": 3883570,
+  "name": "인보키어: 마의 주사위",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "시뮬레이션",
+   "무료 플레이",
+   "앞서 해보기"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a530e27568455a1679083384b813480fe81fca93/header_koreana.jpg?t=1791547174",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/7e60cda515fc13bfe96274a8e8cbbfb9dbdc971c/capsule_231x87_koreana.jpg?t=1791547174",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/library_hero.jpg",
+  "release_date": "2026년 10월 8일",
+  "steam_url": "https://store.steampowered.com/app/3883570/",
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "none",
+  "steam_rank": 50,
+  "editions": [
+   {
+    "name": "Invokyr",
+    "price": 8920,
+    "regular": 11900,
+    "cut": 25,
+    "packageid": 1365119
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/431a16b39f728e0db989db171e23607db8bbecf1/ss_431a16b39f728e0db989db171e23607db8bbecf1.600x338.jpg?t=1791547174",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/431a16b39f728e0db989db171e23607db8bbecf1/ss_431a16b39f728e0db989db171e23607db8bbecf1.1920x1080.jpg?t=1791547174"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/343c53ef3c2d2fc26dbb22ec8ddd893d26f3ffe0/ss_343c53ef3c2d2fc26dbb22ec8ddd893d26f3ffe0.600x338.jpg?t=1791547174",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/343c53ef3c2d2fc26dbb22ec8ddd893d26f3ffe0/ss_343c53ef3c2d2fc26dbb22ec8ddd893d26f3ffe0.1920x1080.jpg?t=1791547174"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/ad9c2a4218ed3793b7e52c1e2a2fe4d10a0a39b0/ss_ad9c2a4218ed3793b7e52c1e2a2fe4d10a0a39b0.600x338.jpg?t=1791547174",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/ad9c2a4218ed3793b7e52c1e2a2fe4d10a0a39b0/ss_ad9c2a4218ed3793b7e52c1e2a2fe4d10a0a39b0.1920x1080.jpg?t=1791547174"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/0015a567807cec0f6ed83461f92f5c5277b5476d/ss_0015a567807cec0f6ed83461f92f5c5277b5476d.600x338.jpg?t=1791547174",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/0015a567807cec0f6ed83461f92f5c5277b5476d/ss_0015a567807cec0f6ed83461f92f5c5277b5476d.1920x1080.jpg?t=1791547174"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/3c4b51d5f97f46fc7560ed000a176321c9723635/ss_3c4b51d5f97f46fc7560ed000a176321c9723635.600x338.jpg?t=1791547174",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/3c4b51d5f97f46fc7560ed000a176321c9723635/ss_3c4b51d5f97f46fc7560ed000a176321c9723635.1920x1080.jpg?t=1791547174"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/e2688f084a311268222ce435f9d6e8ce2aadb95f/ss_e2688f084a311268222ce435f9d6e8ce2aadb95f.600x338.jpg?t=1791547174",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/e2688f084a311268222ce435f9d6e8ce2aadb95f/ss_e2688f084a311268222ce435f9d6e8ce2aadb95f.1920x1080.jpg?t=1791547174"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/3883570/710958301/a1581618e7ebf907354c035fceb7eb598483bade/1791402062/hls_264_master.m3u8?t=1791445527",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257451162/c32515550b8509bbb293c1b283d7aa2311a2e43a/movie_600x337.jpg?t=1791445527",
+   "name": "Invokyr - Release Trailer (Korean)"
+  },
+  "short_description": "저주받은 보드게임을 소재로 한 협동 생존 호러 게임입니다. 잊혀진 게임판, 그리고 버려진 저택. 최대 5명의 친구와 함께 플레이할 수 있습니다. 주사위를 굴리고, 소환된 공포의 존재들로부터 살아남아 게임마스터를 쓰러뜨리고 자유를 쟁취하세요.",
+  "deck": "unknown",
+  "korean_reviews": [],
+  "reviews_all": 408,
+  "positive_all": 385,
+  "reviews_ko": 16,
+  "positive_ko": 14,
+  "gap_pp": null,
+  "playtime_median_h_all": 4.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 12,
+  "playtime_median_h_ko": 4.0,
+  "playtime_n_ko": 15,
+  "under_2h_pct_ko": 20,
+  "current_players": 3592,
+  "players_at": "2026-10-11T09:31:36+00:00",
+  "updated_at": "2026-10-11T09:31:36+00:00"
+ },
+ {
+  "appid": 3232690,
+  "name": "메이드 카페 시뮬레이터",
+  "genres": [
+   "시뮬레이션"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/972d98e9f088075e81e205dc8dbd5edebcc876d1/header.jpg?t=1791442792",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/06cba72ec019ba6b975813b3779c72d8ef7fbc82/capsule_231x87.jpg?t=1791442792",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/library_hero.jpg",
+  "release_date": "2026년 10월 7일",
+  "steam_url": "https://store.steampowered.com/app/3232690/",
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "steam_rank": 91,
+  "editions": [
+   {
+    "name": "메이드 카페 시뮬레이터",
+    "price": 28800,
+    "regular": 36000,
+    "cut": 20,
+    "packageid": 1145954
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/0dea5bc4a69fd8b23e664a27a0780178659f5b57/ss_0dea5bc4a69fd8b23e664a27a0780178659f5b57.600x338.jpg?t=1791442792",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/0dea5bc4a69fd8b23e664a27a0780178659f5b57/ss_0dea5bc4a69fd8b23e664a27a0780178659f5b57.1920x1080.jpg?t=1791442792"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/fe3515527876132f0c34c292cfcf9745caff6f7f/ss_fe3515527876132f0c34c292cfcf9745caff6f7f.600x338.jpg?t=1791442792",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/fe3515527876132f0c34c292cfcf9745caff6f7f/ss_fe3515527876132f0c34c292cfcf9745caff6f7f.1920x1080.jpg?t=1791442792"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/707d233d5cc754e0c069e6d97e753439bbd4beb6/ss_707d233d5cc754e0c069e6d97e753439bbd4beb6.600x338.jpg?t=1791442792",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/707d233d5cc754e0c069e6d97e753439bbd4beb6/ss_707d233d5cc754e0c069e6d97e753439bbd4beb6.1920x1080.jpg?t=1791442792"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/81f306e578c2c6accdc2719c00b72968985cdf6e/ss_81f306e578c2c6accdc2719c00b72968985cdf6e.600x338.jpg?t=1791442792",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/81f306e578c2c6accdc2719c00b72968985cdf6e/ss_81f306e578c2c6accdc2719c00b72968985cdf6e.1920x1080.jpg?t=1791442792"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/e5199a53a7a75f013ca06573d635e562ef5ac7a2/ss_e5199a53a7a75f013ca06573d635e562ef5ac7a2.600x338.jpg?t=1791442792",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/e5199a53a7a75f013ca06573d635e562ef5ac7a2/ss_e5199a53a7a75f013ca06573d635e562ef5ac7a2.1920x1080.jpg?t=1791442792"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/745f72281b687d738e4b8b13bd84f4db02269468/ss_745f72281b687d738e4b8b13bd84f4db02269468.600x338.jpg?t=1791442792",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/745f72281b687d738e4b8b13bd84f4db02269468/ss_745f72281b687d738e4b8b13bd84f4db02269468.1920x1080.jpg?t=1791442792"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/3232690/1078636404/df9276bc6936c8b832b65b060b58a9ab1df00c9e/1790846901/hls_264_master.m3u8?t=1790847691",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257439269/d4c96ed1f323c0e95c6070699408c3535e98a7bf/movie_600x337.jpg?t=1790847691",
+   "name": "메이드 카페 시뮬레이터 - 공식 트레일러"
+  },
+  "short_description": "다섯 수인 메이드와 함께 낡은 카페를 인기 만점 메이드 카페로 키워보세요! 주문부터 음료 제조, 서빙, 계산까지 직접 뛰어드는 1인칭 경영 시뮬레이션. 밀려드는 주문도, 소란 피우는 진상도 함께라면 두렵지 않습니다. 하루하루 가까워지는 메이드들과 메슐랭 3스타에 도전하세요!",
+  "deck": "unknown",
+  "korean_reviews": [
+   {
+    "text": "버튜버 1도 모르지만 귀여워서 샀는데, 버튜버 팬들은 몰라도 게임으로썬 좀... 아닌 듯합니다ㅠㅠ 바쁘게 음료 만들고 운영하는 재미가 있어야 하는데, 메뉴 지정도 한정적으로 되고, 멍때리는 시간이 대부분이라 루즈해요",
+    "votes_up": 82,
+    "hours": 1.2,
+    "recommended": false,
+    "url": "https://steamcommunity.com/profiles/76561198267310699/recommended/3232690/"
+   },
+   {
+    "text": "0. 엔딩과 올 업글까지 끝냈습니다. 업적도 완료! 불태웠습니다 ㅋㅋㅋ 1. 데모버전 때보다 많은 부분이 개선되어서 편합니다. 2. 수익률이 개선되었고, 바쁘게 뛰어다니지 않아도 충분히 가게를 돌릴 수 있습니다. 3. 아직 AI 개선이 필요한 부분이 있긴 한데, 혹시 의도된건가 싶기도 합니다...? 미츄 팔로워라면 강력 추천합니다! *그렇다고 다른 메이저 …",
+    "votes_up": 1,
+    "hours": 13.3,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198039221194/recommended/3232690/"
+   },
+   {
+    "text": "클로즈베타때 워낙 너무 부실하게 있어서 걱정했는데 출시하니 꽤나 많이 변경되었고 발전했습니다 스토리 풀더빙에 뭔가 너무 익숙해서 그런지 재미있습니다 :)",
+    "votes_up": 1,
+    "hours": 10.8,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198168013823/recommended/3232690/"
+   }
+  ],
+  "reviews_all": 116,
+  "positive_all": 104,
+  "reviews_ko": 22,
+  "positive_ko": 19,
+  "gap_pp": null,
+  "playtime_median_h_all": 9.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 12,
+  "playtime_median_h_ko": 11.1,
+  "playtime_n_ko": 20,
+  "under_2h_pct_ko": 20,
+  "current_players": 265,
+  "players_at": "2026-10-11T09:31:46+00:00",
+  "updated_at": "2026-10-11T09:31:46+00:00"
  }
 ]

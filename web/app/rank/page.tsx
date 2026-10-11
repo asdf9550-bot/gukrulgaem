@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import GameCard from "@/components/GameCard";
 import { deals, rules, type Deal } from "@/lib/data";
 import { kst, won } from "@/lib/format";
+import { kindOf } from "@/lib/kind";
 import { hours, pricePerHour } from "@/lib/stats";
 
 export const metadata: Metadata = { title: "테마 순위", description: "한국인만 싫어한 게임, 한국어 지원 바닥가, 역대 최저가 갱신 순위" };
@@ -31,7 +32,8 @@ export default function RankPage() {
     .sort((a, b) => a.game.gap_pp! - b.game.gap_pp!).slice(0, 10);
   const koreanFloor = all.filter((d) => d.price.verdict === "floor" && d.game.korean_support !== "none")
     .sort((a, b) => (b.price.discount_pct ?? 0) - (a.price.discount_pct ?? 0)).slice(0, 10);
-  const newLows = all.filter((d) => d.price.verdict === "floor")
+  // 2026-10-11: 이번 세일에 실제로 최저가를 새로 찍은 게임만(최저가 재등장·첫 할인은 제외)
+  const newLows = all.filter((d) => kindOf(d.price, d.game) === "floor_new")
     .sort((a, b) => (a.price.historical_low_at ?? "") < (b.price.historical_low_at ?? "") ? 1 : -1).slice(0, 10);
   const ph = (d: Deal) => pricePerHour(d.price.current_price, d.game.playtime_median_h_all, d.game.playtime_n_all);
   const valueForMoney = all.filter((d) => ph(d) != null && (d.game.playtime_median_h_all ?? 0) >= 5)

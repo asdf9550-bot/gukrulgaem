@@ -12,6 +12,18 @@ export function kstTime(iso: string | number | null | undefined): string {
   return new Intl.DateTimeFormat("ko-KR", { timeZone: "Asia/Seoul", hour: "numeric", minute: "2-digit" }).format(d);
 }
 
+// 2026-10-11 (사용자 "날짜가 없어 오늘인지 어제인지 모르겠다"): 절대 날짜 대신 "오늘/어제/N일 전 + 시각".
+// 구글 검색 결과에 날짜 머리말이 붙지 않으면서도 언제 갱신됐는지 알 수 있다. 화면은 1시간마다 다시 만들어진다(홈 revalidate).
+export function kstRelative(iso: string | number | null | undefined, now = Date.now()): string {
+  if (iso == null || iso === "") return "-";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return String(iso);
+  const dayOf = (t: number) => Math.floor((t + 9 * 3_600_000) / 86_400_000);   // 한국 날짜 번호
+  const diff = dayOf(now) - dayOf(d.getTime());
+  const word = diff <= 0 ? "오늘" : diff === 1 ? "어제" : `${diff}일 전`;
+  return `${word} ${kstTime(d.getTime())}`;
+}
+
 export function kst(iso: string | number | null | undefined, withTime = false): string {
   if (iso == null || iso === "") return "-";
   const d = new Date(iso);

@@ -60,7 +60,8 @@ def get_json(url: str, params: dict | None = None, *, host_interval: float = 0.0
         head["Content-Type"] = "application/json"
     head.update(headers or {})
     last_error: Exception | None = None
-    for attempt in range(retry):
+    attempt, throttled = 0, 0
+    while attempt < retry:
         try:
             _last_call[host] = time.monotonic()
             with urlopen(Request(url, data=data, headers=head, method=method), timeout=timeout) as response:
@@ -69,14 +70,19 @@ def get_json(url: str, params: dict | None = None, *, host_interval: float = 0.0
             if error.code in (401, 403, 404):
                 raise
             last_error = error
-            if error.code == 429:                       # 너무 많이 불렀음: 서버가 알려준 시간(없으면 15초씩 늘려) 기다림
+            if error.code == 429:                       # 너무 많이 불렀음: 서버가 알려준 시간(없으면 20초씩 늘려) 기다림
+                # 2026-10-11: 429는 일반 재시도 횟수와 따로 최대 5번 기다린다(스팀이 수집 중 한 게임을 떨어뜨리던 것)
+                throttled += 1
+                if throttled > 5:
+                    break
                 retry_after = error.headers.get("Retry-After") if error.headers else None
-                wait_s = float(retry_after) if retry_after and retry_after.isdigit() else 15 * (attempt + 1)
+                wait_s = float(retry_after) if retry_after and retry_after.isdigit() else 20 * throttled
                 time.sleep(min(wait_s, 120))
                 continue
         except (URLError, TimeoutError, json.JSONDecodeError) as error:
             last_error = error
-        time.sleep(2 * (attempt + 1))
+        attempt += 1
+        time.sleep(2 * attempt)
     raise RuntimeError(f"요청 실패({host}): {last_error}")
 
 

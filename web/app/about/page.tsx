@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import VerdictBadge from "@/components/VerdictBadge";
 import { rules } from "@/lib/data";
 import { VERDICT } from "@/lib/format";
+import { FIRST_SALE_MAX, NEW_LOW_DAYS } from "@/lib/kind";
 
 export const metadata: Metadata = { title: "판정 기준", description: "가격 판정 계산식과 데이터 출처를 공개합니다." };
 
@@ -33,6 +34,13 @@ export default function AboutPage() {
             </li>
           ))}
         </ol>
+        {/* 2026-10-11: 바닥가가 너무 많아(셋 중 둘) 셋으로 나눠 보여 준다 */}
+        <div className="card p-4 text-sm space-y-2">
+          <p className="font-bold">바닥가는 셋으로 나눠 표시합니다</p>
+          <p className="flex flex-wrap items-center gap-2"><VerdictBadge verdict="floor" kind="floor_new" /> 최근 {NEW_LOW_DAYS}일 안에 역대 최저가를 새로 찍었습니다. 이번 세일이 지금까지 가장 쌉니다.</p>
+          <p className="flex flex-wrap items-center gap-2"><VerdictBadge verdict="floor" kind="floor_again" /> 전에 찍은 역대 최저가와 같은 가격이 다시 왔습니다. 더 싸진 건 아니지만 이보다 싼 적은 없습니다.</p>
+          <p className="flex flex-wrap items-center gap-2"><VerdictBadge verdict="floor" kind="first" /> 출시 1년이 안 됐고 세일이 {FIRST_SALE_MAX}회 이하라 가격 기록이 짧습니다. "역대 최저"라는 말이 아직 큰 뜻이 없으니 참고만 하세요.</p>
+        </div>
         <div className="card p-4 text-sm space-y-1">
           <p><b>평소 세일가</b> = 최근 {r.history_months}개월 세일 할인율의 중앙값 × 현재 정가</p>
           <p><b>역대 최저가</b> = 한국 스팀 상점에서 기록된 가장 낮은 가격 (다른 판매처 가격은 섞지 않습니다)</p>

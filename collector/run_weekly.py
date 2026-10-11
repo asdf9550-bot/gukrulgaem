@@ -19,8 +19,29 @@ from .common import ROOT, load_rules, now_iso
 DATA = ROOT / "data"
 
 
-def collect_one(appid: int, rules: dict, steam_rank: int | None = None) -> tuple[dict | None, dict | None, list[dict], str | None]:
-    """(games 행, prices 행, price_history 행들, 건너뛴 이유). steam_rank = 스팀 '특별 할인·판매 순' 검색에서의 순위."""
+def video_appids() -> list[int]:
+    """영상 프로그램이 올린 롱폼 영상에 나온 게임(2026-10-11): 리뷰 수 기준과 상관없이 수집한다.
+    영상 화면의 게임 칩이 '게임 3232690'처럼 번호로만 보이던 문제."""
+    path = DATA / "videos.json"
+    if not path.is_file():
+        return []
+    try:
+        rows = json.loads(path.read_text(encoding="utf-8-sig"))
+    except ValueError:
+        return []
+    out: list[int] = []
+    for row in rows if isinstance(rows, list) else []:
+        if not isinstance(row, dict) or row.get("kind") != "long" or row.get("hidden"):
+            continue
+        for appid in row.get("appids") or []:
+            if isinstance(appid, int) and appid not in out:
+                out.append(appid)
+    return out
+
+
+def collect_one(appid: int, rules: dict, steam_rank: int | None = None, force: bool = False) -> tuple[dict | None, dict | None, list[dict], str | None]:
+    """(games 행, prices 행, price_history 행들, 건너뛴 이유). steam_rank = 스팀 '특별 할인·판매 순' 검색에서의 순위.
+    force = 리뷰 수 기준을 건너뜀(영상에 나온 게임)."""
     store = steam_store.appdetails(appid, rules)
     if not store:
         return None, None, [], "상점에 없음"
@@ -30,7 +51,7 @@ def collect_one(appid: int, rules: dict, steam_rank: int | None = None) -> tuple
     if adult:
         return None, None, [], adult
     reviews = steam_reviews.review_stats(appid, rules)
-    if reviews["reviews_all"] < rules["collect_min_reviews"]:
+    if reviews["reviews_all"] < rules["collect_min_reviews"] and not force:
         return None, None, [], f"리뷰 {reviews['reviews_all']}개 (기준 {rules['collect_min_reviews']})"
     try:
         record = itad.collect(appid, rules["history_months"])
@@ -121,19 +142,24 @@ def main(argv=None) -> int:
     rules = load_rules()
     started = now_iso()
     target = args.limit or int(rules.get("collect_target") or 100)
+    featured: set[int] = set()
     if args.appids:
         appids = [int(a) for a in args.appids.split(",") if a.strip()]
     else:
         # 건너뛰는 게임(리뷰 부족·성인)이 있으니 목표보다 넉넉히 가져온다
         appids = steam_store.discounted_appids(limit=int(target * 1.6), rules=rules)
+        # 영상에 나온 게임은 목록에 없어도 끝에 붙여 꼭 수집(리뷰 수 기준 없이)
+        featured = set(video_appids())
+        appids += [a for a in featured if a not in appids]
     args.limit = target
     games, prices, history, skipped, errors = [], [], [], [], []
     for index, appid in enumerate(appids, 1):
-        if args.limit and len(games) >= args.limit:
+        if args.limit and len(games) >= args.limit and appid not in featured:
             break
         try:
             # steam_rank = 스팀 '최고 인기 게임' 차트에서의 자리 (2026-10-11), 차트 순위가 없으면 목록 차례
-            game, price, points, why = collect_one(appid, rules, steam_rank=None if args.appids else steam_store.RANKS.get(appid, index))
+            game, price, points, why = collect_one(appid, rules, steam_rank=None if args.appids else steam_store.RANKS.get(appid, index),
+                                                   force=appid in featured)
         except Exception as error:          # 한 게임 실패가 전체를 멈추지 않게
             errors.append({"appid": appid, "error": str(error)[:200]})
             print(f"[{index}/{len(appids)}] {appid} 실패: {error}", file=sys.stderr)

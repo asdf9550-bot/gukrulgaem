@@ -4,7 +4,8 @@ import PriceChart from "@/components/PriceChart";
 import ReviewGap from "@/components/ReviewGap";
 import SaleCountdown from "@/components/SaleCountdown";
 import VerdictBadge from "@/components/VerdictBadge";
-import { game, offersFor, reviewHistory, seasons, storesList, videos } from "@/lib/data";
+import { game, isPublicOnYouTube, offersFor, reviewHistory, seasons, storesList, videos } from "@/lib/data";
+import { kindOf } from "@/lib/kind";
 import StoreCompare from "@/components/StoreCompare";
 import EditionCompare from "@/components/EditionCompare";
 import MediaStrip from "@/components/MediaStrip";
@@ -18,6 +19,7 @@ const DECK: Record<string, { label: string; tone: "good" | "warn" | "bad" | "pla
   unsupported: { label: "스팀덱 지원 안 함", tone: "bad" }, unknown: { label: "", tone: "plain" },
 };
 import { kst, pct, SUPPORT, VERDICT, won } from "@/lib/format";
+import { KIND } from "@/lib/kind";
 import { daysUntil, hours, nextSeason, pricePerHour, regretIndex, saleStats } from "@/lib/stats";
 
 function Chip({ children, tone = "plain" }: { children: React.ReactNode; tone?: "plain" | "good" | "warn" | "bad" | "info" }) {
@@ -32,18 +34,23 @@ function Chip({ children, tone = "plain" }: { children: React.ReactNode; tone?: 
 }
 
 // 게임 상세 본문. 전체 페이지(/game/번호)와 목록 위에 겹쳐 뜨는 창 둘 다 이걸 쓴다.
-export default function GameDetail({ appid, compact = false }: { appid: number; compact?: boolean }) {
+const stamp = (s: number) => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`;
+
+export default async function GameDetail({ appid, compact = false }: { appid: number; compact?: boolean }) {
   const row = game(appid);
   if (!row) return <p className="muted p-6">게임을 찾을 수 없습니다.</p>;
   const { game: g, price: p, history } = row;
+  const kind = kindOf(p, g);
   const v = VERDICT[p.verdict];
   const saving = p.regular_price != null && p.current_price != null ? p.regular_price - p.current_price : null;
   const toLow = p.historical_low != null && p.current_price != null ? p.current_price - p.historical_low : null;
-  const related = videos().filter((x) => x.appids.includes(g.appid));
+  // 2026-10-11: 롱폼·공개 영상만, 게임이 나오는 시각(유튜브 챕터)으로 바로 가기
+  const candidates = videos().filter((x) => x.appids.includes(g.appid)).sort((a, b) => (a.published_at < b.published_at ? 1 : -1));
+  const publicFlags = await Promise.all(candidates.map((x) => isPublicOnYouTube(x.video_id)));
+  const related = candidates.filter((_, i) => publicFlags[i]).map((x) => ({ ...x, at: x.chapters?.[String(g.appid)] }));
   const stats = saleStats(history, p);
   const season = nextSeason(seasons());
   const allPct = pct(g.positive_all, g.reviews_all), koPct = pct(g.positive_ko, g.reviews_ko);
-  const lowRecent = p.historical_low_at ? daysUntil(p.historical_low_at) >= -14 : false;
   const isFloor = p.verdict === "floor";
   const perHour = pricePerHour(p.current_price, g.playtime_median_h_all, g.playtime_n_all);
   const perHourKo = pricePerHour(p.current_price, g.playtime_median_h_ko, g.playtime_n_ko);
@@ -97,8 +104,8 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
             ) : <span className="pb-2 muted">할인 없음</span>}
           </div>
           <div className="flex flex-wrap items-center gap-3">
-            <VerdictBadge verdict={p.verdict} size={compact ? "md" : "lg"} stamp />
-            <span className="muted">{v.short}</span>
+            <VerdictBadge verdict={p.verdict} kind={kind} size={compact ? "md" : "lg"} stamp />
+            <span className="muted">{isFloor ? `${v.short} · ${KIND[kind].short}` : v.short}</span>
             <WishButton appid={g.appid} size="lg" />
           </div>
           {p.sale_end_at && <SaleCountdown endAt={p.sale_end_at} endText={kst(p.sale_end_at, true)} />}
@@ -106,8 +113,9 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
             <Chip tone={g.korean_support === "none" ? "bad" : "good"}>{SUPPORT[g.korean_support]}</Chip>
             {allPct != null && <Chip tone={allPct >= 80 ? "good" : allPct >= 60 ? "warn" : "bad"}>전체 긍정 {allPct}%</Chip>}
             {koPct != null && g.reviews_ko >= 100 && <Chip tone={g.gap_pp != null && g.gap_pp <= -10 ? "bad" : koPct >= 80 ? "good" : "warn"}>한국 긍정 {koPct}%{g.gap_pp != null ? ` (${g.gap_pp > 0 ? "+" : ""}${g.gap_pp}%p)` : ""}</Chip>}
-            {isFloor && lowRecent && <Chip tone="info">역대 최저 갱신</Chip>}
-            {isFloor && !lowRecent && <Chip tone="info">역대 최저가와 같음</Chip>}
+            {kind === "floor_new" && <Chip tone="info">역대 최저 갱신</Chip>}
+            {kind === "floor_again" && <Chip tone="info">역대 최저가와 같음</Chip>}
+            {kind === "first" && <Chip tone="warn">첫 할인 · 가격 기록 짧음</Chip>}
             {p.tags.includes("korea_warning") && <Chip tone="bad">한국 주의</Chip>}
             {stats.usualCut != null && (p.discount_pct ?? 0) > stats.usualCut && <Chip tone="info">평소보다 큰 할인</Chip>}
             {g.current_players != null && g.current_players > 0 && <Chip>지금 {g.current_players.toLocaleString("ko-KR")}명 접속</Chip>}
@@ -226,10 +234,15 @@ export default function GameDetail({ appid, compact = false }: { appid: number; 
           <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2">
             {related.map((x) => (
               <li key={x.video_id}>
-                <a href={`https://www.youtube.com/watch?v=${x.video_id}`} target="_blank" rel="noopener noreferrer" className="flex gap-3 items-center hover:underline">
+                <a href={`https://www.youtube.com/watch?v=${x.video_id}${x.at ? `&t=${Math.floor(x.at)}s` : ""}`} target="_blank" rel="noopener noreferrer" className="flex gap-3 items-center group">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={`https://i.ytimg.com/vi/${x.video_id}/mqdefault.jpg`} alt="" className="w-28 aspect-video object-cover rounded-lg" />
-                  <span className="text-sm font-bold line-clamp-2">{x.kind === "shorts" ? "[쇼츠] " : ""}{x.title}</span>
+                  <img src={`https://i.ytimg.com/vi/${x.video_id}/mqdefault.jpg`} alt="" className="w-28 aspect-video object-cover rounded-lg shrink-0" />
+                  <span className="min-w-0">
+                    <span className="block text-sm font-bold line-clamp-2 group-hover:underline">{x.title}</span>
+                    <span className="inline-block mt-1 rounded-full px-2.5 py-0.5 text-xs font-bold text-white" style={{ background: "#ef4444" }}>
+                      ▶ {x.at != null ? `${stamp(x.at)}부터 이 게임 보기` : "영상 보기"}
+                    </span>
+                  </span>
                 </a>
               </li>
             ))}

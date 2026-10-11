@@ -112,6 +112,8 @@ export interface Video {
   published_at: string;
   appids: number[];
   hidden?: boolean;      // 관리자가 지운 영상(2026-10-11): 줄은 남기되 어디에도 보이지 않음
+  names?: Record<string, string>;     // 2026-10-11: 게임 이름(수집 대상이 아닌 게임도 번호 대신 이름으로)
+  chapters?: Record<string, number>;  // 2026-10-11: 게임별 영상 시작 초(유튜브 챕터) → "03:59부터 보기"
 }
 
 function dataDir(): string {
@@ -217,14 +219,35 @@ export function offersFor(appid: number, all: Offer[] = offers()): Offer[] {
   return all.filter((o) => o.appid === appid).sort((a, b) => a.price_krw - b.price_krw);
 }
 
+// 목록(홈·순위·찜·달력)에 넘기는 가벼운 줄. 2026-10-11: 홈 HTML이 1.9MB(게임마다 리뷰 인용·스크린샷·예고편까지 실림)라
+// 목록이 실제로 쓰는 칸만 추린다. 상세 화면은 game(appid)으로 전체를 읽는다.
+export type ListGame = Pick<Game, "appid" | "name" | "genres" | "korean_support" | "header_image" | "capsule_image" | "release_date"
+  | "reviews_all" | "positive_all" | "reviews_ko" | "positive_ko" | "gap_pp" | "playtime_median_h_all" | "playtime_n_all"
+  | "playtime_median_h_ko" | "playtime_n_ko" | "platforms" | "play_modes" | "steam_rank" | "metacritic" | "current_players">;
+export type ListPrice = Pick<Price, "appid" | "regular_price" | "current_price" | "discount_pct" | "sale_end_at" | "historical_low"
+  | "historical_low_at" | "usual_sale_price" | "sale_count_24m" | "vs_usual_pct" | "verdict" | "tags">;
+export type ListOffer = Pick<Offer, "store_id" | "store_name" | "price_krw" | "is_estimate">;
+
 export interface Deal {
-  game: Game; price: Price;
-  cheapest: Offer | null;           // 가장 싼 판매처(스팀 포함)
+  game: ListGame; price: ListPrice;
+  cheapest: ListOffer | null;       // 가장 싼 판매처(스팀 포함)
   cheaper_than_steam: boolean;      // 스팀보다 싼 곳이 있나
   search: string;                   // 검색용: 이름 + 한글 별명 (소문자, 공백 제거)
 }
 
 const squash = (s: string) => s.toLowerCase().replace(/\s+/g, "");
+
+const slimGame = (g: Game): ListGame => ({
+  appid: g.appid, name: g.name, genres: g.genres, korean_support: g.korean_support, header_image: g.header_image, capsule_image: g.capsule_image ?? null,
+  release_date: g.release_date, reviews_all: g.reviews_all, positive_all: g.positive_all, reviews_ko: g.reviews_ko, positive_ko: g.positive_ko, gap_pp: g.gap_pp,
+  playtime_median_h_all: g.playtime_median_h_all ?? null, playtime_n_all: g.playtime_n_all ?? 0, playtime_median_h_ko: g.playtime_median_h_ko ?? null, playtime_n_ko: g.playtime_n_ko ?? 0,
+  platforms: g.platforms ?? [], play_modes: g.play_modes ?? [], steam_rank: g.steam_rank ?? null, metacritic: g.metacritic ?? null, current_players: g.current_players ?? null,
+});
+const slimPrice = (p: Price): ListPrice => ({
+  appid: p.appid, regular_price: p.regular_price, current_price: p.current_price, discount_pct: p.discount_pct, sale_end_at: p.sale_end_at,
+  historical_low: p.historical_low, historical_low_at: p.historical_low_at, usual_sale_price: p.usual_sale_price, sale_count_24m: p.sale_count_24m,
+  vs_usual_pct: p.vs_usual_pct, verdict: p.verdict, tags: p.tags,
+});
 
 export function deals(): Deal[] {
   const byId = new Map(prices().map((p) => [p.appid, p]));
@@ -238,7 +261,11 @@ export function deals(): Deal[] {
     const steam = list.find((o) => o.store_id === "steam");
     const steamPrice = steam?.price_krw ?? p.current_price ?? Infinity;
     const search = [g.name, ...(alias.get(g.appid) ?? [])].map(squash).join("|");
-    return [{ game: g, price: p, cheapest, cheaper_than_steam: !!cheapest && cheapest.store_id !== "steam" && cheapest.price_krw < steamPrice, search }];
+    return [{
+      game: slimGame(g), price: slimPrice(p),
+      cheapest: cheapest ? { store_id: cheapest.store_id, store_name: cheapest.store_name, price_krw: cheapest.price_krw, is_estimate: cheapest.is_estimate } : null,
+      cheaper_than_steam: !!cheapest && cheapest.store_id !== "steam" && cheapest.price_krw < steamPrice, search,
+    }];
   });
 }
 

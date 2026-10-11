@@ -1,8 +1,9 @@
 "use client";
 import { useMemo, useState } from "react";
 import GameCard from "@/components/GameCard";
-import type { Deal, KoreanSupport, Verdict } from "@/lib/data";
-import { pct, VERDICT } from "@/lib/format";
+import type { Deal, KoreanSupport } from "@/lib/data";
+import { pct } from "@/lib/format";
+import { KIND, KIND_ORDER, kindOf, type Kind } from "@/lib/kind";
 import { pricePerHour } from "@/lib/stats";
 
 type Sort = "rank" | "discount" | "price_asc" | "price_desc" | "rating" | "gap" | "per_hour" | "players";
@@ -15,7 +16,6 @@ const PRICE_BANDS = [
   { key: "all", label: "전체", min: 0, max: Infinity }, { key: "u10", label: "1만원 이하", min: 0, max: 10000 },
   { key: "u30", label: "1~3만원", min: 10000, max: 30000 }, { key: "o30", label: "3만원 넘음", min: 30000, max: Infinity },
 ];
-const VERDICT_ORDER: Verdict[] = ["floor", "good", "normal", "wait", "trap", "none"];
 const PAGE = 30;   // 처음 30개, "더 보기"마다 30개(사용자 2026-10-09)
 
 export default function DealList({ deals }: { deals: Deal[] }) {
@@ -26,10 +26,12 @@ export default function DealList({ deals }: { deals: Deal[] }) {
   const [mode, setMode] = useState<"all" | "single" | "multi" | "coop">("all");
   const [cheaper, setCheaper] = useState(false);
   const [os, setOs] = useState<"all" | "windows" | "mac" | "linux">("all");
-  const [verdicts, setVerdicts] = useState<Set<Verdict>>(new Set());
+  // 2026-10-11: 판정 칩은 바닥가를 "최저가 갱신·재등장·첫 할인"으로 나눈 종류(kind) 기준
+  const [verdicts, setVerdicts] = useState<Set<Kind>>(new Set());
   const [query, setQuery] = useState("");
   const [limit, setLimit] = useState(PAGE);
   const genres = useMemo(() => Array.from(new Set(deals.flatMap((d) => d.game.genres))).sort(), [deals]);
+  const kinds = useMemo(() => new Map(deals.map((d) => [d.game.appid, kindOf(d.price, d.game)])), [deals]);
 
   const shown = useMemo(() => {
     const b = PRICE_BANDS.find((x) => x.key === band)!;
@@ -42,7 +44,7 @@ export default function DealList({ deals }: { deals: Deal[] }) {
       (support === "all" || g.korean_support === support) &&
       (mode === "all" || (g.play_modes ?? []).includes(mode)) &&
       (os === "all" || (g.platforms ?? []).includes(os)) &&
-      (verdicts.size === 0 || verdicts.has(p.verdict)));
+      (verdicts.size === 0 || verdicts.has(kinds.get(g.appid)!)));
     const rating = (d: Deal) => pct(d.game.positive_all, d.game.reviews_all) ?? -1;
     return rows.sort((a, b) => {
       switch (sort) {
@@ -57,11 +59,11 @@ export default function DealList({ deals }: { deals: Deal[] }) {
         case "players": return (b.game.current_players ?? -1) - (a.game.current_players ?? -1);
       }
     });
-  }, [deals, sort, band, genre, support, mode, os, verdicts, query, cheaper]);
+  }, [deals, kinds, sort, band, genre, support, mode, os, verdicts, query, cheaper]);
   const cheaperCount = deals.filter((d) => d.cheaper_than_steam).length;
   const visible = shown.slice(0, limit);
 
-  const toggleVerdict = (v: Verdict) => setVerdicts((s) => { const n = new Set(s); n.has(v) ? n.delete(v) : n.add(v); return n; });
+  const toggleVerdict = (v: Kind) => setVerdicts((s) => { const n = new Set(s); n.has(v) ? n.delete(v) : n.add(v); return n; });
   // 폰에서는 두 칸 격자로 꽉 채움(사용자 2026-10-08 밤 "게임 위 필터 오른쪽까지 정리") — 넓은 화면은 예전처럼 내용 폭대로 흐름
   const sel = "rounded-lg px-2 py-1.5 text-sm w-full sm:w-auto min-w-0" as const;
   const selStyle = { background: "var(--card)", border: "1px solid var(--line)", color: "var(--fg)" };
@@ -70,10 +72,11 @@ export default function DealList({ deals }: { deals: Deal[] }) {
     <div className="space-y-4">
       {/* 판정 칩 */}
       <div className="flex flex-wrap gap-2">
-        {VERDICT_ORDER.map((v) => {
-          const on = verdicts.has(v); const c = VERDICT[v]; const n = deals.filter((d) => d.price.verdict === v).length;
+        {KIND_ORDER.map((v) => {
+          const on = verdicts.has(v); const c = KIND[v]; const n = deals.filter((d) => kinds.get(d.game.appid) === v).length;
+          if (n === 0) return null;
           return (
-            <button key={v} onClick={() => toggleVerdict(v)} className="rounded-full px-3 py-1 text-sm font-bold transition-opacity"
+            <button key={v} onClick={() => toggleVerdict(v)} title={c.short} className="rounded-full px-3 py-1 text-sm font-bold transition-opacity"
               style={{ color: c.color, background: c.bg, opacity: verdicts.size && !on ? 0.4 : 1, outline: on ? `2px solid ${c.color}` : "none" }}>
               {c.label} {n}
             </button>

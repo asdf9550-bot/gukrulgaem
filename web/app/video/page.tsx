@@ -37,9 +37,11 @@ export default async function VideoPage() {
               <p className="text-xs muted">{kst(v.published_at)}</p>
               {v.appids.length > 0 && (
                 <p className="text-xs flex flex-wrap gap-1">
-                  {v.appids.map((id) => (
-                    <Link key={id} href={`/game/${id}`} className="rounded-full px-2 py-0.5 hover:underline" style={{ background: "var(--line)" }}>{names.get(id) ?? `게임 ${id}`}</Link>
-                  ))}
+                  {/* 2026-10-11: 수집 대상이 아닌 게임(리뷰 적음 등)은 영상 기록의 이름을 쓰고 스팀 상점으로 보낸다(번호만 보이던 것 고침) */}
+                  {v.appids.map((id) => names.has(id)
+                    ? <Link key={id} href={`/game/${id}`} className="rounded-full px-2 py-0.5 hover:underline" style={{ background: "var(--line)" }}>{names.get(id)}</Link>
+                    : <a key={id} href={`https://store.steampowered.com/app/${id}/?l=koreana`} target="_blank" rel="noopener noreferrer" className="rounded-full px-2 py-0.5 hover:underline muted" style={{ background: "var(--line)" }}
+                        title="사이트 수집 대상이 아니라 스팀 상점으로 연결">{v.names?.[String(id)] ?? `게임 ${id}`} ↗</a>)}
                 </p>
               )}
             </div>

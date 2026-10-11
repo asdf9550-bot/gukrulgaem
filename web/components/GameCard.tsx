@@ -4,6 +4,7 @@ import VerdictBadge from "@/components/VerdictBadge";
 import WishButton from "@/components/WishButton";
 import type { Deal } from "@/lib/data";
 import { pct, SUPPORT, TAG, won } from "@/lib/format";
+import { kindOf } from "@/lib/kind";
 
 // 목록·순위에서 쓰는 게임 카드 한 장. 줄 수를 고정해 좌우 카드 높이가 같게 한다.
 // position(2026-10-11, 사용자 "최고 인기 게임 순서대로"): 목록에서의 차례(1, 2, 3…). 없으면 스팀 판매 순위 번호를 그대로 보인다.
@@ -30,7 +31,7 @@ export default function GameCard({ deal, note, position }: { deal: Deal; note?: 
           {/* 폰에서는 긴 이름이 …로 잘리는 대신 줄바꿈(2026-10-08) */}
           <span className="font-bold min-w-0 break-words sm:truncate">{g.name}</span>
           <span className="shrink-0 flex items-center gap-1">
-            <VerdictBadge verdict={p.verdict} />
+            <VerdictBadge verdict={p.verdict} kind={kindOf(p, g)} />
             {p.tags.includes("korea_warning") && <span className="inline-flex items-center rounded-full px-3 py-1 text-sm font-bold leading-none" style={{ background: "#fee2e2", color: "#b91c1c" }}>{TAG.korea_warning}</span>}
             <WishButton appid={g.appid} />
           </span>

@@ -5,7 +5,7 @@ import SubscribeBox from "@/components/SubscribeBox";   // 주간 메일(2026-10
 import Analytics from "@/components/Analytics";
 import "./globals.css";
 import { lastUpdated } from "@/lib/data";
-import { kstTime } from "@/lib/format";
+import { kstRelative } from "@/lib/format";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://gukrulgaem.com";
 const notoSansKr = Noto_Sans_KR({ subsets: ["latin"], weight: ["400", "700", "900"], display: "swap" });
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   title: { default: "국룰겜 — 스팀 구매 가이드", template: "%s | 국룰겜" },
   description: "국룰겜: 한국 스팀 가격 기록과 한국 게이머 평가로 '지금 사도 되는 게임인지' 판정하는 스팀 구매 가이드.",
   openGraph: { siteName: "국룰겜", locale: "ko_KR", type: "website", url: SITE_URL },
-  alternates: { canonical: "/" },
+  alternates: { canonical: "/", types: { "application/rss+xml": [{ url: "/rss.xml", title: "국룰겜 — 새 바닥가·오늘 끝나는 할인" }] } },   // RSS(2026-10-11)
   // 2026-10-11 (사용자 "구글 검색 아이콘을 호랑이로"): 구글 파비콘 수집기가 읽는 고정 주소(해시 없는 /favicon.ico, 48px 포함)를 먼저 둔다.
   // 구글은 홈을 다시 긁을 때 아이콘을 갱신하므로 반영까지 며칠~몇 주 걸릴 수 있다(Search Console 색인 요청으로 앞당김).
   icons: { icon: [{ url: "/favicon.ico", sizes: "48x48" }, { url: "/icon.png", sizes: "512x512", type: "image/png" }], shortcut: "/favicon.ico", apple: "/apple-icon.png" },
@@ -57,7 +57,7 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
         <footer className="mx-auto max-w-5xl px-4 py-8 text-xs muted space-y-2 border-t" style={{ borderColor: "var(--line)" }}>
           {/* 주간 메일 구독: Resend 키(RESEND_API_KEY·RESEND_AUDIENCE_ID)가 Vercel에 들어가면 자동으로 나타남 */}
           {process.env.RESEND_API_KEY && process.env.RESEND_AUDIENCE_ID && <div className="mb-4"><SubscribeBox /></div>}
-          <p><b style={{ color: "var(--fg)" }}>국룰겜</b> · 한국 게이머를 위한 스팀 구매 가이드 · 매일 새벽 갱신 (마지막 {kstTime(updated)})</p>
+          <p><b style={{ color: "var(--fg)" }}>국룰겜</b> · 한국 게이머를 위한 스팀 구매 가이드 · 매일 새벽 갱신 (마지막 {kstRelative(updated)}) · <a href="/rss.xml" className="underline">RSS</a></p>
           <p>
             <b>데이터 출처</b> — Steam 상점·리뷰·Web API(현재가·정가·장르·한국어 지원·리뷰·리뷰 인용·플레이 시간·접속자·판별 가격·스팀덱 호환) ·
             <a href="https://isthereanydeal.com" className="underline ml-1">IsThereAnyDeal</a>(한국 기준 가격 이력·역대 최저가·공식 판매처 가격) ·

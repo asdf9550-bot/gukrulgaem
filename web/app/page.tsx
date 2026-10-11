@@ -5,9 +5,13 @@ import VerdictBadge from "@/components/VerdictBadge";
 import TodayChanges from "@/components/TodayChanges";
 import type { Metadata } from "next";
 import { deals, lastUpdated, pricesPrev } from "@/lib/data";
-import { kstTime, won } from "@/lib/format";
+import { kstRelative, won } from "@/lib/format";
+import { kindOf } from "@/lib/kind";
 import { pickReason, weeklyPicks } from "@/lib/pick";
 import { todayChanges } from "@/lib/changes";
+
+// 2026-10-11: "오늘/어제 10:38" 같은 상대 표시가 맞으려면 화면을 주기적으로 다시 만들어야 한다(1시간).
+export const revalidate = 3600;
 
 // 구글 검색 결과에 나올 설명 — 그날 숫자로 자동 작성(2026-10-08 사용자: "지금살까처럼 우리만의 내용으로")
 export function generateMetadata(): Metadata {
@@ -20,6 +24,7 @@ export function generateMetadata(): Metadata {
 export default function Home() {
   const rows = deals();
   const floor = rows.filter((d) => d.price.verdict === "floor").length;
+  const newLow = rows.filter((d) => kindOf(d.price, d.game) === "floor_new").length;
   const picks = weeklyPicks(rows);
   const changes = todayChanges(rows, pricesPrev());
   return (
@@ -31,8 +36,8 @@ export default function Home() {
           {/* 두 줄 고정(사용자 2026-10-09): "이번 주 스팀 할인" / "지금 사도 될까?" — 폰에서 "지/금"으로 끊기지 않게 */}
           <h1 className="text-2xl sm:text-3xl font-extrabold leading-tight"><span className="block whitespace-nowrap">이번 주 스팀 할인,</span><span className="block whitespace-nowrap">지금 사도 될까?</span></h1>
           <p className="muted mt-1">
-            한국 스팀 가격 기록과 한국 게이머 평가로 판정합니다. 할인 중 {rows.length}개 중 {floor}개가 역대 최저가예요.
-            <span className="text-xs"> · 매일 새벽 갱신 (마지막 {kstTime(lastUpdated())})</span>
+            한국 스팀 가격 기록과 한국 게이머 평가로 판정합니다. 할인 중 {rows.length}개 중 {floor}개가 역대 최저가이고, 그중 {newLow}개는 이번 세일에 새로 찍은 최저가예요.
+            <span className="text-xs"> · 매일 새벽 갱신 (마지막 {kstRelative(lastUpdated())})</span>
           </p>
         </div>
       </div>
@@ -57,7 +62,7 @@ export default function Home() {
                   <div className="flex flex-wrap items-baseline gap-x-1.5 gap-y-0.5">
                     <span className="text-base sm:text-lg font-extrabold">{won(d.price.current_price)}</span>
                     <span className="text-xs sm:text-sm font-bold" style={{ color: "#16a34a" }}>-{d.price.discount_pct}%</span>
-                    <VerdictBadge verdict={d.price.verdict} />
+                    <VerdictBadge verdict={d.price.verdict} kind={kindOf(d.price, d.game)} />
                   </div>
                   <div className="text-xs muted truncate hidden sm:block">{pickReason(d)}</div>
                 </div>

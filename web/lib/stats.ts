@@ -21,7 +21,7 @@ export interface SaleStats {
   nextSaleSoon: boolean;          // 주기가 이미 지났으면 "곧"
 }
 
-export function saleStats(history: HistoryPoint[], price: Price, now = Date.now()): SaleStats {
+export function saleStats(history: HistoryPoint[], price: Pick<Price, "discount_pct" | "sale_end_at">, now = Date.now()): SaleStats {
   const points = [...history].sort((a, b) => a.at.localeCompare(b.at));
   const starts: { t: number; cut: number; end: number | null }[] = [];
   let prev = 0;
@@ -66,7 +66,7 @@ export function pricePerHour(price: number | null, medianHours: number | null | 
 export type Regret = { level: "low" | "mid" | "high"; label: string; reasons: string[] };
 
 /** 후회 지수: 역대 최저 대비, 다음 세일까지 남은 날, 세일 주기, 한국 평가 격차를 합쳐 "지금 사면 후회할까"를 세 단계로. */
-export function regretIndex(price: Price, stats: SaleStats, gapPp: number | null, now = Date.now()): Regret {
+export function regretIndex(price: Pick<Price, "verdict">, stats: SaleStats, gapPp: number | null, now = Date.now()): Regret {
   let score = 0; const reasons: string[] = [];
   if (price.verdict === "floor") { score -= 2; reasons.push("지금이 역대 최저가"); }
   else if (price.verdict === "good") { score -= 1; reasons.push("평소 세일가보다 쌈"); }
