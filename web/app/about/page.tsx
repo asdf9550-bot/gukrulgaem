@@ -39,7 +39,7 @@ export default function AboutPage() {
           <p className="font-bold">바닥가는 셋으로 나눠 표시합니다</p>
           <p className="flex flex-wrap items-center gap-2"><VerdictBadge verdict="floor" kind="floor_new" /> 최근 {NEW_LOW_DAYS}일 안에 역대 최저가를 새로 찍었습니다. 이번 세일이 지금까지 가장 쌉니다.</p>
           <p className="flex flex-wrap items-center gap-2"><VerdictBadge verdict="floor" kind="floor_again" /> 전에 찍은 역대 최저가와 같은 가격이 다시 왔습니다. 더 싸진 건 아니지만 이보다 싼 적은 없습니다.</p>
-          <p className="flex flex-wrap items-center gap-2"><VerdictBadge verdict="floor" kind="first" /> 출시 1년이 안 됐고 세일이 {FIRST_SALE_MAX}회 이하라 가격 기록이 짧습니다. "역대 최저"라는 말이 아직 큰 뜻이 없으니 참고만 하세요.</p>
+          <p className="flex flex-wrap items-center gap-2"><VerdictBadge verdict="floor" kind="first" /> 출시 1년이 안 됐고 세일이 {FIRST_SALE_MAX}회 이하라 가격 기록이 짧습니다. "역대 최저"라는 말이 아직 큰 뜻이 없으니 정가 대비 할인율로만 판단하세요. 세일 기록이 {r.min_sales_for_verdict}회 미만이라 판정이 없는 신작도 이 표시로 나옵니다.</p>
         </div>
         <div className="card p-4 text-sm space-y-1">
           <p><b>평소 세일가</b> = 최근 {r.history_months}개월 세일 할인율의 중앙값 × 현재 정가</p>

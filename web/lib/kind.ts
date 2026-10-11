@@ -10,7 +10,7 @@ export type Kind = "floor_new" | "floor_again" | "first" | Exclude<Verdict, "flo
 export const KIND: Record<Kind, { label: string; short: string; color: string; bg: string; verdict: Verdict }> = {
   floor_new:   { label: "최저가 갱신",  short: "이번 세일에 역대 최저가를 새로 찍었습니다",            color: "#15803d", bg: "#dcfce7", verdict: "floor" },
   floor_again: { label: "최저가 재등장", short: "전에 찍은 역대 최저가와 같은 가격입니다",               color: "#0f766e", bg: "#ccfbf1", verdict: "floor" },
-  first:       { label: "첫 할인",      short: "출시 1년 안 된 게임의 첫 세일이라 가격 기록이 짧습니다",  color: "#6d28d9", bg: "#ede9fe", verdict: "floor" },
+  first:       { label: "첫 할인",      short: "출시 1년 안 된 게임의 첫 세일이라 가격 기록이 짧습니다. 정가 대비 할인율로만 판단하세요",  color: "#6d28d9", bg: "#ede9fe", verdict: "floor" },
   good:        { label: "좋은 가격",    short: "평소 세일가보다 쌉니다",                               color: "#1d4ed8", bg: "#dbeafe", verdict: "good" },
   normal:      { label: "보통",         short: "평소 세일가 수준입니다",                               color: "#4b5563", bg: "#e5e7eb", verdict: "normal" },
   wait:        { label: "기다림",       short: "평소 세일가보다 비쌉니다",                             color: "#b45309", bg: "#fef3c7", verdict: "wait" },
@@ -32,11 +32,15 @@ export function releaseMs(text: string | null | undefined): number | null {
   return Number.isNaN(t) ? null : t;
 }
 
-export function kindOf(price: Pick<ListPrice, "verdict" | "historical_low_at" | "sale_count_24m">,
+export function kindOf(price: Pick<ListPrice, "verdict" | "historical_low" | "historical_low_at" | "sale_count_24m">,
   game: Pick<ListGame, "release_date">, now = Date.now()): Kind {
-  if (price.verdict !== "floor") return price.verdict;
   const released = releaseMs(game.release_date);
-  if (released != null && now - released < 365 * DAY && (price.sale_count_24m ?? 0) <= FIRST_SALE_MAX) return "first";
+  const young = released != null && now - released < 365 * DAY && (price.sale_count_24m ?? 0) <= FIRST_SALE_MAX;
+  // 2026-10-11 (사용자 "판정 없음인데 넣을 방법 없을까"): 세일 기록이 2회 미만이라 판정이 없는 게임도
+  // 출시 1년 안이고 가격 기록은 받아 온 상태면 "첫 할인"으로 보여 준다(값을 꾸며 내지 않고 상태만 말함).
+  if (price.verdict === "none") return young && price.historical_low != null ? "first" : "none";
+  if (price.verdict !== "floor") return price.verdict;
+  if (young) return "first";
   const lowAt = price.historical_low_at ? Date.parse(price.historical_low_at) : NaN;
   if (!Number.isNaN(lowAt) && now - lowAt <= NEW_LOW_DAYS * DAY) return "floor_new";
   return "floor_again";

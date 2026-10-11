@@ -105,7 +105,7 @@ export default async function GameDetail({ appid, compact = false }: { appid: nu
           </div>
           <div className="flex flex-wrap items-center gap-3">
             <VerdictBadge verdict={p.verdict} kind={kind} size={compact ? "md" : "lg"} stamp />
-            <span className="muted">{isFloor ? `${v.short} · ${KIND[kind].short}` : v.short}</span>
+            <span className="muted">{isFloor || kind === "first" ? `${v.short} · ${KIND[kind].short}` : v.short}</span>
             <WishButton appid={g.appid} size="lg" />
           </div>
           {p.sale_end_at && <SaleCountdown endAt={p.sale_end_at} endText={kst(p.sale_end_at, true)} />}
