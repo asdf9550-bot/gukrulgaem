@@ -31305,5 +31305,355 @@
   "current_players": 22,
   "players_at": "2026-10-11T20:47:00+00:00",
   "updated_at": "2026-10-11T20:47:00+00:00"
+ },
+ {
+  "appid": 4968640,
+  "name": "Japanese Ramen Simulator",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션",
+   "앞서 해보기"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1791626249",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/c87a37a5d10a2ac11bf2ab4aded25ca9bc657e12/capsule_231x87.jpg?t=1791626249",
+  "hero_image": null,
+  "release_date": "2026년 10월 9일",
+  "steam_url": "https://store.steampowered.com/app/4968640/",
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single",
+   "multi",
+   "coop"
+  ],
+  "controller": "partial",
+  "steam_rank": 34,
+  "editions": [
+   {
+    "name": "Japanese Ramen Simulator",
+    "price": 13600,
+    "regular": 16000,
+    "cut": 15,
+    "packageid": 1724125
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/04c35f2452ab80a2cccd843d0a916656d18ab1de/ss_04c35f2452ab80a2cccd843d0a916656d18ab1de.600x338.jpg?t=1791626249",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/04c35f2452ab80a2cccd843d0a916656d18ab1de/ss_04c35f2452ab80a2cccd843d0a916656d18ab1de.1920x1080.jpg?t=1791626249"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/8c8707d221ca63f1fc7e829a236c1b1e3fab5515/ss_8c8707d221ca63f1fc7e829a236c1b1e3fab5515.600x338.jpg?t=1791626249",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/8c8707d221ca63f1fc7e829a236c1b1e3fab5515/ss_8c8707d221ca63f1fc7e829a236c1b1e3fab5515.1920x1080.jpg?t=1791626249"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/d2d7dbe81803c430555f4c1ffc06ad1dc67d543c/ss_d2d7dbe81803c430555f4c1ffc06ad1dc67d543c.600x338.jpg?t=1791626249",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/d2d7dbe81803c430555f4c1ffc06ad1dc67d543c/ss_d2d7dbe81803c430555f4c1ffc06ad1dc67d543c.1920x1080.jpg?t=1791626249"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/d4dd552538fc184420fe6df863490291dcdcb5cd/ss_d4dd552538fc184420fe6df863490291dcdcb5cd.600x338.jpg?t=1791626249",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/d4dd552538fc184420fe6df863490291dcdcb5cd/ss_d4dd552538fc184420fe6df863490291dcdcb5cd.1920x1080.jpg?t=1791626249"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/457ddef6de136793ddf23536bef549fcc440e97e/ss_457ddef6de136793ddf23536bef549fcc440e97e.600x338.jpg?t=1791626249",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/457ddef6de136793ddf23536bef549fcc440e97e/ss_457ddef6de136793ddf23536bef549fcc440e97e.1920x1080.jpg?t=1791626249"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/685c2aab5ca48c0dc11a36718ddca92166de7afa/ss_685c2aab5ca48c0dc11a36718ddca92166de7afa.600x338.jpg?t=1791626249",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/685c2aab5ca48c0dc11a36718ddca92166de7afa/ss_685c2aab5ca48c0dc11a36718ddca92166de7afa.1920x1080.jpg?t=1791626249"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/4968640/1771509590/bb3d43f308f397ca46b5f39f408c1a0b9f95da2f/1791481777/hls_264_master.m3u8?t=1791487523",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257452810/28e148af1b08d962245e44fc8bef722a1234060b/movie_600x337.jpg?t=1791487523",
+   "name": "Early Access Trailer"
+  },
+  "short_description": "Japanese Ramen Simulator는 최대 6명이 함께 즐기는 라멘 가게 경영 시뮬레이션 게임입니다. 식재료를 준비하고 면을 삶아 토핑을 올린 특별한 한 그릇을 만드세요. 오리지널 메뉴를 개발하고 주방과 객석을 자유롭게 배치해 친구들과, 또는 혼자서 꿈꾸던 인기 라멘 가게를 완성하세요!",
+  "deck": "unknown",
+  "korean_reviews": [],
+  "reviews_all": 228,
+  "positive_all": 209,
+  "reviews_ko": 18,
+  "positive_ko": 17,
+  "gap_pp": null,
+  "playtime_median_h_all": 6.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 17,
+  "playtime_median_h_ko": 4.9,
+  "playtime_n_ko": 18,
+  "under_2h_pct_ko": 17,
+  "current_players": 1943,
+  "players_at": "2026-10-12T02:46:57+00:00",
+  "updated_at": "2026-10-12T02:46:57+00:00"
+ },
+ {
+  "appid": 4282780,
+  "name": "판타지 방치형 원정대",
+  "genres": [
+   "어드벤처",
+   "캐주얼",
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/d0f99eba5ef146af5f9d4aad0496fc02b7d35dda/header_koreana.jpg?t=1791731838",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/ebd7d780644063b19ce186934424cc5f59bdcf73/capsule_231x87_koreana.jpg?t=1791731838",
+  "hero_image": null,
+  "release_date": "2026년 10월 8일",
+  "steam_url": "https://store.steampowered.com/app/4282780/",
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "steam_rank": 84,
+  "editions": [
+   {
+    "name": "판타지 방치형 원정대",
+    "price": 7720,
+    "regular": 9650,
+    "cut": 20,
+    "packageid": 1498268
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/a74f3377f8e24acde99155e006717e86b127f06e/ss_a74f3377f8e24acde99155e006717e86b127f06e.600x338.jpg?t=1791731838",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/a74f3377f8e24acde99155e006717e86b127f06e/ss_a74f3377f8e24acde99155e006717e86b127f06e.1920x1080.jpg?t=1791731838"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/33ae0fffae089428d03ef5a0b8ea5e1c99d140aa/ss_33ae0fffae089428d03ef5a0b8ea5e1c99d140aa.600x338.jpg?t=1791731838",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/33ae0fffae089428d03ef5a0b8ea5e1c99d140aa/ss_33ae0fffae089428d03ef5a0b8ea5e1c99d140aa.1920x1080.jpg?t=1791731838"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/46c038a7f70fbc809ecfbb893706ea25936e2f9f/ss_46c038a7f70fbc809ecfbb893706ea25936e2f9f.600x338.jpg?t=1791731838",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/46c038a7f70fbc809ecfbb893706ea25936e2f9f/ss_46c038a7f70fbc809ecfbb893706ea25936e2f9f.1920x1080.jpg?t=1791731838"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/cfcd1ed00b7f2cbaeae618915172d3aba0f75b64/ss_cfcd1ed00b7f2cbaeae618915172d3aba0f75b64.600x338.jpg?t=1791731838",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/cfcd1ed00b7f2cbaeae618915172d3aba0f75b64/ss_cfcd1ed00b7f2cbaeae618915172d3aba0f75b64.1920x1080.jpg?t=1791731838"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/ee918cd30c0d2909c0738b442344969bcb9767bd/ss_ee918cd30c0d2909c0738b442344969bcb9767bd.600x338.jpg?t=1791731838",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/ee918cd30c0d2909c0738b442344969bcb9767bd/ss_ee918cd30c0d2909c0738b442344969bcb9767bd.1920x1080.jpg?t=1791731838"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/6fe647383828d90b2ddfe371feae87ea5284dbfe/ss_6fe647383828d90b2ddfe371feae87ea5284dbfe.600x338.jpg?t=1791731838",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282780/6fe647383828d90b2ddfe371feae87ea5284dbfe/ss_6fe647383828d90b2ddfe371feae87ea5284dbfe.1920x1080.jpg?t=1791731838"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/4282780/317425604/9c9eb09ccc11bc8673a4337cb2627d523e032069/1789373778/hls_264_master.m3u8?t=1789379005",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257424456/6b668ec7b8c7f10102008126f46ce8106ea10b6c/movie_600x337.jpg?t=1789379005",
+   "name": "Release Date Announcement Trailer"
+  },
+  "short_description": "화면 하단에서 실행되는 JRPG 스타일의 방치형 자동 전투 육성 게임입니다. 『판타지 방치형 원정대』에서 당신만의 정예 부대를 구성하세요! 90가지 이상의 JRPG 픽셀풍 직업 중에서 멤버를 영입하고, 결투자 대륙의 모든 팀을 격파하여 최강 길드로 등극하세요! 바쁜 와중에도 이 서사시 같은 여정은 결코 멈추지 않습니다! (물고기 잡기(=업무 중 휴식)할 때 딱 좋은 동반자!)",
+  "deck": "unknown",
+  "korean_reviews": [],
+  "reviews_all": 243,
+  "positive_all": 209,
+  "reviews_ko": 11,
+  "positive_ko": 11,
+  "gap_pp": null,
+  "playtime_median_h_all": 10.4,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 6,
+  "playtime_median_h_ko": 39.1,
+  "playtime_n_ko": 11,
+  "under_2h_pct_ko": 18,
+  "current_players": 2480,
+  "players_at": "2026-10-12T02:47:06+00:00",
+  "updated_at": "2026-10-12T02:47:06+00:00"
+ },
+ {
+  "appid": 4149040,
+  "name": "빅드릴 광업 무한회사",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "voice_sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/b7a3e233fbd9753241a5ef1ddbe35136adc90cf9/header_koreana.jpg?t=1791502330",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/ff45b82d3257a4a74c5fa1b14335435206f4dbda/capsule_231x87_koreana.jpg?t=1791502330",
+  "hero_image": null,
+  "release_date": "2026년 10월 8일",
+  "steam_url": "https://store.steampowered.com/app/4149040/",
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "steam_rank": 153,
+  "editions": [
+   {
+    "name": "빅드릴 광업 무한회사",
+    "price": 4900,
+    "regular": 5450,
+    "cut": 10,
+    "packageid": 1453603
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/b4a78c898fa7fd0a6152bf2bafd48fd5bf028455/ss_b4a78c898fa7fd0a6152bf2bafd48fd5bf028455.600x338.jpg?t=1791502330",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/b4a78c898fa7fd0a6152bf2bafd48fd5bf028455/ss_b4a78c898fa7fd0a6152bf2bafd48fd5bf028455.1920x1080.jpg?t=1791502330"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/55be7901295a9098bd7ddeb5ce4f85d0df503f51/ss_55be7901295a9098bd7ddeb5ce4f85d0df503f51.600x338.jpg?t=1791502330",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/55be7901295a9098bd7ddeb5ce4f85d0df503f51/ss_55be7901295a9098bd7ddeb5ce4f85d0df503f51.1920x1080.jpg?t=1791502330"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/5bf409ce770e4cc9571b6dc3033f198dcfd09e61/ss_5bf409ce770e4cc9571b6dc3033f198dcfd09e61.600x338.jpg?t=1791502330",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/5bf409ce770e4cc9571b6dc3033f198dcfd09e61/ss_5bf409ce770e4cc9571b6dc3033f198dcfd09e61.1920x1080.jpg?t=1791502330"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/da044e6ca2ae45f7b495e14f302c9b7da4e82a23/ss_da044e6ca2ae45f7b495e14f302c9b7da4e82a23.600x338.jpg?t=1791502330",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/da044e6ca2ae45f7b495e14f302c9b7da4e82a23/ss_da044e6ca2ae45f7b495e14f302c9b7da4e82a23.1920x1080.jpg?t=1791502330"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/50cc9c94bedb8b973fb306c79c2fff5e62062f55/ss_50cc9c94bedb8b973fb306c79c2fff5e62062f55.600x338.jpg?t=1791502330",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/50cc9c94bedb8b973fb306c79c2fff5e62062f55/ss_50cc9c94bedb8b973fb306c79c2fff5e62062f55.1920x1080.jpg?t=1791502330"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/9291d43a67a45e99cd26eb03e9e537e0bb1fc7ff/ss_9291d43a67a45e99cd26eb03e9e537e0bb1fc7ff.600x338.jpg?t=1791502330",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149040/9291d43a67a45e99cd26eb03e9e537e0bb1fc7ff/ss_9291d43a67a45e99cd26eb03e9e537e0bb1fc7ff.1920x1080.jpg?t=1791502330"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/4149040/1500638220/257dac555b0b4cb2c7c2c3c5fbadb5191df90e28/1790216704/hls_264_master.m3u8?t=1791478388",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257433263/f7d03e8bf94cdf1f6ecf2f1fd2c9fe06e3137df7/movie_600x337.jpg?t=1791478388",
+   "name": "Release Trailer KR"
+  },
+  "short_description": "&lt;빅드릴 광업 무한회사&gt;는 행성의 지핵을 향해 끝없이 파고 내려가는 정교하게 설계된 단편 증분 게임입니다. 거대한 드릴을 이끌고 암반을 부수며, 사방으로 튀는 파편을 피해 자원을 수집하고 드릴을 업그레이드하세요! 깊은 지하 세계로 전진하며 강력한 첨단 기술을 잠금 해제할 수 있습니다.",
+  "deck": "unknown",
+  "korean_reviews": [],
+  "reviews_all": 138,
+  "positive_all": 120,
+  "reviews_ko": 8,
+  "positive_ko": 7,
+  "gap_pp": null,
+  "playtime_median_h_all": 4.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 12,
+  "playtime_median_h_ko": 3.6,
+  "playtime_n_ko": 8,
+  "under_2h_pct_ko": 0,
+  "current_players": 173,
+  "players_at": "2026-10-12T02:47:15+00:00",
+  "updated_at": "2026-10-12T02:47:15+00:00"
+ },
+ {
+  "appid": 3917700,
+  "name": "Dicevaders",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/c17c7fcf2494a8e006d4f51809914d4f1ffb09aa/header_alt_assets_2.jpg?t=1791626439",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/d5a967952c550f7f59e188e77a9a4ba0bfe4839d/capsule_231x87_alt_assets_2.jpg?t=1791626439",
+  "hero_image": null,
+  "release_date": "2026년 9월 29일",
+  "steam_url": "https://store.steampowered.com/app/3917700/",
+  "platforms": [
+   "windows",
+   "mac"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "steam_rank": 180,
+  "editions": [
+   {
+    "name": "Dicevaders",
+    "price": 14400,
+    "regular": 16000,
+    "cut": 10,
+    "packageid": 1376673
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/64411a04e0736b211fc12b14ee72e2aeafe46460/ss_64411a04e0736b211fc12b14ee72e2aeafe46460.600x338.jpg?t=1791626439",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/64411a04e0736b211fc12b14ee72e2aeafe46460/ss_64411a04e0736b211fc12b14ee72e2aeafe46460.1920x1080.jpg?t=1791626439"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/812c3df59817c41944ab3eee3960b107c4cb8261/ss_812c3df59817c41944ab3eee3960b107c4cb8261.600x338.jpg?t=1791626439",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/812c3df59817c41944ab3eee3960b107c4cb8261/ss_812c3df59817c41944ab3eee3960b107c4cb8261.1920x1080.jpg?t=1791626439"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/77f3da928f13321e1a2b88d070f127cea86c93fa/ss_77f3da928f13321e1a2b88d070f127cea86c93fa.600x338.jpg?t=1791626439",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/77f3da928f13321e1a2b88d070f127cea86c93fa/ss_77f3da928f13321e1a2b88d070f127cea86c93fa.1920x1080.jpg?t=1791626439"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/92185375305faa12ceec323aa86e40562e4889b2/ss_92185375305faa12ceec323aa86e40562e4889b2.600x338.jpg?t=1791626439",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/92185375305faa12ceec323aa86e40562e4889b2/ss_92185375305faa12ceec323aa86e40562e4889b2.1920x1080.jpg?t=1791626439"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/5ba86ac23402fc9cf024f13cac74df7bd3624cbf/ss_5ba86ac23402fc9cf024f13cac74df7bd3624cbf.600x338.jpg?t=1791626439",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/5ba86ac23402fc9cf024f13cac74df7bd3624cbf/ss_5ba86ac23402fc9cf024f13cac74df7bd3624cbf.1920x1080.jpg?t=1791626439"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/2b9f6874c2a0cdd09ed3fc936c56b8d97c030eb6/ss_2b9f6874c2a0cdd09ed3fc936c56b8d97c030eb6.600x338.jpg?t=1791626439",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/2b9f6874c2a0cdd09ed3fc936c56b8d97c030eb6/ss_2b9f6874c2a0cdd09ed3fc936c56b8d97c030eb6.1920x1080.jpg?t=1791626439"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/3917700/1473223049/268ebf96ad652639c27e4879860532cf5a5b7777/1789651343/hls_264_master.m3u8?t=1790694132",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257427488/4e4f94737488c6ee8d3f8c42a27b8e8c724f5a16/movie_600x337.jpg?t=1790694132",
+   "name": "Dicevaders - Launch Trailer"
+  },
+  "short_description": "DiceVaders는 궁극의 외계 침공을 이끄는 주사위 기반 로그라이크 덱빌더입니다. StarVaders 세계관에서 주사위 열을 드래프트하고 조작해 막을 수 없는 군단을 만들고, 강력한 시너지와 전략적 플레이로 짜릿한 콤보를 펼치세요.",
+  "deck": "verified",
+  "korean_reviews": [
+   {
+    "text": "외계인이 되어서 나쁜 지구놈들의 거점, 즉 지구를 탈환하겠다는 굳은 의지로 점철된 발라트로류 게임. 발라트로와 흡사하면서도 다른 독특한 매력을 지닌 이 게임은 확실히 게임다운 게임답다는 생각이 많이 들게한다. 적당히 유치하면서도 적당히 쫀득한 난이도를 가졌으니 구매해볼 사람은 구매해봐도 돈 아깝다는 생각은 들지 않을것이다. 스팀에 이미 플탐 100시간 넘은…",
+    "votes_up": 2,
+    "hours": 5.4,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198023347667/recommended/3917700/"
+   },
+   {
+    "text": "값 이상은 무조건 하고도 남음 발라트로류에 거부감이 없다면 생각하지 말고 바로 구매 ㄱㄱ 요즘 날로쳐먹는 똥겜 존나많은데 보석같은 게임",
+    "votes_up": 1,
+    "hours": 18.6,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198385023436/recommended/3917700/"
+   },
+   {
+    "text": "전작과는 다르게 스토리도 없고 게임판에서 주사위만 굴리느라 슴슴해서 아쉬운데 플레이 하는 맛은 기똥참ㅋㅋㅋ 어설프게 발라트로 따라한 게임들과는 다르게 찐이다. 초반부는 가볍게 즐기기에 좋고, 후반부는 클리어를 위한 조합을 찾아 나가는 재미가 절묘. 한글화도 부족함 없이 잘 되어있어서 매우 깔끔. 올 클리어는 숙련도에 따라 약 30~50 시간 정도의 분량. …",
+    "votes_up": 2,
+    "hours": 30.7,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198037621903/recommended/3917700/"
+   }
+  ],
+  "reviews_all": 695,
+  "positive_all": 671,
+  "reviews_ko": 22,
+  "positive_ko": 21,
+  "gap_pp": null,
+  "playtime_median_h_all": 14.0,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 2,
+  "playtime_median_h_ko": 15.7,
+  "playtime_n_ko": 21,
+  "under_2h_pct_ko": 0,
+  "current_players": 750,
+  "players_at": "2026-10-12T02:47:26+00:00",
+  "updated_at": "2026-10-12T02:47:26+00:00"
  }
 ]
