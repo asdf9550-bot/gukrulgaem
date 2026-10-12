@@ -31655,5 +31655,290 @@
   "current_players": 711,
   "players_at": "2026-10-12T03:17:27+00:00",
   "updated_at": "2026-10-12T03:17:27+00:00"
+ },
+ {
+  "appid": 2451010,
+  "name": "Project Hunt",
+  "genres": [
+   "어드벤처",
+   "시뮬레이션",
+   "스포츠"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/6e1e2954ab0412c5d16ab513a35179a65ac9c657/header.jpg?t=1791267153",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/75c33a50f2d50d71e129d3c98438390f64928555/capsule_231x87.jpg?t=1791267153",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/library_hero.jpg",
+  "release_date": "2024년 3월 25일",
+  "steam_url": "https://store.steampowered.com/app/2451010/",
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "steam_rank": 168,
+  "editions": [
+   {
+    "name": "Project Hunt",
+    "price": 9960,
+    "regular": 24900,
+    "cut": 60,
+    "packageid": 882098
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/840959e1ecdcc57e0a33e8e18a87d6b648f4c21a/ss_840959e1ecdcc57e0a33e8e18a87d6b648f4c21a.600x338.jpg?t=1791267153",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/840959e1ecdcc57e0a33e8e18a87d6b648f4c21a/ss_840959e1ecdcc57e0a33e8e18a87d6b648f4c21a.1920x1080.jpg?t=1791267153"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/5101e4a979e29784966fbfddf2f13aecf8a51ec5/ss_5101e4a979e29784966fbfddf2f13aecf8a51ec5.600x338.jpg?t=1791267153",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/5101e4a979e29784966fbfddf2f13aecf8a51ec5/ss_5101e4a979e29784966fbfddf2f13aecf8a51ec5.1920x1080.jpg?t=1791267153"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/e9411b02d950348f9f592679588344292f63092b/ss_e9411b02d950348f9f592679588344292f63092b.600x338.jpg?t=1791267153",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/e9411b02d950348f9f592679588344292f63092b/ss_e9411b02d950348f9f592679588344292f63092b.1920x1080.jpg?t=1791267153"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/8bbd0fa5e5816e6007fb75c61ee855ee9d20585f/ss_8bbd0fa5e5816e6007fb75c61ee855ee9d20585f.600x338.jpg?t=1791267153",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/8bbd0fa5e5816e6007fb75c61ee855ee9d20585f/ss_8bbd0fa5e5816e6007fb75c61ee855ee9d20585f.1920x1080.jpg?t=1791267153"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/f549ceb712472632e71b180f67e7b42a97cb66a8/ss_f549ceb712472632e71b180f67e7b42a97cb66a8.600x338.jpg?t=1791267153",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/f549ceb712472632e71b180f67e7b42a97cb66a8/ss_f549ceb712472632e71b180f67e7b42a97cb66a8.1920x1080.jpg?t=1791267153"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/8187930317118fe776aae737a3ded97b6219f045/ss_8187930317118fe776aae737a3ded97b6219f045.600x338.jpg?t=1791267153",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451010/8187930317118fe776aae737a3ded97b6219f045/ss_8187930317118fe776aae737a3ded97b6219f045.1920x1080.jpg?t=1791267153"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/2451010/338997835/cafa88a0b436199e8dcb8f6bae9860c86c93a116/1785309207/hls_264_master.m3u8?t=1785310530",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257387413/ee95e90da3c31b0cc181730c6045f7b49552f529/movie_600x337.jpg?t=1785310530",
+   "name": "Horseback Hunting"
+  },
+  "short_description": "더 빠른 템포의 사냥을 찾고 계신가요? PROJECT HUNT는 전형적인 헌팅 시뮬레이터가 아닙니다. 장거리 사격을 즐기고, 말 위에서 총을 쏘며, 광활한 자연 속 야생동물을 추적하세요. 모든 명중을 자세히 확인하고, 자랑스러운 트로피를 전시할 수 있습니다.",
+  "deck": "playable",
+  "korean_reviews": [
+   {
+    "text": "G식백과 영상 보고 왔습니다 더 헌터 재밌게 했는데 프로젝트 헌터도 상당히 재밌어요 DLC도 다 샀네요 비교도 안 될 정도로 훨씬 캐주얼 한데, 이게 요즘 정서에 오히려 잘 맞을지도 모르겠습니다. 그래픽이나 모션이 아쉬운 건 어쩔 수 없지만 [u] 진짜 진지하게 [b]폰트 교체 및 세분화[/b]를 해주셨으면 좋겠습니다. [/u] 거의 모든 텍스트가 한 폰트…",
+    "votes_up": 57,
+    "hours": 13.1,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198146503705/recommended/2451010/"
+   },
+   {
+    "text": "G식백과 유입입니다. 게임은 재미있구요. 확실히 빠져드는 무언가가 있읍니다. 다만 1인개발을 하셔서인지 UI/UX는 우선순위에서 뒤에 있다는 느낌을 받았읍니다. 이 부분은 개선이 필요해보입니다. 이건 제 개인적인 실수지만, 가방을 새로 산 뒤 이거 어떻게 바꾸지 하고 끼고있던 가방을 우측으로 드래그하다가 상점에 팔아버려서 소지금이 0이 되는 매직이 있었읍니…",
+    "votes_up": 10,
+    "hours": 5.0,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198039863396/recommended/2451010/"
+   },
+   {
+    "text": "다른 헌팅 게임 대비 아직 갈 길이 좀 멀어 보이지만, 우리나라에서 이런 수준의 헌팅 게임이, 심지어 1인 개발로 나왔다는 점이 매우 고무적이네요. 다른 게임처럼 30분, 한 시간 자연 배경만 보면서 걷는 게 아니라 동물이 많아서 좋았습니다. 최적화도 뛰어나네요. 더더욱 많은 업데이트 기대하겠습니다. 응원합니다.",
+    "votes_up": 6,
+    "hours": 25.6,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198046661429/recommended/2451010/"
+   }
+  ],
+  "reviews_all": 207,
+  "positive_all": 182,
+  "reviews_ko": 52,
+  "positive_ko": 44,
+  "gap_pp": null,
+  "playtime_median_h_all": 16.7,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 27,
+  "playtime_median_h_ko": 4.0,
+  "playtime_n_ko": 52,
+  "under_2h_pct_ko": 48,
+  "current_players": 12,
+  "players_at": "2026-10-12T03:38:12+00:00",
+  "updated_at": "2026-10-12T03:38:12+00:00"
+ },
+ {
+  "appid": 2680280,
+  "name": "PAPERHEAD",
+  "genres": [
+   "액션",
+   "인디"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/0b30058f0a9d5ad4ed698367b19bad97001faa02/header.jpg?t=1791732488",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/4a08d4a6600124188c5f34e261cfb71905beaa0f/capsule_231x87.jpg?t=1791732488",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/library_hero.jpg",
+  "release_date": "2026년 10월 9일",
+  "steam_url": "https://store.steampowered.com/app/2680280/",
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "steam_rank": 187,
+  "editions": [
+   {
+    "name": "PAPERHEAD",
+    "price": 17200,
+    "regular": 21500,
+    "cut": 20,
+    "packageid": 964200
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/2b9ea7222a5ec9de63eb636217893c717ebc0443/ss_2b9ea7222a5ec9de63eb636217893c717ebc0443.600x338.jpg?t=1791732488",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/2b9ea7222a5ec9de63eb636217893c717ebc0443/ss_2b9ea7222a5ec9de63eb636217893c717ebc0443.1920x1080.jpg?t=1791732488"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/4454301515306da36cb08ab999283bc8efef1c56/ss_4454301515306da36cb08ab999283bc8efef1c56.600x338.jpg?t=1791732488",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/4454301515306da36cb08ab999283bc8efef1c56/ss_4454301515306da36cb08ab999283bc8efef1c56.1920x1080.jpg?t=1791732488"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/0e77e046aa1e50f287acb489a309e07004337629/ss_0e77e046aa1e50f287acb489a309e07004337629.600x338.jpg?t=1791732488",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/0e77e046aa1e50f287acb489a309e07004337629/ss_0e77e046aa1e50f287acb489a309e07004337629.1920x1080.jpg?t=1791732488"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/9b66435bfec75f5243a6529366f7daf1d700c8aa/ss_9b66435bfec75f5243a6529366f7daf1d700c8aa.600x338.jpg?t=1791732488",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/9b66435bfec75f5243a6529366f7daf1d700c8aa/ss_9b66435bfec75f5243a6529366f7daf1d700c8aa.1920x1080.jpg?t=1791732488"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/acc2e8d1355b239bcc34fd633fe36c47ca37f91f/ss_acc2e8d1355b239bcc34fd633fe36c47ca37f91f.600x338.jpg?t=1791732488",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/acc2e8d1355b239bcc34fd633fe36c47ca37f91f/ss_acc2e8d1355b239bcc34fd633fe36c47ca37f91f.1920x1080.jpg?t=1791732488"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/de9fd635284f78ebcc152d080edfcd33521db703/ss_de9fd635284f78ebcc152d080edfcd33521db703.600x338.jpg?t=1791732488",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/de9fd635284f78ebcc152d080edfcd33521db703/ss_de9fd635284f78ebcc152d080edfcd33521db703.1920x1080.jpg?t=1791732488"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/2680280/1133218969/f16830653aea1badd78c475a56558e17c9458614/1791569918/hls_264_master.m3u8?t=1791570834",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257454638/309e55fab5e9c5317e92d7032bb9abf30c82a6da/movie_600x337.jpg?t=1791570834",
+   "name": "OUT NOW"
+  },
+  "short_description": "귀여운 골판지 세계에서 뭔가 끔찍한 일이 벌어졌어요... 마법의 연필과 오래됐지만 아직 꽤 쓸만한 산탄총 등 다양한 무기를 포함해 강력한 부츠의 힘으로 어두운 진실을 밝히세요. 그리고 도대체... 왜 골판지가 피를 흘리고 있는 걸까요?",
+  "deck": "verified",
+  "korean_reviews": [],
+  "reviews_all": 304,
+  "positive_all": 290,
+  "reviews_ko": 8,
+  "positive_ko": 7,
+  "gap_pp": null,
+  "playtime_median_h_all": 6.1,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 21,
+  "playtime_median_h_ko": 5.7,
+  "playtime_n_ko": 8,
+  "under_2h_pct_ko": 25,
+  "current_players": 258,
+  "players_at": "2026-10-12T03:38:21+00:00",
+  "updated_at": "2026-10-12T03:38:21+00:00"
+ },
+ {
+  "appid": 4699770,
+  "name": "Babel Legacy",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/09c887a8e7c619ef904e5e331479409771eab84b/header.jpg?t=1791649652",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/d1b1768174a679272c1666eb902ab297d73f128d/capsule_231x87.jpg?t=1791649652",
+  "hero_image": null,
+  "release_date": "2026년 10월 7일",
+  "steam_url": "https://store.steampowered.com/app/4699770/",
+  "platforms": [
+   "windows",
+   "linux"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "steam_rank": 210,
+  "editions": [
+   {
+    "name": "Babel Legacy",
+    "price": 4360,
+    "regular": 5450,
+    "cut": 20,
+    "packageid": 1635584
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/00c5e86bab689c916842f36c1a2e7d7a2732d0e1/ss_00c5e86bab689c916842f36c1a2e7d7a2732d0e1.600x338.jpg?t=1791649652",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/00c5e86bab689c916842f36c1a2e7d7a2732d0e1/ss_00c5e86bab689c916842f36c1a2e7d7a2732d0e1.1920x1080.jpg?t=1791649652"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/130e4f4a836a286953f2daebbbaee6d5315cc351/ss_130e4f4a836a286953f2daebbbaee6d5315cc351.600x338.jpg?t=1791649652",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/130e4f4a836a286953f2daebbbaee6d5315cc351/ss_130e4f4a836a286953f2daebbbaee6d5315cc351.1920x1080.jpg?t=1791649652"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/0be3fbb3d8fdf2fb5dc62f260edb8014369c6fb8/ss_0be3fbb3d8fdf2fb5dc62f260edb8014369c6fb8.600x338.jpg?t=1791649652",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/0be3fbb3d8fdf2fb5dc62f260edb8014369c6fb8/ss_0be3fbb3d8fdf2fb5dc62f260edb8014369c6fb8.1920x1080.jpg?t=1791649652"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/4c8450e95c1be1db2681ceeead6d70affe648b23/ss_4c8450e95c1be1db2681ceeead6d70affe648b23.600x338.jpg?t=1791649652",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/4c8450e95c1be1db2681ceeead6d70affe648b23/ss_4c8450e95c1be1db2681ceeead6d70affe648b23.1920x1080.jpg?t=1791649652"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/534d8b9021e3bc9fef5edae29f227cac7257e838/ss_534d8b9021e3bc9fef5edae29f227cac7257e838.600x338.jpg?t=1791649652",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/534d8b9021e3bc9fef5edae29f227cac7257e838/ss_534d8b9021e3bc9fef5edae29f227cac7257e838.1920x1080.jpg?t=1791649652"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/d334da317d081be4e0bca7513baea7c78804a92b/ss_d334da317d081be4e0bca7513baea7c78804a92b.600x338.jpg?t=1791649652",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/d334da317d081be4e0bca7513baea7c78804a92b/ss_d334da317d081be4e0bca7513baea7c78804a92b.1920x1080.jpg?t=1791649652"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/4699770/1956556394/ce950f527675d65af48b6d8235d0c6e0bc1ba50b/1789729855/hls_264_master.m3u8?t=1789730036",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257346207/693914f16c78e2e8bdc5278d137f9c5833445b56/movie_600x337.jpg?t=1789730036",
+   "name": "Main"
+  },
+  "short_description": "자원을 채취하여 도시를 키우는 방치형 게임입니다. 도시가 점점 커지는 모습을 구경하세요.",
+  "deck": "unknown",
+  "korean_reviews": [
+   {
+    "text": "[큐레이터커넥트] [H1]플레이어가 자원을 모으면 도시가 알아서 발전하는 국산 자동 심시티 게임[/H1] 극초반에는 할 수 있는것이 적다. 그저 돌맹이를 두들기는것 뿐. 돌맹이 두들기기는 자동으로 해준다. 하지만 새로 문명을 시작할 수록, 업그레이드를 할 수록... 돌맹이를 두들기는 능력이 올라간다. 돌맹이를 두들기는 범위가 늘어나거나 돌맹이를 두들기는 속…",
+    "votes_up": 5,
+    "hours": 0.9,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198021433778/recommended/4699770/"
+   },
+   {
+    "text": "몇일간 인크리멘탈장르 게임이안나와서 가뭄에목말랏다 그거걸러도 후반엔 자동사냥위주고 처음에도 할만해서 추천",
+    "votes_up": 2,
+    "hours": 4.0,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198086966861/recommended/4699770/"
+   },
+   {
+    "text": "1. 볼륨이 작습니다. 가격에 맞는 사이즈라고 보시면 될 듯합니다. 2. 방치형으로 다른 게임/유튜브/넷플릭스 등을 하시면서 켜두고 가끔 업그레이드 하시면 금방 끝을 볼 수 있습니다. 3. 업그레이드 하면서 건물들 모양은 그대로인게 조금 아쉽습니다. 하루 적당히 시간 보내려면 구매하실 만 합니다.",
+    "votes_up": 2,
+    "hours": 9.3,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198273354774/recommended/4699770/"
+   }
+  ],
+  "reviews_all": 143,
+  "positive_all": 127,
+  "reviews_ko": 26,
+  "positive_ko": 25,
+  "gap_pp": null,
+  "playtime_median_h_all": 5.2,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 3,
+  "playtime_median_h_ko": 5.0,
+  "playtime_n_ko": 25,
+  "under_2h_pct_ko": 8,
+  "current_players": 449,
+  "players_at": "2026-10-12T03:38:32+00:00",
+  "updated_at": "2026-10-12T03:38:32+00:00"
  }
 ]
