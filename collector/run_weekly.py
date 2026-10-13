@@ -141,6 +141,7 @@ def main(argv=None) -> int:
     args = parser.parse_args(argv)
     rules = load_rules()
     started = now_iso()
+    requested_limit = args.limit
     target = args.limit or int(rules.get("collect_target") or 100)
     featured: set[int] = set()
     if args.appids:
@@ -148,9 +149,11 @@ def main(argv=None) -> int:
     else:
         # 건너뛰는 게임(리뷰 부족·성인)이 있으니 목표보다 넉넉히 가져온다
         appids = steam_store.discounted_appids(limit=int(target * 1.6), rules=rules)
-        # 영상에 나온 게임은 목록에 없어도 끝에 붙여 꼭 수집(리뷰 수 기준 없이)
-        featured = set(video_appids())
-        appids += [a for a in featured if a not in appids]
+        # 영상에 나온 게임은 목록에 없어도 끝에 붙여 꼭 수집(리뷰 수 기준 없이).
+        # 2026-10-13: --limit 를 직접 준 시험 실행(예: --limit 3 --no-save)에는 붙이지 않음(시험이 50개 넘게 돌던 것)
+        if not requested_limit:
+            featured = set(video_appids())
+            appids += [a for a in featured if a not in appids]
     args.limit = target
     games, prices, history, skipped, errors = [], [], [], [], []
     for index, appid in enumerate(appids, 1):
