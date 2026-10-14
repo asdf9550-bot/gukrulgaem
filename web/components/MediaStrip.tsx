@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
+import { createPortal } from "react-dom";
 import Image from "next/image";
 import type { Game } from "@/lib/data";
 
@@ -93,9 +94,11 @@ export default function MediaStrip({ game: g }: { game: Game }) {
           </button>
         ))}
       </div>
-      {open != null && shots[open] && (
+      {open != null && shots[open] && createPortal(
         // 2026-10-14 (사용자 "사진 누르면 화면이 안 떠"): 휴대폰 세로 화면에선 확대가 1.6배뿐이고 뒤가 비쳐 안 뜬 것처럼 보였음
         // → 뒤를 거의 완전히 가리고, 사진을 화면 폭 가득, 옆으로 밀어 넘기기
+        // (사용자 "스크롤 저 밑에 있어"): 목록 위 상세 창(Modal)의 backdropFilter 때문에 fixed 가 화면이 아니라 창 기준이 됨
+        // → body 에 바로 붙여(createPortal) 항상 지금 보는 화면 한가운데 뜨게
         <div className="fixed inset-0 z-[100] flex items-center justify-center sm:p-3" style={{ background: "rgba(0,0,0,0.96)" }} onClick={() => setOpen(null)} role="dialog" aria-modal="true"
           onTouchStart={(e) => { touchX.current = e.touches[0].clientX; }}
           onTouchEnd={(e) => {
@@ -115,7 +118,8 @@ export default function MediaStrip({ game: g }: { game: Game }) {
             {open + 1} / {shots.length}
             <span className="sm:hidden block text-xs opacity-70 mt-1">옆으로 밀어 넘기기 · 휴대폰을 가로로 돌리면 더 크게</span>
           </div>
-        </div>
+        </div>,
+        document.body
       )}
     </section>
   );
