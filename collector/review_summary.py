@@ -32,7 +32,8 @@ def _week_age(week: str, now_week: str) -> int:
 
 
 def _still_fresh(prev: dict | None, g: dict, week: str, rules: dict) -> bool:
-    if not prev or not prev.get("reasons") or not prev.get("likes"):
+    # 한쪽 리뷰가 8개 미만이라 한쪽 요약만 있는 게임도 4주 동안은 그대로(2026-10-15)
+    if not prev or not (prev.get("reasons") or prev.get("likes")):
         return False
     if _week_age(prev["week"], week) >= int(rules.get("review_summary_refresh_weeks", REFRESH_WEEKS)):
         return False
