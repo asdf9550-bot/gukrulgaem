@@ -1,6 +1,6 @@
 """한국어 리뷰 요약 — "한국인이 좋아한 이유 5줄 / 싫어한 이유 5줄" (Claude Haiku, 게임당 주 1회, 결과 캐시).
 
-비용: 게임당 리뷰 20개 × 2(추천·비추천) ≈ 6천 토큰 → 약 0.7센트. 120개면 주 1달러 안팎.
+비용(2026-10-14 Haiku 5.5·생각 끔): 게임당 입력 약 5천·출력 약 400 토큰 → 약 0.07센트(1원). 4주마다 다시 요약.
 키: .env 의 ANTHROPIC_API_KEY (없으면 조용히 건너뜀). 결과: data/review_summaries.json
 [{appid, week, reasons:[싫어한 이유 3], summary, sample, likes:[좋아한 이유 3], likes_summary, likes_sample, model, created_at}]
 """
@@ -17,7 +17,8 @@ from .common import ROOT, env, load_rules, now_iso
 
 DATA = ROOT / "data"
 PATH = DATA / "review_summaries.json"
-MODEL = "claude-haiku-4-5-20251001"
+# 2026-10-14: Haiku 4.5($1/$5) → Haiku 5.5($0.10/$0.50, 100K 토큰 이하 요청). 토큰은 약 30% 더 세지만 비용 약 1/8.
+MODEL = "claude-haiku-5-5"
 MIN_SAMPLE = 8          # 리뷰가 이보다 적으면 요약하지 않음
 # 2026-10-14 (사용자 "Claude API 줄이는 방법"): 매주 새로 만들던 것을, 지난 요약이 4주 안이고
 # 한국어 리뷰가 20% 넘게 늘지 않았으면 그대로 씀(사이트는 게임별 가장 최근 요약을 보여 줌). 주 4.4달러 → 약 1달러.
@@ -70,7 +71,9 @@ def _save(rows: list[dict]) -> None:
 
 
 def _ask(kind: str, name: str, reviews: list[str], key: str) -> dict | None:
-    body = {"model": MODEL, "max_tokens": 600, "temperature": 0.2,
+    # Haiku 5.5: temperature 등 샘플링 값을 보내면 400, 생각(thinking)이 기본으로 켜짐
+    # → temperature 빼고 생각 끔(시험: 요약 품질 같고 출력 토큰 약 1,200 → 180). disabled 는 effort low~high 에서만 허용
+    body = {"model": MODEL, "max_tokens": 1000, "thinking": {"type": "disabled"}, "output_config": {"effort": "low"},
             "messages": [{"role": "user", "content": PROMPTS[kind].format(name=name, n=len(reviews), reviews="\n".join(f"- {r[:400]}" for r in reviews))}]}
     req = Request("https://api.anthropic.com/v1/messages", data=json.dumps(body).encode("utf-8"), method="POST",
                   headers={"content-type": "application/json", "x-api-key": key, "anthropic-version": "2023-06-01"})
