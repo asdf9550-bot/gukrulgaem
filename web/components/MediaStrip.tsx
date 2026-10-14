@@ -51,6 +51,20 @@ export default function MediaStrip({ game: g }: { game: Game }) {
   const shots = (g.screenshots ?? []).filter((s) => s.full);
   const [open, setOpen] = useState<number | null>(null);
   const [play, setPlay] = useState(false);
+  const touchX = useRef<number | null>(null);
+  // 크게 보기 중에는 뒤 화면 스크롤 막고, 키보드(← → Esc)로 넘기기
+  useEffect(() => {
+    if (open == null) return;
+    const prev = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setOpen(null);
+      else if (e.key === "ArrowLeft") setOpen((o) => (o != null && o > 0 ? o - 1 : o));
+      else if (e.key === "ArrowRight") setOpen((o) => (o != null && o < shots.length - 1 ? o + 1 : o));
+    };
+    window.addEventListener("keydown", onKey);
+    return () => { document.body.style.overflow = prev; window.removeEventListener("keydown", onKey); };
+  }, [open, shots.length]);
   if (shots.length === 0 && !g.trailer) return null;
   return (
     <section className="card p-4 sm:p-5 space-y-3">
@@ -80,14 +94,27 @@ export default function MediaStrip({ game: g }: { game: Game }) {
         ))}
       </div>
       {open != null && shots[open] && (
-        <div className="fixed inset-0 z-[60] flex items-center justify-center p-3" style={{ background: "rgba(0,0,0,0.85)" }} onClick={() => setOpen(null)} role="dialog" aria-modal="true">
+        // 2026-10-14 (사용자 "사진 누르면 화면이 안 떠"): 휴대폰 세로 화면에선 확대가 1.6배뿐이고 뒤가 비쳐 안 뜬 것처럼 보였음
+        // → 뒤를 거의 완전히 가리고, 사진을 화면 폭 가득, 옆으로 밀어 넘기기
+        <div className="fixed inset-0 z-[100] flex items-center justify-center sm:p-3" style={{ background: "rgba(0,0,0,0.96)" }} onClick={() => setOpen(null)} role="dialog" aria-modal="true"
+          onTouchStart={(e) => { touchX.current = e.touches[0].clientX; }}
+          onTouchEnd={(e) => {
+            if (touchX.current == null) return;
+            const dx = e.changedTouches[0].clientX - touchX.current;
+            touchX.current = null;
+            if (dx < -50 && open < shots.length - 1) setOpen(open + 1);
+            else if (dx > 50 && open > 0) setOpen(open - 1);
+          }}>
           <button type="button" className="absolute top-3 right-4 text-white text-3xl font-bold" aria-label="닫기" onClick={() => setOpen(null)}>×</button>
           {open > 0 && <button type="button" className="absolute left-2 sm:left-6 text-white text-4xl font-bold px-2" aria-label="이전" onClick={(e) => { e.stopPropagation(); setOpen(open - 1); }}>‹</button>}
           {open < shots.length - 1 && <button type="button" className="absolute right-2 sm:right-6 text-white text-4xl font-bold px-2" aria-label="다음" onClick={(e) => { e.stopPropagation(); setOpen(open + 1); }}>›</button>}
           {/* 원본은 1920px 안팎이라 next/image 대신 그대로 보여줌 */}
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={shots[open].full} alt="" className="max-w-full max-h-full rounded-lg" onClick={(e) => e.stopPropagation()} />
-          <div className="absolute bottom-3 text-white text-xs">{open + 1} / {shots.length}</div>
+          <img src={shots[open].full} alt="" className="w-full h-auto max-h-full object-contain sm:w-auto sm:max-w-full sm:rounded-lg" onClick={(e) => e.stopPropagation()} />
+          <div className="absolute bottom-4 inset-x-0 text-center text-white text-sm">
+            {open + 1} / {shots.length}
+            <span className="sm:hidden block text-xs opacity-70 mt-1">옆으로 밀어 넘기기 · 휴대폰을 가로로 돌리면 더 크게</span>
+          </div>
         </div>
       )}
     </section>
