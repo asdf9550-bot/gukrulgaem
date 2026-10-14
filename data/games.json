@@ -5842,103 +5842,6 @@
   "updated_at": "2026-10-14T07:13:04+00:00"
  },
  {
-  "appid": 881100,
-  "name": "Noita",
-  "genres": [
-   "액션",
-   "어드벤처",
-   "인디",
-   "RPG",
-   "시뮬레이션"
-  ],
-  "korean_support": "sub",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/header.jpg?t=1675987871",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/capsule_231x87.jpg?t=1675987871",
-  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/library_hero.jpg",
-  "release_date": "2020년 10월 15일",
-  "steam_url": "https://store.steampowered.com/app/881100/",
-  "platforms": [
-   "windows"
-  ],
-  "play_modes": [
-   "single"
-  ],
-  "controller": "partial",
-  "steam_rank": 227,
-  "editions": [
-   {
-    "name": "Noita",
-    "price": 8200,
-    "regular": 20500,
-    "cut": 60,
-    "packageid": 279818
-   }
-  ],
-  "screenshots": [
-   {
-    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_626b401fd6d78ab335ecb8ff1e4b0a8ce7d25f66.600x338.jpg?t=1675987871",
-    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_626b401fd6d78ab335ecb8ff1e4b0a8ce7d25f66.1920x1080.jpg?t=1675987871"
-   },
-   {
-    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_96308c4c5951740a0e46e0aa66e67bd04e99286a.600x338.jpg?t=1675987871",
-    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_96308c4c5951740a0e46e0aa66e67bd04e99286a.1920x1080.jpg?t=1675987871"
-   },
-   {
-    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c02b4406a18dc2e3fe213a6c1948d975ba191985.600x338.jpg?t=1675987871",
-    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c02b4406a18dc2e3fe213a6c1948d975ba191985.1920x1080.jpg?t=1675987871"
-   },
-   {
-    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c9c81f5abbc75b9e5408c23d44bfab14e6759cb7.600x338.jpg?t=1675987871",
-    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c9c81f5abbc75b9e5408c23d44bfab14e6759cb7.1920x1080.jpg?t=1675987871"
-   },
-   {
-    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c65fea857e3a2168c0c103952f0955094aacf329.600x338.jpg?t=1675987871",
-    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c65fea857e3a2168c0c103952f0955094aacf329.1920x1080.jpg?t=1675987871"
-   },
-   {
-    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_56b342c3dbddae9409f6af8582cfa804de3e1229.600x338.jpg?t=1675987871",
-    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_56b342c3dbddae9409f6af8582cfa804de3e1229.1920x1080.jpg?t=1675987871"
-   }
-  ],
-  "trailer": {
-   "hls": "https://video.akamai.steamstatic.com/store_trailers/881100/318644/b853dbe56ac169124a412e8ce28bac0b89558f33/1750592906/hls_264_master.m3u8?t=1602783173",
-   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256804553/movie.293x165.jpg?t=1602783173",
-   "name": "Noita - 1.0 Launch Trailer"
-  },
-  "short_description": "Noita는 모든 픽셀이 물리적으로 렌더링되는 세계에서 진행되는 마법 액션 로그라이트입니다. 완전히 파괴 가능한 세계에서 직접 만든 마법으로 전투와 탐험을 하고, 녹이고, 태우고, 얼리고, 증발시키며 앞으로 나아가세요. 아니면 그냥 온갖 장난을 치며 문제를 일으켜보세요!",
-  "deck": "verified",
-  "korean_reviews": [
-   {
-    "text": "컨트롤 자신 없으면 편의성 모드 좀 깔고 해야 좀 할만함... 그리고 모르면 죽어야지..?",
-    "votes_up": 1,
-    "hours": 43.0,
-    "recommended": true,
-    "url": "https://steamcommunity.com/profiles/76561198190071173/recommended/881100/"
-   },
-   {
-    "text": "아직 엔딩을 보지못한 게임. 제가 못하는걸까요? 재밌는데 어렵습니다.",
-    "votes_up": 1,
-    "hours": 74.8,
-    "recommended": true,
-    "url": "https://steamcommunity.com/profiles/76561198453106156/recommended/881100/"
-   }
-  ],
-  "reviews_all": 89295,
-  "positive_all": 84940,
-  "reviews_ko": 1340,
-  "positive_ko": 1241,
-  "gap_pp": -2.5,
-  "playtime_median_h_all": 28.6,
-  "playtime_n_all": 100,
-  "under_2h_pct_all": 8,
-  "playtime_median_h_ko": 43.0,
-  "playtime_n_ko": 100,
-  "under_2h_pct_ko": 3,
-  "current_players": 1373,
-  "players_at": "2026-10-14T07:13:20+00:00",
-  "updated_at": "2026-10-14T07:13:20+00:00"
- },
- {
   "appid": 1940340,
   "name": "Darkest Dungeon 2",
   "genres": [
@@ -38775,5 +38678,361 @@
   "current_players": 6,
   "players_at": "2026-10-14T08:25:23+00:00",
   "updated_at": "2026-10-14T08:25:23+00:00"
+ },
+ {
+  "appid": 4425980,
+  "name": "망자 격퇴전",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/89d506fbc5d1f46ae28c5c7c637efac039e73a77/header_koreana.jpg?t=1791973302",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/fe37b04897c227c8e90a1f820301c920043d680f/capsule_231x87_koreana.jpg?t=1791973302",
+  "hero_image": null,
+  "release_date": "2026년 10월 13일",
+  "steam_url": "https://store.steampowered.com/app/4425980/",
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "none",
+  "steam_rank": 89,
+  "editions": [
+   {
+    "name": "망자 격퇴전",
+    "price": 6080,
+    "regular": 7600,
+    "cut": 20,
+    "packageid": 1545418
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/1bc91e9dafc7e2b116efe04159909b6630270567/ss_1bc91e9dafc7e2b116efe04159909b6630270567.600x338.jpg?t=1791973302",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/1bc91e9dafc7e2b116efe04159909b6630270567/ss_1bc91e9dafc7e2b116efe04159909b6630270567.1920x1080.jpg?t=1791973302"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/cb50fced2e8b2248b939b334452814d7daac6da9/ss_cb50fced2e8b2248b939b334452814d7daac6da9.600x338.jpg?t=1791973302",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/cb50fced2e8b2248b939b334452814d7daac6da9/ss_cb50fced2e8b2248b939b334452814d7daac6da9.1920x1080.jpg?t=1791973302"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/7e82ea951abbe4be0f89f96ffa7ba62bbd5010f1/ss_7e82ea951abbe4be0f89f96ffa7ba62bbd5010f1.600x338.jpg?t=1791973302",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/7e82ea951abbe4be0f89f96ffa7ba62bbd5010f1/ss_7e82ea951abbe4be0f89f96ffa7ba62bbd5010f1.1920x1080.jpg?t=1791973302"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/a0801365857819598e9dfad2351f2e1a15c9332e/ss_a0801365857819598e9dfad2351f2e1a15c9332e.600x338.jpg?t=1791973302",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/a0801365857819598e9dfad2351f2e1a15c9332e/ss_a0801365857819598e9dfad2351f2e1a15c9332e.1920x1080.jpg?t=1791973302"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/446d920f3d92bbfefc04e9edcbb6ec160d06e6fc/ss_446d920f3d92bbfefc04e9edcbb6ec160d06e6fc.600x338.jpg?t=1791973302",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/446d920f3d92bbfefc04e9edcbb6ec160d06e6fc/ss_446d920f3d92bbfefc04e9edcbb6ec160d06e6fc.1920x1080.jpg?t=1791973302"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/f4a0e789cc2351f4049c6c4b2b785258a3a0eda7/ss_f4a0e789cc2351f4049c6c4b2b785258a3a0eda7.600x338.jpg?t=1791973302",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/f4a0e789cc2351f4049c6c4b2b785258a3a0eda7/ss_f4a0e789cc2351f4049c6c4b2b785258a3a0eda7.1920x1080.jpg?t=1791973302"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/4425980/1152304075/878c4c65e0fe1c9ea625ce62606a0afd23f8648c/1791862504/hls_264_master.m3u8?t=1791894481",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257458905/5b80d6ddeb8c247d4d8064b2f546ee99bd469194/movie_600x337.jpg?t=1791894481",
+   "name": "Launch Trailer_kr"
+  },
+  "short_description": "마법사가 되어 언데드 군단을 막아내세요! 원소와 비전 마법을 자유롭게 구사하고, 자원을 모아 스킬 트리를 개척해 나가세요. 확장되는 전장에서 전투를 펼치며 부대를 이끌고 수백 명의 유닛이 뒤엉키는 전투에서 적들을 물리치세요. 강령술사 군주와의 최후의 결전에 도전하고, 전투 마법사로 거듭나세요!",
+  "deck": "unknown",
+  "korean_reviews": [],
+  "reviews_all": 159,
+  "positive_all": 133,
+  "reviews_ko": 6,
+  "positive_ko": 5,
+  "gap_pp": null,
+  "playtime_median_h_all": 3.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 15,
+  "playtime_median_h_ko": 2.9,
+  "playtime_n_ko": 6,
+  "under_2h_pct_ko": 0,
+  "current_players": 1027,
+  "players_at": "2026-10-14T11:25:23+00:00",
+  "updated_at": "2026-10-14T11:25:23+00:00"
+ },
+ {
+  "appid": 3582250,
+  "name": "Farm to Table",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "앞서 해보기"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/4c806f6e13bab2fcc6c6b1367af92670567d5d0a/header.jpg?t=1791898901",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/5e0a629b1a39736020710c0bfb3b425d463b2f49/capsule_231x87.jpg?t=1791898901",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/library_hero.jpg",
+  "release_date": "2026년 5월 9일",
+  "steam_url": "https://store.steampowered.com/app/3582250/",
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "steam_rank": 114,
+  "editions": [
+   {
+    "name": "Farm to Table",
+    "price": 9600,
+    "regular": 16000,
+    "cut": 40,
+    "packageid": 1263707
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/ca341d578c86e5b558ca36a98e8818aa0b94add0/ss_ca341d578c86e5b558ca36a98e8818aa0b94add0.600x338.jpg?t=1791898901",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/ca341d578c86e5b558ca36a98e8818aa0b94add0/ss_ca341d578c86e5b558ca36a98e8818aa0b94add0.1920x1080.jpg?t=1791898901"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/53d217df6506b0473c5226fdc2ec6bf314f518ec/ss_53d217df6506b0473c5226fdc2ec6bf314f518ec.600x338.jpg?t=1791898901",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/53d217df6506b0473c5226fdc2ec6bf314f518ec/ss_53d217df6506b0473c5226fdc2ec6bf314f518ec.1920x1080.jpg?t=1791898901"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/8f3894900154e4296b6ad25f1c860c4edc334566/ss_8f3894900154e4296b6ad25f1c860c4edc334566.600x338.jpg?t=1791898901",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/8f3894900154e4296b6ad25f1c860c4edc334566/ss_8f3894900154e4296b6ad25f1c860c4edc334566.1920x1080.jpg?t=1791898901"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/829ca2281617174ab9413e9472beb74db0b88a75/ss_829ca2281617174ab9413e9472beb74db0b88a75.600x338.jpg?t=1791898901",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/829ca2281617174ab9413e9472beb74db0b88a75/ss_829ca2281617174ab9413e9472beb74db0b88a75.1920x1080.jpg?t=1791898901"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/8e69455204116854f38ad025b269f2ee22a25b8f/ss_8e69455204116854f38ad025b269f2ee22a25b8f.600x338.jpg?t=1791898901",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/8e69455204116854f38ad025b269f2ee22a25b8f/ss_8e69455204116854f38ad025b269f2ee22a25b8f.1920x1080.jpg?t=1791898901"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/21e865f61a30d3cee65cecfff4ae345fb0e378d3/ss_21e865f61a30d3cee65cecfff4ae345fb0e378d3.600x338.jpg?t=1791898901",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582250/21e865f61a30d3cee65cecfff4ae345fb0e378d3/ss_21e865f61a30d3cee65cecfff4ae345fb0e378d3.1920x1080.jpg?t=1791898901"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/3582250/1312135955/da55b9eed377fd6dec96e7b1d3c331a1763e1e15/1790432834/hls_264_master.m3u8?t=1790433959",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257436240/4920df48c40417e67ed57050e72bdb6f1ad54a07/movie_600x337.jpg?t=1790433959",
+   "name": "Farm to Table Trailer"
+  },
+  "short_description": "기지 건설 요소가 있는 농장&amp;레스토랑 경영 시뮬. 뒷마당에서 재배해 요리하고 서빙! 섬에서 재료를 찾아 새 레시피 해금: 채집·낚시·동물 사육·기계 생산. 자원 관리, 직원 고용, 유기농 사업을 5성급으로!",
+  "deck": "playable",
+  "korean_reviews": [
+   {
+    "text": "귀여움 바쁘고 군더더기 하나없이 깔끔하고 다이너브로랑 느낌은 비슷한데 스테이지격파가 아닌 유유자적하게하는 가게운영버전느낌임 손님들이 핸드폰보면서 엄청 잘기다려줌 재료없으면\"네~잠시만요~\"이러면서 작물 한번 물줬다가 하늘 한번 봤다가 손님 한번 봤다가 재료 자라면 그때 수확해서 요리하고 서빙해도됨 돈이 잘 벌리는거같은데 뭐 하나 찔끔하면 돈이 펑펑 나가서 돈…",
+    "votes_up": 2,
+    "hours": 1.8,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198408936753/recommended/3582250/"
+   },
+   {
+    "text": "농사 시뮬이랑 성장하면서 자동화 되는거 좋아하는 사람 재밌을듯 근데 직원들 너무너무 멍청해서 최저보다 돈 안주고 싶음 그리고 주문 쌓이면 전체적으로 보여지게 제@@@@@@@@@@@발 해주세요 제발요 직원이 뭐처리하고 있는지도 같이 표시를 해준다던가 같이 요리를 할수가 없어요 만들고 나면 항상 음식이 남아있음.. 주문에 음식이 서빙중인지, 조리중인지, 서빙대…",
+    "votes_up": 1,
+    "hours": 37.0,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198351925883/recommended/3582250/"
+   }
+  ],
+  "reviews_all": 727,
+  "positive_all": 664,
+  "reviews_ko": 26,
+  "positive_ko": 23,
+  "gap_pp": null,
+  "playtime_median_h_all": 19.3,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 12,
+  "playtime_median_h_ko": 15.5,
+  "playtime_n_ko": 26,
+  "under_2h_pct_ko": 27,
+  "current_players": 502,
+  "players_at": "2026-10-14T11:25:33+00:00",
+  "updated_at": "2026-10-14T11:25:33+00:00"
+ },
+ {
+  "appid": 881100,
+  "name": "Noita",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG",
+   "시뮬레이션"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/header.jpg?t=1675987871",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/capsule_231x87.jpg?t=1675987871",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/library_hero.jpg",
+  "release_date": "2020년 10월 15일",
+  "steam_url": "https://store.steampowered.com/app/881100/",
+  "platforms": [
+   "windows"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "partial",
+  "steam_rank": 164,
+  "editions": [
+   {
+    "name": "Noita",
+    "price": 8200,
+    "regular": 20500,
+    "cut": 60,
+    "packageid": 279818
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_626b401fd6d78ab335ecb8ff1e4b0a8ce7d25f66.600x338.jpg?t=1675987871",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_626b401fd6d78ab335ecb8ff1e4b0a8ce7d25f66.1920x1080.jpg?t=1675987871"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_96308c4c5951740a0e46e0aa66e67bd04e99286a.600x338.jpg?t=1675987871",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_96308c4c5951740a0e46e0aa66e67bd04e99286a.1920x1080.jpg?t=1675987871"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c02b4406a18dc2e3fe213a6c1948d975ba191985.600x338.jpg?t=1675987871",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c02b4406a18dc2e3fe213a6c1948d975ba191985.1920x1080.jpg?t=1675987871"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c9c81f5abbc75b9e5408c23d44bfab14e6759cb7.600x338.jpg?t=1675987871",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c9c81f5abbc75b9e5408c23d44bfab14e6759cb7.1920x1080.jpg?t=1675987871"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c65fea857e3a2168c0c103952f0955094aacf329.600x338.jpg?t=1675987871",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c65fea857e3a2168c0c103952f0955094aacf329.1920x1080.jpg?t=1675987871"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_56b342c3dbddae9409f6af8582cfa804de3e1229.600x338.jpg?t=1675987871",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_56b342c3dbddae9409f6af8582cfa804de3e1229.1920x1080.jpg?t=1675987871"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/881100/318644/b853dbe56ac169124a412e8ce28bac0b89558f33/1750592906/hls_264_master.m3u8?t=1602783173",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256804553/movie.293x165.jpg?t=1602783173",
+   "name": "Noita - 1.0 Launch Trailer"
+  },
+  "short_description": "Noita는 모든 픽셀이 물리적으로 렌더링되는 세계에서 진행되는 마법 액션 로그라이트입니다. 완전히 파괴 가능한 세계에서 직접 만든 마법으로 전투와 탐험을 하고, 녹이고, 태우고, 얼리고, 증발시키며 앞으로 나아가세요. 아니면 그냥 온갖 장난을 치며 문제를 일으켜보세요!",
+  "deck": "verified",
+  "korean_reviews": [
+   {
+    "text": "컨트롤 자신 없으면 편의성 모드 좀 깔고 해야 좀 할만함... 그리고 모르면 죽어야지..?",
+    "votes_up": 1,
+    "hours": 43.0,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198190071173/recommended/881100/"
+   },
+   {
+    "text": "아직 엔딩을 보지못한 게임. 제가 못하는걸까요? 재밌는데 어렵습니다.",
+    "votes_up": 1,
+    "hours": 74.8,
+    "recommended": true,
+    "url": "https://steamcommunity.com/profiles/76561198453106156/recommended/881100/"
+   }
+  ],
+  "reviews_all": 89296,
+  "positive_all": 84941,
+  "reviews_ko": 1340,
+  "positive_ko": 1241,
+  "gap_pp": -2.5,
+  "playtime_median_h_all": 28.6,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 8,
+  "playtime_median_h_ko": 43.0,
+  "playtime_n_ko": 100,
+  "under_2h_pct_ko": 3,
+  "current_players": 1818,
+  "players_at": "2026-10-14T11:25:44+00:00",
+  "updated_at": "2026-10-14T11:25:44+00:00"
+ },
+ {
+  "appid": 3048840,
+  "name": "헝그리 호러즈",
+  "genres": [
+   "인디",
+   "전략"
+  ],
+  "korean_support": "sub",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/4f1417b255ef8db36b3fe5bf8d974599a6b4f71f/header_koreana.jpg?t=1791882332",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/e9792142b38df6379201414bc508afab324bb1f0/capsule_231x87_koreana.jpg?t=1791882332",
+  "hero_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/library_hero.jpg",
+  "release_date": "2026년 10월 13일",
+  "steam_url": "https://store.steampowered.com/app/3048840/",
+  "platforms": [
+   "windows",
+   "mac",
+   "linux"
+  ],
+  "play_modes": [
+   "single"
+  ],
+  "controller": "full",
+  "steam_rank": 176,
+  "editions": [
+   {
+    "name": "Hungry Horrors",
+    "price": 12000,
+    "regular": 15000,
+    "cut": 20,
+    "packageid": 1083674
+   }
+  ],
+  "screenshots": [
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/4e286ae40c5ea3162ebe876fa78e51489f31ce71/ss_4e286ae40c5ea3162ebe876fa78e51489f31ce71.600x338.jpg?t=1791882332",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/4e286ae40c5ea3162ebe876fa78e51489f31ce71/ss_4e286ae40c5ea3162ebe876fa78e51489f31ce71.1920x1080.jpg?t=1791882332"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/f649c1d5179fea2ecf8e283becb723aaaff7303e/ss_f649c1d5179fea2ecf8e283becb723aaaff7303e.600x338.jpg?t=1791882332",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/f649c1d5179fea2ecf8e283becb723aaaff7303e/ss_f649c1d5179fea2ecf8e283becb723aaaff7303e.1920x1080.jpg?t=1791882332"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/c2ee9c6f67965d589c7f1b3c645dc5a7e0f5664d/ss_c2ee9c6f67965d589c7f1b3c645dc5a7e0f5664d.600x338.jpg?t=1791882332",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/c2ee9c6f67965d589c7f1b3c645dc5a7e0f5664d/ss_c2ee9c6f67965d589c7f1b3c645dc5a7e0f5664d.1920x1080.jpg?t=1791882332"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/5d107215fa18afca5f1fa059b5bb431d82fee0ca/ss_5d107215fa18afca5f1fa059b5bb431d82fee0ca.600x338.jpg?t=1791882332",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/5d107215fa18afca5f1fa059b5bb431d82fee0ca/ss_5d107215fa18afca5f1fa059b5bb431d82fee0ca.1920x1080.jpg?t=1791882332"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/9259f60ca865e3d891bbe6cd90474eca8581bff3/ss_9259f60ca865e3d891bbe6cd90474eca8581bff3.600x338.jpg?t=1791882332",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/9259f60ca865e3d891bbe6cd90474eca8581bff3/ss_9259f60ca865e3d891bbe6cd90474eca8581bff3.1920x1080.jpg?t=1791882332"
+   },
+   {
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/d73c75298979ff03b5956bc1c38c0d9ce6a52e32/ss_d73c75298979ff03b5956bc1c38c0d9ce6a52e32.600x338.jpg?t=1791882332",
+    "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048840/d73c75298979ff03b5956bc1c38c0d9ce6a52e32/ss_d73c75298979ff03b5956bc1c38c0d9ce6a52e32.1920x1080.jpg?t=1791882332"
+   }
+  ],
+  "trailer": {
+   "hls": "https://video.akamai.steamstatic.com/store_trailers/3048840/91487564/94855fa9c60b9c3986ac1411b78c7e548a3b4ed0/1790092981/hls_264_master.m3u8?t=1790093651",
+   "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257431763/e8e73c010b984f53efe822ab45684c96b30b668a/movie_600x337.jpg?t=1790093651",
+   "name": "1.0 Date Announcement"
+  },
+  "short_description": "『헝그리 호러즈』는 브리튼 제도의 민간전승을 배경으로 한 스토리 중심 덱빌딩 게임입니다. 실제 전통 요리를 만들고, 맛의 시너지를 연결하고, 신화 속 인물들을 만나고, 전설적인 호러들에게 잡아먹히기 전에 먹이세요.",
+  "deck": "verified",
+  "korean_reviews": [],
+  "reviews_all": 271,
+  "positive_all": 266,
+  "reviews_ko": 10,
+  "positive_ko": 10,
+  "gap_pp": null,
+  "playtime_median_h_all": 11.7,
+  "playtime_n_all": 100,
+  "under_2h_pct_all": 18,
+  "playtime_median_h_ko": 5.5,
+  "playtime_n_ko": 10,
+  "under_2h_pct_ko": 30,
+  "current_players": 66,
+  "players_at": "2026-10-14T11:25:53+00:00",
+  "updated_at": "2026-10-14T11:25:53+00:00"
  }
 ]
