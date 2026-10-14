@@ -40,18 +40,18 @@ if (-not $hasKey) { Write-Host "경고: .env 에 ITAD_API_KEY 가 비어 있습�
 powercfg /setacvalueindex SCHEME_CURRENT SUB_SLEEP BD3B718A-0680-4D9D-8AB2-E1D2B4AC806D 1 2>$null
 powercfg /setactive SCHEME_CURRENT 2>$null
 
-# 5) 예약 작업 — 매일 00:05·12:05 (어복 재고관리 00:00·12:00 다음. 어복이 아직 돌면 스크립트가 끝날 때까지 기다림)
+# 5) 예약 작업 — 매일 01:00·13:00 (어복 재고관리 00:00·12:00 다음. 어복이 아직 돌면 스크립트가 끝날 때까지 기다림)
 $name = "Gukrulgem-Site-AfterInventory"
 $script = Join-Path $PSScriptRoot "2_자동수집_올리기.ps1"
 $action  = New-ScheduledTaskAction -Execute "powershell.exe" -Argument "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File `"$script`"" -WorkingDirectory $root
-$triggers = @((New-ScheduledTaskTrigger -Daily -At "00:05"), (New-ScheduledTaskTrigger -Daily -At "12:05"))
+$triggers = @((New-ScheduledTaskTrigger -Daily -At "01:00"), (New-ScheduledTaskTrigger -Daily -At "13:00"))
 $settings = New-ScheduledTaskSettingsSet -WakeToRun -StartWhenAvailable -ExecutionTimeLimit (New-TimeSpan -Hours 5) -MultipleInstances IgnoreNew
-Register-ScheduledTask -TaskName $name -Action $action -Trigger $triggers -Settings $settings -Description "국룰겜 사이트 자동 수집 → GitHub 올리기 (매일 00:05·12:05, 어복 재고관리 끝난 뒤)" -Force | Out-Null
+Register-ScheduledTask -TaskName $name -Action $action -Trigger $triggers -Settings $settings -Description "국룰겜 사이트 자동 수집 → GitHub 올리기 (매일 01:00·13:00, 어복 재고관리 끝난 뒤)" -Force | Out-Null
 if (Get-ScheduledTask -TaskName "Gukrulgem-Daily-0440" -ErrorAction SilentlyContinue) {
   Unregister-ScheduledTask -TaskName "Gukrulgem-Daily-0440" -Confirm:$false     # 예전 이름(04:40)이 이 PC에 있으면 정리
 }
 $info = Get-ScheduledTaskInfo -TaskName $name
-Write-Host "예약 등록 완료: $name (매일 00:05·12:05) · 다음 실행 $($info.NextRunTime)"
+Write-Host "예약 등록 완료: $name (매일 01:00·13:00) · 다음 실행 $($info.NextRunTime)"
 Write-Host ""
 Write-Host "다음: 3_시험.ps1 을 실행해 GitHub 로그인과 수집을 확인하세요."
 pause

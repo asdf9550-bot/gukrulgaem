@@ -19,6 +19,26 @@ DATA = ROOT / "data"
 PATH = DATA / "review_summaries.json"
 MODEL = "claude-haiku-4-5-20251001"
 MIN_SAMPLE = 8          # 리뷰가 이보다 적으면 요약하지 않음
+# 2026-10-14 (사용자 "Claude API 줄이는 방법"): 매주 새로 만들던 것을, 지난 요약이 4주 안이고
+# 한국어 리뷰가 20% 넘게 늘지 않았으면 그대로 씀(사이트는 게임별 가장 최근 요약을 보여 줌). 주 4.4달러 → 약 1달러.
+REFRESH_WEEKS = 4
+REFRESH_GROWTH = 0.20
+
+
+def _week_age(week: str, now_week: str) -> int:
+    start = lambda w: datetime.strptime(w + "-1", "%G-W%V-%u")
+    return (start(now_week) - start(week)).days // 7
+
+
+def _still_fresh(prev: dict | None, g: dict, week: str, rules: dict) -> bool:
+    if not prev or not prev.get("reasons") or not prev.get("likes"):
+        return False
+    if _week_age(prev["week"], week) >= int(rules.get("review_summary_refresh_weeks", REFRESH_WEEKS)):
+        return False
+    old_n = prev.get("reviews_ko")
+    if old_n and g.get("reviews_ko", 0) > old_n * (1 + REFRESH_GROWTH):
+        return False
+    return True
 
 PROMPTS = {
     "negative": """아래는 스팀 게임 "{name}"의 한국어 부정(비추천) 리뷰 {n}개입니다.
@@ -93,6 +113,10 @@ def summarize(games: list[dict], rules: dict | None = None, log=print, limit: in
     week = datetime.now(timezone.utc).strftime("%G-W%V")
     rows = _load()
     byweek = {(r["appid"], r["week"]): r for r in rows}
+    latest: dict[int, dict] = {}
+    for r in sorted(rows, key=lambda r: r["week"]):
+        if r["week"] < week:
+            latest[r["appid"]] = r
     done = skipped = failed = 0
     for g in games:
         if limit and done >= limit:
@@ -101,6 +125,9 @@ def summarize(games: list[dict], rules: dict | None = None, log=print, limit: in
             skipped += 1
             continue
         row = byweek.get((g["appid"], week))
+        if not row and _still_fresh(latest.get(g["appid"]), g, week, rules):
+            skipped += 1
+            continue
         need_neg = not row or not row.get("reasons")
         need_pos = not row or not row.get("likes")
         if not need_neg and not need_pos:
@@ -123,6 +150,7 @@ def summarize(games: list[dict], rules: dict | None = None, log=print, limit: in
                 failed += 1
                 continue
             row["created_at"] = now_iso()
+            row["reviews_ko"] = g.get("reviews_ko", 0)      # 다음에 "리뷰가 많이 늘었나" 비교용
             byweek[(g["appid"], week)] = row
             rows = [x for x in rows if not (x["appid"] == g["appid"] and x["week"] == week)] + [row]
             done += 1
