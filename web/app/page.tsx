@@ -53,7 +53,7 @@ export default function Home() {
               <Link key={d.game.appid} href={`/game/${d.game.appid}`} scroll={false}
                 className="card shrink-0 w-[46vw] max-w-[180px] sm:max-w-none sm:w-60 overflow-hidden snap-start fade-up" style={{ animationDelay: `${i * 70}ms` }}>
                 <div className="relative aspect-[460/215]">
-                  {(d.game.capsule_image ?? d.game.header_image) && <Image src={d.game.capsule_image ?? d.game.header_image!} alt="" fill sizes="240px" className="object-cover" />}
+                  {d.game.header_image && <Image src={d.game.header_image} alt="" fill sizes="240px" className="object-cover" />}
                   <span className="absolute left-2 top-2 rounded-md px-2 py-0.5 text-xs font-extrabold text-white" style={{ background: "#ef4444" }}>국룰 {i + 1}</span>
                 </div>
                 {/* 폰에서는 카드를 화면의 46%로 줄여 두 장 넘게 보이게(사용자 2026-10-09 "국룰 1·2 크기 줄여 여러 개") */}

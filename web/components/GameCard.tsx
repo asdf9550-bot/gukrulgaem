@@ -17,7 +17,7 @@ export default function GameCard({ deal, note, position }: { deal: Deal; note?: 
     <Link href={`/game/${g.appid}`} scroll={false} className="card flex h-full gap-3 p-3 hover:shadow-md transition-shadow">
       {g.header_image && (
         <div className="relative w-28 sm:w-36 shrink-0 aspect-[460/215] self-center rounded-lg overflow-hidden">
-          <Image src={g.capsule_image ?? g.header_image} alt="" fill sizes="(max-width: 640px) 112px, 144px" quality={85} className="object-cover" />
+          <Image src={g.header_image} alt="" fill sizes="(max-width: 640px) 112px, 144px" quality={85} className="object-cover" />
         </div>
       )}
       <div className="min-w-0 flex-1 flex flex-col justify-center gap-1">

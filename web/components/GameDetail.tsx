@@ -81,12 +81,14 @@ export default async function GameDetail({ appid, compact = false }: { appid: nu
   if (season) statRows.push({ k: `다음 시즌 세일 · ${season.name}`, v: `${Math.max(0, daysUntil(season.start))}일 후`,
     sub: `${season.start.slice(5).replace("-", "/")}~${season.end.slice(5).replace("-", "/")}${season.confirmed ? "" : " (예상, 스팀 발표 전)"}` });
 
+  // 2026-10-14: 큰 배경(hero)이 없는 게임은 231px 캡슐을 늘려 써서 뭉개졌음 → 스크린샷 첫 장(1920×1080)으로 대신
+  const cover = g.hero_image ?? g.screenshots?.[0]?.full ?? g.header_image;
   return (
     <article className="space-y-6">
       <section className="card overflow-hidden relative">
-        {(g.hero_image ?? g.capsule_image ?? g.header_image) && (
-          <Image src={g.hero_image ?? g.capsule_image ?? g.header_image!} alt="" fill priority quality={90}
-            sizes="(max-width: 1024px) 100vw, 1024px" className={`object-cover ${g.hero_image ? "object-center" : "object-top"}`} />
+        {cover && (
+          <Image src={cover} alt="" fill priority quality={90}
+            sizes="(max-width: 1024px) 100vw, 1024px" className={`object-cover ${cover === g.header_image ? "object-top" : "object-center"}`} />
         )}
         <div className="absolute inset-0" style={{ background: "linear-gradient(to top, var(--card) 18%, color-mix(in srgb, var(--card) 70%, transparent) 55%, transparent 100%)" }} />
         <div className={`relative ${compact ? "pt-28 sm:pt-40 p-4 sm:p-5 space-y-3" : "pt-44 sm:pt-64 p-5 sm:p-7 space-y-4"}`}>
