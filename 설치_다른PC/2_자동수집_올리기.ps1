@@ -16,9 +16,16 @@ function Mail($status) {
 Say "=== 시작 (Test=$Test) · $env:COMPUTERNAME ==="
 # 2026-10-13 (사용자 "24시·12시 어복레저 재고관리 이후 실행"): 어복 재고관리(00:00·12:00)가 돌고 있으면 끝날 때까지 기다린다.
 # 같은 인터넷을 쓰는 두 작업이 겹치면 느려지고 호출 제한에 걸릴 수 있어서. 최대 3시간 기다린 뒤에는 그냥 시작.
+# 2026-10-15: 어복 프로그램 창은 로그인 때부터 하루 종일 켜져 있어서(작업 "어복 재고관리 프로그램 켜기"),
+# 프로세스만 보면 매번 3시간을 다 기다렸음 → 실제 동기화(작업 "어복 재고관리 자동 동기화", 실행파일 --auto-stock)가 돌 때만 기다림
+function EobokSyncing {
+  $task = Get-ScheduledTask -TaskName "어복 재고관리 자동 동기화" -ErrorAction SilentlyContinue
+  if ($task -and $task.State -eq "Running") { return $true }
+  return [bool](Get-CimInstance Win32_Process -Filter "Name='어복_재고관리.exe'" -ErrorAction SilentlyContinue | Where-Object { $_.CommandLine -match "--auto-stock" })
+}
 if (-not $Test) {
   $waited = 0
-  while ((Get-Process -Name "어복_재고관리" -ErrorAction SilentlyContinue) -and $waited -lt 180) {
+  while ((EobokSyncing) -and $waited -lt 180) {
     if ($waited -eq 0) { Say "어복 재고관리 실행 중 → 끝날 때까지 기다림" }
     Start-Sleep 60; $waited++
   }
