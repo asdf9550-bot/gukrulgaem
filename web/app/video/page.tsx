@@ -16,7 +16,10 @@ export default async function VideoPage() {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-2xl sm:text-3xl font-extrabold">영상</h1>
+        <div className="flex flex-wrap items-baseline gap-x-4 gap-y-1">
+          <h1 className="text-2xl sm:text-3xl font-extrabold">게임 영상</h1>
+          <Link href="/shorts" className="muted hover:underline text-sm">📱 쇼츠 보기 →</Link>
+        </div>
         <p className="muted mt-1">이 사이트 데이터로 만든 주간 구매 가이드입니다. 영상에 나온 게임을 누르면 가격 기록으로 갑니다.</p>
       </div>
       {rows.length === 0 && (

@@ -50,6 +50,7 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
             <Link href="/me" className="muted hover:underline">메일 알림</Link>
             <Link href="/about" className="muted hover:underline">판정 기준</Link>
             <Link href="/video" className="muted hover:underline">영상</Link>
+            <Link href="/shorts" className="muted hover:underline">쇼츠</Link>
           </nav>
         </header>
         <main className="mx-auto max-w-5xl px-4 py-6">{children}</main>

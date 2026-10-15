@@ -12,6 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE}/calendar`, lastModified: updated, changeFrequency: "daily", priority: 0.6 },
     { url: `${SITE}/about`, lastModified: updated, changeFrequency: "monthly", priority: 0.5 },
     { url: `${SITE}/video`, lastModified: updated, changeFrequency: "weekly", priority: 0.5 },
+    { url: `${SITE}/shorts`, lastModified: updated, changeFrequency: "weekly", priority: 0.5 },
   ];
   const pages: MetadataRoute.Sitemap = games().map((g) => ({
     url: `${SITE}/game/${g.appid}`, lastModified: new Date(g.updated_at || updated), changeFrequency: "daily", priority: 0.7,

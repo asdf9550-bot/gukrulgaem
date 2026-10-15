@@ -135,9 +135,11 @@ export const prices = (): Price[] => read<Price>("prices");
 export const history = (): HistoryPoint[] => read<HistoryPoint>("price_history");
 export const runs = (): Run[] => read<Run>("runs");
 // 영상 프로그램이 올린 영상만. 유튜브 영상 번호는 11글자라서 시험용 줄("testVideo" 등)은 걸러낸다.
-// 2026-10-11 (사용자): 사이트에는 롱폼만, 관리자가 지운 영상은 제외. 쇼츠는 영상 프로그램 기록용으로만 남는다.
-export const videos = (): Video[] => read<Video>("videos")
-  .filter((v) => /^[A-Za-z0-9_-]{11}$/.test(String(v.video_id ?? "")) && v.kind === "long" && !v.hidden);
+// 2026-10-11 (사용자): 롱폼만, 관리자가 지운 영상 제외. 2026-10-15 (사용자 "쇼츠 다른 페이지"): 종류별로 나눈다.
+const videoRows = (kind: "long" | "shorts"): Video[] => read<Video>("videos")
+  .filter((v) => /^[A-Za-z0-9_-]{11}$/.test(String(v.video_id ?? "")) && v.kind === kind && !v.hidden);
+export const videos = (): Video[] => videoRows("long");
+export const shorts = (): Video[] => videoRows("shorts");
 
 /** 유튜브에서 공개 상태인지(oEmbed가 200이면 공개·일부공개, 비공개·삭제는 401/404). 실패하면 보수적으로 "모름"(false). */
 export async function isPublicOnYouTube(videoId: string): Promise<boolean> {
