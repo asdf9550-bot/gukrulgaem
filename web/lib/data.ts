@@ -131,6 +131,14 @@ function read<T>(name: string): T[] {
 }
 
 export const games = (): Game[] => read<Game>("games");
+
+// 2026-10-16: 지금 무료인 게임(에픽 주간 무료 + 스팀 100% 할인). collector/free_games.py 가 만든다.
+export interface FreeGame { source: "epic" | "steam"; title: string; status: "now" | "upcoming"; start: string | null; end: string | null; url: string; image: string | null; regular_price_krw: number | null; appid?: number }
+export function freeGames(): FreeGame[] {
+  const file = path.join(dataDir(), "free_games.json");
+  if (!fs.existsSync(file)) return [];
+  return (JSON.parse(fs.readFileSync(file, "utf-8")) as { items?: FreeGame[] }).items ?? [];
+}
 export const prices = (): Price[] => read<Price>("prices");
 export const history = (): HistoryPoint[] => read<HistoryPoint>("price_history");
 export const runs = (): Run[] => read<Run>("runs");

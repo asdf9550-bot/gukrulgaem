@@ -13,6 +13,9 @@ import KoreanReviews from "@/components/KoreanReviews";
 import WhyDisliked from "@/components/WhyDisliked";
 import { reviewSummaryFor } from "@/lib/data";
 import WishButton from "@/components/WishButton";
+import ShareButton from "@/components/ShareButton";
+import SaleHistoryTable from "@/components/SaleHistoryTable";
+import SimilarGames from "@/components/SimilarGames";
 
 const DECK: Record<string, { label: string; tone: "good" | "warn" | "bad" | "plain" }> = {
   verified: { label: "스팀덱 확인됨", tone: "good" }, playable: { label: "스팀덱 플레이 가능", tone: "warn" },
@@ -109,6 +112,7 @@ export default async function GameDetail({ appid, compact = false }: { appid: nu
             <VerdictBadge verdict={p.verdict} kind={kind} size={compact ? "md" : "lg"} stamp />
             <span className="muted">{isFloor || kind === "first" ? `${v.short} · ${KIND[kind].short}` : v.short}</span>
             <WishButton appid={g.appid} size="lg" />
+            <ShareButton title={`${g.name} ${p.discount_pct ? `${p.discount_pct}% 할인 ` : ""}— 국룰겜`} path={`/game/${g.appid}`} />
           </div>
           {p.sale_end_at && <SaleCountdown endAt={p.sale_end_at} endText={kst(p.sale_end_at, true)} />}
           <div className="flex flex-wrap gap-2 fade-up" style={{ animationDelay: "400ms" }}>
@@ -216,6 +220,11 @@ export default async function GameDetail({ appid, compact = false }: { appid: nu
           </span>
         </div>
         <PriceChart points={history} current={p.current_price} discount={p.discount_pct} historicalLow={p.historical_low} historicalLowAt={p.historical_low_at} usual={p.usual_sale_price} regular={p.regular_price} />
+        {/* 2026-10-16: 세일 한 번 = 한 줄 표(최근 10회). 그래프로는 "언제 이 가격이었나"를 읽기 어려워서 */}
+        <details className="text-sm">
+          <summary className="cursor-pointer muted hover:underline">세일 이력 표로 보기 (최근 10회)</summary>
+          <div className="mt-2"><SaleHistoryTable points={history} historicalLow={p.historical_low} /></div>
+        </details>
       </section>
 
       <section className="card p-5 space-y-3">
@@ -251,6 +260,9 @@ export default async function GameDetail({ appid, compact = false }: { appid: nu
           </ul>
         </section>
       )}
+
+      {/* 2026-10-16: 같은 장르·비슷한 가격의 다른 할인 게임 — 한 페이지 보고 나가지 않게 */}
+      <SimilarGames appid={g.appid} genres={g.genres} price={p.current_price} />
 
       <section className="flex flex-wrap items-center gap-3">
         <a href={g.steam_url} target="_blank" rel="noopener noreferrer"

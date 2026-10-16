@@ -209,6 +209,11 @@ def main(argv=None) -> int:
             print(f"텔레그램: {telegram_alerts.send_alerts()}")
         except Exception as error:
             print(f"텔레그램 실패: {error}", file=sys.stderr)
+        try:
+            from . import free_games
+            print(f"무료 게임: {free_games.run()}")
+        except Exception as error:
+            print(f"무료 게임 실패: {error}", file=sys.stderr)
     if args.table:
         print(); print(table(games, prices))
     print(f"\n완료: 게임 {len(games)}개, 건너뜀 {len(skipped)}개, 오류 {len(errors)}개")

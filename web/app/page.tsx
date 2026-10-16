@@ -3,6 +3,8 @@ import Image from "next/image";
 import DealList from "@/components/DealList";
 import VerdictBadge from "@/components/VerdictBadge";
 import TodayChanges from "@/components/TodayChanges";
+import EventBand from "@/components/EventBand";
+import FreeNow from "@/components/FreeNow";
 import type { Metadata } from "next";
 import { deals, lastUpdated, pricesPrev } from "@/lib/data";
 import { kstRelative, won } from "@/lib/format";
@@ -41,6 +43,10 @@ export default function Home() {
           </p>
         </div>
       </div>
+
+      {/* 2026-10-16 (경쟁 사이트 비교): 스팀 행사 D-day 한 줄 + 지금 무료인 게임 */}
+      <EventBand />
+      <FreeNow />
 
       {picks.length > 0 && (
         <section className="space-y-2">
