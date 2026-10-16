@@ -13,11 +13,17 @@ export default function GameCard({ deal, note, position }: { deal: Deal; note?: 
   const all = pct(g.positive_all, g.reviews_all);
   const ko = pct(g.positive_ko, g.reviews_ko);
   const badge = position ?? (g.steam_rank != null && g.steam_rank <= 100 ? g.steam_rank : null);
+  const rankStyle = { background: badge != null && badge <= 10 ? "#ef4444" : "var(--line)", color: badge != null && badge <= 10 ? "#fff" : "var(--muted)" };
+  const rankTitle = g.steam_rank != null ? `스팀 판매 순위 ${g.steam_rank}위` : undefined;
+  // 2026-10-16 (사용자 "모바일에 두 개씩 두 줄로"): md 미만(폰)은 2열 격자 + 세로 카드(그림 위, 글 아래), md 이상은 예전 가로 카드
   return (
-    <Link href={`/game/${g.appid}`} scroll={false} className="card flex h-full gap-3 p-3 hover:shadow-md transition-shadow">
+    <Link href={`/game/${g.appid}`} scroll={false} className="card flex flex-col md:flex-row h-full gap-2 md:gap-3 p-2 md:p-3 hover:shadow-md transition-shadow">
       {g.header_image && (
-        <div className="relative w-28 sm:w-36 shrink-0 aspect-[460/215] self-center rounded-lg overflow-hidden">
-          <Image src={g.header_image} alt="" fill sizes="(max-width: 640px) 112px, 144px" quality={85} className="object-cover" />
+        <div className="relative w-full md:w-36 shrink-0 aspect-[460/215] md:self-center rounded-lg overflow-hidden">
+          <Image src={g.header_image} alt="" fill sizes="(max-width: 768px) 50vw, 144px" quality={85} className="object-cover" />
+          {badge != null && (
+            <span className="md:hidden absolute left-1 top-1 rounded-md px-1.5 py-0.5 text-xs font-extrabold" title={rankTitle} style={rankStyle}>#{badge}</span>
+          )}
         </div>
       )}
       <div className="min-w-0 flex-1 flex flex-col justify-center gap-1">
@@ -25,28 +31,28 @@ export default function GameCard({ deal, note, position }: { deal: Deal; note?: 
         {/* 태블릿(2열)에서 이름이 "De…"처럼 잘리던 것(2026-10-08) → 판정·찜은 줄을 바꿔 내려가고 이름은 한 줄을 다 씀 */}
         <div className="flex flex-wrap items-center gap-x-2 gap-y-1 min-w-0">
           {badge != null && (
-            <span className="shrink-0 rounded-md px-1.5 py-0.5 text-xs font-extrabold" title={g.steam_rank != null ? `스팀 판매 순위 ${g.steam_rank}위` : undefined}
-              style={{ background: badge <= 10 ? "#ef4444" : "var(--line)", color: badge <= 10 ? "#fff" : "var(--muted)" }}>#{badge}</span>
+            <span className="hidden md:inline shrink-0 rounded-md px-1.5 py-0.5 text-xs font-extrabold" title={rankTitle} style={rankStyle}>#{badge}</span>
           )}
-          {/* 폰에서는 긴 이름이 …로 잘리는 대신 줄바꿈(2026-10-08) */}
-          <span className="font-bold min-w-0 break-words sm:truncate">{g.name}</span>
-          <span className="shrink-0 flex items-center gap-1">
-            <VerdictBadge verdict={p.verdict} kind={kindOf(p, g)} />
-            {p.tags.includes("korea_warning") && <span className="inline-flex items-center rounded-full px-3 py-1 text-sm font-bold leading-none" style={{ background: "#fee2e2", color: "#b91c1c" }}>{TAG.korea_warning}</span>}
+          {/* 폰 2열에서는 이름을 두 줄까지(넘치면 …), md 이상은 한 줄 */}
+          <span className="w-full md:w-auto font-bold text-sm md:text-base min-w-0 break-words line-clamp-2 md:block md:whitespace-nowrap md:text-ellipsis">{g.name}</span>
+          <span className="shrink-0 flex flex-wrap items-center gap-1">
+            <VerdictBadge verdict={p.verdict} kind={kindOf(p, g)} size="sm" />
+            {p.tags.includes("korea_warning") && <span className="inline-flex items-center rounded-full px-2 py-0.5 text-xs md:px-3 md:py-1 md:text-sm font-bold leading-none" style={{ background: "#fee2e2", color: "#b91c1c" }}>{TAG.korea_warning}</span>}
             <WishButton appid={g.appid} />
           </span>
         </div>
         {/* 2줄: 가격 */}
         {/* 좁은 화면에서 "50원/시간 · 역대 최저"가 …로 잘리던 것(2026-10-08) → 항목 단위로 다음 줄로 넘김 */}
-        <div className="flex flex-wrap items-baseline gap-x-2 gap-y-0.5 text-sm">
-          <span className="text-lg font-extrabold whitespace-nowrap">{won(p.current_price)}</span>
+        <div className="flex flex-wrap items-baseline gap-x-1.5 md:gap-x-2 gap-y-0.5 text-xs md:text-sm">
+          <span className="text-base md:text-lg font-extrabold whitespace-nowrap">{won(p.current_price)}</span>
           {p.discount_pct ? <span className="font-bold whitespace-nowrap" style={{ color: "#16a34a" }}>-{p.discount_pct}%</span> : null}
           <span className="muted line-through whitespace-nowrap">{won(p.regular_price)}</span>
           {/* 2026-10-11 (사용자): "원/시간"은 목록 카드에서 빼고 게임 페이지 안(근거와 함께)에서만 보인다 */}
-          <span className="muted whitespace-nowrap">· 역대 최저 {won(p.historical_low)}</span>
+          {/* 폰 2열은 칸이 좁아 역대 최저는 md 이상에서만(게임 페이지에는 항상 있음) */}
+          <span className="hidden md:inline muted whitespace-nowrap">· 역대 최저 {won(p.historical_low)}</span>
         </div>
         {/* 3줄: 한국어·평가 */}
-        <div className="text-xs muted">
+        <div className="text-[11px] md:text-xs muted">
           {cheaper_than_steam && cheapest
             ? <span className="font-bold" style={{ color: "#16a34a" }}>최저 {cheapest.store_name} {cheapest.is_estimate ? "약 " : ""}{won(cheapest.price_krw)} · </span>
             : null}
