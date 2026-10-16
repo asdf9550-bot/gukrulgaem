@@ -198,6 +198,15 @@ export function seasons(): Season[] {
   return (JSON.parse(fs.readFileSync(file, "utf-8")) as { seasons: Season[] }).seasons;
 }
 
+// 2026-10-16 (사용자 "시즌 달력 맞춰서 폰에서 보고 준비"): 시즌 세일 + 페스티벌 전체. 달력 페이지의 "영상 올릴 날"에 씀.
+export interface SteamEvent { name: string; kind: "sale" | "fest"; start: string; end: string; confirmed: boolean; tip?: string }
+
+export function steamEvents(): SteamEvent[] {
+  const file = path.join(dataDir(), "..", "config", "steam_seasons.json");
+  if (!fs.existsSync(file)) return [];
+  return (JSON.parse(fs.readFileSync(file, "utf-8")) as { events?: SteamEvent[] }).events ?? [];
+}
+
 export interface ReviewPoint { appid: number; at: string; reviews_all: number; positive_all: number; reviews_ko: number; positive_ko: number; current_players: number | null }
 export const reviewHistory = (): ReviewPoint[] => read<ReviewPoint>("review_history");
 export const pricesPrev = (): Price[] => read<Price>("prices_prev");
