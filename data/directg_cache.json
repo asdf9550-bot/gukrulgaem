@@ -1,5 +1,5 @@
 {
- "fetched_date": "2026-10-15",
+ "fetched_date": "2026-10-16",
  "products": {
   "275d0530-d0ca-4bba-a145-f3eb4241e193": {
    "product_id": "275d0530-d0ca-4bba-a145-f3eb4241e193",
@@ -23,7 +23,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:51+00:00"
+   "fetched_at": "2026-10-16T05:24:30+00:00"
   },
   "a08a2022-ce33-402c-9c46-4bb812eac5c8": {
    "product_id": "a08a2022-ce33-402c-9c46-4bb812eac5c8",
@@ -55,7 +55,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:46:24+00:00"
+   "fetched_at": "2026-10-16T05:23:09+00:00"
   },
   "a8bb26da-6b75-4817-844c-009aaed5d476": {
    "product_id": "a8bb26da-6b75-4817-844c-009aaed5d476",
@@ -71,7 +71,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-10-15T05:46:21+00:00"
+   "fetched_at": "2026-10-16T05:23:06+00:00"
   },
   "3c1f2958-7690-4ddd-b973-bf72cc663f00": {
    "product_id": "3c1f2958-7690-4ddd-b973-bf72cc663f00",
@@ -135,7 +135,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:54+00:00"
+   "fetched_at": "2026-10-16T05:24:36+00:00"
   },
   "18552a8c-7114-4d87-865d-32e178c0f8ff": {
    "product_id": "18552a8c-7114-4d87-865d-32e178c0f8ff",
@@ -167,7 +167,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:48+00:00"
+   "fetched_at": "2026-10-16T05:24:27+00:00"
   },
   "a4527694-f06c-4311-93f7-4417a14c3128": {
    "product_id": "a4527694-f06c-4311-93f7-4417a14c3128",
@@ -199,7 +199,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:15+00:00"
+   "fetched_at": "2026-10-16T05:23:54+00:00"
   },
   "c12a16f8-ce46-4c75-954a-28a5a6f59fcc": {
    "product_id": "c12a16f8-ce46-4c75-954a-28a5a6f59fcc",
@@ -231,7 +231,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:21+00:00"
+   "fetched_at": "2026-10-16T05:24:00+00:00"
   },
   "86e649b6-bd98-4e8d-b147-ca5c65fb2298": {
    "product_id": "86e649b6-bd98-4e8d-b147-ca5c65fb2298",
@@ -247,7 +247,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:46:51+00:00"
+   "fetched_at": "2026-10-16T05:23:30+00:00"
   },
   "f20b8f08-9ac8-403f-a101-1f4244391d80": {
    "product_id": "f20b8f08-9ac8-403f-a101-1f4244391d80",
@@ -358,7 +358,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:46:54+00:00"
+   "fetched_at": "2026-10-16T05:23:33+00:00"
   },
   "ce9081e7-2821-4e98-8639-64698a109b82": {
    "product_id": "ce9081e7-2821-4e98-8639-64698a109b82",
@@ -390,7 +390,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:46:57+00:00"
+   "fetched_at": "2026-10-16T05:23:36+00:00"
   },
   "30116fa7-1dc5-406c-8ce1-5767c60264a2": {
    "product_id": "30116fa7-1dc5-406c-8ce1-5767c60264a2",
@@ -399,9 +399,9 @@
    "base": [
     {
      "name": "프로야구 스피리츠 2026",
-     "price": 63800,
+     "price": 39800,
      "regular": 70000,
-     "cut": 9,
+     "cut": 43,
      "sku": "c9f10d9e-1f99-4eb8-b88d-1a0b495971f7"
     }
    ],
@@ -414,7 +414,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:00+00:00"
+   "fetched_at": "2026-10-16T05:23:39+00:00"
   },
   "cd3500c1-2db8-4915-972b-9be4b92c28ec": {
    "product_id": "cd3500c1-2db8-4915-972b-9be4b92c28ec",
@@ -423,9 +423,9 @@
    "base": [
     {
      "name": "토탈 워: 워해머 3",
-     "price": 7900,
+     "price": 54000,
      "regular": 60000,
-     "cut": 87,
+     "cut": 10,
      "sku": "7a45eeca-2692-4e52-8f19-41825d2e3608"
     }
    ],
@@ -438,7 +438,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:03+00:00"
+   "fetched_at": "2026-10-16T05:23:42+00:00"
   },
   "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200": {
    "product_id": "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200",
@@ -470,7 +470,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:06+00:00"
+   "fetched_at": "2026-10-16T05:23:45+00:00"
   },
   "2139b954-cece-48b7-9356-803c130833a4": {
    "product_id": "2139b954-cece-48b7-9356-803c130833a4",
@@ -502,7 +502,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:09+00:00"
+   "fetched_at": "2026-10-16T05:23:48+00:00"
   },
   "a647bff7-44e6-49fe-86ed-8f59d936ee4e": {
    "product_id": "a647bff7-44e6-49fe-86ed-8f59d936ee4e",
@@ -534,7 +534,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:12+00:00"
+   "fetched_at": "2026-10-16T05:23:51+00:00"
   },
   "9f033b20-41af-437f-a672-14e8061f4efb": {
    "product_id": "9f033b20-41af-437f-a672-14e8061f4efb",
@@ -566,7 +566,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:18+00:00"
+   "fetched_at": "2026-10-16T05:23:57+00:00"
   },
   "a95163c3-2aab-4b69-923a-ad8fb27afb67": {
    "product_id": "a95163c3-2aab-4b69-923a-ad8fb27afb67",
@@ -582,7 +582,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-10-15T05:47:36+00:00"
+   "fetched_at": "2026-10-16T05:24:21+00:00"
   },
   "5dd43f61-df2d-4599-b4ab-850470f0f2f0": {
    "product_id": "5dd43f61-df2d-4599-b4ab-850470f0f2f0",
@@ -606,7 +606,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:39+00:00"
+   "fetched_at": "2026-10-16T05:24:24+00:00"
   },
   "c5b394d7-9470-4b24-99b3-71a2da926ebe": {
    "product_id": "c5b394d7-9470-4b24-99b3-71a2da926ebe",
@@ -781,7 +781,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:57+00:00"
+   "fetched_at": "2026-10-16T05:24:39+00:00"
   },
   "f72e96bd-1691-46b4-bef4-c70172c6635d": {
    "product_id": "f72e96bd-1691-46b4-bef4-c70172c6635d",
@@ -820,7 +820,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:48:00+00:00"
+   "fetched_at": "2026-10-16T05:24:42+00:00"
   },
   "2458af03-e862-4c13-86d1-b7539a5e1b33": {
    "product_id": "2458af03-e862-4c13-86d1-b7539a5e1b33",
@@ -852,7 +852,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:33+00:00"
+   "fetched_at": "2026-10-16T05:24:18+00:00"
   },
   "a0ef10ae-97fa-4db3-a703-89ac6e30773e": {
    "product_id": "a0ef10ae-97fa-4db3-a703-89ac6e30773e",
@@ -1019,7 +1019,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:30+00:00"
+   "fetched_at": "2026-10-16T05:24:15+00:00"
   },
   "98f159fa-f493-45c2-9206-bfececba31b3": {
    "product_id": "98f159fa-f493-45c2-9206-bfececba31b3",
@@ -1031,7 +1031,7 @@
      "price": 36800,
      "regular": 44800,
      "cut": 18,
-     "sku": "57bbb5ba-17c1-4509-846f-a74ff295a78a"
+     "sku": null
     }
    ],
    "editions": [],
@@ -1043,7 +1043,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:27+00:00"
+   "fetched_at": "2026-10-16T05:24:12+00:00"
   },
   "1ee61e21-6b6d-4cbe-8a2a-128e29660a5c": {
    "product_id": "1ee61e21-6b6d-4cbe-8a2a-128e29660a5c",
@@ -1075,11 +1075,75 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-15T05:47:24+00:00"
+   "fetched_at": "2026-10-16T05:24:09+00:00"
+  },
+  "b0011303-d279-40ae-a7ec-3b416a8a7e10": {
+   "product_id": "b0011303-d279-40ae-a7ec-3b416a8a7e10",
+   "url": "https://directg.net/game/game_view.html?product_id=b0011303-d279-40ae-a7ec-3b416a8a7e10",
+   "title": "파이널 판타지 레조넌스",
+   "base": [
+    {
+     "name": "파이널 판타지 레조넌스",
+     "price": 62800,
+     "regular": 62800,
+     "cut": 0,
+     "sku": "33948336-1add-414b-8238-3f63125e7a33"
+    }
+   ],
+   "editions": [
+    {
+     "name": "파이널 판타지 레조넌스 디지털 디럭스 에디션",
+     "price": 74800,
+     "regular": 74800,
+     "cut": 0,
+     "sku": "67067c6e-0b19-494b-bc8d-daf90e4aa88f"
+    }
+   ],
+   "appid_hint": 3259780,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-16T05:24:33+00:00"
+  },
+  "03aecfe1-d673-4820-a418-0f73da391e8f": {
+   "product_id": "03aecfe1-d673-4820-a418-0f73da391e8f",
+   "url": "https://directg.net/game/game_view.html?product_id=03aecfe1-d673-4820-a418-0f73da391e8f",
+   "title": "홀드패스트: 네이션스 앳 워",
+   "base": [
+    {
+     "name": "홀드패스트: 네이션스 앳 워",
+     "price": 10000,
+     "regular": 21500,
+     "cut": 53,
+     "sku": "5af7c87b-9894-45b7-b486-864be398170c"
+    }
+   ],
+   "editions": [
+    {
+     "name": "홀드패스트: 네이션스 앳 워 - 얼티밋 에디션",
+     "price": 58300,
+     "regular": 91000,
+     "cut": 36,
+     "sku": "55a7c9d8-7400-49e7-88d2-78943c9a58f1"
+    }
+   ],
+   "appid_hint": 589290,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-16T05:24:03+00:00"
   }
  },
  "last_run": {
-  "at": "2026-10-15T05:48:00+00:00",
+  "at": "2026-10-16T05:24:42+00:00",
   "ok": 38,
   "fail": 0,
   "limit": null
