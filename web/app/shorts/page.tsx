@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { games, isPublicOnYouTube, shorts } from "@/lib/data";
 import { kst } from "@/lib/format";
+import ShortsThumb from "@/components/ShortsThumb";
 
 export const metadata: Metadata = { title: "쇼츠", description: "국룰겜 스팀 할인 게임 쇼츠 모음" };
 // 2026-10-15 (사용자 "쇼츠 다른 페이지"): 쇼츠 전용 페이지. 유튜브 공개 여부를 30분마다 다시 확인.
@@ -31,9 +32,7 @@ export default async function ShortsPage() {
         {rows.map((v) => (
           <div key={v.video_id} className="card overflow-hidden">
             <a href={`https://www.youtube.com/shorts/${v.video_id}`} target="_blank" rel="noopener noreferrer" className="block relative" style={{ aspectRatio: "9 / 16" }}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={`https://i.ytimg.com/vi/${v.video_id}/oardefault.jpg`} alt="" className="absolute inset-0 w-full h-full object-cover"
-                onError={undefined} />
+              <ShortsThumb id={v.video_id} />
             </a>
             <div className="p-2.5 space-y-1.5">
               <a href={`https://www.youtube.com/shorts/${v.video_id}`} target="_blank" rel="noopener noreferrer" className="font-bold text-sm hover:underline line-clamp-2">{v.title.replace(/\s*#Shorts\s*$/i, "")}</a>
