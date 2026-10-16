@@ -17,7 +17,7 @@ export default function GameCard({ deal, note, position }: { deal: Deal; note?: 
   const rankTitle = g.steam_rank != null ? `스팀 판매 순위 ${g.steam_rank}위` : undefined;
   // 2026-10-16 (사용자 "모바일에 두 개씩 두 줄로"): md 미만(폰)은 2열 격자 + 세로 카드(그림 위, 글 아래), md 이상은 예전 가로 카드
   return (
-    <Link href={`/game/${g.appid}`} scroll={false} className="card flex flex-col md:flex-row h-full gap-2 md:gap-3 p-2 md:p-3 hover:shadow-md transition-shadow">
+    <Link href={`/game/${g.appid}`} scroll={false} className="card min-w-0 overflow-hidden flex flex-col md:flex-row h-full gap-2 md:gap-3 p-2 md:p-3 hover:shadow-md transition-shadow">
       {g.header_image && (
         <div className="relative w-full md:w-36 shrink-0 aspect-[460/215] md:self-center rounded-lg overflow-hidden">
           <Image src={g.header_image} alt="" fill sizes="(max-width: 768px) 50vw, 144px" quality={85} className="object-cover" />
@@ -35,7 +35,8 @@ export default function GameCard({ deal, note, position }: { deal: Deal; note?: 
           )}
           {/* 폰 2열에서는 이름을 두 줄까지(넘치면 …), md 이상은 한 줄 */}
           <span className="w-full md:w-auto font-bold text-sm md:text-base min-w-0 break-words line-clamp-2 md:block md:whitespace-nowrap md:text-ellipsis">{g.name}</span>
-          <span className="shrink-0 flex flex-wrap items-center gap-1">
+          {/* 폰 2열에서 배지 두 개 + 찜이 칸 밖으로 삐져나와 화면이 옆으로 밀리던 것 → 폰에서는 줄여서 칸 안에서 줄바꿈 */}
+          <span className="max-w-full md:shrink-0 flex flex-wrap items-center gap-1">
             <VerdictBadge verdict={p.verdict} kind={kindOf(p, g)} size="sm" />
             {p.tags.includes("korea_warning") && <span className="inline-flex items-center rounded-full px-2 py-0.5 text-xs md:px-3 md:py-1 md:text-sm font-bold leading-none" style={{ background: "#fee2e2", color: "#b91c1c" }}>{TAG.korea_warning}</span>}
             <WishButton appid={g.appid} />
