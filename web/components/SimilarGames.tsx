@@ -23,8 +23,8 @@ export default function SimilarGames({ appid, genres, price }: { appid: number; 
   if (scored.length === 0) return null;
   return (
     <section className="card p-4 sm:p-5 space-y-3">
-      <div className="flex items-baseline justify-between gap-2">
-        <h2 className="text-lg font-bold">이 게임 봤으면 이것도</h2>
+      <div className="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-0.5 sm:gap-2">
+        <h2 className="text-lg font-bold whitespace-nowrap">이 게임 봤으면 이것도</h2>
         <span className="text-xs muted">같은 장르 · 비슷한 가격 · 할인 중</span>
       </div>
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-3">

@@ -40,7 +40,8 @@ def _epic() -> list[dict]:
             continue
         mappings = (e.get("catalogNs") or {}).get("mappings") or []
         slug = mappings[0]["pageSlug"] if mappings else (e.get("productSlug") or e.get("urlSlug") or "")
-        images = {i.get("type"): i.get("url") for i in e.get("keyImages") or []}
+        # 원본은 3MB 넘는 PNG 라 폰에서 안 뜸 → 에픽 CDN 리사이즈 옵션으로 480px 짜리 받음
+        images = {i.get("type"): (i.get("url") or "") + "?resize=1&w=480&quality=medium" for i in e.get("keyImages") or [] if i.get("url")}
         price = ((e.get("price") or {}).get("totalPrice") or {}).get("originalPrice")
         out.append({
             "source": "epic", "title": e.get("title"), "status": status,
