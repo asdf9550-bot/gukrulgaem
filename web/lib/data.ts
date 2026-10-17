@@ -137,6 +137,10 @@ export interface Upcoming {
   appid: number; name: string; release_text: string; release_at: string | null; release_precision: "day" | "month" | "quarter" | "year" | "unknown";
   price: number | null; korean_support: KoreanSupport; genres: string[]; header_image: string | null; platforms: string[];
   short_description: string | null; developers: string[]; steam_url: string; popular_rank: number | null; wishlist_rank: number | null;
+  // 예약 구매자 먼저 플레이(어드밴스 액세스). 출시 60일 안 게임만 채워짐
+  advance_access?: boolean; advance_live?: boolean;
+  advance_editions?: { name: string; price: number; early: boolean }[];
+  advance_dates?: { label: string; at: string }[];
 }
 export interface RecentRelease {
   appid: number; name: string; release_at: string; sales_rank: number; price: number | null; regular_price: number | null; discount_pct: number;

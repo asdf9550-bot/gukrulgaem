@@ -125,8 +125,22 @@ export default function UpcomingPage() {
                     <div className="flex flex-wrap gap-1 text-[11px] md:text-xs">
                       <span className="rounded-full px-2 py-0.5 font-bold" style={KO_TONE[it.korean_support]}>{SUPPORT[it.korean_support]}</span>
                       <span className="rounded-full px-2 py-0.5" style={{ background: "var(--line)" }}>{it.price == null ? "가격 미정" : it.price === 0 ? "무료" : won(it.price)}</span>
+                      {it.advance_access && (
+                        <span className="rounded-full px-2 py-0.5 font-bold" style={it.advance_live ? { background: "#dcfce7", color: "#15803d" } : { background: "#fef3c7", color: "#b45309" }}>
+                          {it.advance_live ? "예약자 먼저 플레이 중" : "예약하면 먼저 플레이"}
+                        </span>
+                      )}
                       {it.genres.slice(0, 2).map((g) => <span key={g} className="rounded-full px-2 py-0.5 muted" style={{ background: "var(--line)" }}>{g}</span>)}
                     </div>
+                    {/* 2026-10-17: 어드밴스 액세스 상세 — 먼저 플레이 날짜와 되는 에디션(가장 싼 것) */}
+                    {it.advance_access && ((it.advance_dates?.length ?? 0) > 0 || (it.advance_editions?.length ?? 0) > 0) && (
+                      <p className="text-[11px] md:text-xs muted">
+                        {it.advance_dates?.map((d) => `${d.label} ${fmt(d.at, { month: "numeric", day: "numeric" })}~`).join(" · ")}
+                        {it.advance_editions && it.advance_editions.some((e) => e.early) && (
+                          <>{it.advance_dates?.length ? " · " : ""}먼저 플레이 되는 에디션 {won(Math.min(...it.advance_editions.filter((e) => e.early).map((e) => e.price)))}부터 · 미리 하면 2시간 넘겨 환불 어려움</>
+                        )}
+                      </p>
+                    )}
                   </div>
                 </a>
               );

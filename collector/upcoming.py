@@ -79,6 +79,44 @@ def _details(appid: int, rules: dict) -> dict | None:
     }
 
 
+STORE_PAGE = "https://store.steampowered.com/app/{appid}/?l=koreana&cc=kr"
+ADVANCE_DAYS = 60    # 출시 60일 안인 게임만 상점 페이지를 읽음(페이지 읽기는 느려서)
+
+
+def _advance(appid: int, release_year: int | None, rules: dict) -> dict:
+    """예약 구매자 먼저 플레이(어드밴스 액세스) — 2026-10-17 사용자 "콜 오브 듀티는 예약한 사람만 먼저 하게 하는데?".
+    상점 페이지의 구매 칸마다 '이 에디션을 구매하고 정식 출시 전에 게임을 플레이하세요' 문구가 있으면 그 에디션이 먼저 플레이 가능.
+    설명 속 '캠페인 얼리 액세스, 10월 17일 시작' 같은 날짜도 뽑는다."""
+    import html as html_mod
+    import time
+    from urllib.request import Request, urlopen
+    time.sleep(rules["steam_request_interval_sec"])
+    req = Request(STORE_PAGE.format(appid=appid), headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "ko",
+                                                          "Cookie": "birthtime=0; wants_mature_content=1"})
+    with urlopen(req, timeout=30) as r:
+        page = r.read().decode("utf-8", errors="replace")
+    strip = lambda s: re.sub(r"\s+", " ", html_mod.unescape(re.sub(r"<[^>]+>", " ", s))).strip()
+    editions = []
+    for block in re.findall(r'<div class="game_area_purchase_game[^"]*"[^>]*>([\s\S]*?)(?=<div class="game_area_purchase_game|<div id="game_area_description)', page):
+        t = strip(block)
+        m = re.match(r"(.+?)\s+(?:예약 구매|구매)\s", t)
+        price = re.search(r"₩\s*([\d,]+)", t)
+        if not m or not price:
+            continue
+        editions.append({"name": m.group(1).strip(), "price": int(price.group(1).replace(",", "")),
+                         "early": "정식 출시 전에 게임을 플레이" in t})
+    early = [e for e in editions if e["early"]]
+    dates = []
+    desc = re.search(r'<div id="game_area_description"[\s\S]*?</div>\s*</div>', page)
+    if desc and release_year:
+        for label, month, day in re.findall(r"([가-힣A-Za-z0-9 ]{2,20}?)\s*얼리 액세스[,:]?\s*(\d{1,2})월\s*(\d{1,2})일", strip(desc.group(0))):
+            dates.append({"label": label.strip(), "at": f"{release_year}-{int(month):02d}-{int(day):02d}"})
+    text = strip(page)   # 문구 사이에 태그가 끼어 있어 글자만 남기고 찾음
+    return {"advance_access": bool(early) or "어드밴스 액세스" in text,
+            "advance_live": bool(re.search(r"어드밴스 액세스\s*지금 진행 중", text)),
+            "advance_editions": editions if early else [], "advance_dates": dates}
+
+
 RECENT_DAYS = 45
 REVIEWS = "https://store.steampowered.com/appreviews/{appid}"
 
@@ -155,6 +193,11 @@ def run(log=print, limit: int = 120) -> dict:
         if row:
             row["popular_rank"] = popular.get(appid)
             row["wishlist_rank"] = wishlist.get(appid)
+            if row["release_at"] and row["release_precision"] == "day" and 0 <= (date.fromisoformat(row["release_at"]) - date.today()).days <= ADVANCE_DAYS:
+                try:
+                    row.update(_advance(appid, int(row["release_at"][:4]), rules))
+                except Exception as error:
+                    log(f"  먼저 플레이 확인 실패 {appid}: {str(error)[:80]}")
             items.append(row)
     today = date.today().isoformat()
     items = [i for i in items if not (i["release_at"] and i["release_precision"] == "day" and i["release_at"] < today)]
