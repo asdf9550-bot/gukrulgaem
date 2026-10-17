@@ -214,6 +214,11 @@ def main(argv=None) -> int:
             print(f"무료 게임: {free_games.run()}")
         except Exception as error:
             print(f"무료 게임 실패: {error}", file=sys.stderr)
+        try:
+            from . import upcoming
+            print(f"출시 예정 신작: {upcoming.run()}")
+        except Exception as error:
+            print(f"출시 예정 신작 실패: {error}", file=sys.stderr)
     if args.table:
         print(); print(table(games, prices))
     print(f"\n완료: 게임 {len(games)}개, 건너뜀 {len(skipped)}개, 오류 {len(errors)}개")

@@ -46,6 +46,7 @@ export default function RootLayout({ children, modal }: { children: React.ReactN
             <Link href="/" className="muted hover:underline">이번 주 할인</Link>
             <Link href="/rank" className="muted hover:underline">순위</Link>
             <Link href="/calendar" className="muted hover:underline">달력</Link>
+            <Link href="/upcoming" className="muted hover:underline">신작</Link>
             <Link href="/wish" className="muted hover:underline">♡ 찜</Link>
             <Link href="/me" className="muted hover:underline">메일 알림</Link>
             <Link href="/about" className="muted hover:underline">판정 기준</Link>

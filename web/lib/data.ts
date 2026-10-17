@@ -132,6 +132,19 @@ function read<T>(name: string): T[] {
 
 export const games = (): Game[] => read<Game>("games");
 
+// 2026-10-17: 출시 예정 신작(collector/upcoming.py). 사이트 /upcoming
+export interface Upcoming {
+  appid: number; name: string; release_text: string; release_at: string | null; release_precision: "day" | "month" | "quarter" | "year" | "unknown";
+  price: number | null; korean_support: KoreanSupport; genres: string[]; header_image: string | null; platforms: string[];
+  short_description: string | null; developers: string[]; steam_url: string; popular_rank: number | null; wishlist_rank: number | null;
+}
+export function upcoming(): { updated_at: string | null; items: Upcoming[] } {
+  const file = path.join(dataDir(), "upcoming.json");
+  if (!fs.existsSync(file)) return { updated_at: null, items: [] };
+  const d = JSON.parse(fs.readFileSync(file, "utf-8")) as { updated_at?: string; items?: Upcoming[] };
+  return { updated_at: d.updated_at ?? null, items: d.items ?? [] };
+}
+
 // 2026-10-16: 지금 무료인 게임(에픽 주간 무료 + 스팀 100% 할인). collector/free_games.py 가 만든다.
 export interface FreeGame { source: "epic" | "steam"; title: string; status: "now" | "upcoming"; start: string | null; end: string | null; url: string; image: string | null; regular_price_krw: number | null; appid?: number }
 export function freeGames(): FreeGame[] {
