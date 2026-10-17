@@ -32,7 +32,9 @@ export default function UpcomingPage() {
   const now = Date.now();
   const { updated_at, items } = upcoming();
   const groups = new Map<string, Upcoming[]>();
-  for (const it of items) { const k = bucket(it, now); groups.set(k, [...(groups.get(k) ?? []), it]); }
+  // 묶음 안에서는 찜 많은 순(기대작 먼저), 찜 순위 없는 건 뒤로
+  const rank = (it: Upcoming) => (it.wishlist_rank ?? 999) * 1000 + (it.popular_rank ?? 999);
+  for (const it of [...items].sort((a, b) => rank(a) - rank(b))) { const k = bucket(it, now); groups.set(k, [...(groups.get(k) ?? []), it]); }
   const keys = [...groups.keys()].sort((a, b) => {
     const ia = ORDER.indexOf(a), ib = ORDER.indexOf(b);
     if (a === "날짜 미정") return 1; if (b === "날짜 미정") return -1;

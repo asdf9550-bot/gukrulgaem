@@ -83,9 +83,10 @@ def run(log=print, limit: int = 120) -> dict:
     rules = load_rules()
     popular = _ranked("popularcomingsoon", rules)
     wishlist = _ranked("popularwishlist", rules)
-    ids = list(popular)
-    for appid in wishlist:
-        if appid not in popular:
+    # 찜 순위(기대작) 100개를 먼저, '인기 출시 예정'은 상위 30개만 보탬 — 후자는 이번 주 나오는 작은 인디가 대부분이라(2026-10-17 확인)
+    ids = list(wishlist)
+    for appid in list(popular)[:30]:
+        if appid not in wishlist:
             ids.append(appid)
     items, failed = [], 0
     for appid in ids[:limit]:
@@ -101,7 +102,7 @@ def run(log=print, limit: int = 120) -> dict:
             items.append(row)
     today = date.today().isoformat()
     items = [i for i in items if not (i["release_at"] and i["release_precision"] == "day" and i["release_at"] < today)]
-    items.sort(key=lambda i: (i["release_at"] or "9999", i["wishlist_rank"] or 999))
+    items.sort(key=lambda i: (i["release_at"] or "9999", i["wishlist_rank"] or 999, i["popular_rank"] or 999))
     DATA.mkdir(exist_ok=True)
     PATH.write_text(json.dumps({"updated_at": now_iso(), "items": items}, ensure_ascii=False, indent=1), encoding="utf-8")
     return {"items": len(items), "failed": failed, "popular": len(popular), "wishlist": len(wishlist)}
