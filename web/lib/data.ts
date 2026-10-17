@@ -138,11 +138,16 @@ export interface Upcoming {
   price: number | null; korean_support: KoreanSupport; genres: string[]; header_image: string | null; platforms: string[];
   short_description: string | null; developers: string[]; steam_url: string; popular_rank: number | null; wishlist_rank: number | null;
 }
-export function upcoming(): { updated_at: string | null; items: Upcoming[] } {
+export interface RecentRelease {
+  appid: number; name: string; release_at: string; sales_rank: number; price: number | null; regular_price: number | null; discount_pct: number;
+  korean_support: KoreanSupport; genres: string[]; header_image: string | null; platforms: string[];
+  reviews_all: number; positive_all: number; review_desc: string | null; steam_url: string;
+}
+export function upcoming(): { updated_at: string | null; items: Upcoming[]; recent: RecentRelease[] } {
   const file = path.join(dataDir(), "upcoming.json");
-  if (!fs.existsSync(file)) return { updated_at: null, items: [] };
-  const d = JSON.parse(fs.readFileSync(file, "utf-8")) as { updated_at?: string; items?: Upcoming[] };
-  return { updated_at: d.updated_at ?? null, items: d.items ?? [] };
+  if (!fs.existsSync(file)) return { updated_at: null, items: [], recent: [] };
+  const d = JSON.parse(fs.readFileSync(file, "utf-8")) as { updated_at?: string; items?: Upcoming[]; recent?: RecentRelease[] };
+  return { updated_at: d.updated_at ?? null, items: d.items ?? [], recent: d.recent ?? [] };
 }
 
 // 2026-10-16: 지금 무료인 게임(에픽 주간 무료 + 스팀 100% 할인). collector/free_games.py 가 만든다.

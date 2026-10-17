@@ -79,6 +79,62 @@ def _details(appid: int, rules: dict) -> dict | None:
     }
 
 
+RECENT_DAYS = 45
+REVIEWS = "https://store.steampowered.com/appreviews/{appid}"
+
+
+def _recent(rules: dict, log=print, limit: int = 40) -> list[dict]:
+    """최근 출시작(2026-10-17 사용자 "최근 출시작도"): 판매 순 차트 400개 중 45일 안에 나온 게임. 평가(전체 리뷰 수·긍정률)도 같이."""
+    today = date.today()
+    rows: list[dict] = []
+    for start in range(0, 400, 50):
+        data = get_json(SEARCH, {"filter": "topsellers", "category1": 998, "cc": "KR", "l": "koreana", "infinite": 1, "json": 1, "start": start, "count": 50},
+                        host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"])
+        html = (data or {}).get("results_html") or ""
+        for m in re.finditer(r'data-ds-appid="(\d+)"[\s\S]*?search_released[^>]*>\s*([^<]*?)\s*<', html):
+            d = re.search(r"(\d{4})년\s*(\d{1,2})월\s*(\d{1,2})일", m.group(2))
+            if not d:
+                continue
+            released = date(int(d.group(1)), int(d.group(2)), int(d.group(3)))
+            if 0 <= (today - released).days <= RECENT_DAYS:
+                rows.append({"appid": int(m.group(1)), "release_at": released.isoformat(), "sales_rank": len(rows) + 1 + start * 0})
+        if len(rows) >= limit:
+            break
+    seen, out = set(), []
+    for r in rows:
+        if r["appid"] in seen:
+            continue
+        seen.add(r["appid"])
+        try:
+            data = get_json(APPDETAILS, {"appids": r["appid"], "cc": "kr", "l": "koreana"},
+                            host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"])
+            d = ((data or {}).get(str(r["appid"])) or {}).get("data")
+            if not d or d.get("type") != "game":
+                continue
+            rv = get_json(REVIEWS.format(appid=r["appid"]), {"json": 1, "language": "all", "purchase_type": "all", "num_per_page": 0},
+                          host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"])
+            s = (rv or {}).get("query_summary") or {}
+            po = d.get("price_overview")
+            plat = d.get("platforms") or {}
+            out.append({
+                "appid": r["appid"], "name": display_title(d.get("name", "")), "release_at": r["release_at"], "sales_rank": len(out) + 1,
+                "price": int(round(po["final"] / 100)) if po and po.get("currency") == "KRW" else (0 if d.get("is_free") else None),
+                "regular_price": int(round(po["initial"] / 100)) if po and po.get("currency") == "KRW" else None,
+                "discount_pct": int((po or {}).get("discount_percent") or 0),
+                "korean_support": korean_support(d.get("supported_languages", "")),
+                "genres": [g.get("description", "") for g in d.get("genres", []) if g.get("description")],
+                "header_image": d.get("header_image"), "platforms": [k for k in ("windows", "mac", "linux") if plat.get(k)],
+                "reviews_all": int(s.get("total_reviews") or 0), "positive_all": int(s.get("total_positive") or 0),
+                "review_desc": s.get("review_score_desc"),
+                "steam_url": f"https://store.steampowered.com/app/{r['appid']}/",
+            })
+        except Exception as error:
+            log(f"  최근 출시 {r['appid']} 실패: {str(error)[:100]}")
+        if len(out) >= limit:
+            break
+    return out
+
+
 def run(log=print, limit: int = 120) -> dict:
     rules = load_rules()
     popular = _ranked("popularcomingsoon", rules)
@@ -103,9 +159,10 @@ def run(log=print, limit: int = 120) -> dict:
     today = date.today().isoformat()
     items = [i for i in items if not (i["release_at"] and i["release_precision"] == "day" and i["release_at"] < today)]
     items.sort(key=lambda i: (i["release_at"] or "9999", i["wishlist_rank"] or 999, i["popular_rank"] or 999))
+    recent = _recent(rules, log)
     DATA.mkdir(exist_ok=True)
-    PATH.write_text(json.dumps({"updated_at": now_iso(), "items": items}, ensure_ascii=False, indent=1), encoding="utf-8")
-    return {"items": len(items), "failed": failed, "popular": len(popular), "wishlist": len(wishlist)}
+    PATH.write_text(json.dumps({"updated_at": now_iso(), "items": items, "recent": recent}, ensure_ascii=False, indent=1), encoding="utf-8")
+    return {"items": len(items), "recent": len(recent), "failed": failed, "popular": len(popular), "wishlist": len(wishlist)}
 
 
 if __name__ == "__main__":
