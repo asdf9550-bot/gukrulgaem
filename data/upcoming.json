@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T10:36:26+00:00",
+ "updated_at": "2026-10-17T17:38:26+00:00",
  "items": [
   {
    "appid": 4534960,
@@ -152,7 +152,7 @@
     "FindTheNeedleDev"
    ],
    "steam_url": "https://store.steampowered.com/app/5160800/",
-   "popular_rank": 24,
+   "popular_rank": 25,
    "wishlist_rank": null
   },
   {
@@ -297,7 +297,7 @@
     " Magic Fuel Games"
    ],
    "steam_url": "https://store.steampowered.com/app/3469910/",
-   "popular_rank": 25,
+   "popular_rank": 24,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -417,7 +417,7 @@
    ],
    "steam_url": "https://store.steampowered.com/app/4435490/",
    "popular_rank": 1,
-   "wishlist_rank": 48,
+   "wishlist_rank": 46,
    "advance_access": true,
    "advance_live": true,
    "advance_editions": [
@@ -508,34 +508,6 @@
    "advance_dates": []
   },
   {
-   "appid": 3905010,
-   "name": "원피스 그랜드 레스토랑",
-   "release_text": "2026년 10월 22일",
-   "release_at": "2026-10-22",
-   "release_precision": "day",
-   "price": 19800,
-   "korean_support": "sub",
-   "genres": [
-    "캐주얼",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905010/8d55625509593eebd6521d262e80016f5840a0b2/header_koreana.jpg?t=1789090874",
-   "platforms": [
-    "windows"
-   ],
-   "short_description": "밀짚모자 일당과 발라티에 2호점을 경영! 작은 배에서 시작하는 당신만의 해상 레스토랑. 식재료를 모아 새로운 메뉴를 개발하거나, 점내 인테리어를 자유롭게 꾸미거나…. 가게를 가꿀수록 “그” 캐릭터도 단골이 될 정도로 활기 넘치는 가게로 성장합니다. 동료와 단골이 늘어날수록 당신의 레스토랑은 바다에서도 알아주는 유명 가게가 됩니다! 「원피스」 캐릭터들이 줄을 서는 해상 레스토랑, 오늘 오픈!",
-   "developers": [
-    "Kairosoft Co.,Ltd"
-   ],
-   "steam_url": "https://store.steampowered.com/app/3905010/",
-   "popular_rank": 13,
-   "wishlist_rank": null,
-   "advance_access": false,
-   "advance_live": false,
-   "advance_editions": [],
-   "advance_dates": []
-  },
-  {
    "appid": 4413070,
    "name": "つみみじかん ～狂オシイホド愛シテル～",
    "release_text": "2026년 10월 22일",
@@ -556,6 +528,34 @@
     "Tohakusha Inc."
    ],
    "steam_url": "https://store.steampowered.com/app/4413070/",
+   "popular_rank": 13,
+   "wishlist_rank": null,
+   "advance_access": false,
+   "advance_live": false,
+   "advance_editions": [],
+   "advance_dates": []
+  },
+  {
+   "appid": 3905010,
+   "name": "원피스 그랜드 레스토랑",
+   "release_text": "2026년 10월 22일",
+   "release_at": "2026-10-22",
+   "release_precision": "day",
+   "price": 19800,
+   "korean_support": "sub",
+   "genres": [
+    "캐주얼",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905010/8d55625509593eebd6521d262e80016f5840a0b2/header_koreana.jpg?t=1789090874",
+   "platforms": [
+    "windows"
+   ],
+   "short_description": "밀짚모자 일당과 발라티에 2호점을 경영! 작은 배에서 시작하는 당신만의 해상 레스토랑. 식재료를 모아 새로운 메뉴를 개발하거나, 점내 인테리어를 자유롭게 꾸미거나…. 가게를 가꿀수록 “그” 캐릭터도 단골이 될 정도로 활기 넘치는 가게로 성장합니다. 동료와 단골이 늘어날수록 당신의 레스토랑은 바다에서도 알아주는 유명 가게가 됩니다! 「원피스」 캐릭터들이 줄을 서는 해상 레스토랑, 오늘 오픈!",
+   "developers": [
+    "Kairosoft Co.,Ltd"
+   ],
+   "steam_url": "https://store.steampowered.com/app/3905010/",
    "popular_rank": 14,
    "wishlist_rank": null,
    "advance_access": false,
@@ -616,7 +616,7 @@
     "DragDrop Games"
    ],
    "steam_url": "https://store.steampowered.com/app/5335510/",
-   "popular_rank": 17,
+   "popular_rank": 15,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -646,7 +646,7 @@
     "Rafoli"
    ],
    "steam_url": "https://store.steampowered.com/app/4312190/",
-   "popular_rank": 15,
+   "popular_rank": 16,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -858,7 +858,7 @@
    ],
    "steam_url": "https://store.steampowered.com/app/3629430/",
    "popular_rank": 21,
-   "wishlist_rank": 86,
+   "wishlist_rank": 85,
    "advance_access": false,
    "advance_live": false,
    "advance_editions": [],
@@ -887,7 +887,7 @@
     "Sports Interactive"
    ],
    "steam_url": "https://store.steampowered.com/app/4530370/",
-   "popular_rank": 16,
+   "popular_rank": 17,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -940,7 +940,7 @@
    ],
    "steam_url": "https://store.steampowered.com/app/3161310/",
    "popular_rank": null,
-   "wishlist_rank": 46,
+   "wishlist_rank": 47,
    "advance_access": false,
    "advance_live": false,
    "advance_editions": [],
@@ -1282,7 +1282,7 @@
    ],
    "steam_url": "https://store.steampowered.com/app/2439280/",
    "popular_rank": null,
-   "wishlist_rank": 47
+   "wishlist_rank": 48
   },
   {
    "appid": 2318330,
@@ -1604,7 +1604,7 @@
    ],
    "steam_url": "https://store.steampowered.com/app/2590240/",
    "popular_rank": null,
-   "wishlist_rank": 15
+   "wishlist_rank": 14
   },
   {
    "appid": 2849490,
@@ -1850,7 +1850,7 @@
     "Valve"
    ],
    "steam_url": "https://store.steampowered.com/app/1422450/",
-   "popular_rank": 74,
+   "popular_rank": 78,
    "wishlist_rank": 1
   },
   {
@@ -2027,7 +2027,7 @@
    ],
    "steam_url": "https://store.steampowered.com/app/2381520/",
    "popular_rank": null,
-   "wishlist_rank": 14
+   "wishlist_rank": 15
   },
   {
    "appid": 3292470,
@@ -2996,7 +2996,7 @@
    ],
    "steam_url": "https://store.steampowered.com/app/1416070/",
    "popular_rank": null,
-   "wishlist_rank": 85
+   "wishlist_rank": 86
   },
   {
    "appid": 4614080,
@@ -3203,8 +3203,8 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 123089,
-   "positive_all": 89242,
+   "reviews_all": 123733,
+   "positive_all": 89433,
    "review_desc": "Mostly Positive",
    "steam_url": "https://store.steampowered.com/app/1867240/"
   },
@@ -3230,8 +3230,8 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 26140,
-   "positive_all": 19113,
+   "reviews_all": 26212,
+   "positive_all": 19168,
    "review_desc": "Mostly Positive",
    "steam_url": "https://store.steampowered.com/app/4126040/"
   },
@@ -3254,82 +3254,60 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 108098,
-   "positive_all": 92854,
+   "reviews_all": 108242,
+   "positive_all": 92963,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/1203620/"
   },
   {
-   "appid": 2288340,
-   "name": "에이스 컴뱃 8: 시브의 날개",
-   "release_at": "2026-10-01",
+   "appid": 2638890,
+   "name": "귀무자 Way of the Sword",
+   "release_at": "2026-09-03",
    "sales_rank": 4,
-   "price": 89800,
-   "regular_price": 89800,
+   "price": 79800,
+   "regular_price": 79800,
    "discount_pct": 0,
    "korean_support": "sub",
    "genres": [
-    "액션"
+    "액션",
+    "어드벤처",
+    "RPG"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1792128424",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1790383151",
    "platforms": [
     "windows"
    ],
-   "reviews_all": 21027,
-   "positive_all": 17590,
+   "reviews_all": 29662,
+   "positive_all": 26993,
    "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/2288340/"
+   "steam_url": "https://store.steampowered.com/app/2638890/"
   },
   {
-   "appid": 4656000,
-   "name": "BOMBANANA!",
-   "release_at": "2026-09-02",
+   "appid": 4356430,
+   "name": "NBA 2K27",
+   "release_at": "2026-09-03",
    "sales_rank": 5,
-   "price": 5220,
-   "regular_price": 8700,
-   "discount_pct": 40,
+   "price": 59360,
+   "regular_price": 84800,
+   "discount_pct": 30,
    "korean_support": "sub",
    "genres": [
-    "캐주얼",
-    "인디"
+    "스포츠"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
-   "platforms": [
-    "windows",
-    "mac"
-   ],
-   "reviews_all": 4245,
-   "positive_all": 4091,
-   "review_desc": "Overwhelmingly Positive",
-   "steam_url": "https://store.steampowered.com/app/4656000/"
-  },
-  {
-   "appid": 3219030,
-   "name": "플래닛 주 2",
-   "release_at": "2026-10-13",
-   "sales_rank": 6,
-   "price": 51500,
-   "regular_price": 51500,
-   "discount_pct": 0,
-   "korean_support": "voice_sub",
-   "genres": [
-    "시뮬레이션",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/09222bdf6acfa52881f379fadaa7efcd84921db5/header_koreana.jpg?t=1791984269",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1792163139",
    "platforms": [
     "windows"
    ],
-   "reviews_all": 3666,
-   "positive_all": 2389,
+   "reviews_all": 3721,
+   "positive_all": 1839,
    "review_desc": "Mixed",
-   "steam_url": "https://store.steampowered.com/app/3219030/"
+   "steam_url": "https://store.steampowered.com/app/4356430/"
   },
   {
    "appid": 4019220,
    "name": "Dressmaker",
    "release_at": "2026-09-21",
-   "sales_rank": 7,
+   "sales_rank": 6,
    "price": 16000,
    "regular_price": 16000,
    "discount_pct": 0,
@@ -3343,37 +3321,16 @@
     "windows",
     "mac"
    ],
-   "reviews_all": 16141,
-   "positive_all": 15905,
+   "reviews_all": 16235,
+   "positive_all": 15998,
    "review_desc": "Overwhelmingly Positive",
    "steam_url": "https://store.steampowered.com/app/4019220/"
-  },
-  {
-   "appid": 4356430,
-   "name": "NBA 2K27",
-   "release_at": "2026-09-03",
-   "sales_rank": 8,
-   "price": 59360,
-   "regular_price": 84800,
-   "discount_pct": 30,
-   "korean_support": "sub",
-   "genres": [
-    "스포츠"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1792163139",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 3696,
-   "positive_all": 1827,
-   "review_desc": "Mixed",
-   "steam_url": "https://store.steampowered.com/app/4356430/"
   },
   {
    "appid": 4080220,
    "name": "EA SPORTS FC 27",
    "release_at": "2026-09-24",
-   "sales_rank": 9,
+   "sales_rank": 7,
    "price": 80000,
    "regular_price": 80000,
    "discount_pct": 0,
@@ -3386,37 +3343,77 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 10037,
-   "positive_all": 5038,
+   "reviews_all": 10131,
+   "positive_all": 5072,
    "review_desc": "Mixed",
    "steam_url": "https://store.steampowered.com/app/4080220/"
   },
   {
-   "appid": 2929250,
-   "name": "over the hill",
-   "release_at": "2026-10-14",
-   "sales_rank": 10,
-   "price": 34320,
-   "regular_price": 42900,
-   "discount_pct": 20,
+   "appid": 3219030,
+   "name": "플래닛 주 2",
+   "release_at": "2026-10-13",
+   "sales_rank": 8,
+   "price": 51500,
+   "regular_price": 51500,
+   "discount_pct": 0,
+   "korean_support": "voice_sub",
+   "genres": [
+    "시뮬레이션",
+    "전략"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/09222bdf6acfa52881f379fadaa7efcd84921db5/header_koreana.jpg?t=1791984269",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 3859,
+   "positive_all": 2484,
+   "review_desc": "Mixed",
+   "steam_url": "https://store.steampowered.com/app/3219030/"
+  },
+  {
+   "appid": 2288340,
+   "name": "에이스 컴뱃 8: 시브의 날개",
+   "release_at": "2026-10-01",
+   "sales_rank": 9,
+   "price": 89800,
+   "regular_price": 89800,
+   "discount_pct": 0,
    "korean_support": "sub",
    "genres": [
-    "어드벤처",
+    "액션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1792128424",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 21160,
+   "positive_all": 17707,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/2288340/"
+  },
+  {
+   "appid": 4968640,
+   "name": "Japanese Ramen Simulator",
+   "release_at": "2026-10-09",
+   "sales_rank": 10,
+   "price": 13600,
+   "regular_price": 16000,
+   "discount_pct": 15,
+   "korean_support": "sub",
+   "genres": [
     "캐주얼",
     "인디",
-    "레이싱",
     "시뮬레이션",
-    "스포츠"
+    "앞서 해보기"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792002879",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1792165212",
    "platforms": [
-    "windows",
-    "linux"
+    "windows"
    ],
-   "reviews_all": 1825,
-   "positive_all": 1691,
+   "reviews_all": 450,
+   "positive_all": 413,
    "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/2929250/"
+   "steam_url": "https://store.steampowered.com/app/4968640/"
   },
   {
    "appid": 3569420,
@@ -3435,86 +3432,16 @@
     "windows",
     "mac"
    ],
-   "reviews_all": 282,
-   "positive_all": 245,
+   "reviews_all": 326,
+   "positive_all": 272,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/3569420/"
-  },
-  {
-   "appid": 4732690,
-   "name": "명일방주: 엔드필드",
-   "release_at": "2026-10-14",
-   "sales_rank": 12,
-   "price": 0,
-   "regular_price": null,
-   "discount_pct": 0,
-   "korean_support": "voice_sub",
-   "genres": [
-    "액션",
-    "어드벤처",
-    "RPG",
-    "무료 플레이"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/ed487f42cdb02034d09b2df96eca5eb42d1d234e/header_koreana.jpg?t=1792035845",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 1540,
-   "positive_all": 1336,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4732690/"
-  },
-  {
-   "appid": 3470960,
-   "name": "테일즈 오브 이터니아 리마스터",
-   "release_at": "2026-10-15",
-   "sales_rank": 13,
-   "price": 39800,
-   "regular_price": 39800,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "액션",
-    "RPG"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3470960/de592ac933cc89211e58cc6af54998f2b4c17bb2/header_koreana.jpg?t=1792128138",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 101,
-   "positive_all": 89,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/3470960/"
-  },
-  {
-   "appid": 4968640,
-   "name": "Japanese Ramen Simulator",
-   "release_at": "2026-10-09",
-   "sales_rank": 14,
-   "price": 13600,
-   "regular_price": 16000,
-   "discount_pct": 15,
-   "korean_support": "sub",
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션",
-    "앞서 해보기"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/f271f45d7475a5270df309f6b7634d0a56a8055d/header.jpg?t=1792165212",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 431,
-   "positive_all": 395,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4968640/"
   },
   {
    "appid": 3883570,
    "name": "인보키어: 마의 주사위",
    "release_at": "2026-10-08",
-   "sales_rank": 15,
+   "sales_rank": 12,
    "price": 8920,
    "regular_price": 11900,
    "discount_pct": 25,
@@ -3531,10 +3458,80 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 884,
-   "positive_all": 835,
+   "reviews_all": 917,
+   "positive_all": 861,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/3883570/"
+  },
+  {
+   "appid": 2929250,
+   "name": "over the hill",
+   "release_at": "2026-10-14",
+   "sales_rank": 13,
+   "price": 34320,
+   "regular_price": 42900,
+   "discount_pct": 20,
+   "korean_support": "sub",
+   "genres": [
+    "어드벤처",
+    "캐주얼",
+    "인디",
+    "레이싱",
+    "시뮬레이션",
+    "스포츠"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792002879",
+   "platforms": [
+    "windows",
+    "linux"
+   ],
+   "reviews_all": 1978,
+   "positive_all": 1832,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/2929250/"
+  },
+  {
+   "appid": 872410,
+   "name": "삼국지14",
+   "release_at": "2026-09-09",
+   "sales_rank": 14,
+   "price": 59800,
+   "regular_price": 59800,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/872410/header_koreana.jpg?t=1792027140",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 16379,
+   "positive_all": 10319,
+   "review_desc": "Mixed",
+   "steam_url": "https://store.steampowered.com/app/872410/"
+  },
+  {
+   "appid": 2295060,
+   "name": "Beyond These Stars 비욘드 디스 스타즈",
+   "release_at": "2026-10-16",
+   "sales_rank": 15,
+   "price": 23920,
+   "regular_price": 29900,
+   "discount_pct": 20,
+   "korean_support": "sub",
+   "genres": [
+    "시뮬레이션",
+    "전략"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/e36bd6eb8fc399e52149d19679119c8ff3716416/header_koreana.jpg?t=1792210100",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 62,
+   "positive_all": 45,
+   "review_desc": "Mostly Positive",
+   "steam_url": "https://store.steampowered.com/app/2295060/"
   },
   {
    "appid": 1374490,
@@ -3554,16 +3551,40 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 34380,
-   "positive_all": 27805,
+   "reviews_all": 34433,
+   "positive_all": 27855,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/1374490/"
+  },
+  {
+   "appid": 4732690,
+   "name": "명일방주: 엔드필드",
+   "release_at": "2026-10-14",
+   "sales_rank": 17,
+   "price": 0,
+   "regular_price": null,
+   "discount_pct": 0,
+   "korean_support": "voice_sub",
+   "genres": [
+    "액션",
+    "어드벤처",
+    "RPG",
+    "무료 플레이"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/ed487f42cdb02034d09b2df96eca5eb42d1d234e/header_koreana.jpg?t=1792035845",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 1636,
+   "positive_all": 1426,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/4732690/"
   },
   {
    "appid": 5228920,
    "name": "Brick by Brick: Tidy Up the Small Town!",
    "release_at": "2026-10-15",
-   "sales_rank": 17,
+   "sales_rank": 18,
    "price": 5390,
    "regular_price": 8700,
    "discount_pct": 38,
@@ -3577,153 +3598,63 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 97,
-   "positive_all": 91,
+   "reviews_all": 118,
+   "positive_all": 109,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/5228920/"
   },
   {
-   "appid": 2295060,
-   "name": "Beyond These Stars 비욘드 디스 스타즈",
-   "release_at": "2026-10-16",
-   "sales_rank": 18,
-   "price": 23920,
-   "regular_price": 29900,
-   "discount_pct": 20,
-   "korean_support": "sub",
-   "genres": [
-    "시뮬레이션",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/e36bd6eb8fc399e52149d19679119c8ff3716416/header_koreana.jpg?t=1792210100",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 43,
-   "positive_all": 34,
-   "review_desc": "Mostly Positive",
-   "steam_url": "https://store.steampowered.com/app/2295060/"
-  },
-  {
-   "appid": 4385780,
-   "name": "말드할라",
-   "release_at": "2026-10-16",
+   "appid": 3470960,
+   "name": "테일즈 오브 이터니아 리마스터",
+   "release_at": "2026-10-15",
    "sales_rank": 19,
-   "price": 3920,
-   "regular_price": 4900,
-   "discount_pct": 20,
-   "korean_support": "sub",
-   "genres": [
-    "액션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385780/59d3ba0a755e58567d7e317775fef5e61080e1c3/header.jpg?t=1792144794",
-   "platforms": [
-    "windows",
-    "mac",
-    "linux"
-   ],
-   "reviews_all": 24,
-   "positive_all": 20,
-   "review_desc": "Positive",
-   "steam_url": "https://store.steampowered.com/app/4385780/"
-  },
-  {
-   "appid": 3020510,
-   "name": "Heroes' Vow: Three Kingdoms",
-   "release_at": "2026-09-23",
-   "sales_rank": 20,
-   "price": 21500,
-   "regular_price": 21500,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "인디",
-    "RPG",
-    "시뮬레이션",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020510/cd981f2281e9203a3c94f730c9b21dbfd0ecacbd/header_koreana.jpg?t=1790499638",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 8936,
-   "positive_all": 7831,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/3020510/"
-  },
-  {
-   "appid": 2254990,
-   "name": "Permafrost",
-   "release_at": "2026-10-09",
-   "sales_rank": 21,
-   "price": 19200,
-   "regular_price": 24000,
-   "discount_pct": 20,
-   "korean_support": "sub",
-   "genres": [
-    "액션",
-    "어드벤처",
-    "RPG",
-    "시뮬레이션",
-    "앞서 해보기"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/693eff202c061aaecba330b44d76485a672bea97/header.jpg?t=1791980722",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 1647,
-   "positive_all": 1209,
-   "review_desc": "Mostly Positive",
-   "steam_url": "https://store.steampowered.com/app/2254990/"
-  },
-  {
-   "appid": 4231820,
-   "name": "Castlevania: Belmont's Curse",
-   "release_at": "2026-10-14",
-   "sales_rank": 22,
-   "price": 35000,
-   "regular_price": 35000,
+   "price": 39800,
+   "regular_price": 39800,
    "discount_pct": 0,
    "korean_support": "sub",
    "genres": [
     "액션",
     "RPG"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg?t=1792036946",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3470960/de592ac933cc89211e58cc6af54998f2b4c17bb2/header_koreana.jpg?t=1792128138",
    "platforms": [
     "windows"
    ],
-   "reviews_all": 4159,
-   "positive_all": 2905,
-   "review_desc": "Mixed",
-   "steam_url": "https://store.steampowered.com/app/4231820/"
+   "reviews_all": 111,
+   "positive_all": 96,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/3470960/"
   },
   {
-   "appid": 872410,
-   "name": "삼국지14",
-   "release_at": "2026-09-09",
-   "sales_rank": 23,
-   "price": 59800,
-   "regular_price": 59800,
+   "appid": 3493540,
+   "name": "Transport Fever 3",
+   "release_at": "2026-09-29",
+   "sales_rank": 20,
+   "price": 55000,
+   "regular_price": 55000,
    "discount_pct": 0,
    "korean_support": "sub",
    "genres": [
-    "시뮬레이션"
+    "캐주얼",
+    "시뮬레이션",
+    "전략"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/872410/header_koreana.jpg?t=1792027140",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e36f9ea700608a342c9e90046e946146c20f88c6/header_alt_assets_0_koreana.jpg?t=1791359026",
    "platforms": [
-    "windows"
+    "windows",
+    "mac",
+    "linux"
    ],
-   "reviews_all": 16377,
-   "positive_all": 10317,
-   "review_desc": "Mixed",
-   "steam_url": "https://store.steampowered.com/app/872410/"
+   "reviews_all": 6949,
+   "positive_all": 4953,
+   "review_desc": "Mostly Positive",
+   "steam_url": "https://store.steampowered.com/app/3493540/"
   },
   {
    "appid": 892970,
    "name": "Valheim",
    "release_at": "2026-09-09",
-   "sales_rank": 24,
+   "sales_rank": 21,
    "price": 32000,
    "regular_price": 32000,
    "discount_pct": 0,
@@ -3740,61 +3671,62 @@
     "mac",
     "linux"
    ],
-   "reviews_all": 560759,
-   "positive_all": 524457,
+   "reviews_all": 560854,
+   "positive_all": 524513,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/892970/"
   },
   {
-   "appid": 3845070,
-   "name": "거짓의 심판",
-   "release_at": "2026-10-15",
-   "sales_rank": 25,
-   "price": 14800,
-   "regular_price": 18500,
-   "discount_pct": 20,
+   "appid": 3020510,
+   "name": "Heroes' Vow: Three Kingdoms",
+   "release_at": "2026-09-23",
+   "sales_rank": 22,
+   "price": 21500,
+   "regular_price": 21500,
+   "discount_pct": 0,
    "korean_support": "sub",
    "genres": [
-    "캐주얼",
     "인디",
+    "RPG",
+    "시뮬레이션",
     "전략"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/57e3ef3be01b75c5edd58f0fcde723e6da613ff8/header_alt_assets_1_koreana.jpg?t=1792132260",
-   "platforms": [
-    "windows",
-    "mac"
-   ],
-   "reviews_all": 180,
-   "positive_all": 159,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/3845070/"
-  },
-  {
-   "appid": 5099430,
-   "name": "창세기전 외전: 서풍의 광시곡 리마스터",
-   "release_at": "2026-09-18",
-   "sales_rank": 26,
-   "price": 44000,
-   "regular_price": 44000,
-   "discount_pct": 0,
-   "korean_support": "voice_sub",
-   "genres": [
-    "RPG"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099430/d47822c5c52e8d1c0fa2d53c1c5adbfee077cca4/header.jpg?t=1789899195",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020510/cd981f2281e9203a3c94f730c9b21dbfd0ecacbd/header_koreana.jpg?t=1790499638",
    "platforms": [
     "windows"
    ],
-   "reviews_all": 534,
-   "positive_all": 520,
-   "review_desc": "Overwhelmingly Positive",
-   "steam_url": "https://store.steampowered.com/app/5099430/"
+   "reviews_all": 8947,
+   "positive_all": 7840,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/3020510/"
+  },
+  {
+   "appid": 4231820,
+   "name": "Castlevania: Belmont's Curse",
+   "release_at": "2026-10-14",
+   "sales_rank": 23,
+   "price": 35000,
+   "regular_price": 35000,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "RPG"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg?t=1792036946",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 4490,
+   "positive_all": 3148,
+   "review_desc": "Mostly Positive",
+   "steam_url": "https://store.steampowered.com/app/4231820/"
   },
   {
    "appid": 4947900,
    "name": "증강 윷놀이",
    "release_at": "2026-09-18",
-   "sales_rank": 27,
+   "sales_rank": 24,
    "price": 2250,
    "regular_price": 2250,
    "discount_pct": 0,
@@ -3812,33 +3744,58 @@
    "steam_url": "https://store.steampowered.com/app/4947900/"
   },
   {
-   "appid": 2871520,
-   "name": "Deep Dish Dungeon",
-   "release_at": "2026-10-13",
-   "sales_rank": 28,
-   "price": 13600,
-   "regular_price": 16000,
-   "discount_pct": 15,
-   "korean_support": "none",
+   "appid": 2254990,
+   "name": "Permafrost",
+   "release_at": "2026-10-09",
+   "sales_rank": 25,
+   "price": 19200,
+   "regular_price": 24000,
+   "discount_pct": 20,
+   "korean_support": "sub",
    "genres": [
     "액션",
-    "전략"
+    "어드벤처",
+    "RPG",
+    "시뮬레이션",
+    "앞서 해보기"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/a941857720d5b6a62a2e0a7646f2ca46b00039b6/header_alt_assets_1.jpg?t=1791960486",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/693eff202c061aaecba330b44d76485a672bea97/header.jpg?t=1791980722",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 1680,
+   "positive_all": 1229,
+   "review_desc": "Mostly Positive",
+   "steam_url": "https://store.steampowered.com/app/2254990/"
+  },
+  {
+   "appid": 4385780,
+   "name": "말드할라",
+   "release_at": "2026-10-16",
+   "sales_rank": 26,
+   "price": 3920,
+   "regular_price": 4900,
+   "discount_pct": 20,
+   "korean_support": "sub",
+   "genres": [
+    "액션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385780/59d3ba0a755e58567d7e317775fef5e61080e1c3/header.jpg?t=1792144794",
    "platforms": [
     "windows",
-    "mac"
+    "mac",
+    "linux"
    ],
-   "reviews_all": 381,
-   "positive_all": 296,
-   "review_desc": "Mostly Positive",
-   "steam_url": "https://store.steampowered.com/app/2871520/"
+   "reviews_all": 30,
+   "positive_all": 26,
+   "review_desc": "Positive",
+   "steam_url": "https://store.steampowered.com/app/4385780/"
   },
   {
    "appid": 3314580,
    "name": "Trash Day",
    "release_at": "2026-10-13",
-   "sales_rank": 29,
+   "sales_rank": 27,
    "price": 7830,
    "regular_price": 8700,
    "discount_pct": 10,
@@ -3851,8 +3808,8 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 350,
-   "positive_all": 338,
+   "reviews_all": 372,
+   "positive_all": 358,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/3314580/"
   },
@@ -3860,7 +3817,7 @@
    "appid": 3841510,
    "name": "진・삼국무쌍２ with 맹장전 Remastered",
    "release_at": "2026-09-30",
-   "sales_rank": 30,
+   "sales_rank": 28,
    "price": 49800,
    "regular_price": 49800,
    "discount_pct": 0,
@@ -3874,61 +3831,63 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 2213,
-   "positive_all": 1864,
+   "reviews_all": 2224,
+   "positive_all": 1871,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/3841510/"
   },
   {
-   "appid": 3115160,
-   "name": "Warhammer 40,000: Boltgun 2",
-   "release_at": "2026-10-14",
-   "sales_rank": 31,
-   "price": 26500,
-   "regular_price": 26500,
-   "discount_pct": 0,
+   "appid": 3845070,
+   "name": "거짓의 심판",
+   "release_at": "2026-10-15",
+   "sales_rank": 29,
+   "price": 14800,
+   "regular_price": 18500,
+   "discount_pct": 20,
    "korean_support": "sub",
    "genres": [
-    "액션",
-    "인디"
+    "캐주얼",
+    "인디",
+    "전략"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115160/c99bc374ca10d0335fe5e8f37942aea35419e4d4/header.jpg?t=1792169698",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/57e3ef3be01b75c5edd58f0fcde723e6da613ff8/header_alt_assets_1_koreana.jpg?t=1792132260",
    "platforms": [
-    "windows"
+    "windows",
+    "mac"
    ],
-   "reviews_all": 400,
-   "positive_all": 377,
+   "reviews_all": 227,
+   "positive_all": 194,
    "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/3115160/"
+   "steam_url": "https://store.steampowered.com/app/3845070/"
   },
   {
-   "appid": 4225980,
-   "name": "하늘의 궤적 the 2nd",
-   "release_at": "2026-09-16",
-   "sales_rank": 32,
-   "price": 85900,
-   "regular_price": 85900,
-   "discount_pct": 0,
+   "appid": 4412320,
+   "name": "Dumb Ways to Build",
+   "release_at": "2026-09-10",
+   "sales_rank": 30,
+   "price": 6790,
+   "regular_price": 8490,
+   "discount_pct": 20,
    "korean_support": "sub",
    "genres": [
     "액션",
     "어드벤처",
-    "RPG"
+    "캐주얼"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/bbb125533001618ca3cc9f3d1f56041a50411b3d/header_koreana.jpg?t=1790979567",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412320/7182e312b98a494c3e498667b132693e9e4f6a0f/header.jpg?t=1792037927",
    "platforms": [
     "windows"
    ],
-   "reviews_all": 3273,
-   "positive_all": 3171,
-   "review_desc": "Overwhelmingly Positive",
-   "steam_url": "https://store.steampowered.com/app/4225980/"
+   "reviews_all": 482,
+   "positive_all": 426,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/4412320/"
   },
   {
    "appid": 3624140,
    "name": "Wanderburg 완더버그",
    "release_at": "2026-09-08",
-   "sales_rank": 33,
+   "sales_rank": 31,
    "price": 15000,
    "regular_price": 15000,
    "discount_pct": 0,
@@ -3946,176 +3905,222 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 3374,
-   "positive_all": 2613,
+   "reviews_all": 3375,
+   "positive_all": 2615,
    "review_desc": "Mostly Positive",
    "steam_url": "https://store.steampowered.com/app/3624140/"
   },
   {
-   "appid": 3010850,
-   "name": "Gears of War: E-Day",
-   "release_at": "2026-10-06",
-   "sales_rank": 34,
-   "price": 79800,
-   "regular_price": 79800,
+   "appid": 3438810,
+   "name": "프린세스 메이커 : 예언의 아이들",
+   "release_at": "2026-09-30",
+   "sales_rank": 32,
+   "price": 39000,
+   "regular_price": 39000,
    "discount_pct": 0,
    "korean_support": "voice_sub",
    "genres": [
-    "액션",
-    "어드벤처"
+    "시뮬레이션"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1792168004",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 10117,
-   "positive_all": 7413,
-   "review_desc": "Mostly Positive",
-   "steam_url": "https://store.steampowered.com/app/3010850/"
-  },
-  {
-   "appid": 1551980,
-   "name": "Clive Barker's Hellraiser: Revival",
-   "release_at": "2026-10-08",
-   "sales_rank": 35,
-   "price": 47900,
-   "regular_price": 47900,
-   "discount_pct": 0,
-   "korean_support": "none",
-   "genres": [
-    "액션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/d1e7111b93b6a8b3eb029908887648348c2c55e6/header.jpg?t=1791462446",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 6690,
-   "positive_all": 6260,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/1551980/"
-  },
-  {
-   "appid": 4078430,
-   "name": "스타워즈: 은하계 레이서",
-   "release_at": "2026-10-06",
-   "sales_rank": 36,
-   "price": 64500,
-   "regular_price": 64500,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "액션",
-    "어드벤처",
-    "레이싱",
-    "시뮬레이션",
-    "스포츠"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/1baff812cfb8de999b7569197d2435f24fec5534/header_koreana.jpg?t=1791388584",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 7371,
-   "positive_all": 6372,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4078430/"
-  },
-  {
-   "appid": 3493540,
-   "name": "Transport Fever 3",
-   "release_at": "2026-09-29",
-   "sales_rank": 37,
-   "price": 55000,
-   "regular_price": 55000,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "캐주얼",
-    "시뮬레이션",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e36f9ea700608a342c9e90046e946146c20f88c6/header_alt_assets_0_koreana.jpg?t=1791359026",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3438810/4f76129c1633a2e352ca33892c0742d455dc9e22/header_koreana.jpg?t=1790761177",
    "platforms": [
     "windows",
     "mac",
     "linux"
    ],
-   "reviews_all": 6909,
-   "positive_all": 4926,
+   "reviews_all": 1385,
+   "positive_all": 1092,
    "review_desc": "Mostly Positive",
-   "steam_url": "https://store.steampowered.com/app/3493540/"
+   "steam_url": "https://store.steampowered.com/app/3438810/"
   },
   {
-   "appid": 3318210,
-   "name": "파멸의 오타쿠",
-   "release_at": "2026-10-15",
-   "sales_rank": 38,
-   "price": 16200,
-   "regular_price": 18000,
-   "discount_pct": 10,
-   "korean_support": "sub",
+   "appid": 5099430,
+   "name": "창세기전 외전: 서풍의 광시곡 리마스터",
+   "release_at": "2026-09-18",
+   "sales_rank": 33,
+   "price": 44000,
+   "regular_price": 44000,
+   "discount_pct": 0,
+   "korean_support": "voice_sub",
    "genres": [
-    "어드벤처",
-    "인디",
-    "시뮬레이션"
+    "RPG"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3318210/033804d943a143a09bb9cd48661d65e01368a574/header_koreana.jpg?t=1792126838",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099430/d47822c5c52e8d1c0fa2d53c1c5adbfee077cca4/header.jpg?t=1789899195",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 535,
+   "positive_all": 521,
+   "review_desc": "Overwhelmingly Positive",
+   "steam_url": "https://store.steampowered.com/app/5099430/"
+  },
+  {
+   "appid": 2871520,
+   "name": "Deep Dish Dungeon",
+   "release_at": "2026-10-13",
+   "sales_rank": 34,
+   "price": 13600,
+   "regular_price": 16000,
+   "discount_pct": 15,
+   "korean_support": "none",
+   "genres": [
+    "액션",
+    "전략"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/a941857720d5b6a62a2e0a7646f2ca46b00039b6/header_alt_assets_1.jpg?t=1791960486",
    "platforms": [
     "windows",
     "mac"
    ],
-   "reviews_all": 25,
-   "positive_all": 23,
-   "review_desc": "Positive",
-   "steam_url": "https://store.steampowered.com/app/3318210/"
+   "reviews_all": 408,
+   "positive_all": 323,
+   "review_desc": "Mostly Positive",
+   "steam_url": "https://store.steampowered.com/app/2871520/"
   },
   {
-   "appid": 4310440,
-   "name": "Crown Siege",
-   "release_at": "2026-09-18",
-   "sales_rank": 39,
-   "price": 9900,
-   "regular_price": 9900,
+   "appid": 4954910,
+   "name": "Scam With Your Friends",
+   "release_at": "2026-10-15",
+   "sales_rank": 35,
+   "price": 9450,
+   "regular_price": 10500,
+   "discount_pct": 10,
+   "korean_support": "voice_sub",
+   "genres": [
+    "액션",
+    "캐주얼",
+    "인디",
+    "시뮬레이션",
+    "앞서 해보기"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792088818",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 1712,
+   "positive_all": 1311,
+   "review_desc": "Mostly Positive",
+   "steam_url": "https://store.steampowered.com/app/4954910/"
+  },
+  {
+   "appid": 2333000,
+   "name": "Silver Pines",
+   "release_at": "2026-10-08",
+   "sales_rank": 36,
+   "price": 25070,
+   "regular_price": 27860,
+   "discount_pct": 10,
+   "korean_support": "none",
+   "genres": [
+    "액션",
+    "어드벤처",
+    "인디",
+    "RPG"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333000/2ce661be5b6e60b8fcc92ecdf3f9dc2dca2a9037/header.jpg?t=1791897978",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 2841,
+   "positive_all": 2706,
+   "review_desc": "Overwhelmingly Positive",
+   "steam_url": "https://store.steampowered.com/app/2333000/"
+  },
+  {
+   "appid": 1912410,
+   "name": "Minecraft Dungeons 2",
+   "release_at": "2026-09-29",
+   "sales_rank": 37,
+   "price": 34800,
+   "regular_price": 34800,
    "discount_pct": 0,
    "korean_support": "sub",
    "genres": [
     "액션",
-    "캐주얼",
-    "시뮬레이션",
-    "전략"
+    "어드벤처",
+    "RPG"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310440/35f72cd67385c4ee6ec6bbec2af382ca529f6342/header.jpg?t=1791179815",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg?t=1791536987",
    "platforms": [
-    "windows",
-    "mac",
-    "linux"
+    "windows"
    ],
-   "reviews_all": 387,
-   "positive_all": 313,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4310440/"
+   "reviews_all": 10489,
+   "positive_all": 6657,
+   "review_desc": "Mixed",
+   "steam_url": "https://store.steampowered.com/app/1912410/"
   },
   {
-   "appid": 4412320,
-   "name": "Dumb Ways to Build",
-   "release_at": "2026-09-10",
-   "sales_rank": 40,
-   "price": 6790,
-   "regular_price": 8490,
+   "appid": 2725250,
+   "name": "니엔텀 - 오퍼스 제로",
+   "release_at": "2026-10-13",
+   "sales_rank": 38,
+   "price": 18400,
+   "regular_price": 23000,
    "discount_pct": 20,
    "korean_support": "sub",
    "genres": [
     "액션",
     "어드벤처",
-    "캐주얼"
+    "캐주얼",
+    "인디",
+    "RPG",
+    "시뮬레이션",
+    "스포츠"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412320/7182e312b98a494c3e498667b132693e9e4f6a0f/header.jpg?t=1792037927",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725250/29049beddb4ece7370fc561f5fa8fedd9e133c6b/header.jpg?t=1791950185",
    "platforms": [
     "windows"
    ],
-   "reviews_all": 477,
-   "positive_all": 422,
+   "reviews_all": 268,
+   "positive_all": 264,
    "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4412320/"
+   "steam_url": "https://store.steampowered.com/app/2725250/"
+  },
+  {
+   "appid": 2402680,
+   "name": "딤레이스",
+   "release_at": "2026-09-15",
+   "sales_rank": 39,
+   "price": 23320,
+   "regular_price": 23320,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "어드벤처",
+    "RPG",
+    "앞서 해보기"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1790333636",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 2909,
+   "positive_all": 2275,
+   "review_desc": "Mostly Positive",
+   "steam_url": "https://store.steampowered.com/app/2402680/"
+  },
+  {
+   "appid": 3115160,
+   "name": "Warhammer 40,000: Boltgun 2",
+   "release_at": "2026-10-14",
+   "sales_rank": 40,
+   "price": 26500,
+   "regular_price": 26500,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "인디"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115160/c99bc374ca10d0335fe5e8f37942aea35419e4d4/header.jpg?t=1792169698",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 431,
+   "positive_all": 408,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/3115160/"
   }
  ]
 }
