@@ -19166,5 +19166,109 @@
   "price_krw": 8020,
   "price_original": 8020,
   "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "epic",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 79000,
+  "price_original": 79000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "microsoft",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 88000,
+  "price_original": 88000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3768760,
+  "store_id": "epic",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 89000,
+  "price_original": 89000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1054430,
+  "store_id": "steam",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 3600,
+  "price_original": 3600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1997660,
+  "store_id": "steam",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 53000,
+  "price_original": 53000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 205650,
+  "store_id": "steam",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 2200,
+  "price_original": 2200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1178220,
+  "store_id": "steam",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 8600,
+  "price_original": 8600,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1338330,
+  "store_id": "steam",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 3100,
+  "price_original": 3100,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1338330,
+  "store_id": "epic",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 15000,
+  "price_original": 15000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1455630,
+  "store_id": "steam",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 4200,
+  "price_original": 4200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2237970,
+  "store_id": "steam",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 4120,
+  "price_original": 4120,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3744430,
+  "store_id": "steam",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 8250,
+  "price_original": 8250,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3744430,
+  "store_id": "epic",
+  "at": "2026-10-18T17:18:22+00:00",
+  "price_krw": 10200,
+  "price_original": 10200,
+  "currency": "KRW"
  }
 ]
