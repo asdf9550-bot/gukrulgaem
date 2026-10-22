@@ -1,35 +1,25 @@
 {
- "updated_at": "2026-10-22T05:34:19+00:00",
+ "updated_at": "2026-10-22T17:23:53+00:00",
  "items": [
   {
    "source": "epic",
-   "title": "Bad Cheese",
-   "status": "now",
-   "start": "2026-10-15T15:00:00.000Z",
-   "end": "2026-10-22T15:00:00.000Z",
-   "url": "https://store.epicgames.com/ko/p/bad-cheese-4256d9",
-   "image": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png?resize=1&w=480&quality=medium",
-   "regular_price_krw": 13300
-  },
-  {
-   "source": "epic",
-   "title": "Agent A - 숨겨진 퍼즐",
-   "status": "now",
-   "start": "2026-10-15T15:00:00.000Z",
-   "end": "2026-10-22T15:00:00.000Z",
-   "url": "https://store.epicgames.com/ko/p/agent-a-a-puzzle-in-disguise-42fe5f",
-   "image": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png?resize=1&w=480&quality=medium",
-   "regular_price_krw": 20400
-  },
-  {
-   "source": "epic",
    "title": "Home - A Unique Horror Adventure",
-   "status": "upcoming",
+   "status": "now",
    "start": "2026-10-22T15:00:00.000Z",
    "end": "2026-10-29T15:00:00.000Z",
    "url": "https://store.epicgames.com/ko/p/home-19212a",
    "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png?resize=1&w=480&quality=medium",
    "regular_price_krw": 5100
+  },
+  {
+   "source": "epic",
+   "title": "Sorry We're Closed",
+   "status": "upcoming",
+   "start": "2026-10-29T15:00:00.000Z",
+   "end": "2026-11-05T16:00:00.000Z",
+   "url": "https://store.epicgames.com/ko/p/sorry-were-closed-724c86",
+   "image": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png?resize=1&w=480&quality=medium",
+   "regular_price_krw": 25600
   }
  ]
 }
