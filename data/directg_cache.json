@@ -1,5 +1,5 @@
 {
- "fetched_date": "2026-10-22",
+ "fetched_date": "2026-10-23",
  "products": {
   "275d0530-d0ca-4bba-a145-f3eb4241e193": {
    "product_id": "275d0530-d0ca-4bba-a145-f3eb4241e193",
@@ -23,7 +23,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:32:51+00:00"
+   "fetched_at": "2026-10-23T17:12:35+00:00"
   },
   "a08a2022-ce33-402c-9c46-4bb812eac5c8": {
    "product_id": "a08a2022-ce33-402c-9c46-4bb812eac5c8",
@@ -55,7 +55,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:32:57+00:00"
+   "fetched_at": "2026-10-23T17:12:41+00:00"
   },
   "a8bb26da-6b75-4817-844c-009aaed5d476": {
    "product_id": "a8bb26da-6b75-4817-844c-009aaed5d476",
@@ -71,7 +71,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-10-22T05:32:54+00:00"
+   "fetched_at": "2026-10-23T17:12:38+00:00"
   },
   "3c1f2958-7690-4ddd-b973-bf72cc663f00": {
    "product_id": "3c1f2958-7690-4ddd-b973-bf72cc663f00",
@@ -135,7 +135,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:34:13+00:00"
+   "fetched_at": "2026-10-23T17:14:02+00:00"
   },
   "18552a8c-7114-4d87-865d-32e178c0f8ff": {
    "product_id": "18552a8c-7114-4d87-865d-32e178c0f8ff",
@@ -167,7 +167,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:04+00:00"
+   "fetched_at": "2026-10-23T17:12:47+00:00"
   },
   "a4527694-f06c-4311-93f7-4417a14c3128": {
    "product_id": "a4527694-f06c-4311-93f7-4417a14c3128",
@@ -188,7 +188,7 @@
      "price": 51120,
      "regular": 56800,
      "cut": 10,
-     "sku": null
+     "sku": "98d08764-2716-4f8d-9658-0727ba3da2e9"
     }
    ],
    "appid_hint": 2054970,
@@ -199,7 +199,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:39+00:00"
+   "fetched_at": "2026-10-23T17:13:29+00:00"
   },
   "c12a16f8-ce46-4c75-954a-28a5a6f59fcc": {
    "product_id": "c12a16f8-ce46-4c75-954a-28a5a6f59fcc",
@@ -231,7 +231,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:45+00:00"
+   "fetched_at": "2026-10-23T17:13:36+00:00"
   },
   "86e649b6-bd98-4e8d-b147-ca5c65fb2298": {
    "product_id": "86e649b6-bd98-4e8d-b147-ca5c65fb2298",
@@ -247,7 +247,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:15+00:00"
+   "fetched_at": "2026-10-23T17:13:05+00:00"
   },
   "f20b8f08-9ac8-403f-a101-1f4244391d80": {
    "product_id": "f20b8f08-9ac8-403f-a101-1f4244391d80",
@@ -358,7 +358,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:18+00:00"
+   "fetched_at": "2026-10-23T17:13:08+00:00"
   },
   "ce9081e7-2821-4e98-8639-64698a109b82": {
    "product_id": "ce9081e7-2821-4e98-8639-64698a109b82",
@@ -367,18 +367,18 @@
    "base": [
     {
      "name": "크루세이더 킹즈 3",
-     "price": 49800,
+     "price": 14800,
      "regular": 55000,
-     "cut": 9,
+     "cut": 73,
      "sku": "53309198-bf92-414d-87e6-61a86b1a7929"
     }
    ],
    "editions": [
     {
      "name": "크루세이더 킹즈 3 스타터 에디션",
-     "price": 65800,
+     "price": 31800,
      "regular": 72000,
-     "cut": 9,
+     "cut": 56,
      "sku": "d61ee014-0c06-4926-8a5d-0dd783ad9ba1"
     }
    ],
@@ -390,7 +390,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:21+00:00"
+   "fetched_at": "2026-10-23T17:13:11+00:00"
   },
   "30116fa7-1dc5-406c-8ce1-5767c60264a2": {
    "product_id": "30116fa7-1dc5-406c-8ce1-5767c60264a2",
@@ -414,7 +414,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:24+00:00"
+   "fetched_at": "2026-10-23T17:13:15+00:00"
   },
   "cd3500c1-2db8-4915-972b-9be4b92c28ec": {
    "product_id": "cd3500c1-2db8-4915-972b-9be4b92c28ec",
@@ -438,7 +438,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:28+00:00"
+   "fetched_at": "2026-10-23T17:13:17+00:00"
   },
   "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200": {
    "product_id": "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200",
@@ -470,7 +470,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:30+00:00"
+   "fetched_at": "2026-10-23T17:13:20+00:00"
   },
   "2139b954-cece-48b7-9356-803c130833a4": {
    "product_id": "2139b954-cece-48b7-9356-803c130833a4",
@@ -502,7 +502,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:33+00:00"
+   "fetched_at": "2026-10-23T17:13:23+00:00"
   },
   "a647bff7-44e6-49fe-86ed-8f59d936ee4e": {
    "product_id": "a647bff7-44e6-49fe-86ed-8f59d936ee4e",
@@ -534,7 +534,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:37+00:00"
+   "fetched_at": "2026-10-23T17:13:28+00:00"
   },
   "9f033b20-41af-437f-a672-14e8061f4efb": {
    "product_id": "9f033b20-41af-437f-a672-14e8061f4efb",
@@ -566,7 +566,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:42+00:00"
+   "fetched_at": "2026-10-23T17:13:32+00:00"
   },
   "a95163c3-2aab-4b69-923a-ad8fb27afb67": {
    "product_id": "a95163c3-2aab-4b69-923a-ad8fb27afb67",
@@ -781,7 +781,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:34:15+00:00"
+   "fetched_at": "2026-10-23T17:14:05+00:00"
   },
   "f72e96bd-1691-46b4-bef4-c70172c6635d": {
    "product_id": "f72e96bd-1691-46b4-bef4-c70172c6635d",
@@ -820,7 +820,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:34:18+00:00"
+   "fetched_at": "2026-10-23T17:14:08+00:00"
   },
   "2458af03-e862-4c13-86d1-b7539a5e1b33": {
    "product_id": "2458af03-e862-4c13-86d1-b7539a5e1b33",
@@ -852,7 +852,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:34:06+00:00"
+   "fetched_at": "2026-10-23T17:13:56+00:00"
   },
   "a0ef10ae-97fa-4db3-a703-89ac6e30773e": {
    "product_id": "a0ef10ae-97fa-4db3-a703-89ac6e30773e",
@@ -1019,7 +1019,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:34:03+00:00"
+   "fetched_at": "2026-10-23T17:13:53+00:00"
   },
   "98f159fa-f493-45c2-9206-bfececba31b3": {
    "product_id": "98f159fa-f493-45c2-9206-bfececba31b3",
@@ -1043,7 +1043,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:34:00+00:00"
+   "fetched_at": "2026-10-23T17:13:50+00:00"
   },
   "1ee61e21-6b6d-4cbe-8a2a-128e29660a5c": {
    "product_id": "1ee61e21-6b6d-4cbe-8a2a-128e29660a5c",
@@ -1075,7 +1075,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:57+00:00"
+   "fetched_at": "2026-10-23T17:13:48+00:00"
   },
   "b0011303-d279-40ae-a7ec-3b416a8a7e10": {
    "product_id": "b0011303-d279-40ae-a7ec-3b416a8a7e10",
@@ -1107,7 +1107,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:51+00:00"
+   "fetched_at": "2026-10-23T17:13:41+00:00"
   },
   "03aecfe1-d673-4820-a418-0f73da391e8f": {
    "product_id": "03aecfe1-d673-4820-a418-0f73da391e8f",
@@ -1139,7 +1139,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:48+00:00"
+   "fetched_at": "2026-10-23T17:13:39+00:00"
   },
   "4320b462-4409-4bc1-bb00-76759fa80b96": {
    "product_id": "4320b462-4409-4bc1-bb00-76759fa80b96",
@@ -1219,7 +1219,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-10-22T05:33:54+00:00"
+   "fetched_at": "2026-10-23T17:13:45+00:00"
   },
   "32338512-6e54-4773-aa3b-6f406dc4d12e": {
    "product_id": "32338512-6e54-4773-aa3b-6f406dc4d12e",
@@ -1231,7 +1231,7 @@
      "price": 88900,
      "regular": 88900,
      "cut": 0,
-     "sku": null
+     "sku": "46ef097c-726a-4469-b5d3-3d8e064f2a55"
     }
    ],
    "editions": [
@@ -1251,12 +1251,75 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-10-22T05:34:09+00:00"
+   "fetched_at": "2026-10-23T17:13:59+00:00"
+  },
+  "f9b97b9d-6497-405f-a296-cced5b7245a9": {
+   "product_id": "f9b97b9d-6497-405f-a296-cced5b7245a9",
+   "url": "https://directg.net/game/game_view.html?product_id=f9b97b9d-6497-405f-a296-cced5b7245a9",
+   "title": "그랑블루 판타지 리링크",
+   "base": [
+    {
+     "name": "그랑블루 판타지 리링크",
+     "price": 26800,
+     "regular": 49800,
+     "cut": 46,
+     "sku": "14bcad67-fe40-4c09-a710-76e0c06328f7"
+    }
+   ],
+   "editions": [
+    {
+     "name": "그랑블루 판타지 리링크 - 엔드리스 라그나로크 스탠다드 에디션",
+     "price": 66800,
+     "regular": 66800,
+     "cut": 0,
+     "sku": "a33956c0-64fc-4abf-ba3b-0e2d381b4e83"
+    },
+    {
+     "name": "그랑블루 판타지 리링크 - 엔드리스 라그나로크 스페셜 에디션",
+     "price": 89800,
+     "regular": 89800,
+     "cut": 0,
+     "sku": "7a766af9-b48f-4ce3-a2c7-0499d5bf6b8e"
+    }
+   ],
+   "appid_hint": null,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-23T17:12:56+00:00"
+  },
+  "4cd63b8e-4426-4b85-a096-2594b616c73f": {
+   "product_id": "4cd63b8e-4426-4b85-a096-2594b616c73f",
+   "url": "https://directg.net/game/game_view.html?product_id=4cd63b8e-4426-4b85-a096-2594b616c73f",
+   "title": "몬스터 헌터 와일즈",
+   "base": [
+    {
+     "name": "몬스터 헌터 와일즈",
+     "price": 31800,
+     "regular": 45800,
+     "cut": 31,
+     "sku": "7d2bf211-b485-4694-810d-9667a78b4367"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 2246340,
+   "region_lock": "kr",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-10-23T17:12:59+00:00"
   }
  },
  "last_run": {
-  "at": "2026-10-22T05:34:18+00:00",
-  "ok": 36,
+  "at": "2026-10-23T17:14:08+00:00",
+  "ok": 37,
   "fail": 0,
   "limit": null
  }
