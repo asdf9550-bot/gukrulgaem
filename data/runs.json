@@ -1,6 +1,2033 @@
 [
  {
   "week": "2026-W43",
+  "started_at": "2026-10-23T04:00:03+00:00",
+  "finished_at": "2026-10-23T05:53:35+00:00",
+  "game_count": 0,
+  "skipped": [
+   {
+    "appid": 1903340,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1435790,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 4380490,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 2185060,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 2124120,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 477160,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 2073250,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 824270,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 2737070,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 756800,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 3794610,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 780290,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 2878420,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1210320,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 4249850,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1465460,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1543280,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 4271160,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1790930,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 3947460,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1840080,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1149620,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1134700,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 933820,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 2163330,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 3917700,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 368260,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1805320,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 3048840,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 594570,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 3214610,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 4113940,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 4699770,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 2677660,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 4282780,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 774181,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 108710,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 632360,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1336490,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 814380,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 262060,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 3167020,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1364780,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 4149040,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1623730,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 3883570,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 457140,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 3232690,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1142710,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1243830,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1649080,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1621690,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1190970,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1361210,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 2451010,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 361420,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1371980,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 881100,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1046480,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 305620,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 2138710,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 673750,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1584090,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1031510,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1384160,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1478500,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 2914150,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 753640,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 701160,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1868140,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1129580,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1808500,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1940340,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 1313140,
+    "why": "할인 중 아님"
+   },
+   {
+    "appid": 835960,
+    "why": "할인 중 아님"
+   }
+  ],
+  "errors": [
+   {
+    "appid": 1091500,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 294100,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 381210,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 881020,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2246340,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4656000,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3240220,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2315050,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 322330,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3447040,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3357650,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3764200,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1203620,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2087540,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2050650,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 529340,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4356430,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4968640,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3624140,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2183900,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1859910,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 699130,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1066890,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2254990,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4890760,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3892270,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2552310,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1295660,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2272360,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 5228920,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 883710,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1089090,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4131220,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 418370,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1643320,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3314580,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3247750,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1984270,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4045750,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1374490,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4304900,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2479810,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 233860,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1196590,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 463530,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3464370,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2401970,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1151340,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1659040,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2592160,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3511030,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 787480,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3845070,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3569420,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 377160,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 492720,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 493520,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 548430,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3645890,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2187220,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2696050,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 646570,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2929250,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1794680,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1689620,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3105440,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 952060,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4004820,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 625960,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3844970,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2665680,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2852190,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1465360,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1284190,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1585180,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3717070,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 898750,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2646460,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4954910,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 739630,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1562430,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1139980,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2138720,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 588650,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 391540,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4538960,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2871520,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3124540,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1735700,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4413070,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 268500,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1062090,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1478970,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1853440,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 740130,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1182900,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1341290,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 668580,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1562940,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4385780,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 5101820,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1449690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 815370,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2104890,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2347080,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1876890,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 206440,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1084600,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4024600,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1272160,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2835570,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1637320,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2157830,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 728530,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 5063150,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 312520,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2407270,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 219740,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 389730,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3359900,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1363080,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4627110,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 22380,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3582250,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2114740,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3419520,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 454650,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2121510,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 221040,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 21690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1245560,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1931770,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1766060,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 860510,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1457520,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3556750,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4160210,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3483740,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4134650,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3920610,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4771580,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 552500,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1061090,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1657630,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1783560,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3808690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3228590,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 8870,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1461920,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 761830,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1546080,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4338180,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2271930,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 22370,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1466060,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2356560,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1732190,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3878090,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1296610,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 678950,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 218620,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 613100,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4120310,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1020790,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 550080,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2218750,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3452720,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2475490,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3596870,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1713730,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2005010,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1607680,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2489330,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2527500,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1902690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3087930,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 690640,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1702010,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1065310,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1975580,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 466560,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2226730,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 768200,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 775500,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2390230,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2208570,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3617620,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1016920,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3822220,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2725250,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 5306540,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2130460,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 254700,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1687000,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3816930,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 999020,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1929290,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2211170,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1159830,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1887840,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3046600,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2679100,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2000890,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1631270,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4181410,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1594320,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2459750,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 590380,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2331280,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3299050,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 339340,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2936290,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4621970,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2593340,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1049410,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1432320,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3721890,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2608270,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3265700,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 742300,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1817940,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4425980,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3359910,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3438850,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3690490,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 624270,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 304240,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 5352440,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3399960,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 207610,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4272020,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4286550,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2159210,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 367500,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3746950,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3885590,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3205380,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1137300,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 743890,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2106670,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3977340,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 544750,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2008980,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2412960,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1385380,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3330210,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 229480,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 581320,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 337340,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 433340,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1977170,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3690850,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 743900,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 282140,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3777850,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2209900,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3769130,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 5250360,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1276760,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4035270,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 641320,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2544570,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4381180,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1025960,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 504230,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3031880,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3406850,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1182620,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1967430,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1730700,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3290690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1509510,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4159680,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3596700,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 406550,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4094350,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 976590,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 287390,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 200510,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3381680,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4935510,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 495050,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1710820,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2527160,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1911610,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4888530,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2308690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1798010,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 677160,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2509870,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3778610,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 635940,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1227530,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4330940,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1217390,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1737690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2008920,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2560240,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3357960,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1286580,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 285190,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3822230,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2362050,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1320140,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4773180,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2832280,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 436780,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4130120,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2882080,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 286690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1368820,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1546310,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1619310,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2825860,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2963600,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3503710,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4513650,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4249110,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1492730,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4991240,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1071870,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 7670,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1519090,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3170490,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1649950,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 292000,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2570210,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 222480,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2201710,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2617700,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3072640,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1634860,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3909960,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1270580,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4843210,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2026820,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2915380,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3659410,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2625420,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1997660,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4249120,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2742710,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 639490,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 695330,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1414180,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 303310,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2527390,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 752590,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1534980,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2683150,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2424010,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2336980,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2407830,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 265550,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3417120,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4172450,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2521630,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 363440,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3998560,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2393970,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 536220,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 774291,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3238670,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1355090,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1163550,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2238040,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1681430,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2389170,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 866800,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 899440,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 850320,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2397320,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 666140,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3123060,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 438490,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2797960,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2400160,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4751790,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 495140,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1277400,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 418240,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1672810,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2414110,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3327120,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2641800,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 40980,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4478640,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1782460,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2069070,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1781890,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2836990,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3071240,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1732390,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1865960,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 531510,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4429440,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 589360,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2162800,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2290000,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2305840,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3670730,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2303350,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 38420,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1577120,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1291010,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1928690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 287290,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 5028390,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2322440,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4147690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 440650,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1614550,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 874260,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1120320,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1234430,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1763250,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 3496000,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2426120,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 981430,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 573100,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2230980,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 261030,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2237970,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 1434950,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 4977840,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2001070,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2463690,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2796010,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "appid": 2680280,
+    "error": "요청 실패(store.steampowered.com): Expecting value: line 1 column 1 (char 0)"
+   }
+  ],
+  "offers": null
+ },
+ {
+  "week": "2026-W43",
   "started_at": "2026-10-22T16:00:02+00:00",
   "finished_at": "2026-10-22T17:23:53+00:00",
   "game_count": 374,
