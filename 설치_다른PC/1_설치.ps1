@@ -1,5 +1,5 @@
 ﻿# 국룰겜 사이트 수집기 — 다른 PC 설치 (2026-10-13). 마우스 오른쪽 → "PowerShell로 실행".
-# 1) Python 3.12 / Git 설치(없을 때)  2) .env 준비  3) 예약 작업 Gukrulgem-Daily-0440 등록(매일 04:40)
+# 1) Python 3.12 / Git 설치(없을 때)  2) .env 준비  3) 예약 작업 Gukrulgem-Site-AfterInventory 등록(매일 01:00·13:00)
 $ErrorActionPreference = "Continue"
 $root = Split-Path -Parent $PSScriptRoot          # 저장소 폴더 (이 스크립트는 설치_다른PC 안에 있음)
 Write-Host "저장소: $root"
