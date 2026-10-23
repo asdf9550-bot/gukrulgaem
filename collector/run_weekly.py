@@ -202,7 +202,10 @@ def main(argv=None) -> int:
     # 텔레그램 알림(구독자 있을 때만, 키 없으면 건너뜀). 저장 뒤에 보내야 새 가격 기준이라 save 다음으로 미룬다.
     run = {"week": datetime.now(timezone.utc).strftime("%G-W%V"), "started_at": started, "finished_at": now_iso(),
            "game_count": len(games), "skipped": skipped, "errors": errors, "offers": offers_summary}
-    if not args.no_save:
+    # 2026-10-24: 게임을 하나도 못 받았으면 저장하지 않는다(10-23 스팀 리뷰 주소가 닫혀 빈 목록이 사이트에 올라갔던 것)
+    if not args.no_save and not games:
+        print("게임 0개 → 저장하지 않음(지난 자료 유지)", file=sys.stderr)
+    elif not args.no_save:
         save(games, prices, history, run)
         try:
             from . import telegram_alerts

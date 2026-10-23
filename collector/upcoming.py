@@ -11,6 +11,7 @@ import re
 from datetime import date
 
 from .common import ROOT, display_title, get_json, load_rules, now_iso
+from .steam_reviews import app_reviews
 from .steam_store import APPDETAILS, korean_support
 
 DATA = ROOT / "data"
@@ -118,7 +119,6 @@ def _advance(appid: int, release_year: int | None, rules: dict) -> dict:
 
 
 RECENT_DAYS = 45
-REVIEWS = "https://store.steampowered.com/appreviews/{appid}"
 
 
 def _recent(rules: dict, log=print, limit: int = 40) -> list[dict]:
@@ -149,8 +149,7 @@ def _recent(rules: dict, log=print, limit: int = 40) -> list[dict]:
             d = ((data or {}).get(str(r["appid"])) or {}).get("data")
             if not d or d.get("type") != "game":
                 continue
-            rv = get_json(REVIEWS.format(appid=r["appid"]), {"json": 1, "language": "all", "purchase_type": "all", "num_per_page": 0},
-                          host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"])
+            rv = app_reviews(r["appid"], rules, language="all", filter="all", count=0)
             s = (rv or {}).get("query_summary") or {}
             po = d.get("price_overview")
             plat = d.get("platforms") or {}

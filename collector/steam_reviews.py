@@ -1,21 +1,34 @@
-"""스팀 리뷰(appreviews): 전체·한국어 긍정률, 리뷰어 플레이 시간, 한국어 부정 리뷰 본문.
+"""스팀 리뷰(IUserReviewsService/GetAppReviews): 전체·한국어 긍정률, 리뷰어 플레이 시간, 한국어 부정 리뷰 본문.
 language 는 국가가 아니라 '리뷰를 쓴 언어' 기준이다."""
 from __future__ import annotations
 
+import json
 from statistics import median
 
 from .common import get_json, load_rules
 
-APPREVIEWS = "https://store.steampowered.com/appreviews/{appid}"
+# 2026-10-24: 스팀이 store.steampowered.com/appreviews 를 닫음(스팀 홈으로 넘김) → 공식 Web API로 교체.
+# 값은 input_json 하나로, filter·review_type·purchase_type 은 숫자, language 는 languages 목록.
+GETAPPREVIEWS = "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/"
+FILTERS = {"all": 0, "recent": 1, "updated": 2}          # 옛 이름 → 숫자 (all = '도움이 됨' 순)
+REVIEW_TYPES = {"all": 0, "positive": 1, "negative": 2}
 SAMPLE = 100          # 플레이 시간 표본: 최근 리뷰 100개(한 번 호출에 받을 수 있는 최대)
+
+
+def app_reviews(appid: int, rules: dict, *, language: str = "all", filter: str = "recent",
+                review_type: str = "all", count: int = SAMPLE) -> dict:
+    """리뷰 한 페이지 {query_summary, reviews, cursor}. 옛 appreviews 응답과 같은 모양으로 돌려준다."""
+    body = {"appid": int(appid), "languages": [language], "filter": FILTERS[filter],
+            "review_type": REVIEW_TYPES[review_type], "purchase_type": 1,   # 1 = 스팀 밖 구매 포함(옛 purchase_type=all)
+            "num_per_page": count, "cursor": "*"}
+    data = get_json(GETAPPREVIEWS, {"input_json": json.dumps(body)},
+                    host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"]) or {}
+    return data.get("response") or {}
 
 
 def _page(appid: int, language: str, rules: dict, count: int = SAMPLE) -> dict:
     """리뷰 한 페이지(요약 + 리뷰 목록). count=0이면 요약만."""
-    return get_json(APPREVIEWS.format(appid=appid),
-                    {"json": 1, "language": language, "purchase_type": "all", "filter": "recent",
-                     "num_per_page": count, "cursor": "*"},
-                    host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"]) or {}
+    return app_reviews(appid, rules, language=language, filter="recent", count=count)
 
 
 def _playtime(reviews: list[dict]) -> dict:
@@ -57,9 +70,7 @@ def korean_top_reviews(appid: int, count: int = 3, rules: dict | None = None) ->
     """한국어 리뷰 중 '도움이 됨' 많은 순 상위 몇 개(인용용). 욕설·너무 짧은 글은 뺀다.
     [{'text'(≤200자), 'votes_up', 'hours', 'recommended', 'url'}]. 출처 표기와 원문 링크를 화면에 반드시 둘 것."""
     rules = rules or load_rules()
-    data = get_json(APPREVIEWS.format(appid=appid),
-                    {"json": 1, "language": "koreana", "filter": "all", "purchase_type": "all", "num_per_page": 10, "cursor": "*"},
-                    host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"]) or {}
+    data = app_reviews(appid, rules, language="koreana", filter="all", count=10)
     out = []
     for r in data.get("reviews") or []:
         text = _clean(r.get("review") or "")
@@ -80,10 +91,7 @@ def korean_reviews_by_type(appid: int, kind: str = "negative", count: int = 20, 
     out: list[str] = []
     # '도움이 됨' 순은 최근 글만 조금 주므로 부족하면 '최근순'도 받아 합친다(비추천은 특히 적음)
     for flt in ("all", "recent"):
-        data = get_json(APPREVIEWS.format(appid=appid),
-                        {"json": 1, "language": "koreana", "review_type": kind, "filter": flt,
-                         "purchase_type": "all", "num_per_page": min(count, 100), "cursor": "*"},
-                        host_interval=rules["steam_request_interval_sec"], retry=rules["steam_retry"])
+        data = app_reviews(appid, rules, language="koreana", filter=flt, review_type=kind, count=min(count, 100))
         for r in (data or {}).get("reviews") or []:
             text = _clean(r.get("review", ""))
             if text and text not in out:
