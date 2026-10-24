@@ -23766,5 +23766,125 @@
   "price_krw": 4200,
   "price_original": 4200,
   "currency": "KRW"
+ },
+ {
+  "appid": 1732190,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 34860,
+  "price_original": 34860,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1492070,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 7140,
+  "price_original": 7140,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2130460,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 35880,
+  "price_original": 35880,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2362050,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 69800,
+  "price_original": 69800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 602320,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 1240,
+  "price_original": 1240,
+  "currency": "KRW"
+ },
+ {
+  "appid": 602320,
+  "store_id": "epic",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 15300,
+  "price_original": 15300,
+  "currency": "KRW"
+ },
+ {
+  "appid": 235540,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 3200,
+  "price_original": 3200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1058450,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 49800,
+  "price_original": 49800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 4249130,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 6200,
+  "price_original": 6200,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3003460,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 6670,
+  "price_original": 6670,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2780710,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 5250,
+  "price_original": 5250,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3668370,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 5500,
+  "price_original": 5500,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1623070,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 16800,
+  "price_original": 16800,
+  "currency": "KRW"
+ },
+ {
+  "appid": 350640,
+  "store_id": "epic",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 3290,
+  "price_original": 3290,
+  "currency": "KRW"
+ },
+ {
+  "appid": 1436590,
+  "store_id": "steam",
+  "at": "2026-10-24T17:05:55+00:00",
+  "price_krw": 5120,
+  "price_original": 5120,
+  "currency": "KRW"
  }
 ]
