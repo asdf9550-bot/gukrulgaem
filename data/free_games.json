@@ -1,35 +1,35 @@
 {
- "updated_at": "2026-11-12T05:02:55+00:00",
+ "updated_at": "2026-11-12T16:56:23+00:00",
  "items": [
   {
    "source": "epic",
-   "title": "Idle Champions of the Forgotten Realms",
-   "status": "now",
-   "start": "2026-11-05T16:00:00.000Z",
-   "end": "2026-11-12T16:00:00.000Z",
-   "url": "https://store.epicgames.com/ko/p/idle-champions-of-the-forgotten-realms",
-   "image": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg?resize=1&w=480&quality=medium",
-   "regular_price_krw": 0
-  },
-  {
-   "source": "epic",
-   "title": "표류도시",
-   "status": "now",
-   "start": "2026-11-05T16:00:00.000Z",
-   "end": "2026-11-12T16:00:00.000Z",
-   "url": "https://store.epicgames.com/ko/p/flotsam-266287",
-   "image": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg?resize=1&w=480&quality=medium",
-   "regular_price_krw": 26000
-  },
-  {
-   "source": "epic",
    "title": "Knightica",
-   "status": "upcoming",
+   "status": "now",
    "start": "2026-11-12T16:00:00.000Z",
    "end": "2026-11-19T16:00:00.000Z",
    "url": "https://store.epicgames.com/ko/p/knightica-3be45c",
    "image": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png?resize=1&w=480&quality=medium",
    "regular_price_krw": 15300
+  },
+  {
+   "source": "epic",
+   "title": "Alien: Isolation",
+   "status": "upcoming",
+   "start": "2026-11-19T16:00:00.000Z",
+   "end": "2026-11-26T16:00:00.000Z",
+   "url": "https://store.epicgames.com/ko/p/alien-isolation",
+   "image": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg?resize=1&w=480&quality=medium",
+   "regular_price_krw": 43000
+  },
+  {
+   "source": "epic",
+   "title": "Mark of the Deep",
+   "status": "upcoming",
+   "start": "2026-11-19T16:00:00.000Z",
+   "end": "2026-11-26T16:00:00.000Z",
+   "url": "https://store.epicgames.com/ko/p/mark-of-the-deep-f7dc08",
+   "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png?resize=1&w=480&quality=medium",
+   "regular_price_krw": 33500
   }
  ]
 }
