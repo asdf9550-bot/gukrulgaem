@@ -37206,5 +37206,45 @@
   "price_krw": 34300,
   "price_original": 34300,
   "currency": "KRW"
+ },
+ {
+  "appid": 418620,
+  "store_id": "steam",
+  "at": "2026-11-13T16:56:16+00:00",
+  "price_krw": 11250,
+  "price_original": 11250,
+  "currency": "KRW"
+ },
+ {
+  "appid": 3202030,
+  "store_id": "steam",
+  "at": "2026-11-13T16:56:16+00:00",
+  "price_krw": 19350,
+  "price_original": 19350,
+  "currency": "KRW"
+ },
+ {
+  "appid": 955050,
+  "store_id": "steam",
+  "at": "2026-11-13T16:56:16+00:00",
+  "price_krw": 2550,
+  "price_original": 2550,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2750080,
+  "store_id": "ubisoft",
+  "at": "2026-11-13T16:56:16+00:00",
+  "price_krw": 13650,
+  "price_original": 13650,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2401230,
+  "store_id": "steam",
+  "at": "2026-11-13T16:56:16+00:00",
+  "price_krw": 9670,
+  "price_original": 9670,
+  "currency": "KRW"
  }
 ]
