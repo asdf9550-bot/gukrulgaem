@@ -37518,5 +37518,29 @@
   "price_krw": 16120,
   "price_original": 16120,
   "currency": "KRW"
+ },
+ {
+  "appid": 897450,
+  "store_id": "steam",
+  "at": "2026-11-15T16:53:48+00:00",
+  "price_krw": 26000,
+  "price_original": 26000,
+  "currency": "KRW"
+ },
+ {
+  "appid": 2113920,
+  "store_id": "steam",
+  "at": "2026-11-15T16:53:48+00:00",
+  "price_krw": 31680,
+  "price_original": 31680,
+  "currency": "KRW"
+ },
+ {
+  "appid": 285920,
+  "store_id": "steam",
+  "at": "2026-11-15T16:53:48+00:00",
+  "price_krw": 6500,
+  "price_original": 6500,
+  "currency": "KRW"
  }
 ]

@@ -4284,6 +4284,15 @@
   "current_players": 32191
  },
  {
+  "appid": 394360,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 364421,
+  "positive_all": 325891,
+  "reviews_ko": 7648,
+  "positive_ko": 6756,
+  "current_players": 50175
+ },
+ {
   "appid": 1158310,
   "at": "2026-10-07T14:56:12+00:00",
   "reviews_all": 142396,
@@ -4426,6 +4435,15 @@
   "reviews_ko": 782,
   "positive_ko": 544,
   "current_players": 22586
+ },
+ {
+  "appid": 2406770,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 75733,
+  "positive_all": 61415,
+  "reviews_ko": 789,
+  "positive_ko": 549,
+  "current_players": 19908
  },
  {
   "appid": 3892270,
@@ -5047,6 +5065,15 @@
   "reviews_ko": 1572,
   "positive_ko": 1453,
   "current_players": 1170
+ },
+ {
+  "appid": 2384580,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 30702,
+  "positive_all": 28599,
+  "reviews_ko": 1572,
+  "positive_ko": 1453,
+  "current_players": 1316
  },
  {
   "appid": 374320,
@@ -5679,6 +5706,15 @@
   "current_players": 42281
  },
  {
+  "appid": 892970,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 565220,
+  "positive_all": 527908,
+  "reviews_ko": 8115,
+  "positive_ko": 7447,
+  "current_players": 60718
+ },
+ {
   "appid": 3527290,
   "at": "2026-11-02T17:37:47+00:00",
   "reviews_all": 383911,
@@ -5974,6 +6010,15 @@
   "reviews_ko": 73,
   "positive_ko": 54,
   "current_players": 1173
+ },
+ {
+  "appid": 2475460,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6867,
+  "positive_all": 5570,
+  "reviews_ko": 74,
+  "positive_ko": 54,
+  "current_players": 2228
  },
  {
   "appid": 1326470,
@@ -6532,6 +6577,15 @@
   "reviews_ko": 12056,
   "positive_ko": 11629,
   "current_players": 29021
+ },
+ {
+  "appid": 227300,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 955392,
+  "positive_all": 930916,
+  "reviews_ko": 12060,
+  "positive_ko": 11634,
+  "current_players": 99242
  },
  {
   "appid": 2879840,
@@ -7389,6 +7443,15 @@
   "current_players": 14518
  },
  {
+  "appid": 949230,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 94278,
+  "positive_all": 52978,
+  "reviews_ko": 2013,
+  "positive_ko": 1155,
+  "current_players": 21427
+ },
+ {
   "appid": 1903340,
   "at": "2026-10-31T05:30:19+00:00",
   "reviews_all": 281945,
@@ -7720,6 +7783,15 @@
   "reviews_ko": 5551,
   "positive_ko": 4838,
   "current_players": 31691
+ },
+ {
+  "appid": 489830,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 383745,
+  "positive_all": 353818,
+  "reviews_ko": 5551,
+  "positive_ko": 4839,
+  "current_players": 41980
  },
  {
   "appid": 1551360,
@@ -8541,6 +8613,15 @@
   "current_players": 9878
  },
  {
+  "appid": 270880,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 199111,
+  "positive_all": 192961,
+  "reviews_ko": 1454,
+  "positive_ko": 1398,
+  "current_players": 9773
+ },
+ {
   "appid": 1984270,
   "at": "2026-10-07T14:56:12+00:00",
   "reviews_all": 22780,
@@ -9208,15 +9289,6 @@
  },
  {
   "appid": 728880,
-  "at": "2026-11-02T17:37:47+00:00",
-  "reviews_all": 85281,
-  "positive_all": 77081,
-  "reviews_ko": 4887,
-  "positive_ko": 4640,
-  "current_players": 3542
- },
- {
-  "appid": 728880,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 85283,
   "positive_all": 77084,
@@ -9439,6 +9511,15 @@
   "reviews_ko": 4897,
   "positive_ko": 4650,
   "current_players": 2599
+ },
+ {
+  "appid": 728880,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 85478,
+  "positive_all": 77266,
+  "reviews_ko": 4898,
+  "positive_ko": 4651,
+  "current_players": 4692
  },
  {
   "appid": 1593500,
@@ -10000,15 +10081,6 @@
  },
  {
   "appid": 1285190,
-  "at": "2026-10-07T22:08:57+00:00",
-  "reviews_all": 86861,
-  "positive_all": 49997,
-  "reviews_ko": 1411,
-  "positive_ko": 817,
-  "current_players": 6563
- },
- {
-  "appid": 1285190,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 87527,
   "positive_all": 50324,
@@ -10231,6 +10303,15 @@
   "reviews_ko": 1428,
   "positive_ko": 827,
   "current_players": 4806
+ },
+ {
+  "appid": 1285190,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 87915,
+  "positive_all": 50533,
+  "reviews_ko": 1428,
+  "positive_ko": 827,
+  "current_players": 5900
  },
  {
   "appid": 2456740,
@@ -11880,6 +11961,15 @@
   "current_players": 373
  },
  {
+  "appid": 2161440,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 5153,
+  "positive_all": 4054,
+  "reviews_ko": 258,
+  "positive_ko": 234,
+  "current_players": 312
+ },
+ {
   "appid": 962130,
   "at": "2026-10-07T14:56:12+00:00",
   "reviews_all": 96073,
@@ -12031,6 +12121,15 @@
   "reviews_ko": 197,
   "positive_ko": 193,
   "current_players": 75
+ },
+ {
+  "appid": 3731020,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2654,
+  "positive_all": 2554,
+  "reviews_ko": 197,
+  "positive_ko": 193,
+  "current_players": 124
  },
  {
   "appid": 4380490,
@@ -13104,6 +13203,15 @@
   "current_players": 4136
  },
  {
+  "appid": 1669000,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 23752,
+  "positive_all": 19179,
+  "reviews_ko": 577,
+  "positive_ko": 492,
+  "current_players": 5465
+ },
+ {
   "appid": 2288150,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 3970,
@@ -13876,6 +13984,15 @@
   "reviews_ko": 26994,
   "positive_ko": 26495,
   "current_players": 173
+ },
+ {
+  "appid": 1562700,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 45707,
+  "positive_all": 44437,
+  "reviews_ko": 27007,
+  "positive_ko": 26507,
+  "current_players": 141
  },
  {
   "appid": 4113940,
@@ -15597,6 +15714,15 @@
   "current_players": 773
  },
  {
+  "appid": 3681010,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 19912,
+  "positive_all": 15396,
+  "reviews_ko": 782,
+  "positive_ko": 647,
+  "current_players": 899
+ },
+ {
   "appid": 2698940,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 26036,
@@ -15685,6 +15811,15 @@
   "reviews_ko": 295,
   "positive_ko": 217,
   "current_players": 1085
+ },
+ {
+  "appid": 2698940,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 26714,
+  "positive_all": 21059,
+  "reviews_ko": 295,
+  "positive_ko": 216,
+  "current_players": 2321
  },
  {
   "appid": 894020,
@@ -16549,6 +16684,15 @@
   "reviews_ko": 2485,
   "positive_ko": 2189,
   "current_players": 440
+ },
+ {
+  "appid": 1594940,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 13404,
+  "positive_all": 11943,
+  "reviews_ko": 2485,
+  "positive_ko": 2189,
+  "current_players": 511
  },
  {
   "appid": 2592160,
@@ -21015,6 +21159,15 @@
   "current_players": 12740
  },
  {
+  "appid": 8930,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 211344,
+  "positive_all": 202063,
+  "reviews_ko": 8965,
+  "positive_ko": 8587,
+  "current_players": 18656
+ },
+ {
   "appid": 1591530,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 1576,
@@ -21229,6 +21382,15 @@
   "reviews_ko": 25,
   "positive_ko": 21,
   "current_players": 33
+ },
+ {
+  "appid": 1591530,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1586,
+  "positive_all": 1303,
+  "reviews_ko": 25,
+  "positive_ko": 21,
+  "current_players": 15
  },
  {
   "appid": 1809540,
@@ -23463,6 +23625,15 @@
   "current_players": 2384
  },
  {
+  "appid": 3274580,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 13352,
+  "positive_all": 9273,
+  "reviews_ko": 252,
+  "positive_ko": 180,
+  "current_players": 7560
+ },
+ {
   "appid": 4800590,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 3713,
@@ -25281,6 +25452,15 @@
   "current_players": 100
  },
  {
+  "appid": 2089600,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6514,
+  "positive_all": 5718,
+  "reviews_ko": 678,
+  "positive_ko": 598,
+  "current_players": 77
+ },
+ {
   "appid": 2676840,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 10782,
@@ -26757,6 +26937,15 @@
   "current_players": 154
  },
  {
+  "appid": 3178350,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2420,
+  "positive_all": 2070,
+  "reviews_ko": 215,
+  "positive_ko": 199,
+  "current_players": 139
+ },
+ {
   "appid": 1850570,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 69490,
@@ -28197,6 +28386,15 @@
   "current_players": 791
  },
  {
+  "appid": 3314790,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 26785,
+  "positive_all": 24138,
+  "reviews_ko": 1626,
+  "positive_ko": 1428,
+  "current_players": 986
+ },
+ {
   "appid": 268910,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 222469,
@@ -28258,6 +28456,15 @@
   "reviews_ko": 197,
   "positive_ko": 181,
   "current_players": 172
+ },
+ {
+  "appid": 4466620,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4191,
+  "positive_all": 3792,
+  "reviews_ko": 198,
+  "positive_ko": 181,
+  "current_players": 226
  },
  {
   "appid": 548430,
@@ -28998,6 +29205,15 @@
   "current_players": 592
  },
  {
+  "appid": 413420,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 33493,
+  "positive_all": 32070,
+  "reviews_ko": 1804,
+  "positive_ko": 1712,
+  "current_players": 846
+ },
+ {
   "appid": 1879330,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 2554,
@@ -29203,6 +29419,15 @@
   "reviews_ko": 32,
   "positive_ko": 27,
   "current_players": 220
+ },
+ {
+  "appid": 1879330,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2587,
+  "positive_all": 2301,
+  "reviews_ko": 32,
+  "positive_ko": 27,
+  "current_players": 227
  },
  {
   "appid": 244210,
@@ -30373,6 +30598,15 @@
   "reviews_ko": 498,
   "positive_ko": 443,
   "current_players": 219
+ },
+ {
+  "appid": 2644470,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4830,
+  "positive_all": 4276,
+  "reviews_ko": 498,
+  "positive_ko": 443,
+  "current_players": 308
  },
  {
   "appid": 312520,
@@ -33363,6 +33597,15 @@
   "current_players": 4880
  },
  {
+  "appid": 12210,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 208413,
+  "positive_all": 173919,
+  "reviews_ko": 2563,
+  "positive_ko": 1929,
+  "current_players": 8803
+ },
+ {
   "appid": 214950,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 88601,
@@ -34891,6 +35134,15 @@
   "reviews_ko": 690,
   "positive_ko": 563,
   "current_players": 2222
+ },
+ {
+  "appid": 1158160,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 27971,
+  "positive_all": 24895,
+  "reviews_ko": 691,
+  "positive_ko": 564,
+  "current_players": 2779
  },
  {
   "appid": 1151340,
@@ -38988,6 +39240,15 @@
   "current_players": 4426
  },
  {
+  "appid": 2062430,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 28041,
+  "positive_all": 26684,
+  "reviews_ko": 620,
+  "positive_ko": 575,
+  "current_players": 5598
+ },
+ {
   "appid": 4450620,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 2430,
@@ -39904,6 +40165,15 @@
   "reviews_ko": 620,
   "positive_ko": 375,
   "current_players": 2754
+ },
+ {
+  "appid": 1676840,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 16495,
+  "positive_all": 11701,
+  "reviews_ko": 620,
+  "positive_ko": 375,
+  "current_players": 3902
  },
  {
   "appid": 2864560,
@@ -40842,6 +41112,15 @@
   "current_players": 805
  },
  {
+  "appid": 246620,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 66738,
+  "positive_all": 62848,
+  "reviews_ko": 1091,
+  "positive_ko": 1007,
+  "current_players": 1054
+ },
+ {
   "appid": 3097560,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 56424,
@@ -41605,6 +41884,15 @@
   "reviews_ko": 195,
   "positive_ko": 132,
   "current_players": 169
+ },
+ {
+  "appid": 3123410,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3372,
+  "positive_all": 2168,
+  "reviews_ko": 195,
+  "positive_ko": 132,
+  "current_players": 129
  },
  {
   "appid": 2432860,
@@ -42814,15 +43102,6 @@
  },
  {
   "appid": 1696770,
-  "at": "2026-11-02T17:37:47+00:00",
-  "reviews_all": 3183,
-  "positive_all": 3163,
-  "reviews_ko": 141,
-  "positive_ko": 140,
-  "current_players": 63
- },
- {
-  "appid": 1696770,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 3187,
   "positive_all": 3167,
@@ -43045,6 +43324,15 @@
   "reviews_ko": 146,
   "positive_ko": 144,
   "current_players": 93
+ },
+ {
+  "appid": 1696770,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3288,
+  "positive_all": 3264,
+  "reviews_ko": 146,
+  "positive_ko": 144,
+  "current_players": 100
  },
  {
   "appid": 3065800,
@@ -45828,6 +46116,15 @@
   "current_players": 600
  },
  {
+  "appid": 5064340,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2306,
+  "positive_all": 2218,
+  "reviews_ko": 79,
+  "positive_ko": 78,
+  "current_players": 677
+ },
+ {
   "appid": 1363080,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 92377,
@@ -46474,6 +46771,15 @@
   "reviews_ko": 182,
   "positive_ko": 121,
   "current_players": 1204
+ },
+ {
+  "appid": 1547000,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 17424,
+  "positive_all": 14000,
+  "reviews_ko": 182,
+  "positive_ko": 121,
+  "current_players": 2403
  },
  {
   "appid": 1044720,
@@ -47709,6 +48015,15 @@
   "current_players": 323
  },
  {
+  "appid": 1369630,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 46488,
+  "positive_all": 43569,
+  "reviews_ko": 2297,
+  "positive_ko": 2158,
+  "current_players": 334
+ },
+ {
   "appid": 1295510,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 12215,
@@ -48601,15 +48916,6 @@
  },
  {
   "appid": 1436990,
-  "at": "2026-10-07T22:08:57+00:00",
-  "reviews_all": 6362,
-  "positive_all": 5800,
-  "reviews_ko": 697,
-  "positive_ko": 624,
-  "current_players": 178
- },
- {
-  "appid": 1436990,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 6381,
   "positive_all": 5819,
@@ -48832,6 +49138,15 @@
   "reviews_ko": 696,
   "positive_ko": 624,
   "current_players": 39
+ },
+ {
+  "appid": 1436990,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6391,
+  "positive_all": 5828,
+  "reviews_ko": 696,
+  "positive_ko": 624,
+  "current_players": 200
  },
  {
   "appid": 1689620,
@@ -50013,13 +50328,13 @@
   "current_players": 1862
  },
  {
-  "appid": 2060160,
-  "at": "2026-11-02T17:37:47+00:00",
-  "reviews_all": 9921,
-  "positive_all": 9490,
-  "reviews_ko": 442,
-  "positive_ko": 418,
-  "current_players": 1266
+  "appid": 3948120,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 18165,
+  "positive_all": 16975,
+  "reviews_ko": 641,
+  "positive_ko": 601,
+  "current_players": 2263
  },
  {
   "appid": 2060160,
@@ -50245,6 +50560,15 @@
   "reviews_ko": 454,
   "positive_ko": 429,
   "current_players": 1053
+ },
+ {
+  "appid": 2060160,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 10271,
+  "positive_all": 9826,
+  "reviews_ko": 454,
+  "positive_ko": 429,
+  "current_players": 1352
  },
  {
   "appid": 1451090,
@@ -50860,15 +51184,6 @@
  },
  {
   "appid": 2162800,
-  "at": "2026-10-31T05:30:19+00:00",
-  "reviews_all": 15552,
-  "positive_all": 15073,
-  "reviews_ko": 275,
-  "positive_ko": 263,
-  "current_players": 626
- },
- {
-  "appid": 2162800,
   "at": "2026-10-31T17:26:12+00:00",
   "reviews_all": 15555,
   "positive_all": 15076,
@@ -51093,6 +51408,15 @@
   "current_players": 620
  },
  {
+  "appid": 2162800,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 15624,
+  "positive_all": 15138,
+  "reviews_ko": 276,
+  "positive_ko": 264,
+  "current_players": 841
+ },
+ {
   "appid": 2670630,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 84426,
@@ -51154,6 +51478,15 @@
   "reviews_ko": 878,
   "positive_ko": 756,
   "current_players": 2330
+ },
+ {
+  "appid": 2670630,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 85015,
+  "positive_all": 78211,
+  "reviews_ko": 878,
+  "positive_ko": 756,
+  "current_players": 4216
  },
  {
   "appid": 1084160,
@@ -52587,6 +52920,15 @@
   "current_players": 648
  },
  {
+  "appid": 1718570,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 32375,
+  "positive_all": 30734,
+  "reviews_ko": 653,
+  "positive_ko": 617,
+  "current_players": 584
+ },
+ {
   "appid": 3164500,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 318757,
@@ -52873,6 +53215,15 @@
   "reviews_ko": 1071,
   "positive_ko": 1047,
   "current_players": 227
+ },
+ {
+  "appid": 2725260,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 19176,
+  "positive_all": 18279,
+  "reviews_ko": 1071,
+  "positive_ko": 1047,
+  "current_players": 242
  },
  {
   "appid": 848450,
@@ -53271,6 +53622,15 @@
   "current_players": 6879
  },
  {
+  "appid": 1677280,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 41289,
+  "positive_all": 23409,
+  "reviews_ko": 1649,
+  "positive_ko": 737,
+  "current_players": 11406
+ },
+ {
   "appid": 2393970,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 1009,
@@ -53575,6 +53935,15 @@
   "reviews_ko": 1437,
   "positive_ko": 1293,
   "current_players": 791
+ },
+ {
+  "appid": 1210320,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 45295,
+  "positive_all": 42116,
+  "reviews_ko": 1437,
+  "positive_ko": 1293,
+  "current_players": 1192
  },
  {
   "appid": 865360,
@@ -54676,15 +55045,6 @@
  },
  {
   "appid": 1942280,
-  "at": "2026-10-07T22:08:57+00:00",
-  "reviews_all": 119551,
-  "positive_all": 114645,
-  "reviews_ko": 2588,
-  "positive_ko": 2494,
-  "current_players": 4372
- },
- {
-  "appid": 1942280,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 120437,
   "positive_all": 115439,
@@ -54909,13 +55269,13 @@
   "current_players": 13605
  },
  {
-  "appid": 2114740,
-  "at": "2026-11-01T05:32:54+00:00",
-  "reviews_all": 22301,
-  "positive_all": 20226,
-  "reviews_ko": 392,
-  "positive_ko": 357,
-  "current_players": 516
+  "appid": 1942280,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 121752,
+  "positive_all": 116560,
+  "reviews_ko": 2614,
+  "positive_ko": 2519,
+  "current_players": 19860
  },
  {
   "appid": 2114740,
@@ -55143,6 +55503,15 @@
   "current_players": 467
  },
  {
+  "appid": 2114740,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 22490,
+  "positive_all": 20398,
+  "reviews_ko": 394,
+  "positive_ko": 357,
+  "current_players": 618
+ },
+ {
   "appid": 460930,
   "at": "2026-10-07T22:08:57+00:00",
   "reviews_all": 115819,
@@ -55233,13 +55602,13 @@
   "current_players": 2619
  },
  {
-  "appid": 1562430,
-  "at": "2026-11-02T17:37:47+00:00",
-  "reviews_all": 57890,
-  "positive_all": 55487,
-  "reviews_ko": 1104,
-  "positive_ko": 1040,
-  "current_players": 949
+  "appid": 460930,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 116696,
+  "positive_all": 91386,
+  "reviews_ko": 2499,
+  "positive_ko": 1856,
+  "current_players": 3725
  },
  {
   "appid": 1562430,
@@ -55465,6 +55834,15 @@
   "reviews_ko": 1108,
   "positive_ko": 1044,
   "current_players": 739
+ },
+ {
+  "appid": 1562430,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 58169,
+  "positive_all": 55757,
+  "reviews_ko": 1108,
+  "positive_ko": 1044,
+  "current_players": 920
  },
  {
   "appid": 1948280,
@@ -56734,6 +57112,15 @@
   "reviews_ko": 342,
   "positive_ko": 283,
   "current_players": 668
+ },
+ {
+  "appid": 2138710,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 29832,
+  "positive_all": 27371,
+  "reviews_ko": 343,
+  "positive_ko": 284,
+  "current_players": 1003
  },
  {
   "appid": 1805110,
@@ -58572,6 +58959,15 @@
   "current_players": 1404
  },
  {
+  "appid": 2239150,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 24098,
+  "positive_all": 23137,
+  "reviews_ko": 436,
+  "positive_ko": 414,
+  "current_players": 1688
+ },
+ {
   "appid": 1620730,
   "at": "2026-10-08T21:51:23+00:00",
   "reviews_all": 6946,
@@ -59356,15 +59752,6 @@
  },
  {
   "appid": 1286580,
-  "at": "2026-10-30T17:27:27+00:00",
-  "reviews_all": 6340,
-  "positive_all": 5188,
-  "reviews_ko": 440,
-  "positive_ko": 377,
-  "current_players": 149
- },
- {
-  "appid": 1286580,
   "at": "2026-10-31T05:30:19+00:00",
   "reviews_all": 6340,
   "positive_all": 5188,
@@ -59587,6 +59974,15 @@
   "reviews_ko": 442,
   "positive_ko": 379,
   "current_players": 134
+ },
+ {
+  "appid": 1286580,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6363,
+  "positive_all": 5209,
+  "reviews_ko": 442,
+  "positive_ko": 379,
+  "current_players": 198
  },
  {
   "appid": 1805480,
@@ -60966,13 +61362,13 @@
   "current_players": 219
  },
  {
-  "appid": 1763250,
-  "at": "2026-10-19T17:23:54+00:00",
-  "reviews_all": 5237,
-  "positive_all": 4186,
-  "reviews_ko": 59,
-  "positive_ko": 43,
-  "current_players": 162
+  "appid": 3065940,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4921,
+  "positive_all": 3797,
+  "reviews_ko": 24,
+  "positive_ko": 18,
+  "current_players": 281
  },
  {
   "appid": 1763250,
@@ -61198,6 +61594,15 @@
   "reviews_ko": 58,
   "positive_ko": 42,
   "current_players": 141
+ },
+ {
+  "appid": 1763250,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 5292,
+  "positive_all": 4217,
+  "reviews_ko": 58,
+  "positive_ko": 42,
+  "current_players": 165
  },
  {
   "appid": 508440,
@@ -61837,6 +62242,15 @@
   "reviews_ko": 96,
   "positive_ko": 62,
   "current_players": 20732
+ },
+ {
+  "appid": 4623570,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3827,
+  "positive_all": 1926,
+  "reviews_ko": 96,
+  "positive_ko": 62,
+  "current_players": 19756
  },
  {
   "appid": 3570070,
@@ -63108,6 +63522,15 @@
   "current_players": 3940
  },
  {
+  "appid": 2784470,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 24207,
+  "positive_all": 22348,
+  "reviews_ko": 412,
+  "positive_ko": 345,
+  "current_players": 5040
+ },
+ {
   "appid": 34030,
   "at": "2026-10-08T21:51:23+00:00",
   "reviews_all": 27730,
@@ -63700,6 +64123,15 @@
   "reviews_ko": 282,
   "positive_ko": 241,
   "current_players": 1107
+ },
+ {
+  "appid": 1272320,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 12918,
+  "positive_all": 11064,
+  "reviews_ko": 282,
+  "positive_ko": 241,
+  "current_players": 1621
  },
  {
   "appid": 1574820,
@@ -66258,6 +66690,15 @@
   "current_players": 64
  },
  {
+  "appid": 3631290,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 7880,
+  "positive_all": 7395,
+  "reviews_ko": 323,
+  "positive_ko": 295,
+  "current_players": 99
+ },
+ {
   "appid": 201810,
   "at": "2026-10-08T21:51:23+00:00",
   "reviews_all": 62466,
@@ -67120,6 +67561,15 @@
   "reviews_ko": 458,
   "positive_ko": 391,
   "current_players": 1028
+ },
+ {
+  "appid": 1029780,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 21642,
+  "positive_all": 19275,
+  "reviews_ko": 458,
+  "positive_ko": 391,
+  "current_players": 1820
  },
  {
   "appid": 1105500,
@@ -70038,6 +70488,15 @@
   "current_players": 40
  },
  {
+  "appid": 746850,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 15660,
+  "positive_all": 13677,
+  "reviews_ko": 278,
+  "positive_ko": 233,
+  "current_players": 68
+ },
+ {
   "appid": 4069520,
   "at": "2026-10-08T21:51:23+00:00",
   "reviews_all": 11878,
@@ -71755,6 +72214,15 @@
   "reviews_ko": 88,
   "positive_ko": 77,
   "current_players": 64
+ },
+ {
+  "appid": 550320,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6725,
+  "positive_all": 6182,
+  "reviews_ko": 88,
+  "positive_ko": 77,
+  "current_players": 100
  },
  {
   "appid": 1121640,
@@ -74536,6 +75004,15 @@
   "reviews_ko": 448,
   "positive_ko": 259,
   "current_players": 95
+ },
+ {
+  "appid": 897450,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 10143,
+  "positive_all": 7717,
+  "reviews_ko": 448,
+  "positive_ko": 259,
+  "current_players": 63
  },
  {
   "appid": 108710,
@@ -77895,6 +78372,15 @@
   "current_players": 46
  },
  {
+  "appid": 1206070,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1879,
+  "positive_all": 1746,
+  "reviews_ko": 23,
+  "positive_ko": 22,
+  "current_players": 137
+ },
+ {
   "appid": 3693650,
   "at": "2026-10-08T21:51:23+00:00",
   "reviews_all": 1401,
@@ -79228,15 +79714,6 @@
  },
  {
   "appid": 1283400,
-  "at": "2026-10-15T05:48:00+00:00",
-  "reviews_all": 7498,
-  "positive_all": 5368,
-  "reviews_ko": 114,
-  "positive_ko": 70,
-  "current_players": 40
- },
- {
-  "appid": 1283400,
   "at": "2026-10-15T17:24:34+00:00",
   "reviews_all": 7498,
   "positive_all": 5368,
@@ -79459,6 +79936,15 @@
   "reviews_ko": 121,
   "positive_ko": 71,
   "current_players": 118
+ },
+ {
+  "appid": 1283400,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 7614,
+  "positive_all": 5435,
+  "reviews_ko": 121,
+  "positive_ko": 71,
+  "current_players": 138
  },
  {
   "appid": 1049280,
@@ -95355,6 +95841,15 @@
   "current_players": 226
  },
  {
+  "appid": 1122340,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2955,
+  "positive_all": 2468,
+  "reviews_ko": 163,
+  "positive_ko": 143,
+  "current_players": 275
+ },
+ {
   "appid": 3205380,
   "at": "2026-10-13T20:10:29+00:00",
   "reviews_all": 1607,
@@ -109539,6 +110034,15 @@
   "current_players": 10
  },
  {
+  "appid": 943370,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1076,
+  "positive_all": 830,
+  "reviews_ko": 36,
+  "positive_ko": 30,
+  "current_players": 17
+ },
+ {
   "appid": 1203620,
   "at": "2026-10-16T05:24:42+00:00",
   "reviews_all": 107445,
@@ -121384,15 +121888,6 @@
  },
  {
   "appid": 3717070,
-  "at": "2026-11-01T17:39:32+00:00",
-  "reviews_all": 3659,
-  "positive_all": 2040,
-  "reviews_ko": 61,
-  "positive_ko": 32,
-  "current_players": 1482
- },
- {
-  "appid": 3717070,
   "at": "2026-11-02T05:53:50+00:00",
   "reviews_all": 3663,
   "positive_all": 2042,
@@ -121615,6 +122110,15 @@
   "reviews_ko": 62,
   "positive_ko": 32,
   "current_players": 963
+ },
+ {
+  "appid": 3717070,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3739,
+  "positive_all": 2093,
+  "reviews_ko": 62,
+  "positive_ko": 32,
+  "current_players": 1258
  },
  {
   "appid": 1657630,
@@ -148357,15 +148861,6 @@
  },
  {
   "appid": 1343240,
-  "at": "2026-10-27T17:43:37+00:00",
-  "reviews_all": 10259,
-  "positive_all": 8409,
-  "reviews_ko": 386,
-  "positive_ko": 319,
-  "current_players": 26
- },
- {
-  "appid": 1343240,
   "at": "2026-10-28T05:39:58+00:00",
   "reviews_all": 10261,
   "positive_all": 8410,
@@ -148588,6 +149083,15 @@
   "reviews_ko": 391,
   "positive_ko": 322,
   "current_players": 55
+ },
+ {
+  "appid": 1343240,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 10345,
+  "positive_all": 8460,
+  "reviews_ko": 392,
+  "positive_ko": 322,
+  "current_players": 67
  },
  {
   "appid": 1250,
@@ -182466,6 +182970,15 @@
   "current_players": 199
  },
  {
+  "appid": 2569760,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4383,
+  "positive_all": 3012,
+  "reviews_ko": 32,
+  "positive_ko": 11,
+  "current_players": 277
+ },
+ {
   "appid": 2103140,
   "at": "2026-11-01T05:32:54+00:00",
   "reviews_all": 17039,
@@ -184978,15 +185491,6 @@
  },
  {
   "appid": 392160,
-  "at": "2026-11-02T17:37:47+00:00",
-  "reviews_all": 30553,
-  "positive_all": 24441,
-  "reviews_ko": 324,
-  "positive_ko": 242,
-  "current_players": 2874
- },
- {
-  "appid": 392160,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 30552,
   "positive_all": 24442,
@@ -185209,6 +185713,15 @@
   "reviews_ko": 327,
   "positive_ko": 242,
   "current_players": 2389
+ },
+ {
+  "appid": 392160,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 30651,
+  "positive_all": 24511,
+  "reviews_ko": 327,
+  "positive_ko": 242,
+  "current_players": 4159
  },
  {
   "appid": 1799840,
@@ -185464,15 +185977,6 @@
  },
  {
   "appid": 115800,
-  "at": "2026-11-02T05:53:50+00:00",
-  "reviews_all": 6139,
-  "positive_all": 5123,
-  "reviews_ko": 205,
-  "positive_ko": 164,
-  "current_players": 59
- },
- {
-  "appid": 115800,
   "at": "2026-11-02T17:37:47+00:00",
   "reviews_all": 6142,
   "positive_all": 5125,
@@ -185695,6 +186199,15 @@
   "reviews_ko": 206,
   "positive_ko": 164,
   "current_players": 31
+ },
+ {
+  "appid": 115800,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6199,
+  "positive_all": 5173,
+  "reviews_ko": 206,
+  "positive_ko": 164,
+  "current_players": 76
  },
  {
   "appid": 289650,
@@ -186055,6 +186568,15 @@
   "reviews_ko": 140,
   "positive_ko": 112,
   "current_players": 328
+ },
+ {
+  "appid": 1128920,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 13244,
+  "positive_all": 11360,
+  "reviews_ko": 141,
+  "positive_ko": 112,
+  "current_players": 605
  },
  {
   "appid": 1127500,
@@ -187767,6 +188289,15 @@
   "current_players": 55
  },
  {
+  "appid": 376680,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1546,
+  "positive_all": 1226,
+  "reviews_ko": 68,
+  "positive_ko": 54,
+  "current_players": 70
+ },
+ {
   "appid": 1956800,
   "at": "2026-11-02T05:53:50+00:00",
   "reviews_all": 3393,
@@ -188307,6 +188838,15 @@
   "current_players": 396
  },
  {
+  "appid": 800270,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 7295,
+  "positive_all": 5147,
+  "reviews_ko": 139,
+  "positive_ko": 96,
+  "current_players": 501
+ },
+ {
   "appid": 1167630,
   "at": "2026-11-02T17:37:47+00:00",
   "reviews_all": 138205,
@@ -188658,6 +189198,15 @@
   "current_players": 79
  },
  {
+  "appid": 2155180,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 5578,
+  "positive_all": 4535,
+  "reviews_ko": 56,
+  "positive_ko": 37,
+  "current_players": 527
+ },
+ {
   "appid": 2445990,
   "at": "2026-11-02T17:37:47+00:00",
   "reviews_all": 1698,
@@ -188710,6 +189259,15 @@
   "reviews_ko": 28,
   "positive_ko": 23,
   "current_players": 64
+ },
+ {
+  "appid": 2445990,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1709,
+  "positive_all": 1462,
+  "reviews_ko": 28,
+  "positive_ko": 23,
+  "current_players": 68
  },
  {
   "appid": 110800,
@@ -189837,6 +190395,15 @@
   "current_players": 2940
  },
  {
+  "appid": 397540,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 164683,
+  "positive_all": 133519,
+  "reviews_ko": 2573,
+  "positive_ko": 2062,
+  "current_players": 3942
+ },
+ {
   "appid": 1958220,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 8270,
@@ -190053,6 +190620,15 @@
   "current_players": 170
  },
  {
+  "appid": 1958220,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 8311,
+  "positive_all": 7959,
+  "reviews_ko": 752,
+  "positive_ko": 712,
+  "current_players": 183
+ },
+ {
   "appid": 1967630,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 4556,
@@ -190222,6 +190798,15 @@
   "reviews_ko": 78,
   "positive_ko": 57,
   "current_players": 270
+ },
+ {
+  "appid": 1967630,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4646,
+  "positive_all": 3954,
+  "reviews_ko": 78,
+  "positive_ko": 57,
+  "current_players": 492
  },
  {
   "appid": 282070,
@@ -190665,6 +191250,15 @@
   "current_players": 3726
  },
  {
+  "appid": 49520,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 313411,
+  "positive_all": 280665,
+  "reviews_ko": 3912,
+  "positive_ko": 3424,
+  "current_players": 3927
+ },
+ {
   "appid": 1839950,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 4589,
@@ -190987,6 +191581,15 @@
   "reviews_ko": 204,
   "positive_ko": 183,
   "current_players": 679
+ },
+ {
+  "appid": 1054490,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 12175,
+  "positive_all": 11475,
+  "reviews_ko": 204,
+  "positive_ko": 183,
+  "current_players": 790
  },
  {
   "appid": 1170570,
@@ -191446,6 +192049,15 @@
   "reviews_ko": 192,
   "positive_ko": 185,
   "current_players": 129
+ },
+ {
+  "appid": 3035120,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 9979,
+  "positive_all": 9704,
+  "reviews_ko": 192,
+  "positive_ko": 185,
+  "current_players": 153
  },
  {
   "appid": 1501750,
@@ -191995,6 +192607,15 @@
   "reviews_ko": 532,
   "positive_ko": 362,
   "current_players": 411
+ },
+ {
+  "appid": 261640,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 43411,
+  "positive_all": 34270,
+  "reviews_ko": 532,
+  "positive_ko": 362,
+  "current_players": 478
  },
  {
   "appid": 977880,
@@ -192753,6 +193374,15 @@
   "current_players": 58
  },
  {
+  "appid": 2394650,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3328,
+  "positive_all": 3232,
+  "reviews_ko": 143,
+  "positive_ko": 135,
+  "current_players": 83
+ },
+ {
   "appid": 558990,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 7368,
@@ -193057,6 +193687,15 @@
   "reviews_ko": 79,
   "positive_ko": 64,
   "current_players": 58
+ },
+ {
+  "appid": 2830030,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6070,
+  "positive_all": 5171,
+  "reviews_ko": 78,
+  "positive_ko": 63,
+  "current_players": 75
  },
  {
   "appid": 846770,
@@ -194049,6 +194688,15 @@
   "current_players": 954
  },
  {
+  "appid": 729040,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 28250,
+  "positive_all": 22883,
+  "reviews_ko": 171,
+  "positive_ko": 140,
+  "current_players": 1282
+ },
+ {
   "appid": 731040,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 14114,
@@ -194553,6 +195201,15 @@
   "current_players": 73
  },
  {
+  "appid": 1858650,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1749,
+  "positive_all": 1514,
+  "reviews_ko": 148,
+  "positive_ko": 118,
+  "current_players": 190
+ },
+ {
   "appid": 1286680,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 24875,
@@ -194749,6 +195406,15 @@
   "reviews_ko": 333,
   "positive_ko": 217,
   "current_players": 545
+ },
+ {
+  "appid": 1286680,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 24924,
+  "positive_all": 17603,
+  "reviews_ko": 333,
+  "positive_ko": 217,
+  "current_players": 572
  },
  {
   "appid": 1282150,
@@ -195174,6 +195840,15 @@
   "current_players": 143
  },
  {
+  "appid": 1094520,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 23082,
+  "positive_all": 18836,
+  "reviews_ko": 94,
+  "positive_ko": 66,
+  "current_players": 135
+ },
+ {
   "appid": 1592520,
   "at": "2026-11-03T05:26:44+00:00",
   "reviews_all": 1306,
@@ -195349,6 +196024,15 @@
   "at": "2026-11-15T04:56:11+00:00",
   "reviews_all": 1317,
   "positive_all": 1229,
+  "reviews_ko": 45,
+  "positive_ko": 42,
+  "current_players": 20
+ },
+ {
+  "appid": 1592520,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1319,
+  "positive_all": 1230,
   "reviews_ko": 45,
   "positive_ko": 42,
   "current_players": 20
@@ -196677,6 +197361,15 @@
   "current_players": 152
  },
  {
+  "appid": 490110,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 9586,
+  "positive_all": 8401,
+  "reviews_ko": 82,
+  "positive_ko": 65,
+  "current_players": 289
+ },
+ {
   "appid": 3430470,
   "at": "2026-11-03T17:29:31+00:00",
   "reviews_all": 2355,
@@ -196882,6 +197575,15 @@
   "reviews_ko": 1639,
   "positive_ko": 729,
   "current_players": 43
+ },
+ {
+  "appid": 3430470,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2360,
+  "positive_all": 1231,
+  "reviews_ko": 1639,
+  "positive_ko": 729,
+  "current_players": 29
  },
  {
   "appid": 1425000,
@@ -198909,6 +199611,15 @@
   "current_players": 42
  },
  {
+  "appid": 1811950,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1745,
+  "positive_all": 1591,
+  "reviews_ko": 164,
+  "positive_ko": 140,
+  "current_players": 45
+ },
+ {
   "appid": 1448440,
   "at": "2026-11-04T05:24:36+00:00",
   "reviews_all": 29554,
@@ -199114,6 +199825,15 @@
   "reviews_ko": 653,
   "positive_ko": 394,
   "current_players": 224
+ },
+ {
+  "appid": 1448440,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 29596,
+  "positive_all": 14816,
+  "reviews_ko": 653,
+  "positive_ko": 394,
+  "current_players": 249
  },
  {
   "appid": 2794590,
@@ -199546,6 +200266,15 @@
   "reviews_ko": 263,
   "positive_ko": 168,
   "current_players": 60
+ },
+ {
+  "appid": 1341200,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1960,
+  "positive_all": 968,
+  "reviews_ko": 263,
+  "positive_ko": 168,
+  "current_players": 56
  },
  {
   "appid": 2881370,
@@ -200016,6 +200745,15 @@
   "current_players": 561
  },
  {
+  "appid": 1465470,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4628,
+  "positive_all": 3513,
+  "reviews_ko": 53,
+  "positive_ko": 27,
+  "current_players": 1237
+ },
+ {
   "appid": 831560,
   "at": "2026-11-04T05:24:36+00:00",
   "reviews_all": 5630,
@@ -200205,6 +200943,15 @@
   "current_players": 157
  },
  {
+  "appid": 831560,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 5633,
+  "positive_all": 4868,
+  "reviews_ko": 181,
+  "positive_ko": 155,
+  "current_players": 142
+ },
+ {
   "appid": 1621310,
   "at": "2026-11-04T05:24:36+00:00",
   "reviews_all": 2626,
@@ -200367,6 +201114,15 @@
   "current_players": 56
  },
  {
+  "appid": 1621310,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2633,
+  "positive_all": 2474,
+  "reviews_ko": 176,
+  "positive_ko": 166,
+  "current_players": 55
+ },
+ {
   "appid": 2529790,
   "at": "2026-11-04T05:24:36+00:00",
   "reviews_all": 2106,
@@ -200482,6 +201238,15 @@
   "reviews_ko": 51,
   "positive_ko": 48,
   "current_players": 40
+ },
+ {
+  "appid": 2529790,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2129,
+  "positive_all": 1851,
+  "reviews_ko": 51,
+  "positive_ko": 48,
+  "current_players": 74
  },
  {
   "appid": 1843940,
@@ -201589,6 +202354,15 @@
   "reviews_ko": 36,
   "positive_ko": 25,
   "current_players": 122
+ },
+ {
+  "appid": 1599330,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2276,
+  "positive_all": 1924,
+  "reviews_ko": 36,
+  "positive_ko": 25,
+  "current_players": 143
  },
  {
   "appid": 2201940,
@@ -202923,6 +203697,15 @@
   "current_players": 394
  },
  {
+  "appid": 2615540,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3333,
+  "positive_all": 3020,
+  "reviews_ko": 38,
+  "positive_ko": 34,
+  "current_players": 473
+ },
+ {
   "appid": 981750,
   "at": "2026-11-05T05:19:42+00:00",
   "reviews_all": 1483,
@@ -203110,6 +203893,15 @@
   "reviews_ko": 142,
   "positive_ko": 103,
   "current_players": 159
+ },
+ {
+  "appid": 981750,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1608,
+  "positive_all": 1205,
+  "reviews_ko": 142,
+  "positive_ko": 103,
+  "current_players": 158
  },
  {
   "appid": 1904480,
@@ -203301,6 +204093,15 @@
   "current_players": 529
  },
  {
+  "appid": 1904480,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 11071,
+  "positive_all": 10179,
+  "reviews_ko": 277,
+  "positive_ko": 241,
+  "current_players": 726
+ },
+ {
   "appid": 1361510,
   "at": "2026-11-05T05:19:42+00:00",
   "reviews_all": 15063,
@@ -203490,6 +204291,15 @@
   "current_players": 111
  },
  {
+  "appid": 1361510,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 15102,
+  "positive_all": 14239,
+  "reviews_ko": 196,
+  "positive_ko": 174,
+  "current_players": 163
+ },
+ {
   "appid": 2175540,
   "at": "2026-11-05T05:19:42+00:00",
   "reviews_all": 1458,
@@ -203668,6 +204478,15 @@
   "reviews_ko": 21,
   "positive_ko": 17,
   "current_players": 719
+ },
+ {
+  "appid": 2175540,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1478,
+  "positive_all": 1069,
+  "reviews_ko": 21,
+  "positive_ko": 17,
+  "current_players": 580
  },
  {
   "appid": 985890,
@@ -203859,6 +204678,15 @@
   "current_players": 164
  },
  {
+  "appid": 985890,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 19917,
+  "positive_all": 18405,
+  "reviews_ko": 293,
+  "positive_ko": 255,
+  "current_players": 240
+ },
+ {
   "appid": 2542120,
   "at": "2026-11-05T05:19:42+00:00",
   "reviews_all": 2757,
@@ -204046,6 +204874,15 @@
   "reviews_ko": 25,
   "positive_ko": 18,
   "current_players": 38
+ },
+ {
+  "appid": 2542120,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2788,
+  "positive_all": 2571,
+  "reviews_ko": 25,
+  "positive_ko": 18,
+  "current_players": 45
  },
  {
   "appid": 3263320,
@@ -204435,6 +205272,15 @@
   "current_players": 137
  },
  {
+  "appid": 2525310,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3427,
+  "positive_all": 3049,
+  "reviews_ko": 67,
+  "positive_ko": 50,
+  "current_players": 235
+ },
+ {
   "appid": 374190,
   "at": "2026-11-05T05:19:42+00:00",
   "reviews_all": 2285,
@@ -204541,6 +205387,15 @@
   "reviews_ko": 132,
   "positive_ko": 121,
   "current_players": 24
+ },
+ {
+  "appid": 374190,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2295,
+  "positive_all": 2133,
+  "reviews_ko": 132,
+  "positive_ko": 121,
+  "current_players": 30
  },
  {
   "appid": 3337140,
@@ -204696,6 +205551,15 @@
   "current_players": 162
  },
  {
+  "appid": 3337140,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1572,
+  "positive_all": 1240,
+  "reviews_ko": 44,
+  "positive_ko": 23,
+  "current_players": 231
+ },
+ {
   "appid": 1590760,
   "at": "2026-11-05T05:19:42+00:00",
   "reviews_all": 1596,
@@ -204831,6 +205695,15 @@
   "current_players": 48
  },
  {
+  "appid": 1590760,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1607,
+  "positive_all": 1229,
+  "reviews_ko": 66,
+  "positive_ko": 50,
+  "current_players": 37
+ },
+ {
   "appid": 2102450,
   "at": "2026-11-05T05:19:42+00:00",
   "reviews_all": 2825,
@@ -204892,6 +205765,15 @@
   "reviews_ko": 33,
   "positive_ko": 24,
   "current_players": 14
+ },
+ {
+  "appid": 2102450,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2846,
+  "positive_all": 1965,
+  "reviews_ko": 33,
+  "positive_ko": 24,
+  "current_players": 30
  },
  {
   "appid": 3167550,
@@ -205011,6 +205893,15 @@
   "current_players": 577
  },
  {
+  "appid": 3167550,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 8724,
+  "positive_all": 8064,
+  "reviews_ko": 421,
+  "positive_ko": 398,
+  "current_players": 430
+ },
+ {
   "appid": 3375780,
   "at": "2026-11-05T05:19:42+00:00",
   "reviews_all": 5438,
@@ -205126,6 +206017,15 @@
   "reviews_ko": 1,
   "positive_ko": 1,
   "current_players": 942
+ },
+ {
+  "appid": 3375780,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 5528,
+  "positive_all": 5257,
+  "reviews_ko": 1,
+  "positive_ko": 1,
+  "current_players": 958
  },
  {
   "appid": 2377930,
@@ -205299,6 +206199,15 @@
   "current_players": 230
  },
  {
+  "appid": 2753970,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2638,
+  "positive_all": 2337,
+  "reviews_ko": 29,
+  "positive_ko": 25,
+  "current_players": 208
+ },
+ {
   "appid": 400630,
   "at": "2026-11-05T05:19:42+00:00",
   "reviews_all": 6013,
@@ -205333,6 +206242,15 @@
   "reviews_ko": 748,
   "positive_ko": 713,
   "current_players": 25
+ },
+ {
+  "appid": 400630,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6021,
+  "positive_all": 5683,
+  "reviews_ko": 748,
+  "positive_ko": 713,
+  "current_players": 18
  },
  {
   "appid": 2262610,
@@ -205569,6 +206487,15 @@
   "current_players": 66
  },
  {
+  "appid": 3158270,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1844,
+  "positive_all": 1301,
+  "reviews_ko": 12,
+  "positive_ko": 5,
+  "current_players": 162
+ },
+ {
   "appid": 2663950,
   "at": "2026-11-05T05:19:42+00:00",
   "reviews_all": 2854,
@@ -205603,6 +206530,15 @@
   "reviews_ko": 9,
   "positive_ko": 9,
   "current_players": 15
+ },
+ {
+  "appid": 2663950,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2867,
+  "positive_all": 2655,
+  "reviews_ko": 9,
+  "positive_ko": 9,
+  "current_players": 34
  },
  {
   "appid": 3831120,
@@ -205855,6 +206791,15 @@
   "reviews_ko": 51,
   "positive_ko": 38,
   "current_players": 176
+ },
+ {
+  "appid": 1351080,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 5469,
+  "positive_all": 4101,
+  "reviews_ko": 51,
+  "positive_ko": 38,
+  "current_players": 554
  },
  {
   "appid": 2291060,
@@ -206226,6 +207171,15 @@
   "current_players": 97
  },
  {
+  "appid": 3601800,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1865,
+  "positive_all": 1591,
+  "reviews_ko": 17,
+  "positive_ko": 14,
+  "current_players": 138
+ },
+ {
   "appid": 718590,
   "at": "2026-11-05T17:17:56+00:00",
   "reviews_all": 2519,
@@ -206494,6 +207448,15 @@
   "reviews_ko": 28,
   "positive_ko": 19,
   "current_players": 279
+ },
+ {
+  "appid": 5053820,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1281,
+  "positive_all": 730,
+  "reviews_ko": 29,
+  "positive_ko": 20,
+  "current_players": 614
  },
  {
   "appid": 1272080,
@@ -207126,6 +208089,15 @@
   "current_players": 78
  },
  {
+  "appid": 4836540,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1186,
+  "positive_all": 576,
+  "reviews_ko": 47,
+  "positive_ko": 8,
+  "current_players": 105
+ },
+ {
   "appid": 527230,
   "at": "2026-11-06T05:13:18+00:00",
   "reviews_all": 43975,
@@ -207295,6 +208267,15 @@
   "reviews_ko": 2374,
   "positive_ko": 2176,
   "current_players": 1117
+ },
+ {
+  "appid": 527230,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 44092,
+  "positive_all": 38622,
+  "reviews_ko": 2375,
+  "positive_ko": 2177,
+  "current_players": 1883
  },
  {
   "appid": 1372110,
@@ -207738,6 +208719,15 @@
   "current_players": 49
  },
  {
+  "appid": 1983260,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3501,
+  "positive_all": 3269,
+  "reviews_ko": 70,
+  "positive_ko": 57,
+  "current_players": 94
+ },
+ {
   "appid": 231430,
   "at": "2026-11-06T05:13:18+00:00",
   "reviews_all": 113475,
@@ -207898,6 +208888,15 @@
   "reviews_ko": 2262,
   "positive_ko": 1711,
   "current_players": 2145
+ },
+ {
+  "appid": 231430,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 113563,
+  "positive_all": 89767,
+  "reviews_ko": 2262,
+  "positive_ko": 1711,
+  "current_players": 3623
  },
  {
   "appid": 247000,
@@ -208186,6 +209185,15 @@
   "reviews_ko": 256,
   "positive_ko": 207,
   "current_players": 172
+ },
+ {
+  "appid": 1611910,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 14928,
+  "positive_all": 11425,
+  "reviews_ko": 256,
+  "positive_ko": 207,
+  "current_players": 345
  },
  {
   "appid": 16810,
@@ -208746,6 +209754,15 @@
   "current_players": 77
  },
  {
+  "appid": 437920,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 16559,
+  "positive_all": 14933,
+  "reviews_ko": 1466,
+  "positive_ko": 1317,
+  "current_players": 145
+ },
+ {
   "appid": 681280,
   "at": "2026-11-06T05:13:18+00:00",
   "reviews_all": 24486,
@@ -208872,6 +209889,15 @@
   "current_players": 102
  },
  {
+  "appid": 4560,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 7315,
+  "positive_all": 6818,
+  "reviews_ko": 135,
+  "positive_ko": 122,
+  "current_players": 176
+ },
+ {
   "appid": 2904040,
   "at": "2026-11-06T05:13:18+00:00",
   "reviews_all": 3894,
@@ -208942,6 +209968,15 @@
   "reviews_ko": 6,
   "positive_ko": 5,
   "current_players": 171
+ },
+ {
+  "appid": 2904040,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4035,
+  "positive_all": 3712,
+  "reviews_ko": 6,
+  "positive_ko": 5,
+  "current_players": 727
  },
  {
   "appid": 228200,
@@ -209113,6 +210148,15 @@
   "reviews_ko": 728,
   "positive_ko": 652,
   "current_players": 1069
+ },
+ {
+  "appid": 228200,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 18967,
+  "positive_all": 17862,
+  "reviews_ko": 728,
+  "positive_ko": 652,
+  "current_players": 1879
  },
  {
   "appid": 1134700,
@@ -209401,6 +210445,15 @@
   "reviews_ko": 79,
   "positive_ko": 64,
   "current_players": 5955
+ },
+ {
+  "appid": 1211600,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4766,
+  "positive_all": 3911,
+  "reviews_ko": 86,
+  "positive_ko": 68,
+  "current_players": 8394
  },
  {
   "appid": 3501070,
@@ -209772,6 +210825,15 @@
   "current_players": 228
  },
  {
+  "appid": 1004750,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2554,
+  "positive_all": 1885,
+  "reviews_ko": 53,
+  "positive_ko": 38,
+  "current_players": 343
+ },
+ {
   "appid": 2111190,
   "at": "2026-11-06T17:10:53+00:00",
   "reviews_all": 9692,
@@ -210132,6 +211194,15 @@
   "current_players": 183
  },
  {
+  "appid": 1694420,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3085,
+  "positive_all": 2930,
+  "reviews_ko": 263,
+  "positive_ko": 246,
+  "current_players": 196
+ },
+ {
   "appid": 2321780,
   "at": "2026-11-06T17:10:53+00:00",
   "reviews_all": 1509,
@@ -210348,6 +211419,15 @@
   "current_players": 2835
  },
  {
+  "appid": 5266240,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2684,
+  "positive_all": 2387,
+  "reviews_ko": 236,
+  "positive_ko": 225,
+  "current_players": 4689
+ },
+ {
   "appid": 3398110,
   "at": "2026-11-07T05:12:38+00:00",
   "reviews_all": 3281,
@@ -210501,6 +211581,15 @@
   "current_players": 279
  },
  {
+  "appid": 3398110,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3325,
+  "positive_all": 2849,
+  "reviews_ko": 82,
+  "positive_ko": 64,
+  "current_players": 411
+ },
+ {
   "appid": 1876930,
   "at": "2026-11-07T05:12:38+00:00",
   "reviews_all": 1031,
@@ -210598,6 +211687,15 @@
   "reviews_ko": 5,
   "positive_ko": 4,
   "current_players": 153
+ },
+ {
+  "appid": 1876930,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1109,
+  "positive_all": 974,
+  "reviews_ko": 5,
+  "positive_ko": 4,
+  "current_players": 303
  },
  {
   "appid": 3699590,
@@ -210751,6 +211849,15 @@
   "reviews_ko": 68,
   "positive_ko": 65,
   "current_players": 318
+ },
+ {
+  "appid": 3699590,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4941,
+  "positive_all": 4828,
+  "reviews_ko": 68,
+  "positive_ko": 65,
+  "current_players": 518
  },
  {
   "appid": 1342330,
@@ -211392,6 +212499,15 @@
   "current_players": 698
  },
  {
+  "appid": 5212940,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1406,
+  "positive_all": 1247,
+  "reviews_ko": 16,
+  "positive_ko": 12,
+  "current_players": 1122
+ },
+ {
   "appid": 3727090,
   "at": "2026-11-07T05:12:38+00:00",
   "reviews_all": 1021,
@@ -211507,6 +212623,15 @@
   "reviews_ko": 159,
   "positive_ko": 126,
   "current_players": 61
+ },
+ {
+  "appid": 577230,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3969,
+  "positive_all": 2702,
+  "reviews_ko": 159,
+  "positive_ko": 126,
+  "current_players": 40
  },
  {
   "appid": 2928520,
@@ -211680,6 +212805,15 @@
   "current_players": 987
  },
  {
+  "appid": 2492040,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4032,
+  "positive_all": 3271,
+  "reviews_ko": 60,
+  "positive_ko": 45,
+  "current_players": 988
+ },
+ {
   "appid": 1498570,
   "at": "2026-11-07T17:08:02+00:00",
   "reviews_all": 9383,
@@ -211824,6 +212958,15 @@
   "current_players": 365
  },
  {
+  "appid": 1498570,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 9405,
+  "positive_all": 7873,
+  "reviews_ko": 483,
+  "positive_ko": 362,
+  "current_players": 319
+ },
+ {
   "appid": 4227400,
   "at": "2026-11-07T17:08:02+00:00",
   "reviews_all": 1359,
@@ -211959,6 +213102,15 @@
   "current_players": 86
  },
  {
+  "appid": 222420,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3167,
+  "positive_all": 2878,
+  "reviews_ko": 377,
+  "positive_ko": 286,
+  "current_players": 95
+ },
+ {
   "appid": 571260,
   "at": "2026-11-07T17:08:02+00:00",
   "reviews_all": 4261,
@@ -212085,6 +213237,15 @@
   "current_players": 30
  },
  {
+  "appid": 571260,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4265,
+  "positive_all": 3517,
+  "reviews_ko": 180,
+  "positive_ko": 117,
+  "current_players": 39
+ },
+ {
   "appid": 2273980,
   "at": "2026-11-07T17:08:02+00:00",
   "reviews_all": 4753,
@@ -212191,6 +213352,15 @@
   "reviews_ko": 65,
   "positive_ko": 39,
   "current_players": 187
+ },
+ {
+  "appid": 2273980,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4775,
+  "positive_all": 3361,
+  "reviews_ko": 65,
+  "positive_ko": 39,
+  "current_players": 232
  },
  {
   "appid": 1151380,
@@ -212767,6 +213937,15 @@
   "reviews_ko": 156,
   "positive_ko": 132,
   "current_players": 183
+ },
+ {
+  "appid": 4271160,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2068,
+  "positive_all": 1818,
+  "reviews_ko": 156,
+  "positive_ko": 132,
+  "current_players": 186
  },
  {
   "appid": 2961880,
@@ -213372,6 +214551,15 @@
   "current_players": 4274
  },
  {
+  "appid": 2320980,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1476,
+  "positive_all": 1304,
+  "reviews_ko": 18,
+  "positive_ko": 14,
+  "current_players": 4646
+ },
+ {
   "appid": 4298880,
   "at": "2026-11-09T05:15:22+00:00",
   "reviews_all": 1559,
@@ -213487,6 +214675,15 @@
   "reviews_ko": 281,
   "positive_ko": 255,
   "current_players": 226
+ },
+ {
+  "appid": 4298880,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1703,
+  "positive_all": 1448,
+  "reviews_ko": 282,
+  "positive_ko": 256,
+  "current_players": 295
  },
  {
   "appid": 1227690,
@@ -213606,6 +214803,15 @@
   "current_players": 115
  },
  {
+  "appid": 1227690,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 10570,
+  "positive_all": 10081,
+  "reviews_ko": 164,
+  "positive_ko": 150,
+  "current_players": 148
+ },
+ {
   "appid": 1066780,
   "at": "2026-11-09T05:15:22+00:00",
   "reviews_all": 33458,
@@ -213721,6 +214927,15 @@
   "reviews_ko": 283,
   "positive_ko": 241,
   "current_players": 1912
+ },
+ {
+  "appid": 1066780,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 33515,
+  "positive_all": 30252,
+  "reviews_ko": 283,
+  "positive_ko": 241,
+  "current_players": 3603
  },
  {
   "appid": 3249650,
@@ -213856,6 +215071,15 @@
   "reviews_ko": 278,
   "positive_ko": 201,
   "current_players": 94
+ },
+ {
+  "appid": 3021100,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 7133,
+  "positive_all": 6530,
+  "reviews_ko": 278,
+  "positive_ko": 201,
+  "current_players": 142
  },
  {
   "appid": 2566340,
@@ -214299,6 +215523,15 @@
   "current_players": 5611
  },
  {
+  "appid": 4576490,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3738,
+  "positive_all": 3633,
+  "reviews_ko": 59,
+  "positive_ko": 58,
+  "current_players": 6524
+ },
+ {
   "appid": 2584270,
   "at": "2026-11-10T05:02:11+00:00",
   "reviews_all": 22701,
@@ -214396,6 +215629,15 @@
   "reviews_ko": 281,
   "positive_ko": 173,
   "current_players": 1619
+ },
+ {
+  "appid": 2584270,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 22916,
+  "positive_all": 18203,
+  "reviews_ko": 282,
+  "positive_ko": 174,
+  "current_players": 2906
  },
  {
   "appid": 269210,
@@ -214497,6 +215739,15 @@
   "current_players": 424
  },
  {
+  "appid": 269210,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 47991,
+  "positive_all": 32211,
+  "reviews_ko": 2156,
+  "positive_ko": 1515,
+  "current_players": 531
+ },
+ {
   "appid": 3326230,
   "at": "2026-11-10T05:02:11+00:00",
   "reviews_all": 5338,
@@ -214594,6 +215845,15 @@
   "reviews_ko": 130,
   "positive_ko": 117,
   "current_players": 273
+ },
+ {
+  "appid": 3326230,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 5398,
+  "positive_all": 4361,
+  "reviews_ko": 130,
+  "positive_ko": 117,
+  "current_players": 481
  },
  {
   "appid": 266410,
@@ -214695,6 +215955,15 @@
   "current_players": 652
  },
  {
+  "appid": 266410,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 7877,
+  "positive_all": 6707,
+  "reviews_ko": 28,
+  "positive_ko": 26,
+  "current_players": 830
+ },
+ {
   "appid": 4557380,
   "at": "2026-11-10T05:02:11+00:00",
   "reviews_all": 1799,
@@ -214794,6 +216063,15 @@
   "current_players": 1147
  },
  {
+  "appid": 4557380,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1842,
+  "positive_all": 1669,
+  "reviews_ko": 63,
+  "positive_ko": 53,
+  "current_players": 1064
+ },
+ {
   "appid": 210970,
   "at": "2026-11-10T05:02:11+00:00",
   "reviews_all": 21746,
@@ -214882,6 +216160,15 @@
   "reviews_ko": 563,
   "positive_ko": 469,
   "current_players": 247
+ },
+ {
+  "appid": 210970,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 21775,
+  "positive_all": 18366,
+  "reviews_ko": 563,
+  "positive_ko": 469,
+  "current_players": 354
  },
  {
   "appid": 1894430,
@@ -214983,6 +216270,15 @@
   "current_players": 227
  },
  {
+  "appid": 1894430,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3759,
+  "positive_all": 3420,
+  "reviews_ko": 138,
+  "positive_ko": 122,
+  "current_players": 302
+ },
+ {
   "appid": 2821800,
   "at": "2026-11-10T05:02:11+00:00",
   "reviews_all": 2502,
@@ -215071,6 +216367,15 @@
   "reviews_ko": 82,
   "positive_ko": 66,
   "current_players": 94
+ },
+ {
+  "appid": 2821800,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2507,
+  "positive_all": 2127,
+  "reviews_ko": 82,
+  "positive_ko": 66,
+  "current_players": 157
  },
  {
   "appid": 599140,
@@ -215172,6 +216477,15 @@
   "current_players": 1288
  },
  {
+  "appid": 599140,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 57197,
+  "positive_all": 48711,
+  "reviews_ko": 1279,
+  "positive_ko": 916,
+  "current_players": 2541
+ },
+ {
   "appid": 619150,
   "at": "2026-11-10T05:02:11+00:00",
   "reviews_all": 8285,
@@ -215242,6 +216556,15 @@
   "reviews_ko": 60,
   "positive_ko": 51,
   "current_players": 22
+ },
+ {
+  "appid": 1029210,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2832,
+  "positive_all": 2557,
+  "reviews_ko": 60,
+  "positive_ko": 51,
+  "current_players": 33
  },
  {
   "appid": 1731070,
@@ -215323,6 +216646,15 @@
   "reviews_ko": 102,
   "positive_ko": 70,
   "current_players": 29
+ },
+ {
+  "appid": 1731070,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3558,
+  "positive_all": 2767,
+  "reviews_ko": 102,
+  "positive_ko": 70,
+  "current_players": 53
  },
  {
   "appid": 2067780,
@@ -215413,6 +216745,15 @@
   "reviews_ko": 157,
   "positive_ko": 154,
   "current_players": 57
+ },
+ {
+  "appid": 2067780,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4572,
+  "positive_all": 4449,
+  "reviews_ko": 157,
+  "positive_ko": 154,
+  "current_players": 68
  },
  {
   "appid": 2410170,
@@ -215577,6 +216918,15 @@
   "current_players": 585
  },
  {
+  "appid": 203140,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 64521,
+  "positive_all": 60149,
+  "reviews_ko": 671,
+  "positive_ko": 577,
+  "current_players": 1317
+ },
+ {
   "appid": 3226450,
   "at": "2026-11-10T05:02:11+00:00",
   "reviews_all": 1293,
@@ -215719,6 +217069,15 @@
   "reviews_ko": 49,
   "positive_ko": 40,
   "current_players": 164
+ },
+ {
+  "appid": 1644320,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2708,
+  "positive_all": 1968,
+  "reviews_ko": 49,
+  "positive_ko": 40,
+  "current_players": 377
  },
  {
   "appid": 4364730,
@@ -215991,6 +217350,15 @@
   "current_players": 138
  },
  {
+  "appid": 475550,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 31371,
+  "positive_all": 28746,
+  "reviews_ko": 617,
+  "positive_ko": 513,
+  "current_players": 334
+ },
+ {
   "appid": 3688130,
   "at": "2026-11-10T05:02:11+00:00",
   "reviews_all": 1126,
@@ -216070,6 +217438,15 @@
   "reviews_ko": 42,
   "positive_ko": 35,
   "current_players": 18
+ },
+ {
+  "appid": 3688130,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1151,
+  "positive_all": 1064,
+  "reviews_ko": 42,
+  "positive_ko": 35,
+  "current_players": 53
  },
  {
   "appid": 434050,
@@ -216214,6 +217591,15 @@
   "reviews_ko": 318,
   "positive_ko": 271,
   "current_players": 81
+ },
+ {
+  "appid": 677120,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 9550,
+  "positive_all": 8348,
+  "reviews_ko": 318,
+  "positive_ko": 271,
+  "current_players": 95
  },
  {
   "appid": 3946950,
@@ -216405,6 +217791,15 @@
   "current_players": 82
  },
  {
+  "appid": 1161590,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4654,
+  "positive_all": 3831,
+  "reviews_ko": 110,
+  "positive_ko": 60,
+  "current_players": 147
+ },
+ {
   "appid": 1802720,
   "at": "2026-11-10T17:03:30+00:00",
   "reviews_all": 1582,
@@ -216493,6 +217888,15 @@
   "reviews_ko": 1043,
   "positive_ko": 885,
   "current_players": 4
+ },
+ {
+  "appid": 1802720,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1583,
+  "positive_all": 1366,
+  "reviews_ko": 1043,
+  "positive_ko": 885,
+  "current_players": 2
  },
  {
   "appid": 2427700,
@@ -216585,6 +217989,15 @@
   "current_players": 1286
  },
  {
+  "appid": 2427700,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 20913,
+  "positive_all": 19058,
+  "reviews_ko": 354,
+  "positive_ko": 334,
+  "current_players": 1302
+ },
+ {
   "appid": 2723430,
   "at": "2026-11-10T17:03:30+00:00",
   "reviews_all": 1176,
@@ -216637,6 +218050,15 @@
   "reviews_ko": 6,
   "positive_ko": 6,
   "current_players": 31
+ },
+ {
+  "appid": 2723430,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1184,
+  "positive_all": 1028,
+  "reviews_ko": 6,
+  "positive_ko": 6,
+  "current_players": 36
  },
  {
   "appid": 315460,
@@ -216718,6 +218140,15 @@
   "reviews_ko": 41,
   "positive_ko": 34,
   "current_players": 169
+ },
+ {
+  "appid": 2706020,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1491,
+  "positive_all": 1166,
+  "reviews_ko": 41,
+  "positive_ko": 34,
+  "current_players": 238
  },
  {
   "appid": 1658040,
@@ -216810,6 +218241,15 @@
   "current_players": 75
  },
  {
+  "appid": 1658040,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4733,
+  "positive_all": 3983,
+  "reviews_ko": 149,
+  "positive_ko": 118,
+  "current_players": 148
+ },
+ {
   "appid": 598550,
   "at": "2026-11-10T17:03:30+00:00",
   "reviews_all": 4487,
@@ -216891,6 +218331,15 @@
   "current_players": 395
  },
  {
+  "appid": 512900,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 23181,
+  "positive_all": 22262,
+  "reviews_ko": 228,
+  "positive_ko": 196,
+  "current_players": 341
+ },
+ {
   "appid": 2250500,
   "at": "2026-11-10T17:03:30+00:00",
   "reviews_all": 2728,
@@ -216952,6 +218401,15 @@
   "reviews_ko": 346,
   "positive_ko": 298,
   "current_players": 33
+ },
+ {
+  "appid": 355790,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 7114,
+  "positive_all": 5914,
+  "reviews_ko": 346,
+  "positive_ko": 298,
+  "current_players": 106
  },
  {
   "appid": 1603180,
@@ -217024,6 +218482,15 @@
   "reviews_ko": 96,
   "positive_ko": 72,
   "current_players": 181
+ },
+ {
+  "appid": 451340,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 16480,
+  "positive_all": 11950,
+  "reviews_ko": 95,
+  "positive_ko": 71,
+  "current_players": 712
  },
  {
   "appid": 2169200,
@@ -217107,6 +218574,15 @@
   "current_players": 771
  },
  {
+  "appid": 2169200,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6587,
+  "positive_all": 4972,
+  "reviews_ko": 84,
+  "positive_ko": 56,
+  "current_players": 1892
+ },
+ {
   "appid": 1029690,
   "at": "2026-11-11T05:03:35+00:00",
   "reviews_all": 31381,
@@ -217186,6 +218662,15 @@
   "reviews_ko": 498,
   "positive_ko": 396,
   "current_players": 1945
+ },
+ {
+  "appid": 1029690,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 31473,
+  "positive_all": 26387,
+  "reviews_ko": 498,
+  "positive_ko": 396,
+  "current_players": 3980
  },
  {
   "appid": 312660,
@@ -217269,6 +218754,15 @@
   "current_players": 919
  },
  {
+  "appid": 312660,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 63709,
+  "positive_all": 58168,
+  "reviews_ko": 941,
+  "positive_ko": 830,
+  "current_players": 1929
+ },
+ {
   "appid": 413410,
   "at": "2026-11-11T05:03:35+00:00",
   "reviews_all": 39829,
@@ -217348,6 +218842,15 @@
   "reviews_ko": 1976,
   "positive_ko": 1865,
   "current_players": 1092
+ },
+ {
+  "appid": 413410,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 39908,
+  "positive_all": 38288,
+  "reviews_ko": 1977,
+  "positive_ko": 1866,
+  "current_players": 1497
  },
  {
   "appid": 298110,
@@ -217431,6 +218934,15 @@
   "current_players": 1223
  },
  {
+  "appid": 298110,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 75391,
+  "positive_all": 63879,
+  "reviews_ko": 1857,
+  "positive_ko": 1528,
+  "current_players": 2767
+ },
+ {
   "appid": 555950,
   "at": "2026-11-11T05:03:35+00:00",
   "reviews_all": 8014,
@@ -217512,6 +219024,15 @@
   "current_players": 118
  },
  {
+  "appid": 555950,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 8032,
+  "positive_all": 6522,
+  "reviews_ko": 528,
+  "positive_ko": 430,
+  "current_players": 159
+ },
+ {
   "appid": 412830,
   "at": "2026-11-11T05:03:35+00:00",
   "reviews_all": 27454,
@@ -217591,6 +219112,15 @@
   "reviews_ko": 284,
   "positive_ko": 266,
   "current_players": 230
+ },
+ {
+  "appid": 412830,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 27488,
+  "positive_all": 26689,
+  "reviews_ko": 284,
+  "positive_ko": 266,
+  "current_players": 276
  },
  {
   "appid": 3873970,
@@ -217699,6 +219229,15 @@
   "reviews_ko": 297,
   "positive_ko": 244,
   "current_players": 117
+ },
+ {
+  "appid": 2903950,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2514,
+  "positive_all": 2022,
+  "reviews_ko": 297,
+  "positive_ko": 244,
+  "current_players": 135
  },
  {
   "appid": 2429050,
@@ -217818,6 +219357,15 @@
   "current_players": 24
  },
  {
+  "appid": 970560,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1995,
+  "positive_all": 1894,
+  "reviews_ko": 20,
+  "positive_ko": 20,
+  "current_players": 20
+ },
+ {
   "appid": 265930,
   "at": "2026-11-11T05:03:35+00:00",
   "reviews_all": 70423,
@@ -217852,6 +219400,15 @@
   "reviews_ko": 1068,
   "positive_ko": 929,
   "current_players": 191
+ },
+ {
+  "appid": 265930,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 70449,
+  "positive_all": 64073,
+  "reviews_ko": 1068,
+  "positive_ko": 929,
+  "current_players": 170
  },
  {
   "appid": 4209920,
@@ -217933,6 +219490,15 @@
   "reviews_ko": 26,
   "positive_ko": 25,
   "current_players": 2530
+ },
+ {
+  "appid": 4209920,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2320,
+  "positive_all": 2033,
+  "reviews_ko": 26,
+  "positive_ko": 25,
+  "current_players": 2759
  },
  {
   "appid": 5037510,
@@ -218034,6 +219600,15 @@
   "current_players": 249
  },
  {
+  "appid": 3446240,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3504,
+  "positive_all": 2319,
+  "reviews_ko": 71,
+  "positive_ko": 42,
+  "current_players": 302
+ },
+ {
   "appid": 825630,
   "at": "2026-11-11T05:03:35+00:00",
   "reviews_all": 8630,
@@ -218104,6 +219679,15 @@
   "reviews_ko": 87,
   "positive_ko": 83,
   "current_players": 72
+ },
+ {
+  "appid": 825630,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 8643,
+  "positive_all": 8295,
+  "reviews_ko": 87,
+  "positive_ko": 83,
+  "current_players": 78
  },
  {
   "appid": 321960,
@@ -218212,6 +219796,15 @@
   "reviews_ko": 6,
   "positive_ko": 6,
   "current_players": 79
+ },
+ {
+  "appid": 2518960,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1310,
+  "positive_all": 1006,
+  "reviews_ko": 6,
+  "positive_ko": 6,
+  "current_players": 78
  },
  {
   "appid": 1277510,
@@ -218466,6 +220059,15 @@
   "current_players": 66
  },
  {
+  "appid": 774861,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 19066,
+  "positive_all": 15704,
+  "reviews_ko": 446,
+  "positive_ko": 357,
+  "current_players": 201
+ },
+ {
   "appid": 970570,
   "at": "2026-11-11T05:03:35+00:00",
   "reviews_all": 4186,
@@ -218592,6 +220194,15 @@
   "current_players": 51
  },
  {
+  "appid": 1324340,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2869,
+  "positive_all": 2279,
+  "reviews_ko": 78,
+  "positive_ko": 65,
+  "current_players": 50
+ },
+ {
   "appid": 2996040,
   "at": "2026-11-11T05:03:35+00:00",
   "reviews_all": 4707,
@@ -218662,6 +220273,15 @@
   "reviews_ko": 41,
   "positive_ko": 36,
   "current_players": 200
+ },
+ {
+  "appid": 2996040,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4727,
+  "positive_all": 3953,
+  "reviews_ko": 41,
+  "positive_ko": 36,
+  "current_players": 226
  },
  {
   "appid": 648580,
@@ -218835,6 +220455,15 @@
   "current_players": 147
  },
  {
+  "appid": 1281630,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 3656,
+  "positive_all": 3016,
+  "reviews_ko": 56,
+  "positive_ko": 47,
+  "current_players": 717
+ },
+ {
   "appid": 3150440,
   "at": "2026-11-11T05:03:35+00:00",
   "reviews_all": 1961,
@@ -218941,6 +220570,15 @@
   "reviews_ko": 48,
   "positive_ko": 29,
   "current_players": 9318
+ },
+ {
+  "appid": 3669620,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2841,
+  "positive_all": 1854,
+  "reviews_ko": 54,
+  "positive_ko": 29,
+  "current_players": 12173
  },
  {
   "appid": 287310,
@@ -219051,6 +220689,15 @@
   "current_players": 201
  },
  {
+  "appid": 1509960,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 30039,
+  "positive_all": 27251,
+  "reviews_ko": 1604,
+  "positive_ko": 1429,
+  "current_players": 253
+ },
+ {
   "appid": 1709880,
   "at": "2026-11-11T17:04:08+00:00",
   "reviews_all": 1353,
@@ -219121,6 +220768,15 @@
   "reviews_ko": 0,
   "positive_ko": 0,
   "current_players": 14
+ },
+ {
+  "appid": 1709880,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1360,
+  "positive_all": 1260,
+  "reviews_ko": 1,
+  "positive_ko": 1,
+  "current_players": 32
  },
  {
   "appid": 2055050,
@@ -219222,6 +220878,15 @@
   "current_players": 168
  },
  {
+  "appid": 238090,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 28631,
+  "positive_all": 23492,
+  "reviews_ko": 476,
+  "positive_ko": 351,
+  "current_players": 423
+ },
+ {
   "appid": 2682580,
   "at": "2026-11-11T17:04:08+00:00",
   "reviews_all": 3128,
@@ -219283,6 +220948,15 @@
   "reviews_ko": 80,
   "positive_ko": 56,
   "current_players": 137
+ },
+ {
+  "appid": 2221920,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4915,
+  "positive_all": 3601,
+  "reviews_ko": 80,
+  "positive_ko": 56,
+  "current_players": 278
  },
  {
   "appid": 1553000,
@@ -219375,6 +221049,15 @@
   "current_players": 55
  },
  {
+  "appid": 728740,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 4239,
+  "positive_all": 3319,
+  "reviews_ko": 41,
+  "positive_ko": 27,
+  "current_players": 126
+ },
+ {
   "appid": 2261430,
   "at": "2026-11-11T17:04:08+00:00",
   "reviews_all": 1412,
@@ -219463,6 +221146,15 @@
   "reviews_ko": 168,
   "positive_ko": 64,
   "current_players": 652
+ },
+ {
+  "appid": 3282300,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 18272,
+  "positive_all": 9534,
+  "reviews_ko": 168,
+  "positive_ko": 64,
+  "current_players": 923
  },
  {
   "appid": 528230,
@@ -219580,6 +221272,15 @@
   "reviews_ko": 22,
   "positive_ko": 11,
   "current_players": 41
+ },
+ {
+  "appid": 2750080,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1251,
+  "positive_all": 612,
+  "reviews_ko": 22,
+  "positive_ko": 11,
+  "current_players": 165
  },
  {
   "appid": 2382520,
@@ -219708,6 +221409,15 @@
   "current_players": 7688
  },
  {
+  "appid": 2536520,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6657,
+  "positive_all": 5741,
+  "reviews_ko": 334,
+  "positive_ko": 293,
+  "current_players": 10224
+ },
+ {
   "appid": 1830970,
   "at": "2026-11-12T05:02:55+00:00",
   "reviews_all": 2950,
@@ -219769,6 +221479,15 @@
   "reviews_ko": 164,
   "positive_ko": 143,
   "current_players": 122
+ },
+ {
+  "appid": 1830970,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2959,
+  "positive_all": 2512,
+  "reviews_ko": 164,
+  "positive_ko": 143,
+  "current_players": 118
  },
  {
   "appid": 1286220,
@@ -219834,6 +221553,15 @@
   "current_players": 2153
  },
  {
+  "appid": 1286220,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 7246,
+  "positive_all": 6625,
+  "reviews_ko": 103,
+  "positive_ko": 94,
+  "current_players": 3053
+ },
+ {
   "appid": 2599690,
   "at": "2026-11-12T05:02:55+00:00",
   "reviews_all": 1681,
@@ -219877,6 +221605,15 @@
   "reviews_ko": 33,
   "positive_ko": 16,
   "current_players": 17
+ },
+ {
+  "appid": 2599690,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1707,
+  "positive_all": 1260,
+  "reviews_ko": 33,
+  "positive_ko": 16,
+  "current_players": 25
  },
  {
   "appid": 1178830,
@@ -219940,6 +221677,15 @@
   "reviews_ko": 177,
   "positive_ko": 145,
   "current_players": 60
+ },
+ {
+  "appid": 1178830,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 39966,
+  "positive_all": 36619,
+  "reviews_ko": 177,
+  "positive_ko": 145,
+  "current_players": 70
  },
  {
   "appid": 1559600,
@@ -220122,6 +221868,15 @@
   "current_players": 1709
  },
  {
+  "appid": 3432860,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1594,
+  "positive_all": 1470,
+  "reviews_ko": 69,
+  "positive_ko": 57,
+  "current_players": 2271
+ },
+ {
   "appid": 3629430,
   "at": "2026-11-12T16:56:22+00:00",
   "reviews_all": 1073,
@@ -220174,6 +221929,15 @@
   "reviews_ko": 22,
   "positive_ko": 14,
   "current_players": 1831
+ },
+ {
+  "appid": 3629430,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1581,
+  "positive_all": 1297,
+  "reviews_ko": 23,
+  "positive_ko": 15,
+  "current_players": 4096
  },
  {
   "appid": 1769420,
@@ -220230,6 +221994,15 @@
   "current_players": 608
  },
  {
+  "appid": 1769420,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1558,
+  "positive_all": 1293,
+  "reviews_ko": 70,
+  "positive_ko": 60,
+  "current_players": 829
+ },
+ {
   "appid": 2660460,
   "at": "2026-11-12T16:56:22+00:00",
   "reviews_all": 9871,
@@ -220282,6 +222055,15 @@
   "reviews_ko": 29,
   "positive_ko": 28,
   "current_players": 866
+ },
+ {
+  "appid": 2660460,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 9985,
+  "positive_all": 9627,
+  "reviews_ko": 29,
+  "positive_ko": 28,
+  "current_players": 1273
  },
  {
   "appid": 2440380,
@@ -220383,6 +222165,15 @@
   "current_players": 131104
  },
  {
+  "appid": 2868840,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 209954,
+  "positive_all": 130216,
+  "reviews_ko": 5637,
+  "positive_ko": 4696,
+  "current_players": 137549
+ },
+ {
   "appid": 1611600,
   "at": "2026-11-13T05:01:43+00:00",
   "reviews_all": 16390,
@@ -220426,6 +222217,15 @@
   "reviews_ko": 204,
   "positive_ko": 156,
   "current_players": 1631
+ },
+ {
+  "appid": 1611600,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 16421,
+  "positive_all": 13086,
+  "reviews_ko": 204,
+  "positive_ko": 156,
+  "current_players": 2152
  },
  {
   "appid": 2411200,
@@ -220473,6 +222273,15 @@
   "current_players": 685
  },
  {
+  "appid": 2411200,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1173,
+  "positive_all": 1070,
+  "reviews_ko": 15,
+  "positive_ko": 15,
+  "current_players": 1676
+ },
+ {
   "appid": 1863430,
   "at": "2026-11-13T05:01:43+00:00",
   "reviews_all": 2822,
@@ -220516,6 +222325,15 @@
   "reviews_ko": 80,
   "positive_ko": 43,
   "current_players": 364
+ },
+ {
+  "appid": 1863430,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 2847,
+  "positive_all": 2101,
+  "reviews_ko": 81,
+  "positive_ko": 44,
+  "current_players": 532
  },
  {
   "appid": 2605790,
@@ -220563,6 +222381,15 @@
   "current_players": 7252
  },
  {
+  "appid": 2605790,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 16935,
+  "positive_all": 10062,
+  "reviews_ko": 161,
+  "positive_ko": 41,
+  "current_players": 9022
+ },
+ {
   "appid": 1043810,
   "at": "2026-11-13T05:01:43+00:00",
   "reviews_all": 12325,
@@ -220608,6 +222435,15 @@
   "current_players": 167
  },
  {
+  "appid": 1043810,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 12338,
+  "positive_all": 12078,
+  "reviews_ko": 38,
+  "positive_ko": 35,
+  "current_players": 193
+ },
+ {
   "appid": 597170,
   "at": "2026-11-13T05:01:43+00:00",
   "reviews_all": 39957,
@@ -220642,6 +222478,15 @@
   "reviews_ko": 638,
   "positive_ko": 596,
   "current_players": 1241
+ },
+ {
+  "appid": 597170,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 40038,
+  "positive_all": 38486,
+  "reviews_ko": 639,
+  "positive_ko": 597,
+  "current_players": 1191
  },
  {
   "appid": 352720,
@@ -220687,6 +222532,15 @@
   "reviews_ko": 179,
   "positive_ko": 119,
   "current_players": 348
+ },
+ {
+  "appid": 352720,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 10730,
+  "positive_all": 8550,
+  "reviews_ko": 179,
+  "positive_ko": 119,
+  "current_players": 551
  },
  {
   "appid": 16900,
@@ -220770,6 +222624,15 @@
   "current_players": 117
  },
  {
+  "appid": 3542380,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1447,
+  "positive_all": 1170,
+  "reviews_ko": 53,
+  "positive_ko": 33,
+  "current_players": 172
+ },
+ {
   "appid": 2448570,
   "at": "2026-11-13T05:01:43+00:00",
   "reviews_all": 1043,
@@ -220777,6 +222640,15 @@
   "reviews_ko": 1,
   "positive_ko": 1,
   "current_players": 241
+ },
+ {
+  "appid": 2448570,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1161,
+  "positive_all": 1074,
+  "reviews_ko": 1,
+  "positive_ko": 1,
+  "current_players": 334
  },
  {
   "appid": 1618380,
@@ -220932,6 +222804,15 @@
   "current_players": 1112
  },
  {
+  "appid": 3202030,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 7884,
+  "positive_all": 6156,
+  "reviews_ko": 226,
+  "positive_ko": 219,
+  "current_players": 1226
+ },
+ {
   "appid": 418620,
   "at": "2026-11-13T16:56:27+00:00",
   "reviews_all": 1205,
@@ -221004,6 +222885,15 @@
   "current_players": 3620
  },
  {
+  "appid": 4618570,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1431,
+  "positive_all": 1326,
+  "reviews_ko": 42,
+  "positive_ko": 39,
+  "current_players": 4196
+ },
+ {
   "appid": 1266840,
   "at": "2026-11-14T04:56:41+00:00",
   "reviews_all": 6866,
@@ -221031,6 +222921,15 @@
   "current_players": 113
  },
  {
+  "appid": 1266840,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6869,
+  "positive_all": 5529,
+  "reviews_ko": 201,
+  "positive_ko": 167,
+  "current_players": 143
+ },
+ {
   "appid": 3816120,
   "at": "2026-11-14T04:56:41+00:00",
   "reviews_all": 1105,
@@ -221047,6 +222946,15 @@
   "reviews_ko": 0,
   "positive_ko": 0,
   "current_players": 3336
+ },
+ {
+  "appid": 3816120,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1569,
+  "positive_all": 1527,
+  "reviews_ko": 0,
+  "positive_ko": 0,
+  "current_players": 3801
  },
  {
   "appid": 1153410,
@@ -221076,6 +222984,15 @@
   "current_players": 107
  },
  {
+  "appid": 1153410,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 6220,
+  "positive_all": 4702,
+  "reviews_ko": 84,
+  "positive_ko": 42,
+  "current_players": 244
+ },
+ {
   "appid": 1571100,
   "at": "2026-11-14T04:56:41+00:00",
   "reviews_all": 1391,
@@ -221101,6 +223018,15 @@
   "reviews_ko": 178,
   "positive_ko": 159,
   "current_players": 17
+ },
+ {
+  "appid": 1571100,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1390,
+  "positive_all": 1320,
+  "reviews_ko": 177,
+  "positive_ko": 158,
+  "current_players": 16
  },
  {
   "appid": 1592280,
@@ -221148,6 +223074,15 @@
   "current_players": 94
  },
  {
+  "appid": 773370,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 5363,
+  "positive_all": 4817,
+  "reviews_ko": 40,
+  "positive_ko": 38,
+  "current_players": 102
+ },
+ {
   "appid": 1125510,
   "at": "2026-11-14T04:56:41+00:00",
   "reviews_all": 1058,
@@ -221155,6 +223090,15 @@
   "reviews_ko": 8,
   "positive_ko": 8,
   "current_players": 23
+ },
+ {
+  "appid": 1125510,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1058,
+  "positive_all": 1015,
+  "reviews_ko": 8,
+  "positive_ko": 8,
+  "current_players": 35
  },
  {
   "appid": 774241,
@@ -221283,6 +223227,15 @@
   "current_players": 46
  },
  {
+  "appid": 3338950,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1374,
+  "positive_all": 1197,
+  "reviews_ko": 9,
+  "positive_ko": 4,
+  "current_players": 49
+ },
+ {
   "appid": 2357000,
   "at": "2026-11-14T16:52:05+00:00",
   "reviews_all": 1719,
@@ -221319,6 +223272,15 @@
   "current_players": 577
  },
  {
+  "appid": 3396010,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1023,
+  "positive_all": 993,
+  "reviews_ko": 5,
+  "positive_ko": 3,
+  "current_players": 782
+ },
+ {
   "appid": 2638080,
   "at": "2026-11-15T04:56:11+00:00",
   "reviews_all": 1001,
@@ -221326,6 +223288,15 @@
   "reviews_ko": 68,
   "positive_ko": 68,
   "current_players": 2270
+ },
+ {
+  "appid": 2638080,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1162,
+  "positive_all": 1118,
+  "reviews_ko": 87,
+  "positive_ko": 86,
+  "current_players": 2058
  },
  {
   "appid": 1525700,
@@ -221337,6 +223308,15 @@
   "current_players": 1289
  },
  {
+  "appid": 1525700,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 13452,
+  "positive_all": 12383,
+  "reviews_ko": 772,
+  "positive_ko": 720,
+  "current_players": 3198
+ },
+ {
   "appid": 469600,
   "at": "2026-11-15T04:56:11+00:00",
   "reviews_all": 15405,
@@ -221344,6 +223324,15 @@
   "reviews_ko": 229,
   "positive_ko": 212,
   "current_players": 606
+ },
+ {
+  "appid": 469600,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 15408,
+  "positive_all": 13289,
+  "reviews_ko": 229,
+  "positive_ko": 212,
+  "current_players": 1291
  },
  {
   "appid": 2218970,
@@ -221355,6 +223344,15 @@
   "current_players": 66
  },
  {
+  "appid": 2218970,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1116,
+  "positive_all": 943,
+  "reviews_ko": 16,
+  "positive_ko": 14,
+  "current_players": 130
+ },
+ {
   "appid": 1337760,
   "at": "2026-11-15T04:56:11+00:00",
   "reviews_all": 5505,
@@ -221364,6 +223362,15 @@
   "current_players": 58
  },
  {
+  "appid": 1337760,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 5507,
+  "positive_all": 4359,
+  "reviews_ko": 271,
+  "positive_ko": 195,
+  "current_players": 81
+ },
+ {
   "appid": 238370,
   "at": "2026-11-15T04:56:11+00:00",
   "reviews_all": 13888,
@@ -221371,6 +223378,15 @@
   "reviews_ko": 161,
   "positive_ko": 128,
   "current_players": 125
+ },
+ {
+  "appid": 238370,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 13889,
+  "positive_all": 11428,
+  "reviews_ko": 161,
+  "positive_ko": 128,
+  "current_players": 476
  },
  {
   "appid": 3352240,
@@ -221391,6 +223407,15 @@
   "current_players": 106
  },
  {
+  "appid": 2305640,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1712,
+  "positive_all": 1630,
+  "reviews_ko": 13,
+  "positive_ko": 13,
+  "current_players": 148
+ },
+ {
   "appid": 208520,
   "at": "2026-11-15T04:56:11+00:00",
   "reviews_all": 2409,
@@ -221407,5 +223432,23 @@
   "reviews_ko": 68,
   "positive_ko": 37,
   "current_players": 24
+ },
+ {
+  "appid": 2113920,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 1026,
+  "positive_all": 775,
+  "reviews_ko": 107,
+  "positive_ko": 81,
+  "current_players": 16
+ },
+ {
+  "appid": 285920,
+  "at": "2026-11-15T16:54:00+00:00",
+  "reviews_all": 25134,
+  "positive_all": 22967,
+  "reviews_ko": 127,
+  "positive_ko": 103,
+  "current_players": 382
  }
 ]
