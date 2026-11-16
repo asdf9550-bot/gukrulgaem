@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T04:51:55+00:00",
+ "updated_at": "2026-11-16T16:56:20+00:00",
  "items": [
   {
    "source": "epic",
@@ -10,16 +10,6 @@
    "url": "https://store.epicgames.com/ko/p/knightica-3be45c",
    "image": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png?resize=1&w=480&quality=medium",
    "regular_price_krw": 15300
-  },
-  {
-   "source": "epic",
-   "title": "Alien: Isolation",
-   "status": "upcoming",
-   "start": "2026-11-19T16:00:00.000Z",
-   "end": "2026-11-26T16:00:00.000Z",
-   "url": "https://store.epicgames.com/ko/p/alien-isolation",
-   "image": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg?resize=1&w=480&quality=medium",
-   "regular_price_krw": 43000
   },
   {
    "source": "epic",
