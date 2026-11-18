@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T05:12:51+00:00",
+ "updated_at": "2026-11-18T17:09:41+00:00",
  "items": [
   {
    "source": "epic",
@@ -20,6 +20,16 @@
    "url": "https://store.epicgames.com/ko/p/mark-of-the-deep-f7dc08",
    "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png?resize=1&w=480&quality=medium",
    "regular_price_krw": 33500
+  },
+  {
+   "source": "epic",
+   "title": "파이어스톤  - 방치 클릭커 온라인 RPG",
+   "status": "upcoming",
+   "start": "2026-11-26T16:00:00.000Z",
+   "end": "2026-12-03T16:00:00.000Z",
+   "url": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
+   "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1j3s6.jpg?resize=1&w=480&quality=medium",
+   "regular_price_krw": 0
   }
  ]
 }
