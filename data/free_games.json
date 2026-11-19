@@ -1,20 +1,10 @@
 {
- "updated_at": "2026-11-19T05:19:29+00:00",
+ "updated_at": "2026-11-19T17:19:57+00:00",
  "items": [
   {
    "source": "epic",
-   "title": "Knightica",
-   "status": "now",
-   "start": "2026-11-12T16:00:00.000Z",
-   "end": "2026-11-19T16:00:00.000Z",
-   "url": "https://store.epicgames.com/ko/p/knightica-3be45c",
-   "image": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png?resize=1&w=480&quality=medium",
-   "regular_price_krw": 15300
-  },
-  {
-   "source": "epic",
    "title": "Mark of the Deep",
-   "status": "upcoming",
+   "status": "now",
    "start": "2026-11-19T16:00:00.000Z",
    "end": "2026-11-26T16:00:00.000Z",
    "url": "https://store.epicgames.com/ko/p/mark-of-the-deep-f7dc08",
@@ -28,8 +18,18 @@
    "start": "2026-11-26T16:00:00.000Z",
    "end": "2026-12-03T16:00:00.000Z",
    "url": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
-   "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1j3s6.jpg?resize=1&w=480&quality=medium",
+   "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-ed9ba.jpg?resize=1&w=480&quality=medium",
    "regular_price_krw": 0
+  },
+  {
+   "source": "epic",
+   "title": "Bread and Fred",
+   "status": "upcoming",
+   "start": "2026-11-26T16:00:00.000Z",
+   "end": "2026-12-03T16:00:00.000Z",
+   "url": "https://store.epicgames.com/ko/p/bread-and-fred-1db362",
+   "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg?resize=1&w=480&quality=medium",
+   "regular_price_krw": 15300
   }
  ]
 }
