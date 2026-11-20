@@ -1,5 +1,5 @@
 {
- "fetched_date": "2026-11-19",
+ "fetched_date": "2026-11-20",
  "products": {
   "275d0530-d0ca-4bba-a145-f3eb4241e193": {
    "product_id": "275d0530-d0ca-4bba-a145-f3eb4241e193",
@@ -71,7 +71,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-11-19T05:18:02+00:00"
+   "fetched_at": "2026-11-20T05:32:06+00:00"
   },
   "3c1f2958-7690-4ddd-b973-bf72cc663f00": {
    "product_id": "3c1f2958-7690-4ddd-b973-bf72cc663f00",
@@ -135,7 +135,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:34+00:00"
+   "fetched_at": "2026-11-20T05:32:36+00:00"
   },
   "18552a8c-7114-4d87-865d-32e178c0f8ff": {
    "product_id": "18552a8c-7114-4d87-865d-32e178c0f8ff",
@@ -199,7 +199,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:55+00:00"
+   "fetched_at": "2026-11-20T05:32:57+00:00"
   },
   "c12a16f8-ce46-4c75-954a-28a5a6f59fcc": {
    "product_id": "c12a16f8-ce46-4c75-954a-28a5a6f59fcc",
@@ -247,7 +247,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:28+00:00"
+   "fetched_at": "2026-11-20T05:32:30+00:00"
   },
   "f20b8f08-9ac8-403f-a101-1f4244391d80": {
    "product_id": "f20b8f08-9ac8-403f-a101-1f4244391d80",
@@ -287,7 +287,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:19+00:00"
+   "fetched_at": "2026-11-20T05:32:21+00:00"
   },
   "e43a0ac1-5c8d-4557-b812-029b04f901f4": {
    "product_id": "e43a0ac1-5c8d-4557-b812-029b04f901f4",
@@ -319,7 +319,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:20+00:00"
+   "fetched_at": "2026-11-20T05:32:24+00:00"
   },
   "4ae550de-86b9-4326-a5be-ecccbebe8d47": {
    "product_id": "4ae550de-86b9-4326-a5be-ecccbebe8d47",
@@ -358,7 +358,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:34+00:00"
+   "fetched_at": "2026-11-20T05:32:33+00:00"
   },
   "ce9081e7-2821-4e98-8639-64698a109b82": {
    "product_id": "ce9081e7-2821-4e98-8639-64698a109b82",
@@ -390,7 +390,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:37+00:00"
+   "fetched_at": "2026-11-20T05:32:39+00:00"
   },
   "30116fa7-1dc5-406c-8ce1-5767c60264a2": {
    "product_id": "30116fa7-1dc5-406c-8ce1-5767c60264a2",
@@ -414,7 +414,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:40+00:00"
+   "fetched_at": "2026-11-20T05:32:42+00:00"
   },
   "cd3500c1-2db8-4915-972b-9be4b92c28ec": {
    "product_id": "cd3500c1-2db8-4915-972b-9be4b92c28ec",
@@ -438,7 +438,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:43+00:00"
+   "fetched_at": "2026-11-20T05:32:45+00:00"
   },
   "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200": {
    "product_id": "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200",
@@ -447,18 +447,18 @@
    "base": [
     {
      "name": "스텔라 블레이드",
-     "price": 59500,
+     "price": 39800,
      "regular": 62800,
-     "cut": 5,
+     "cut": 37,
      "sku": "cdc95ab7-e01c-4c02-bc34-a2e4c52cc5a4"
     }
    ],
    "editions": [
     {
      "name": "스텔라 블레이드 컴플리트 에디션",
-     "price": 79500,
+     "price": 52800,
      "regular": 83800,
-     "cut": 5,
+     "cut": 37,
      "sku": "3d476213-1b2c-4822-b0ae-8fad1e1b2d70"
     }
    ],
@@ -470,7 +470,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:46+00:00"
+   "fetched_at": "2026-11-20T05:32:48+00:00"
   },
   "2139b954-cece-48b7-9356-803c130833a4": {
    "product_id": "2139b954-cece-48b7-9356-803c130833a4",
@@ -502,7 +502,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:49+00:00"
+   "fetched_at": "2026-11-20T05:32:51+00:00"
   },
   "a647bff7-44e6-49fe-86ed-8f59d936ee4e": {
    "product_id": "a647bff7-44e6-49fe-86ed-8f59d936ee4e",
@@ -511,18 +511,18 @@
    "base": [
     {
      "name": "마블 스파이더맨 2",
-     "price": 59800,
+     "price": 39000,
      "regular": 62800,
-     "cut": 5,
+     "cut": 38,
      "sku": "c7e8ef17-81ac-497a-a86d-6825262596bc"
     }
    ],
    "editions": [
     {
      "name": "마블 스파이더맨 2 - 디지털 디럭스 에디션",
-     "price": 69800,
+     "price": 46000,
      "regular": 73800,
-     "cut": 5,
+     "cut": 38,
      "sku": "820fc68d-99ca-4765-9698-ea01e86ef55f"
     }
    ],
@@ -534,7 +534,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:52+00:00"
+   "fetched_at": "2026-11-20T05:32:54+00:00"
   },
   "9f033b20-41af-437f-a672-14e8061f4efb": {
    "product_id": "9f033b20-41af-437f-a672-14e8061f4efb",
@@ -566,7 +566,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:18:58+00:00"
+   "fetched_at": "2026-11-20T05:33:00+00:00"
   },
   "a95163c3-2aab-4b69-923a-ad8fb27afb67": {
    "product_id": "a95163c3-2aab-4b69-923a-ad8fb27afb67",
@@ -781,7 +781,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:19:25+00:00"
+   "fetched_at": "2026-11-20T05:33:27+00:00"
   },
   "f72e96bd-1691-46b4-bef4-c70172c6635d": {
    "product_id": "f72e96bd-1691-46b4-bef4-c70172c6635d",
@@ -820,7 +820,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:19:28+00:00"
+   "fetched_at": "2026-11-20T05:33:30+00:00"
   },
   "2458af03-e862-4c13-86d1-b7539a5e1b33": {
    "product_id": "2458af03-e862-4c13-86d1-b7539a5e1b33",
@@ -1426,7 +1426,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:17:53+00:00"
+   "fetched_at": "2026-11-20T05:32:00+00:00"
   },
   "45f9e75c-0ceb-42e9-a651-92ea0f9d4d72": {
    "product_id": "45f9e75c-0ceb-42e9-a651-92ea0f9d4d72",
@@ -1458,7 +1458,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:19:13+00:00"
+   "fetched_at": "2026-11-20T05:33:18+00:00"
   },
   "af3cca1a-d3ed-4b2d-ae85-79162db22328": {
    "product_id": "af3cca1a-d3ed-4b2d-ae85-79162db22328",
@@ -1491,18 +1491,18 @@
    "base": [
     {
      "name": "플래닛 코스터 2",
-     "price": 49800,
+     "price": 24800,
      "regular": 53000,
-     "cut": 6,
+     "cut": 53,
      "sku": "3d4ab85a-ad83-4763-bd68-89be40b17c33"
     }
    ],
    "editions": [
     {
      "name": "플래닛 코스터 2: 디럭스 에디션",
-     "price": 63800,
+     "price": 31800,
      "regular": 68000,
-     "cut": 6,
+     "cut": 53,
      "sku": "8ed09e5f-52dd-4d00-b952-2191a862fb42"
     }
    ],
@@ -1514,7 +1514,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:19:16+00:00"
+   "fetched_at": "2026-11-20T05:33:21+00:00"
   },
   "6a9cfb6d-f755-478b-ab21-22186bd499d7": {
    "product_id": "6a9cfb6d-f755-478b-ab21-22186bd499d7",
@@ -1538,7 +1538,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:19:19+00:00"
+   "fetched_at": "2026-11-20T05:33:24+00:00"
   },
   "e021aa51-1391-4f33-bae3-d811147b4a39": {
    "product_id": "e021aa51-1391-4f33-bae3-d811147b4a39",
@@ -1714,7 +1714,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:19:10+00:00"
+   "fetched_at": "2026-11-20T05:33:15+00:00"
   },
   "f78664d8-384a-47f6-8987-0ffeeb01aa77": {
    "product_id": "f78664d8-384a-47f6-8987-0ffeeb01aa77",
@@ -1770,7 +1770,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:19:07+00:00"
+   "fetched_at": "2026-11-20T05:33:12+00:00"
   },
   "294e32a6-f29a-46ed-8692-1e4d5e7a754b": {
    "product_id": "294e32a6-f29a-46ed-8692-1e4d5e7a754b",
@@ -1842,7 +1842,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-11-19T05:18:14+00:00"
+   "fetched_at": "2026-11-20T05:32:15+00:00"
   },
   "b5f3961f-f978-454f-a118-06c6c93be6d9": {
    "product_id": "b5f3961f-f978-454f-a118-06c6c93be6d9",
@@ -1858,7 +1858,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-11-19T05:18:14+00:00"
+   "fetched_at": "2026-11-20T05:32:18+00:00"
   },
   "b6a5d2ec-024c-49ad-8538-a01a488b79ec": {
    "product_id": "b6a5d2ec-024c-49ad-8538-a01a488b79ec",
@@ -1867,25 +1867,25 @@
    "base": [
     {
      "name": "다잉 라이트: 더 비스트",
-     "price": 59800,
+     "price": 29800,
      "regular": 65800,
-     "cut": 9,
+     "cut": 55,
      "sku": "a8acf130-4cee-4da2-a548-7a5000cd15c7"
     }
    ],
    "editions": [
     {
      "name": "다잉 라이트: 더 비스트 디럭스 에디션",
-     "price": 69800,
+     "price": 34800,
      "regular": 76700,
-     "cut": 9,
+     "cut": 55,
      "sku": "31071dbd-7cbd-403e-a2c4-12e186fcda30"
     },
     {
      "name": "다잉 라이트: 더 비스트 데피니티브 에디션",
-     "price": 89800,
+     "price": 44800,
      "regular": 98700,
-     "cut": 9,
+     "cut": 55,
      "sku": "e66dd40e-5bbf-4546-a0fa-719cb20b7438"
     }
    ],
@@ -1897,7 +1897,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:19:02+00:00"
+   "fetched_at": "2026-11-20T05:33:06+00:00"
   },
   "8ba5104d-e47b-4a4a-9d34-ad9cbbcabd44": {
    "product_id": "8ba5104d-e47b-4a4a-9d34-ad9cbbcabd44",
@@ -1906,18 +1906,18 @@
    "base": [
     {
      "name": "다잉 라이트 2: 리로드 에디션",
-     "price": 59800,
+     "price": 11800,
      "regular": 66000,
-     "cut": 9,
+     "cut": 82,
      "sku": "f0be4d64-d877-462e-bbf8-ab6190d6d2ad"
     }
    ],
    "editions": [
     {
      "name": "다잉 라이트 2: 스테이 휴먼 디지털 엑스트라 에디션",
-     "price": 69800,
+     "price": 13800,
      "regular": 77000,
-     "cut": 9,
+     "cut": 82,
      "sku": "0e1f20ea-2255-42e9-afa8-67bebeb7fc58"
     }
    ],
@@ -1929,11 +1929,43 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-19T05:19:05+00:00"
+   "fetched_at": "2026-11-20T05:33:10+00:00"
+  },
+  "ee14a8a8-4c28-4cb6-a5bc-aab47852527b": {
+   "product_id": "ee14a8a8-4c28-4cb6-a5bc-aab47852527b",
+   "url": "https://directg.net/game/game_view.html?product_id=ee14a8a8-4c28-4cb6-a5bc-aab47852527b",
+   "title": "그랜드 테프트 오토 6",
+   "base": [
+    {
+     "name": "그랜드 테프트 오토 6",
+     "price": 89800,
+     "regular": 89800,
+     "cut": 0,
+     "sku": "6b444078-4714-4885-9d64-3a2dbce590a0"
+    }
+   ],
+   "editions": [
+    {
+     "name": "그랜드 테프트 오토 6: 얼티밋 에디션",
+     "price": 112800,
+     "regular": 112800,
+     "cut": 0,
+     "sku": "59ea47cc-dafe-42f5-9b39-44f8792ee254"
+    }
+   ],
+   "appid_hint": null,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "other",
+   "fetched_at": "2026-11-20T05:33:03+00:00"
   }
  },
  "last_run": {
-  "at": "2026-11-19T05:19:28+00:00",
+  "at": "2026-11-20T05:33:30+00:00",
   "ok": 32,
   "fail": 0,
   "limit": null
