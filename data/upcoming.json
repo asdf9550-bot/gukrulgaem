@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T05:48:43+00:00",
+ "updated_at": "2026-11-25T17:47:08+00:00",
  "items": [
   {
    "appid": 4534960,
@@ -23,155 +23,8 @@
     "FLEXUS"
    ],
    "steam_url": "https://store.steampowered.com/app/4534960/",
-   "popular_rank": 36,
+   "popular_rank": 33,
    "wishlist_rank": 2
-  },
-  {
-   "appid": 4009490,
-   "name": "Arctic Drive",
-   "release_text": "2026년 11월 25일",
-   "release_at": "2026-11-25",
-   "release_precision": "day",
-   "price": null,
-   "korean_support": "sub",
-   "genres": [
-    "어드벤처",
-    "레이싱",
-    "시뮬레이션",
-    "앞서 해보기"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009490/aed480407ed537b798a2dfa23ec840b4507a2b64/header.jpg?t=1795165088",
-   "platforms": [
-    "windows"
-   ],
-   "short_description": "북극을 탐험하고 살아남으세요. 이곳에서 당신을 지켜 주는 것은 오직 자동차뿐입니다. Arctic Drive는 절차적으로 생성되는 겨울 황야를 배경으로 한 1–4인 협동 생존 시뮬레이션입니다. 보급품을 찾고, 차를 수리하고, 모든 것을 싣고 계속 나아가세요. 남은 희망은 단 하나, 저 너머 어딘가에 분명 안전한 곳이 있다는 것.",
-   "developers": [
-    "Pebbles Games",
-    "PlayTogether Studio"
-   ],
-   "steam_url": "https://store.steampowered.com/app/4009490/",
-   "popular_rank": 4,
-   "wishlist_rank": null,
-   "advance_access": false,
-   "advance_live": false,
-   "advance_editions": [],
-   "advance_dates": []
-  },
-  {
-   "appid": 4607420,
-   "name": "楽園追放 -The Stellar Angel-",
-   "release_text": "2026년 11월 25일",
-   "release_at": "2026-11-25",
-   "release_precision": "day",
-   "price": null,
-   "korean_support": "none",
-   "genres": [
-    "어드벤처"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607420/e90e233f05ae7e66102180d5eed58e76dee5052a/header.jpg?t=1795101017",
-   "platforms": [
-    "windows"
-   ],
-   "short_description": "The first game in the Expelled from Paradise series: a brand-new sci-fi visual novel. Angela Balzac left the virtual world of DEVA behind and chose to live on the surface. Now, as she builds a life with her partner Dingo, a new case is brought to her door.",
-   "developers": [
-    "Studio51 Inc."
-   ],
-   "steam_url": "https://store.steampowered.com/app/4607420/",
-   "popular_rank": 14,
-   "wishlist_rank": null,
-   "advance_access": false,
-   "advance_live": false,
-   "advance_editions": [],
-   "advance_dates": []
-  },
-  {
-   "appid": 4933500,
-   "name": "Me and You",
-   "release_text": "2026년 11월 25일",
-   "release_at": "2026-11-25",
-   "release_precision": "day",
-   "price": null,
-   "korean_support": "sub",
-   "genres": [
-    "어드벤처",
-    "캐주얼",
-    "인디"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933500/31fbf2a60a4bacd4061e64c06ff3cd6b108a4ba8/header.jpg?t=1795280346",
-   "platforms": [
-    "windows",
-    "mac"
-   ],
-   "short_description": "Me and You는 호평받은 “Baba Is You”에서 영감을 받은 협동 퍼즐 게임입니다. 각 레벨의 규칙을 만들고, 바꾸고, 깨뜨리며 함께 풀어 보세요.",
-   "developers": [
-    "PMF Top Joy Games"
-   ],
-   "steam_url": "https://store.steampowered.com/app/4933500/",
-   "popular_rank": 16,
-   "wishlist_rank": null,
-   "advance_access": false,
-   "advance_live": false,
-   "advance_editions": [],
-   "advance_dates": []
-  },
-  {
-   "appid": 5057800,
-   "name": "When Chests Rain Tons of Loot",
-   "release_text": "2026년 11월 25일",
-   "release_at": "2026-11-25",
-   "release_precision": "day",
-   "price": null,
-   "korean_support": "voice_sub",
-   "genres": [
-    "캐주얼",
-    "인디",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057800/b5d39447154225bb636567d630130f43ab161c7c/header.jpg?t=1795549848",
-   "platforms": [
-    "windows",
-    "mac",
-    "linux"
-   ],
-   "short_description": "슬라임 떼 위로 영웅을 떨어뜨리는 인크리멘탈 파밍 게임! 싸움은 영웅들에게 맡기고, 전리품을 주워 보물 상자를 가득 채우세요. 시간이 다 되면 상자가 터지며 모은 전리품이 전부 다시 쏟아집니다. 방대한 스킬 트리에서 군대를 강화하고, 더 큰 수확을 노려 다시 도전하세요!",
-   "developers": [
-    "LeenGameDev"
-   ],
-   "steam_url": "https://store.steampowered.com/app/5057800/",
-   "popular_rank": 20,
-   "wishlist_rank": null,
-   "advance_access": false,
-   "advance_live": false,
-   "advance_editions": [],
-   "advance_dates": []
-  },
-  {
-   "appid": 4941160,
-   "name": "A Sector Darkly",
-   "release_text": "2026년 11월 25일",
-   "release_at": "2026-11-25",
-   "release_precision": "day",
-   "price": null,
-   "korean_support": "none",
-   "genres": [
-    "액션",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941160/5385b154cd1bcd1e004aa2c5d30a1658a5efa496/header.jpg?t=1794431633",
-   "platforms": [
-    "windows"
-   ],
-   "short_description": "Command a ship and crew stranded far from home in this open-world space sandbox RPG. Explore, trade, fight, and craft to survive among the strange alien factions. One by one entire sectors are going dark and no one knows why. Solve the mystery of the dark sectors and get your crew home.",
-   "developers": [
-    "A Paradise Lost Studios"
-   ],
-   "steam_url": "https://store.steampowered.com/app/4941160/",
-   "popular_rank": 23,
-   "wishlist_rank": null,
-   "advance_access": false,
-   "advance_live": false,
-   "advance_editions": [],
-   "advance_dates": []
   },
   {
    "appid": 4954970,
@@ -186,7 +39,7 @@
     "캐주얼",
     "인디"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/008e2fc16680df11749aa1d9c0e58feb444a0882/header.jpg?t=1795266287",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/26f82b3c56e0340fb27d7c255dad7fc6444126bb/header.jpg?t=1795605106",
    "platforms": [
     "windows"
    ],
@@ -195,7 +48,7 @@
     "Crime Cleanup Co."
    ],
    "steam_url": "https://store.steampowered.com/app/4954970/",
-   "popular_rank": 2,
+   "popular_rank": 1,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -224,7 +77,7 @@
     "Quite OK Games"
    ],
    "steam_url": "https://store.steampowered.com/app/4253570/",
-   "popular_rank": 10,
+   "popular_rank": 9,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -253,7 +106,7 @@
     "Horseman Interactive"
    ],
    "steam_url": "https://store.steampowered.com/app/5268810/",
-   "popular_rank": 11,
+   "popular_rank": 10,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -283,7 +136,7 @@
     "Andryash"
    ],
    "steam_url": "https://store.steampowered.com/app/4704000/",
-   "popular_rank": 17,
+   "popular_rank": 13,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -312,7 +165,91 @@
     "HARDLINE"
    ],
    "steam_url": "https://store.steampowered.com/app/4255780/",
+   "popular_rank": 17,
+   "wishlist_rank": null,
+   "advance_access": false,
+   "advance_live": false,
+   "advance_editions": [],
+   "advance_dates": []
+  },
+  {
+   "appid": 4013270,
+   "name": "The False Alice -Retold Tale-",
+   "release_text": "2026년 11월 26일",
+   "release_at": "2026-11-26",
+   "release_precision": "day",
+   "price": null,
+   "korean_support": "none",
+   "genres": [
+    "어드벤처"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/e02e7ef017aa8a9efbb9554ad9acb2ecdeb1a3cb/header.jpg?t=1793266900",
+   "platforms": [
+    "windows"
+   ],
+   "short_description": "This is the trash can where all failed works gather. When you awaken, you come across three false Alices. In order to become the one true Alice, they attempt to kill each other. Who will become the real Alice? This is a visual novel where your decisions, will change the ending of the story.",
+   "developers": [
+    "VISUAL ARTS / team Aeca"
+   ],
+   "steam_url": "https://store.steampowered.com/app/4013270/",
    "popular_rank": 21,
+   "wishlist_rank": null,
+   "advance_access": false,
+   "advance_live": false,
+   "advance_editions": [],
+   "advance_dates": []
+  },
+  {
+   "appid": 4370210,
+   "name": "Split Brain Samsara",
+   "release_text": "2026년 11월 26일",
+   "release_at": "2026-11-26",
+   "release_precision": "day",
+   "price": null,
+   "korean_support": "sub",
+   "genres": [
+    "어드벤처",
+    "캐주얼",
+    "인디"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370210/e50aa4e8bbe598a9f5b8d9c8890dbf4ddbb5e078/header.jpg?t=1795623439",
+   "platforms": [
+    "windows"
+   ],
+   "short_description": "당신과 당신 친구는 같은 몸 안에 갇혔습니다! 이 협동 모험에서 같은 캐릭터를 조작하는 법을 익히고, 정신적인 영역을 탐험하고, 삼사라라는 거대 구조물에 숨겨진 음모를 밝혀내세요! 소통이 핵심입니다!",
+   "developers": [
+    "Kusa Games"
+   ],
+   "steam_url": "https://store.steampowered.com/app/4370210/",
+   "popular_rank": 23,
+   "wishlist_rank": null,
+   "advance_access": false,
+   "advance_live": false,
+   "advance_editions": [],
+   "advance_dates": []
+  },
+  {
+   "appid": 4635290,
+   "name": "기막힌 상조회사",
+   "release_text": "2026년 11월 26일",
+   "release_at": "2026-11-26",
+   "release_precision": "day",
+   "price": null,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635290/030756c1074184aec7df1c2b35e1e7bb8bc5c550/header.jpg?t=1795539624",
+   "platforms": [
+    "windows"
+   ],
+   "short_description": "행복한 곡소리™ 장례식장을 2~4인 협동 플레이로 운영·관리해 보세요. 슬픔에 젖은 유족들에게 진심을 다하세요. 마지막 모습을 보여 드릴 수 있도록 시신을 준비하고, 열정적인 추도사를 전하고, 그 와중에 팔다리도 몇 개 슬쩍하는 거예요. 어떻게든 저녁거리는 마련해야 하니까요.",
+   "developers": [
+    "Happy Volcano"
+   ],
+   "steam_url": "https://store.steampowered.com/app/4635290/",
+   "popular_rank": 24,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -337,7 +274,7 @@
     "HO! Games"
    ],
    "steam_url": "https://store.steampowered.com/app/3224600/",
-   "popular_rank": 1,
+   "popular_rank": 2,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -365,7 +302,37 @@
     "Bonfire Studios"
    ],
    "steam_url": "https://store.steampowered.com/app/3333850/",
-   "popular_rank": 24,
+   "popular_rank": 19,
+   "wishlist_rank": null,
+   "advance_access": false,
+   "advance_live": false,
+   "advance_editions": [],
+   "advance_dates": []
+  },
+  {
+   "appid": 4776500,
+   "name": "Carry On Together 같이 옮기자!",
+   "release_text": "2026년 11월 27일",
+   "release_at": "2026-11-27",
+   "release_precision": "day",
+   "price": null,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "캐주얼",
+    "인디",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776500/dd821e9b25b83d4ec004b75c8933191b725578f8/header.jpg?t=1795501688",
+   "platforms": [
+    "windows"
+   ],
+   "short_description": "Carry On Together는 최대 4명이 즐길 수 있는 물리 기반 온라인 협동 이사 게임입니다. 친구들과 작은 배송 회사를 운영하며 무거운 가구를 함께 들고, 트럭으로 마을을 누비며, 물건을 온전하게 배달하세요… 못할 수도 있지만요. 회사를 끝까지 지킬 수 있을까요?",
+   "developers": [
+    "Butiq Games"
+   ],
+   "steam_url": "https://store.steampowered.com/app/4776500/",
+   "popular_rank": 22,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -426,7 +393,7 @@
     "EXLIX"
    ],
    "steam_url": "https://store.steampowered.com/app/4264000/",
-   "popular_rank": 19,
+   "popular_rank": 16,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -458,7 +425,37 @@
     "Indub"
    ],
    "steam_url": "https://store.steampowered.com/app/4653750/",
-   "popular_rank": 13,
+   "popular_rank": 12,
+   "wishlist_rank": null,
+   "advance_access": false,
+   "advance_live": false,
+   "advance_editions": [],
+   "advance_dates": []
+  },
+  {
+   "appid": 3509380,
+   "name": "GrimKeep",
+   "release_text": "2026년 11월 30일",
+   "release_at": "2026-11-30",
+   "release_precision": "day",
+   "price": null,
+   "korean_support": "sub",
+   "genres": [
+    "어드벤처",
+    "인디",
+    "RPG"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509380/279078e15a06e12b0065475534db7e94b0d2528c/header.jpg?t=1795618583",
+   "platforms": [
+    "windows",
+    "mac"
+   ],
+   "short_description": "GrimKeep은 악몽 같은 동화를 배경으로 한 로그라이트 다이스 빌더예요. 아이템을 찾고, 주사위를 굴리고, 빌드를 최적화해 엄청난 피해를 터뜨려요. 저주받은 도시의 공포를 헤치고 공주에게 다가가세요. 그리고 그녀를 끝내세요.",
+   "developers": [
+    "Resolution Games"
+   ],
+   "steam_url": "https://store.steampowered.com/app/3509380/",
+   "popular_rank": 20,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -485,7 +482,7 @@
     "Windup"
    ],
    "steam_url": "https://store.steampowered.com/app/3161310/",
-   "popular_rank": 6,
+   "popular_rank": 5,
    "wishlist_rank": 38,
    "advance_access": false,
    "advance_live": false,
@@ -513,7 +510,7 @@
     "KING Art"
    ],
    "steam_url": "https://store.steampowered.com/app/2272360/",
-   "popular_rank": 8,
+   "popular_rank": 7,
    "wishlist_rank": 14,
    "advance_access": true,
    "advance_live": false,
@@ -542,7 +539,7 @@
     "GOOD FUN CORP"
    ],
    "steam_url": "https://store.steampowered.com/app/1752080/",
-   "popular_rank": 12,
+   "popular_rank": 11,
    "wishlist_rank": 41,
    "advance_access": false,
    "advance_live": false,
@@ -572,7 +569,7 @@
     "Coyote House Games"
    ],
    "steam_url": "https://store.steampowered.com/app/2870790/",
-   "popular_rank": 9,
+   "popular_rank": 8,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -602,7 +599,7 @@
     "Skyturns"
    ],
    "steam_url": "https://store.steampowered.com/app/5275590/",
-   "popular_rank": 5,
+   "popular_rank": 4,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -631,7 +628,7 @@
     "Velto Games"
    ],
    "steam_url": "https://store.steampowered.com/app/5427110/",
-   "popular_rank": 18,
+   "popular_rank": 15,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -661,7 +658,7 @@
     "DEEP INTERACTIVE"
    ],
    "steam_url": "https://store.steampowered.com/app/4504970/",
-   "popular_rank": 22,
+   "popular_rank": 18,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -692,7 +689,7 @@
     "Off-leash Interactive "
    ],
    "steam_url": "https://store.steampowered.com/app/4139890/",
-   "popular_rank": 15,
+   "popular_rank": 14,
    "wishlist_rank": null,
    "advance_access": false,
    "advance_live": false,
@@ -722,8 +719,8 @@
     "WHO YOU"
    ],
    "steam_url": "https://store.steampowered.com/app/4150720/",
-   "popular_rank": 7,
-   "wishlist_rank": 34,
+   "popular_rank": 6,
+   "wishlist_rank": 33,
    "advance_access": false,
    "advance_live": false,
    "advance_editions": [],
@@ -852,7 +849,7 @@
     "sgthale"
    ],
    "steam_url": "https://store.steampowered.com/app/5072600/",
-   "popular_rank": 59,
+   "popular_rank": 57,
    "wishlist_rank": 26
   },
   {
@@ -906,32 +903,6 @@
    "steam_url": "https://store.steampowered.com/app/1940080/",
    "popular_rank": null,
    "wishlist_rank": 28
-  },
-  {
-   "appid": 1687540,
-   "name": "Showa American Story",
-   "release_text": "2027년",
-   "release_at": "2027-01-01",
-   "release_precision": "year",
-   "price": null,
-   "korean_support": "none",
-   "genres": [
-    "액션",
-    "어드벤처",
-    "인디",
-    "RPG"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687540/ce4d0d62bcc4d558977f34685bb52e65f788a3f0/header.jpg?t=1795464697",
-   "platforms": [
-    "windows"
-   ],
-   "short_description": "Showa American Story is an RPG steeped in retro pop culture. In the late 1980s, a dominant Japan culturally colonized America. Resurrected from the grave, Chigusa Choko embarks on a road trip of combat, exploration, and growth across a world both absurd and strangely familiar.",
-   "developers": [
-    "NEKCOM Entertainment"
-   ],
-   "steam_url": "https://store.steampowered.com/app/1687540/",
-   "popular_rank": null,
-   "wishlist_rank": 33
   },
   {
    "appid": 2179480,
@@ -1488,7 +1459,7 @@
     "RPG",
     "전략"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3710600/c9cff4a2e091c0590909762a6d4296eeee5859a1/header.jpg?t=1795520661",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3710600/c9cff4a2e091c0590909762a6d4296eeee5859a1/header.jpg?t=1795608973",
    "platforms": [
     "windows",
     "mac"
@@ -1847,6 +1818,32 @@
    "steam_url": "https://store.steampowered.com/app/1313230/",
    "popular_rank": null,
    "wishlist_rank": 40
+  },
+  {
+   "appid": 1687540,
+   "name": "Showa American Story",
+   "release_text": "2027년 10월 27일",
+   "release_at": "2027-10-27",
+   "release_precision": "day",
+   "price": null,
+   "korean_support": "none",
+   "genres": [
+    "액션",
+    "어드벤처",
+    "인디",
+    "RPG"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687540/ce4d0d62bcc4d558977f34685bb52e65f788a3f0/header.jpg?t=1795604436",
+   "platforms": [
+    "windows"
+   ],
+   "short_description": "Showa American Story is an RPG steeped in retro pop culture. In the late 1980s, a dominant Japan culturally colonized America. Resurrected from the grave, Chigusa Choko embarks on a road trip of combat, exploration, and growth across a world both absurd and strangely familiar.",
+   "developers": [
+    "NEKCOM Entertainment"
+   ],
+   "steam_url": "https://store.steampowered.com/app/1687540/",
+   "popular_rank": null,
+   "wishlist_rank": 34
   },
   {
    "appid": 1422450,
@@ -2944,6 +2941,31 @@
    "wishlist_rank": 89
   },
   {
+   "appid": 4369620,
+   "name": "Last Harbor",
+   "release_text": "출시 예정",
+   "release_at": null,
+   "release_precision": "unknown",
+   "price": null,
+   "korean_support": "none",
+   "genres": [
+    "액션",
+    "어드벤처",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369620/5fb12ed0a738c952cac29164efa28aa23c5f3744/header.jpg?t=1785935435",
+   "platforms": [
+    "windows"
+   ],
+   "short_description": "선상 좀비 아포칼립스. 좀비가 창궐한 지금, 당신은 워싱턴주의 아름다운 샌환 제도를 표류하는 배에 홀로 고립되어 있습니다. 산 자와 죽은 자가 모두 위협이 되는 이 오픈 월드 군도에서 어떻게 살아남을 수 있을까요?",
+   "developers": [
+    "tinyBuild"
+   ],
+   "steam_url": "https://store.steampowered.com/app/4369620/",
+   "popular_rank": null,
+   "wishlist_rank": 90
+  },
+  {
    "appid": 3078150,
    "name": "Hawthorn",
    "release_text": "발표 예정",
@@ -2967,31 +2989,6 @@
     "NEARstudios"
    ],
    "steam_url": "https://store.steampowered.com/app/3078150/",
-   "popular_rank": null,
-   "wishlist_rank": 90
-  },
-  {
-   "appid": 4369620,
-   "name": "Last Harbor",
-   "release_text": "출시 예정",
-   "release_at": null,
-   "release_precision": "unknown",
-   "price": null,
-   "korean_support": "none",
-   "genres": [
-    "액션",
-    "어드벤처",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369620/5fb12ed0a738c952cac29164efa28aa23c5f3744/header.jpg?t=1785935435",
-   "platforms": [
-    "windows"
-   ],
-   "short_description": "선상 좀비 아포칼립스. 좀비가 창궐한 지금, 당신은 워싱턴주의 아름다운 샌환 제도를 표류하는 배에 홀로 고립되어 있습니다. 산 자와 죽은 자가 모두 위협이 되는 이 오픈 월드 군도에서 어떻게 살아남을 수 있을까요?",
-   "developers": [
-    "tinyBuild"
-   ],
-   "steam_url": "https://store.steampowered.com/app/4369620/",
    "popular_rank": null,
    "wishlist_rank": 91
   },
@@ -3073,33 +3070,6 @@
    "wishlist_rank": 96
   },
   {
-   "appid": 2800370,
-   "name": "30 Days on Ship",
-   "release_text": "출시 예정",
-   "release_at": null,
-   "release_precision": "unknown",
-   "price": null,
-   "korean_support": "sub",
-   "genres": [
-    "액션",
-    "어드벤처",
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800370/header.jpg?t=1786365141",
-   "platforms": [
-    "windows"
-   ],
-   "short_description": "난파된 컨테이너 선박의 조난자 역할이 되어보세요. 30일 동안 생존하며 폭풍과 싸우고, 동물을 사냥하고, 피난처를 짓고, 정신 건강을 유지하며 태평양 한가운데에서 극심한 고립을 견뎌내세요. 살아남을 수 있겠습니까?",
-   "developers": [
-    "Madnetic Games"
-   ],
-   "steam_url": "https://store.steampowered.com/app/2800370/",
-   "popular_rank": null,
-   "wishlist_rank": 97
-  },
-  {
    "appid": 2855590,
    "name": "Knight's Path",
    "release_text": "발표 예정",
@@ -3123,6 +3093,33 @@
     "Aamn Chahrour"
    ],
    "steam_url": "https://store.steampowered.com/app/2855590/",
+   "popular_rank": null,
+   "wishlist_rank": 97
+  },
+  {
+   "appid": 2800370,
+   "name": "30 Days on Ship",
+   "release_text": "출시 예정",
+   "release_at": null,
+   "release_precision": "unknown",
+   "price": null,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "어드벤처",
+    "캐주얼",
+    "인디",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800370/header.jpg?t=1786365141",
+   "platforms": [
+    "windows"
+   ],
+   "short_description": "난파된 컨테이너 선박의 조난자 역할이 되어보세요. 30일 동안 생존하며 폭풍과 싸우고, 동물을 사냥하고, 피난처를 짓고, 정신 건강을 유지하며 태평양 한가운데에서 극심한 고립을 견뎌내세요. 살아남을 수 있겠습니까?",
+   "developers": [
+    "Madnetic Games"
+   ],
+   "steam_url": "https://store.steampowered.com/app/2800370/",
    "popular_rank": null,
    "wishlist_rank": 98
   },
@@ -3167,40 +3164,16 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 14982,
-   "positive_all": 10153,
+   "reviews_all": 15004,
+   "positive_all": 10165,
    "review_desc": "Mixed",
    "steam_url": "https://store.steampowered.com/app/4435490/"
-  },
-  {
-   "appid": 4530370,
-   "name": "Football Manager 27",
-   "release_at": "2026-11-10",
-   "sales_rank": 2,
-   "price": 69800,
-   "regular_price": 69800,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "시뮬레이션",
-    "스포츠",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1795582514",
-   "platforms": [
-    "windows",
-    "mac"
-   ],
-   "reviews_all": 4873,
-   "positive_all": 4067,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4530370/"
   },
   {
    "appid": 4732690,
    "name": "명일방주: 엔드필드",
    "release_at": "2026-10-14",
-   "sales_rank": 3,
+   "sales_rank": 2,
    "price": 0,
    "regular_price": null,
    "discount_pct": 0,
@@ -3215,10 +3188,34 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 5227,
-   "positive_all": 4683,
+   "reviews_all": 5526,
+   "positive_all": 4973,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/4732690/"
+  },
+  {
+   "appid": 4530370,
+   "name": "Football Manager 27",
+   "release_at": "2026-11-10",
+   "sales_rank": 3,
+   "price": 69800,
+   "regular_price": 69800,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "시뮬레이션",
+    "스포츠",
+    "전략"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1795582514",
+   "platforms": [
+    "windows",
+    "mac"
+   ],
+   "reviews_all": 5042,
+   "positive_all": 4220,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/4530370/"
   },
   {
    "appid": 5099290,
@@ -3237,61 +3234,16 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 48,
-   "positive_all": 46,
-   "review_desc": "Positive",
-   "steam_url": "https://store.steampowered.com/app/5099290/"
-  },
-  {
-   "appid": 4115450,
-   "name": "Phantom Blade Zero",
-   "release_at": "2026-10-28",
-   "sales_rank": 5,
-   "price": 69800,
-   "regular_price": 69800,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "액션",
-    "RPG"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1793261976",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 226035,
-   "positive_all": 216255,
-   "review_desc": "Overwhelmingly Positive",
-   "steam_url": "https://store.steampowered.com/app/4115450/"
-  },
-  {
-   "appid": 4459590,
-   "name": "슬롯바운드 - Slotbound",
-   "release_at": "2026-11-12",
-   "sales_rank": 6,
-   "price": 10800,
-   "regular_price": 12000,
-   "discount_pct": 10,
-   "korean_support": "sub",
-   "genres": [
-    "인디",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1795095339",
-   "platforms": [
-    "windows",
-    "mac"
-   ],
-   "reviews_all": 2451,
-   "positive_all": 1995,
+   "reviews_all": 51,
+   "positive_all": 49,
    "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4459590/"
+   "steam_url": "https://store.steampowered.com/app/5099290/"
   },
   {
    "appid": 5527800,
    "name": "No Asteroids",
    "release_at": "2026-11-24",
-   "sales_rank": 7,
+   "sales_rank": 5,
    "price": 7160,
    "regular_price": 8950,
    "discount_pct": 20,
@@ -3306,16 +3258,84 @@
     "windows",
     "mac"
    ],
-   "reviews_all": 201,
-   "positive_all": 183,
+   "reviews_all": 339,
+   "positive_all": 313,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/5527800/"
+  },
+  {
+   "appid": 4459590,
+   "name": "슬롯바운드 - Slotbound",
+   "release_at": "2026-11-12",
+   "sales_rank": 6,
+   "price": 10800,
+   "regular_price": 12000,
+   "discount_pct": 10,
+   "korean_support": "sub",
+   "genres": [
+    "인디",
+    "전략"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1795587406",
+   "platforms": [
+    "windows",
+    "mac"
+   ],
+   "reviews_all": 2597,
+   "positive_all": 2130,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/4459590/"
+  },
+  {
+   "appid": 5472080,
+   "name": "SHRED A BILLION",
+   "release_at": "2026-11-24",
+   "sales_rank": 7,
+   "price": 6240,
+   "regular_price": 7800,
+   "discount_pct": 20,
+   "korean_support": "sub",
+   "genres": [
+    "캐주얼",
+    "인디",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/4584864fda356b4d391b69cc2c0ea73bc286db3d/header.jpg?t=1795542942",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 606,
+   "positive_all": 588,
+   "review_desc": "Overwhelmingly Positive",
+   "steam_url": "https://store.steampowered.com/app/5472080/"
+  },
+  {
+   "appid": 4115450,
+   "name": "Phantom Blade Zero",
+   "release_at": "2026-10-28",
+   "sales_rank": 8,
+   "price": 69800,
+   "regular_price": 69800,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "RPG"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1793261976",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 231532,
+   "positive_all": 221725,
+   "review_desc": "Overwhelmingly Positive",
+   "steam_url": "https://store.steampowered.com/app/4115450/"
   },
   {
    "appid": 5458210,
    "name": "How They Built the Pyramids",
    "release_at": "2026-11-13",
-   "sales_rank": 8,
+   "sales_rank": 9,
    "price": 6700,
    "regular_price": 6700,
    "discount_pct": 0,
@@ -3329,16 +3349,392 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 1020,
-   "positive_all": 982,
+   "reviews_all": 1102,
+   "positive_all": 1059,
    "review_desc": "Overwhelmingly Positive",
    "steam_url": "https://store.steampowered.com/app/5458210/"
+  },
+  {
+   "appid": 5266240,
+   "name": "Potato Please",
+   "release_at": "2026-11-03",
+   "sales_rank": 10,
+   "price": 11000,
+   "regular_price": 11000,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "캐주얼",
+    "인디",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1794904443",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 4192,
+   "positive_all": 3821,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/5266240/"
+  },
+  {
+   "appid": 5228920,
+   "name": "Brick by Brick: Tidy Up the Small Town!",
+   "release_at": "2026-10-15",
+   "sales_rank": 11,
+   "price": 8700,
+   "regular_price": 8700,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "캐주얼",
+    "인디",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg?t=1795553145",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 1669,
+   "positive_all": 1498,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/5228920/"
+  },
+  {
+   "appid": 1203620,
+   "name": "Enshrouded",
+   "release_at": "2026-10-15",
+   "sales_rank": 12,
+   "price": 42900,
+   "regular_price": 42900,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "어드벤처",
+    "인디",
+    "RPG"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/731368301f231d622bd0b1e34afd2afcd86a1dcf/header.jpg?t=1792078032",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 118816,
+   "positive_all": 102607,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/1203620/"
+  },
+  {
+   "appid": 5057800,
+   "name": "When Chests Rain Tons of Loot",
+   "release_at": "2026-11-25",
+   "sales_rank": 13,
+   "price": 7020,
+   "regular_price": 7800,
+   "discount_pct": 10,
+   "korean_support": "sub",
+   "genres": [
+    "캐주얼",
+    "인디",
+    "전략"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057800/b5d39447154225bb636567d630130f43ab161c7c/header.jpg?t=1795607928",
+   "platforms": [
+    "windows",
+    "mac",
+    "linux"
+   ],
+   "reviews_all": 35,
+   "positive_all": 27,
+   "review_desc": "Mostly Positive",
+   "steam_url": "https://store.steampowered.com/app/5057800/"
+  },
+  {
+   "appid": 5335510,
+   "name": "Moon Sweepers",
+   "release_at": "2026-10-23",
+   "sales_rank": 14,
+   "price": 9650,
+   "regular_price": 9650,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "캐주얼",
+    "인디",
+    "시뮬레이션",
+    "전략"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1795596232",
+   "platforms": [
+    "windows",
+    "mac"
+   ],
+   "reviews_all": 15894,
+   "positive_all": 13107,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/5335510/"
+  },
+  {
+   "appid": 4348910,
+   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+   "release_at": "2026-10-28",
+   "sales_rank": 15,
+   "price": 19900,
+   "regular_price": 19900,
+   "discount_pct": 0,
+   "korean_support": "none",
+   "genres": [
+    "인디",
+    "RPG",
+    "시뮬레이션",
+    "전략"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/837d8597c8e8f6c8f75c4b35fc435d780803a922/header.jpg?t=1795024727",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 46789,
+   "positive_all": 40508,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/4348910/"
+  },
+  {
+   "appid": 2638080,
+   "name": "Annihilated",
+   "release_at": "2026-11-09",
+   "sales_rank": 16,
+   "price": 18000,
+   "regular_price": 18000,
+   "discount_pct": 0,
+   "korean_support": "none",
+   "genres": [
+    "인디",
+    "RPG"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg?t=1794308502",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 2485,
+   "positive_all": 2380,
+   "review_desc": "Overwhelmingly Positive",
+   "steam_url": "https://store.steampowered.com/app/2638080/"
+  },
+  {
+   "appid": 5066010,
+   "name": "히어 컴즈 더 호드",
+   "release_at": "2026-11-16",
+   "sales_rank": 17,
+   "price": 4900,
+   "regular_price": 7000,
+   "discount_pct": 30,
+   "korean_support": "sub",
+   "genres": [
+    "캐주얼",
+    "인디",
+    "RPG"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1795351117",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 1861,
+   "positive_all": 1571,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/5066010/"
+  },
+  {
+   "appid": 3375990,
+   "name": "PC방 시뮬레이터",
+   "release_at": "2026-10-27",
+   "sales_rank": 18,
+   "price": 16000,
+   "regular_price": 16000,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "캐주얼",
+    "인디",
+    "시뮬레이션",
+    "전략",
+    "앞서 해보기"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375990/74aa9eda815c238bddf621a4c9959db69a29f9b5/header_koreana.jpg?t=1794880104",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 323,
+   "positive_all": 302,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/3375990/"
+  },
+  {
+   "appid": 4507410,
+   "name": "야근하다가 미녀와 갇혀버렸습니다.",
+   "release_at": "2026-11-23",
+   "sales_rank": 19,
+   "price": 17640,
+   "regular_price": 19600,
+   "discount_pct": 10,
+   "korean_support": "voice_sub",
+   "genres": [
+    "RPG",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507410/2205c3702900317687844377300672449e0a7ca0/header_koreana.jpg?t=1795471218",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 22,
+   "positive_all": 20,
+   "review_desc": "Positive",
+   "steam_url": "https://store.steampowered.com/app/4507410/"
+  },
+  {
+   "appid": 5455960,
+   "name": "Round and Round Inc.",
+   "release_at": "2026-11-12",
+   "sales_rank": 20,
+   "price": 5600,
+   "regular_price": 5600,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "캐주얼",
+    "인디",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455960/ac6c111b70e15b1ed457cd3094f0132d01f29775/header.jpg?t=1795622209",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 110,
+   "positive_all": 81,
+   "review_desc": "Mostly Positive",
+   "steam_url": "https://store.steampowered.com/app/5455960/"
+  },
+  {
+   "appid": 3024130,
+   "name": "동물 마을 레스토랑 이야기",
+   "release_at": "2026-10-26",
+   "sales_rank": 21,
+   "price": 17000,
+   "regular_price": 17000,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "어드벤처",
+    "인디",
+    "시뮬레이션",
+    "앞서 해보기"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/5146debe36dba08b8360af206434e698a45f5610/header_koreana.jpg?t=1795433810",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 1264,
+   "positive_all": 1162,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/3024130/"
+  },
+  {
+   "appid": 5200620,
+   "name": "Dungeonbound",
+   "release_at": "2026-11-16",
+   "sales_rank": 22,
+   "price": 12150,
+   "regular_price": 13500,
+   "discount_pct": 10,
+   "korean_support": "sub",
+   "genres": [
+    "어드벤처",
+    "인디",
+    "RPG",
+    "전략"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1795501914",
+   "platforms": [
+    "windows",
+    "mac"
+   ],
+   "reviews_all": 1222,
+   "positive_all": 947,
+   "review_desc": "Mostly Positive",
+   "steam_url": "https://store.steampowered.com/app/5200620/"
+  },
+  {
+   "appid": 3259780,
+   "name": "FINAL FANTASY RESONANCE",
+   "release_at": "2026-10-22",
+   "sales_rank": 23,
+   "price": 62800,
+   "regular_price": 62800,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "RPG"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg?t=1793984485",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 10210,
+   "positive_all": 9798,
+   "review_desc": "Overwhelmingly Positive",
+   "steam_url": "https://store.steampowered.com/app/3259780/"
+  },
+  {
+   "appid": 2292800,
+   "name": "Blacksmith Master 블랙스미스 마스터",
+   "release_at": "2026-11-19",
+   "sales_rank": 24,
+   "price": 9950,
+   "regular_price": 19900,
+   "discount_pct": 50,
+   "korean_support": "sub",
+   "genres": [
+    "시뮬레이션",
+    "전략"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292800/1f67cb1ef678345a1a6acf3391f1617062ef4a13/header_koreana.jpg?t=1795529467",
+   "platforms": [
+    "windows",
+    "mac",
+    "linux"
+   ],
+   "reviews_all": 3106,
+   "positive_all": 2569,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/2292800/"
+  },
+  {
+   "appid": 3432860,
+   "name": "사이코 슬루스",
+   "release_at": "2026-11-04",
+   "sales_rank": 25,
+   "price": 23800,
+   "regular_price": 23800,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "어드벤처",
+    "인디"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3432860/b86b3a2adb5ad121484fd3af736f65caead07abd/header_koreana.jpg?t=1795262873",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 3028,
+   "positive_all": 2810,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/3432860/"
   },
   {
    "appid": 5179280,
    "name": "여신 키우기: 방치형 RPG",
    "release_at": "2026-11-05",
-   "sales_rank": 9,
+   "sales_rank": 26,
    "price": 0,
    "regular_price": null,
    "discount_pct": 0,
@@ -3360,221 +3756,10 @@
    "steam_url": "https://store.steampowered.com/app/5179280/"
   },
   {
-   "appid": 5266240,
-   "name": "Potato Please",
-   "release_at": "2026-11-03",
-   "sales_rank": 10,
-   "price": 11000,
-   "regular_price": 11000,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1794904443",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 4057,
-   "positive_all": 3690,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/5266240/"
-  },
-  {
-   "appid": 5335510,
-   "name": "Moon Sweepers",
-   "release_at": "2026-10-23",
-   "sales_rank": 11,
-   "price": 9650,
-   "regular_price": 9650,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "액션",
-    "캐주얼",
-    "인디",
-    "시뮬레이션",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1794836955",
-   "platforms": [
-    "windows",
-    "mac"
-   ],
-   "reviews_all": 15351,
-   "positive_all": 12588,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/5335510/"
-  },
-  {
-   "appid": 5472080,
-   "name": "SHRED A BILLION",
-   "release_at": "2026-11-24",
-   "sales_rank": 12,
-   "price": 6240,
-   "regular_price": 7800,
-   "discount_pct": 20,
-   "korean_support": "sub",
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/4584864fda356b4d391b69cc2c0ea73bc286db3d/header.jpg?t=1795542942",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 370,
-   "positive_all": 360,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/5472080/"
-  },
-  {
-   "appid": 5228920,
-   "name": "Brick by Brick: Tidy Up the Small Town!",
-   "release_at": "2026-10-15",
-   "sales_rank": 13,
-   "price": 8700,
-   "regular_price": 8700,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg?t=1795553145",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 1618,
-   "positive_all": 1448,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/5228920/"
-  },
-  {
-   "appid": 5066010,
-   "name": "히어 컴즈 더 호드",
-   "release_at": "2026-11-16",
-   "sales_rank": 14,
-   "price": 4900,
-   "regular_price": 7000,
-   "discount_pct": 30,
-   "korean_support": "sub",
-   "genres": [
-    "캐주얼",
-    "인디",
-    "RPG"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066010/660ba25cbec114093ff8245eeafc64e779518a05/header.jpg?t=1795351117",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 1787,
-   "positive_all": 1506,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/5066010/"
-  },
-  {
-   "appid": 4348910,
-   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-   "release_at": "2026-10-28",
-   "sales_rank": 15,
-   "price": 19900,
-   "regular_price": 19900,
-   "discount_pct": 0,
-   "korean_support": "none",
-   "genres": [
-    "인디",
-    "RPG",
-    "시뮬레이션",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/837d8597c8e8f6c8f75c4b35fc435d780803a922/header.jpg?t=1795024727",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 44360,
-   "positive_all": 38047,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4348910/"
-  },
-  {
-   "appid": 1203620,
-   "name": "Enshrouded",
-   "release_at": "2026-10-15",
-   "sales_rank": 16,
-   "price": 42900,
-   "regular_price": 42900,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "액션",
-    "어드벤처",
-    "인디",
-    "RPG"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/731368301f231d622bd0b1e34afd2afcd86a1dcf/header.jpg?t=1792078032",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 118209,
-   "positive_all": 102010,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/1203620/"
-  },
-  {
-   "appid": 4507410,
-   "name": "야근하다가 미녀와 갇혀버렸습니다.",
-   "release_at": "2026-11-23",
-   "sales_rank": 17,
-   "price": 17640,
-   "regular_price": 19600,
-   "discount_pct": 10,
-   "korean_support": "voice_sub",
-   "genres": [
-    "RPG",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507410/2205c3702900317687844377300672449e0a7ca0/header_koreana.jpg?t=1795471218",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 14,
-   "positive_all": 13,
-   "review_desc": "Positive",
-   "steam_url": "https://store.steampowered.com/app/4507410/"
-  },
-  {
-   "appid": 5455960,
-   "name": "Round and Round Inc.",
-   "release_at": "2026-11-12",
-   "sales_rank": 18,
-   "price": 5600,
-   "regular_price": 5600,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455960/ac6c111b70e15b1ed457cd3094f0132d01f29775/header.jpg?t=1794654377",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 101,
-   "positive_all": 75,
-   "review_desc": "Mostly Positive",
-   "steam_url": "https://store.steampowered.com/app/5455960/"
-  },
-  {
    "appid": 5367010,
    "name": "예비군",
    "release_at": "2026-11-06",
-   "sales_rank": 19,
+   "sales_rank": 27,
    "price": 15000,
    "regular_price": 15000,
    "discount_pct": 0,
@@ -3589,266 +3774,79 @@
    "platforms": [
     "windows"
    ],
-   "reviews_all": 103,
-   "positive_all": 94,
+   "reviews_all": 105,
+   "positive_all": 95,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/5367010/"
   },
   {
-   "appid": 3259780,
-   "name": "FINAL FANTASY RESONANCE",
-   "release_at": "2026-10-22",
-   "sales_rank": 20,
-   "price": 62800,
-   "regular_price": 62800,
-   "discount_pct": 0,
+   "appid": 4933500,
+   "name": "Me and You",
+   "release_at": "2026-11-25",
+   "sales_rank": 28,
+   "price": 9350,
+   "regular_price": 11000,
+   "discount_pct": 15,
    "korean_support": "sub",
    "genres": [
-    "RPG"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg?t=1793984485",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 9998,
-   "positive_all": 9587,
-   "review_desc": "Overwhelmingly Positive",
-   "steam_url": "https://store.steampowered.com/app/3259780/"
-  },
-  {
-   "appid": 1211600,
-   "name": "ZED ZONE",
-   "release_at": "2026-11-05",
-   "sales_rank": 21,
-   "price": 13500,
-   "regular_price": 13500,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "액션",
-    "인디",
-    "RPG",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/9f1a9bbc7ecdb8e8d1442933aecac950dc4d47a3/header.jpg?t=1794995112",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 5426,
-   "positive_all": 4488,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/1211600/"
-  },
-  {
-   "appid": 3375990,
-   "name": "PC방 시뮬레이터",
-   "release_at": "2026-10-27",
-   "sales_rank": 22,
-   "price": 16000,
-   "regular_price": 16000,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
+    "어드벤처",
     "캐주얼",
-    "인디",
-    "시뮬레이션",
-    "전략",
-    "앞서 해보기"
+    "인디"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375990/74aa9eda815c238bddf621a4c9959db69a29f9b5/header_koreana.jpg?t=1794880104",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933500/31fbf2a60a4bacd4061e64c06ff3cd6b108a4ba8/header.jpg?t=1795615744",
    "platforms": [
-    "windows"
+    "windows",
+    "mac"
    ],
-   "reviews_all": 312,
-   "positive_all": 291,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/3375990/"
+   "reviews_all": 4,
+   "positive_all": 4,
+   "review_desc": "4 user reviews",
+   "steam_url": "https://store.steampowered.com/app/4933500/"
   },
   {
-   "appid": 5200620,
-   "name": "Dungeonbound",
-   "release_at": "2026-11-16",
-   "sales_rank": 23,
-   "price": 12150,
-   "regular_price": 13500,
+   "appid": 2781660,
+   "name": "군단 전선",
+   "release_at": "2026-11-17",
+   "sales_rank": 29,
+   "price": 18450,
+   "regular_price": 20500,
    "discount_pct": 10,
    "korean_support": "sub",
    "genres": [
-    "어드벤처",
-    "인디",
-    "RPG",
     "전략"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1795501914",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2781660/afe8e082830d8b2f00f4e31085444ef971090e36/header_koreana.jpg?t=1794991929",
    "platforms": [
-    "windows",
-    "mac"
+    "windows"
    ],
-   "reviews_all": 1144,
-   "positive_all": 892,
+   "reviews_all": 329,
+   "positive_all": 243,
    "review_desc": "Mostly Positive",
-   "steam_url": "https://store.steampowered.com/app/5200620/"
+   "steam_url": "https://store.steampowered.com/app/2781660/"
   },
   {
-   "appid": 4618570,
-   "name": "부스터 팩 히어로즈",
-   "release_at": "2026-11-10",
-   "sales_rank": 24,
-   "price": 11000,
-   "regular_price": 11000,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "캐주얼",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/26fae2b0ee975af158c080595bda8c0b654e6020/header_koreana.jpg?t=1795508349",
-   "platforms": [
-    "windows",
-    "mac"
-   ],
-   "reviews_all": 3603,
-   "positive_all": 3403,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4618570/"
-  },
-  {
-   "appid": 3739580,
-   "name": "KORRIDOR",
-   "release_at": "2026-11-18",
-   "sales_rank": 25,
-   "price": 5370,
-   "regular_price": 8950,
-   "discount_pct": 40,
-   "korean_support": "sub",
-   "genres": [
-    "액션",
-    "인디"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739580/6d6fea5275ce8f5455c72b50aa44581147329ec5/header.jpg?t=1795444427",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 468,
-   "positive_all": 400,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/3739580/"
-  },
-  {
-   "appid": 3219030,
-   "name": "플래닛 주 2",
-   "release_at": "2026-10-13",
-   "sales_rank": 26,
-   "price": 51500,
-   "regular_price": 51500,
-   "discount_pct": 0,
-   "korean_support": "voice_sub",
-   "genres": [
-    "시뮬레이션",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/09222bdf6acfa52881f379fadaa7efcd84921db5/header_koreana.jpg?t=1793011606",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 8952,
-   "positive_all": 5902,
-   "review_desc": "Mixed",
-   "steam_url": "https://store.steampowered.com/app/3219030/"
-  },
-  {
-   "appid": 2638080,
-   "name": "Annihilated",
-   "release_at": "2026-11-09",
-   "sales_rank": 27,
-   "price": 18000,
-   "regular_price": 18000,
-   "discount_pct": 0,
-   "korean_support": "none",
-   "genres": [
-    "인디",
-    "RPG"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg?t=1794308502",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 2420,
-   "positive_all": 2316,
-   "review_desc": "Overwhelmingly Positive",
-   "steam_url": "https://store.steampowered.com/app/2638080/"
-  },
-  {
-   "appid": 3432860,
-   "name": "사이코 슬루스",
-   "release_at": "2026-11-04",
-   "sales_rank": 28,
-   "price": 23800,
-   "regular_price": 23800,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "어드벤처",
-    "인디"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3432860/b86b3a2adb5ad121484fd3af736f65caead07abd/header_koreana.jpg?t=1795262873",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 2936,
-   "positive_all": 2721,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/3432860/"
-  },
-  {
-   "appid": 1799840,
-   "name": "Queen's Domain",
-   "release_at": "2026-10-30",
-   "sales_rank": 29,
-   "price": 22500,
-   "regular_price": 22500,
-   "discount_pct": 0,
-   "korean_support": "none",
-   "genres": [
-    "액션",
-    "어드벤처",
-    "인디",
-    "RPG"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1795428375",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 11776,
-   "positive_all": 11380,
-   "review_desc": "Overwhelmingly Positive",
-   "steam_url": "https://store.steampowered.com/app/1799840/"
-  },
-  {
-   "appid": 4262460,
-   "name": "ROB RUN",
-   "release_at": "2026-11-04",
+   "appid": 5037200,
+   "name": "just volleyball",
+   "release_at": "2026-11-16",
    "sales_rank": 30,
-   "price": 0,
-   "regular_price": null,
+   "price": 8950,
+   "regular_price": 8950,
    "discount_pct": 0,
    "korean_support": "none",
    "genres": [
     "액션",
-    "대규모 멀티플레이어",
-    "RPG",
-    "시뮬레이션",
-    "무료 플레이",
-    "앞서 해보기"
+    "캐주얼",
+    "인디",
+    "스포츠"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1793811654",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
    "platforms": [
     "windows"
    ],
-   "reviews_all": 109493,
-   "positive_all": 54165,
-   "review_desc": "Mixed",
-   "steam_url": "https://store.steampowered.com/app/4262460/"
+   "reviews_all": 6134,
+   "positive_all": 6061,
+   "review_desc": "Overwhelmingly Positive",
+   "steam_url": "https://store.steampowered.com/app/5037200/"
   },
   {
    "appid": 4206910,
@@ -3876,10 +3874,128 @@
    "steam_url": "https://store.steampowered.com/app/4206910/"
   },
   {
+   "appid": 3218230,
+   "name": "아키에이지 크로니클",
+   "release_at": "2026-11-03",
+   "sales_rank": 32,
+   "price": 36000,
+   "regular_price": 36000,
+   "discount_pct": 0,
+   "korean_support": "voice_sub",
+   "genres": [
+    "액션",
+    "어드벤처",
+    "대규모 멀티플레이어",
+    "RPG",
+    "앞서 해보기"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/header.jpg?t=1795588110",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 6866,
+   "positive_all": 4420,
+   "review_desc": "Mixed",
+   "steam_url": "https://store.steampowered.com/app/3218230/"
+  },
+  {
+   "appid": 4607420,
+   "name": "楽園追放 -The Stellar Angel-",
+   "release_at": "2026-11-25",
+   "sales_rank": 33,
+   "price": 36900,
+   "regular_price": 41000,
+   "discount_pct": 10,
+   "korean_support": "none",
+   "genres": [
+    "어드벤처"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607420/e90e233f05ae7e66102180d5eed58e76dee5052a/header.jpg?t=1795618813",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 2,
+   "positive_all": 2,
+   "review_desc": "2 user reviews",
+   "steam_url": "https://store.steampowered.com/app/4607420/"
+  },
+  {
+   "appid": 3739580,
+   "name": "KORRIDOR",
+   "release_at": "2026-11-18",
+   "sales_rank": 34,
+   "price": 5370,
+   "regular_price": 8950,
+   "discount_pct": 40,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "인디"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739580/6d6fea5275ce8f5455c72b50aa44581147329ec5/header.jpg?t=1795444427",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 508,
+   "positive_all": 435,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/3739580/"
+  },
+  {
+   "appid": 4262460,
+   "name": "ROB RUN",
+   "release_at": "2026-11-04",
+   "sales_rank": 35,
+   "price": 0,
+   "regular_price": null,
+   "discount_pct": 0,
+   "korean_support": "none",
+   "genres": [
+    "액션",
+    "대규모 멀티플레이어",
+    "RPG",
+    "시뮬레이션",
+    "무료 플레이",
+    "앞서 해보기"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1795595062",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 114230,
+   "positive_all": 56579,
+   "review_desc": "Mixed",
+   "steam_url": "https://store.steampowered.com/app/4262460/"
+  },
+  {
+   "appid": 1211600,
+   "name": "ZED ZONE",
+   "release_at": "2026-11-05",
+   "sales_rank": 36,
+   "price": 13500,
+   "regular_price": 13500,
+   "discount_pct": 0,
+   "korean_support": "sub",
+   "genres": [
+    "액션",
+    "인디",
+    "RPG",
+    "시뮬레이션"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/9f1a9bbc7ecdb8e8d1442933aecac950dc4d47a3/header.jpg?t=1794995112",
+   "platforms": [
+    "windows"
+   ],
+   "reviews_all": 5493,
+   "positive_all": 4549,
+   "review_desc": "Very Positive",
+   "steam_url": "https://store.steampowered.com/app/1211600/"
+  },
+  {
    "appid": 4312190,
    "name": "CRACK",
    "release_at": "2026-10-26",
-   "sales_rank": 32,
+   "sales_rank": 37,
    "price": 7990,
    "regular_price": 7990,
    "discount_pct": 0,
@@ -3894,206 +4010,83 @@
     "mac",
     "linux"
    ],
-   "reviews_all": 4155,
-   "positive_all": 3890,
+   "reviews_all": 4239,
+   "positive_all": 3973,
    "review_desc": "Very Positive",
    "steam_url": "https://store.steampowered.com/app/4312190/"
   },
   {
-   "appid": 4954910,
-   "name": "Scam With Your Friends",
-   "release_at": "2026-10-15",
-   "sales_rank": 33,
-   "price": 10500,
-   "regular_price": 10500,
-   "discount_pct": 0,
-   "korean_support": "voice_sub",
-   "genres": [
-    "액션",
-    "캐주얼",
-    "인디",
-    "시뮬레이션",
-    "앞서 해보기"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1795124575",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 6513,
-   "positive_all": 5123,
-   "review_desc": "Mostly Positive",
-   "steam_url": "https://store.steampowered.com/app/4954910/"
-  },
-  {
-   "appid": 3218230,
-   "name": "아키에이지 크로니클",
-   "release_at": "2026-11-03",
-   "sales_rank": 34,
-   "price": 36000,
-   "regular_price": 36000,
-   "discount_pct": 0,
-   "korean_support": "voice_sub",
-   "genres": [
-    "액션",
-    "어드벤처",
-    "대규모 멀티플레이어",
-    "RPG",
-    "앞서 해보기"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/header.jpg?t=1795187528",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 6817,
-   "positive_all": 4392,
-   "review_desc": "Mixed",
-   "steam_url": "https://store.steampowered.com/app/3218230/"
-  },
-  {
-   "appid": 4559930,
-   "name": "Oboro no Ichi",
-   "release_at": "2026-11-09",
-   "sales_rank": 35,
-   "price": 14500,
-   "regular_price": 14500,
-   "discount_pct": 0,
-   "korean_support": "voice_sub",
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션",
-    "앞서 해보기"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559930/f0fbf6e5b3c0cca4d8df11cddac36eed839afcd5/header.jpg?t=1795526318",
-   "platforms": [
-    "windows",
-    "mac"
-   ],
-   "reviews_all": 293,
-   "positive_all": 286,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4559930/"
-  },
-  {
-   "appid": 4715160,
-   "name": "Finals Week ✍🏻",
-   "release_at": "2026-10-29",
-   "sales_rank": 36,
-   "price": 8950,
-   "regular_price": 8950,
-   "discount_pct": 0,
-   "korean_support": "sub",
-   "genres": [
-    "액션",
-    "어드벤처",
-    "인디",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/48822603a66cebb6299d01b0b4ee551f7cc8763f/header_alt_assets_0.jpg?t=1794601230",
-   "platforms": [
-    "windows"
-   ],
-   "reviews_all": 665,
-   "positive_all": 536,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/4715160/"
-  },
-  {
-   "appid": 5037200,
-   "name": "just volleyball",
-   "release_at": "2026-11-16",
-   "sales_rank": 37,
-   "price": 8950,
-   "regular_price": 8950,
+   "appid": 1799840,
+   "name": "Queen's Domain",
+   "release_at": "2026-10-30",
+   "sales_rank": 38,
+   "price": 22500,
+   "regular_price": 22500,
    "discount_pct": 0,
    "korean_support": "none",
    "genres": [
     "액션",
-    "캐주얼",
+    "어드벤처",
     "인디",
-    "스포츠"
+    "RPG"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1795428375",
    "platforms": [
     "windows"
    ],
-   "reviews_all": 5759,
-   "positive_all": 5691,
+   "reviews_all": 12155,
+   "positive_all": 11749,
    "review_desc": "Overwhelmingly Positive",
-   "steam_url": "https://store.steampowered.com/app/5037200/"
+   "steam_url": "https://store.steampowered.com/app/1799840/"
   },
   {
-   "appid": 2292800,
-   "name": "Blacksmith Master 블랙스미스 마스터",
-   "release_at": "2026-11-19",
-   "sales_rank": 38,
+   "appid": 3218350,
+   "name": "Melvor Idle 2: A RuneScape Adventure",
+   "release_at": "2026-11-17",
+   "sales_rank": 39,
+   "price": 17000,
+   "regular_price": 17000,
+   "discount_pct": 0,
+   "korean_support": "none",
+   "genres": [
+    "캐주얼",
+    "인디",
+    "RPG",
+    "앞서 해보기"
+   ],
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439",
+   "platforms": [
+    "windows",
+    "mac",
+    "linux"
+   ],
+   "reviews_all": 2140,
+   "positive_all": 2047,
+   "review_desc": "Overwhelmingly Positive",
+   "steam_url": "https://store.steampowered.com/app/3218350/"
+  },
+  {
+   "appid": 2784470,
+   "name": "9 Kings 나인 킹즈",
+   "release_at": "2026-11-12",
+   "sales_rank": 40,
    "price": 9950,
    "regular_price": 19900,
    "discount_pct": 50,
    "korean_support": "sub",
    "genres": [
-    "시뮬레이션",
+    "RPG",
     "전략"
    ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292800/1f67cb1ef678345a1a6acf3391f1617062ef4a13/header_koreana.jpg?t=1795529467",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/432782f54e92648a38696ace5fde4924814cfc2e/header_koreana.jpg?t=1795529164",
    "platforms": [
     "windows",
-    "mac",
-    "linux"
+    "mac"
    ],
-   "reviews_all": 3082,
-   "positive_all": 2546,
+   "reviews_all": 26195,
+   "positive_all": 24247,
    "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/2292800/"
-  },
-  {
-   "appid": 5340870,
-   "name": "Underbloom",
-   "release_at": "2026-11-17",
-   "sales_rank": 39,
-   "price": 1980,
-   "regular_price": 3300,
-   "discount_pct": 40,
-   "korean_support": "sub",
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5340870/fa63a0fdbf38c83c6482fc148073c806df6507e6/header.jpg?t=1794940251",
-   "platforms": [
-    "windows",
-    "linux"
-   ],
-   "reviews_all": 98,
-   "positive_all": 83,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/5340870/"
-  },
-  {
-   "appid": 5196330,
-   "name": "IT THINKS! - Build Your Own GPU",
-   "release_at": "2026-11-19",
-   "sales_rank": 40,
-   "price": 13600,
-   "regular_price": 17000,
-   "discount_pct": 20,
-   "korean_support": "sub",
-   "genres": [
-    "인디",
-    "시뮬레이션",
-    "전략"
-   ],
-   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196330/792d0e1bcce8bc8a03f6419bfaf00f388ff83b08/header.jpg?t=1795166083",
-   "platforms": [
-    "windows",
-    "mac",
-    "linux"
-   ],
-   "reviews_all": 90,
-   "positive_all": 73,
-   "review_desc": "Very Positive",
-   "steam_url": "https://store.steampowered.com/app/5196330/"
+   "steam_url": "https://store.steampowered.com/app/2784470/"
   }
  ]
 }
