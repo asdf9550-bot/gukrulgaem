@@ -1,20 +1,10 @@
 {
- "updated_at": "2026-11-26T05:44:08+00:00",
+ "updated_at": "2026-11-26T17:45:02+00:00",
  "items": [
   {
    "source": "epic",
-   "title": "Mark of the Deep",
-   "status": "now",
-   "start": "2026-11-19T16:00:00.000Z",
-   "end": "2026-11-26T16:00:00.000Z",
-   "url": "https://store.epicgames.com/ko/p/mark-of-the-deep-f7dc08",
-   "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png?resize=1&w=480&quality=medium",
-   "regular_price_krw": 33500
-  },
-  {
-   "source": "epic",
    "title": "파이어스톤  - 방치 클릭커 온라인 RPG",
-   "status": "upcoming",
+   "status": "now",
    "start": "2026-11-26T16:00:00.000Z",
    "end": "2026-12-03T16:00:00.000Z",
    "url": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
@@ -24,12 +14,22 @@
   {
    "source": "epic",
    "title": "Bread and Fred",
-   "status": "upcoming",
+   "status": "now",
    "start": "2026-11-26T16:00:00.000Z",
    "end": "2026-12-03T16:00:00.000Z",
    "url": "https://store.epicgames.com/ko/p/bread-and-fred-1db362",
    "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg?resize=1&w=480&quality=medium",
    "regular_price_krw": 15300
+  },
+  {
+   "source": "epic",
+   "title": "Strange Antiquities",
+   "status": "upcoming",
+   "start": "2026-12-03T16:00:00.000Z",
+   "end": "2026-12-10T16:00:00.000Z",
+   "url": "https://store.epicgames.com/ko/p/strange-antiquities-e37660",
+   "image": "https://cdn1.epicgames.com/spt-assets/d0e3b7c3690c485ca7a435d298262ab2/strange-antiquities-1kl5s.png?resize=1&w=480&quality=medium",
+   "regular_price_krw": 18400
   }
  ]
 }
