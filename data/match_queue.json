@@ -1,5 +1,24 @@
 [
  {
+  "id": "directg:2139b954-cece-48b7-9356-803c130833a4",
+  "store_id": "directg",
+  "product_id": "2139b954-cece-48b7-9356-803c130833a4",
+  "product_url": "https://directg.net/game/game_view.html?product_id=2139b954-cece-48b7-9356-803c130833a4",
+  "title_raw": "드래곤소드 : 어웨이크닝",
+  "edition": "standard",
+  "price": 26800,
+  "candidates": [
+   {
+    "appid": 1172710,
+    "name": "듄 ：어웨이크닝",
+    "score": 0.62
+   }
+  ],
+  "status": "pending",
+  "appid": null,
+  "decided_at": null
+ },
+ {
   "id": "directg:820de3ba-9775-4b19-a538-0a0878abe54e",
   "store_id": "directg",
   "product_id": "820de3ba-9775-4b19-a538-0a0878abe54e",
@@ -17,25 +36,6 @@
     "appid": 2688950,
     "name": "플래닛 코스터 2",
     "score": 0.67
-   }
-  ],
-  "status": "pending",
-  "appid": null,
-  "decided_at": null
- },
- {
-  "id": "directg:6a9cfb6d-f755-478b-ab21-22186bd499d7",
-  "store_id": "directg",
-  "product_id": "6a9cfb6d-f755-478b-ab21-22186bd499d7",
-  "product_url": "https://directg.net/game/game_view.html?product_id=6a9cfb6d-f755-478b-ab21-22186bd499d7",
-  "title_raw": "얼티메이트 피싱 시뮬레이터 2",
-  "edition": "standard",
-  "price": 19800,
-  "candidates": [
-   {
-    "appid": 3232690,
-    "name": "메이드 카페 시뮬레이터",
-    "score": 0.61
    }
   ],
   "status": "pending",

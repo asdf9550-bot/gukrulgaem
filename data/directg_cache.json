@@ -1,5 +1,5 @@
 {
- "fetched_date": "2026-11-26",
+ "fetched_date": "2026-11-27",
  "products": {
   "275d0530-d0ca-4bba-a145-f3eb4241e193": {
    "product_id": "275d0530-d0ca-4bba-a145-f3eb4241e193",
@@ -71,7 +71,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-11-26T05:42:50+00:00"
+   "fetched_at": "2026-11-27T05:42:49+00:00"
   },
   "3c1f2958-7690-4ddd-b973-bf72cc663f00": {
    "product_id": "3c1f2958-7690-4ddd-b973-bf72cc663f00",
@@ -115,7 +115,7 @@
      "price": 67000,
      "regular": 69800,
      "cut": 4,
-     "sku": "0cfa09d2-2891-46b5-9909-542fea0033e2"
+     "sku": null
     }
    ],
    "editions": [
@@ -135,7 +135,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:14+00:00"
+   "fetched_at": "2026-11-27T05:43:19+00:00"
   },
   "18552a8c-7114-4d87-865d-32e178c0f8ff": {
    "product_id": "18552a8c-7114-4d87-865d-32e178c0f8ff",
@@ -199,7 +199,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:35+00:00"
+   "fetched_at": "2026-11-27T05:43:40+00:00"
   },
   "c12a16f8-ce46-4c75-954a-28a5a6f59fcc": {
    "product_id": "c12a16f8-ce46-4c75-954a-28a5a6f59fcc",
@@ -247,7 +247,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:08+00:00"
+   "fetched_at": "2026-11-27T05:43:13+00:00"
   },
   "f20b8f08-9ac8-403f-a101-1f4244391d80": {
    "product_id": "f20b8f08-9ac8-403f-a101-1f4244391d80",
@@ -328,25 +328,25 @@
    "base": [
     {
      "name": "시드 마이어의 문명 7",
-     "price": 77000,
+     "price": 37800,
      "regular": 83000,
-     "cut": 7,
+     "cut": 54,
      "sku": "82fa3cf6-dccd-4681-b3d7-460c3da13f53"
     }
    ],
    "editions": [
     {
      "name": "시드 마이어의 문명 7 디럭스 에디션",
-     "price": 110000,
+     "price": 53800,
      "regular": 118900,
-     "cut": 7,
+     "cut": 55,
      "sku": "11873300-11fa-4b3f-8e08-123da5ddb757"
     },
     {
      "name": "시드 마이어의 문명 7 개척자 에디션",
-     "price": 132000,
+     "price": 64800,
      "regular": 142900,
-     "cut": 8,
+     "cut": 55,
      "sku": "a753d872-cfdd-4486-bc09-daf69cf52dfb"
     }
    ],
@@ -358,7 +358,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:11+00:00"
+   "fetched_at": "2026-11-27T05:43:16+00:00"
   },
   "ce9081e7-2821-4e98-8639-64698a109b82": {
    "product_id": "ce9081e7-2821-4e98-8639-64698a109b82",
@@ -390,7 +390,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:19+00:00"
+   "fetched_at": "2026-11-27T05:43:22+00:00"
   },
   "30116fa7-1dc5-406c-8ce1-5767c60264a2": {
    "product_id": "30116fa7-1dc5-406c-8ce1-5767c60264a2",
@@ -414,7 +414,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:20+00:00"
+   "fetched_at": "2026-11-27T05:43:25+00:00"
   },
   "cd3500c1-2db8-4915-972b-9be4b92c28ec": {
    "product_id": "cd3500c1-2db8-4915-972b-9be4b92c28ec",
@@ -438,7 +438,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:24+00:00"
+   "fetched_at": "2026-11-27T05:43:28+00:00"
   },
   "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200": {
    "product_id": "c2e8a7c2-2c6d-4f6a-9ce8-4ac4b97f8200",
@@ -470,7 +470,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:26+00:00"
+   "fetched_at": "2026-11-27T05:43:31+00:00"
   },
   "2139b954-cece-48b7-9356-803c130833a4": {
    "product_id": "2139b954-cece-48b7-9356-803c130833a4",
@@ -479,18 +479,18 @@
    "base": [
     {
      "name": "드래곤소드 : 어웨이크닝",
-     "price": 33000,
+     "price": 26800,
      "regular": 33000,
-     "cut": 0,
+     "cut": 19,
      "sku": "0b5cd97f-e3be-44b7-a370-0826a40ecb87"
     }
    ],
    "editions": [
     {
      "name": "드래곤소드 : 어웨이크닝 - 디럭스 에디션",
-     "price": 49500,
+     "price": 39800,
      "regular": 49500,
-     "cut": 0,
+     "cut": 20,
      "sku": "81965567-1f1a-41aa-9d31-76775c3394e2"
     }
    ],
@@ -502,7 +502,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:29+00:00"
+   "fetched_at": "2026-11-27T05:43:34+00:00"
   },
   "a647bff7-44e6-49fe-86ed-8f59d936ee4e": {
    "product_id": "a647bff7-44e6-49fe-86ed-8f59d936ee4e",
@@ -534,7 +534,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:33+00:00"
+   "fetched_at": "2026-11-27T05:43:37+00:00"
   },
   "9f033b20-41af-437f-a672-14e8061f4efb": {
    "product_id": "9f033b20-41af-437f-a672-14e8061f4efb",
@@ -566,7 +566,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:38+00:00"
+   "fetched_at": "2026-11-27T05:43:43+00:00"
   },
   "a95163c3-2aab-4b69-923a-ad8fb27afb67": {
    "product_id": "a95163c3-2aab-4b69-923a-ad8fb27afb67",
@@ -781,7 +781,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:44:05+00:00"
+   "fetched_at": "2026-11-27T05:44:10+00:00"
   },
   "f72e96bd-1691-46b4-bef4-c70172c6635d": {
    "product_id": "f72e96bd-1691-46b4-bef4-c70172c6635d",
@@ -820,7 +820,7 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:44:08+00:00"
+   "fetched_at": "2026-11-27T05:44:16+00:00"
   },
   "2458af03-e862-4c13-86d1-b7539a5e1b33": {
    "product_id": "2458af03-e862-4c13-86d1-b7539a5e1b33",
@@ -1842,7 +1842,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-11-26T05:42:59+00:00"
+   "fetched_at": "2026-11-27T05:43:04+00:00"
   },
   "b5f3961f-f978-454f-a118-06c6c93be6d9": {
    "product_id": "b5f3961f-f978-454f-a118-06c6c93be6d9",
@@ -1858,7 +1858,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-11-26T05:43:02+00:00"
+   "fetched_at": "2026-11-27T05:43:07+00:00"
   },
   "b6a5d2ec-024c-49ad-8538-a01a488b79ec": {
    "product_id": "b6a5d2ec-024c-49ad-8538-a01a488b79ec",
@@ -1961,7 +1961,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-11-26T05:43:47+00:00"
+   "fetched_at": "2026-11-27T05:42:46+00:00"
   },
   "2162155b-fe11-4dfc-9b86-3cedc6d28983": {
    "product_id": "2162155b-fe11-4dfc-9b86-3cedc6d28983",
@@ -2063,7 +2063,7 @@
     "exclusive": false
    },
    "platform": "other",
-   "fetched_at": "2026-11-26T05:43:41+00:00"
+   "fetched_at": "2026-11-27T05:43:49+00:00"
   },
   "6d5d33fb-33fc-485d-a027-defb15800e64": {
    "product_id": "6d5d33fb-33fc-485d-a027-defb15800e64",
@@ -2072,9 +2072,9 @@
    "base": [
     {
      "name": "커넥티드 클루",
-     "price": 19800,
+     "price": 12800,
      "regular": 21500,
-     "cut": 8,
+     "cut": 40,
      "sku": "11d99355-57a2-4a42-be28-37924bb176f0"
     }
    ],
@@ -2087,12 +2087,164 @@
     "exclusive": false
    },
    "platform": "steam",
-   "fetched_at": "2026-11-26T05:43:44+00:00"
+   "fetched_at": "2026-11-27T05:43:52+00:00"
+  },
+  "9bde41bf-0dd7-4615-9037-a137928634f0": {
+   "product_id": "9bde41bf-0dd7-4615-9037-a137928634f0",
+   "url": "https://directg.net/game/game_view.html?product_id=9bde41bf-0dd7-4615-9037-a137928634f0",
+   "title": "트로피코 7",
+   "base": [
+    {
+     "name": "트로피코 7",
+     "price": 53200,
+     "regular": 64900,
+     "cut": 18,
+     "sku": "a2273710-dee7-4bde-9639-3ce5dcf3ee4c"
+    }
+   ],
+   "editions": [
+    {
+     "name": "트로피코 7 - 디럭스 에디션",
+     "price": 64800,
+     "regular": 79000,
+     "cut": 18,
+     "sku": "4a84d2d2-6203-4ab0-a44f-d63447c3f76c"
+    }
+   ],
+   "appid_hint": 5106870,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-11-27T05:44:13+00:00"
+  },
+  "733ec60a-476c-4d3f-9d49-169eef720915": {
+   "product_id": "733ec60a-476c-4d3f-9d49-169eef720915",
+   "url": "https://directg.net/game/game_view.html?product_id=733ec60a-476c-4d3f-9d49-169eef720915",
+   "title": "글리피카: 타이핑 서바이벌",
+   "base": [
+    {
+     "name": "글리피카: 타이핑 서바이벌",
+     "price": 6600,
+     "regular": 11000,
+     "cut": 40,
+     "sku": "5184a71a-e49f-4697-a360-cfa098ff62d9"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 2400160,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-11-27T05:43:55+00:00"
+  },
+  "34127863-0f2c-4253-8086-e7c42b31591e": {
+   "product_id": "34127863-0f2c-4253-8086-e7c42b31591e",
+   "url": "https://directg.net/game/game_view.html?product_id=34127863-0f2c-4253-8086-e7c42b31591e",
+   "title": "SOS: 슈드 아이 스테이 오어 슈드 아이 히트",
+   "base": [
+    {
+     "name": "SOS: 슈드 아이 스테이 오어 슈드 아이 히트",
+     "price": 4500,
+     "regular": 5600,
+     "cut": 20,
+     "sku": "eb381fa3-f7ec-4c6e-8923-c340ce2559f8"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 5136620,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-11-27T05:43:59+00:00"
+  },
+  "62306b17-1c4b-4958-8515-359cdec01fda": {
+   "product_id": "62306b17-1c4b-4958-8515-359cdec01fda",
+   "url": "https://directg.net/game/game_view.html?product_id=62306b17-1c4b-4958-8515-359cdec01fda",
+   "title": "판타지퀘스트: 에란드사가",
+   "base": [
+    {
+     "name": "판타지퀘스트: 에란드사가",
+     "price": 2800,
+     "regular": 11000,
+     "cut": 75,
+     "sku": "32038403-85b2-49f1-9f51-ead78f5ff705"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 2879050,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": false,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-11-27T05:44:01+00:00"
+  },
+  "55834d9a-5c04-404a-b74f-da33b40065b6": {
+   "product_id": "55834d9a-5c04-404a-b74f-da33b40065b6",
+   "url": "https://directg.net/game/game_view.html?product_id=55834d9a-5c04-404a-b74f-da33b40065b6",
+   "title": "벚나무의 정령을 아이돌로 만드는 법",
+   "base": [
+    {
+     "name": "벚나무의 정령을 아이돌로 만드는 법",
+     "price": 2800,
+     "regular": 11000,
+     "cut": 75,
+     "sku": "dbac6a86-8f80-40ee-8947-69709c4fa8ee"
+    }
+   ],
+   "editions": [],
+   "appid_hint": null,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": true,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-11-27T05:44:04+00:00"
+  },
+  "d30a7a37-70ef-4a4d-8149-10ebe6b8feca": {
+   "product_id": "d30a7a37-70ef-4a4d-8149-10ebe6b8feca",
+   "url": "https://directg.net/game/game_view.html?product_id=d30a7a37-70ef-4a4d-8149-10ebe6b8feca",
+   "title": "술도, 사랑도 어려운 아가씨",
+   "base": [
+    {
+     "name": "술도, 사랑도 어려운 아가씨",
+     "price": 7200,
+     "regular": 11000,
+     "cut": 35,
+     "sku": "d2c44fc4-4746-4241-932c-a954f1534801"
+    }
+   ],
+   "editions": [],
+   "appid_hint": 3247130,
+   "region_lock": "unknown",
+   "korean": {
+    "subtitle": true,
+    "voice": true,
+    "exclusive": false
+   },
+   "platform": "steam",
+   "fetched_at": "2026-11-27T05:44:07+00:00"
   }
  },
  "last_run": {
-  "at": "2026-11-26T05:44:08+00:00",
-  "ok": 28,
+  "at": "2026-11-27T05:44:16+00:00",
+  "ok": 33,
   "fail": 0,
   "limit": null
  }
