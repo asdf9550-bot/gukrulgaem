@@ -41,5 +41,24 @@
   "status": "pending",
   "appid": null,
   "decided_at": null
+ },
+ {
+  "id": "directg:6a9cfb6d-f755-478b-ab21-22186bd499d7",
+  "store_id": "directg",
+  "product_id": "6a9cfb6d-f755-478b-ab21-22186bd499d7",
+  "product_url": "https://directg.net/game/game_view.html?product_id=6a9cfb6d-f755-478b-ab21-22186bd499d7",
+  "title_raw": "얼티메이트 피싱 시뮬레이터 2",
+  "edition": "standard",
+  "price": 19800,
+  "candidates": [
+   {
+    "appid": 3232690,
+    "name": "메이드 카페 시뮬레이터",
+    "score": 0.61
+   }
+  ],
+  "status": "pending",
+  "appid": null,
+  "decided_at": null
  }
 ]
